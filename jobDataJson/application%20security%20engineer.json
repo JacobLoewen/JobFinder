@@ -1,0 +1,490 @@
+{
+    "jobs": [
+        {
+            "jobType": "application_security_engineer",
+            "title": "Senior Application Security Engineer",
+            "company": "Ouster",
+            "description": "At Ouster, we build sensors and tools for engineers, roboticists, and researchers, so they can make the world safer and more efficient. We've transformed LIDAR from an analog device with thousands of components to an elegant digital device powered by one chip-scale laser array and one CMOS sensor. The result is a full range of high-resolution LIDAR sensors that deliver superior imaging at a dramatically lower price. Our advanced sensor hardware and vision algorithms are used in autonomous cars, drones and many other applications. If you\u2019re motivated by solving big problems, we\u2019re hiring key roles across the company and need your help!\n\nAs a Senior Application Security Engineer, you will play a critical role in safeguarding Ouster\u2019s digital assets. You will be responsible for identifying, assessing, and mitigating security vulnerabilities within our applications and cloud infrastructures. Our applications focus on computer vision and machine learning, and are based on microservices. Your expertise will be instrumental in ensuring the confidentiality, integrity, and availability of our systems.\n\nResponsibilities:\n\u2022 Security Assessment/Testing: Conduct thorough security assessments, penetration tests, and vulnerability scans of web applications, APIs, microservices, computer vision systems, and machine learning models using industry-standard tools and techniques.\n\u2022 Vulnerability Management: Identify, prioritize, and manage/track remediation of security vulnerabilities in collaboration with DevOps and dev teams.\n\u2022 CI/CD pipeline: Develop, update and maintain security assessment tools within CICD pipelines.\n\u2022 Threat Modeling: Perform threat modeling to identify potential security risks in application architectures and develop mitigation strategies in collaboration with DevOps and dev teams.\n\u2022 Security Awareness: Educate development teams about security best practices\n\u2022 Incident Response: Participate in incident response activities, including investigation, containment, and remediation of security incidents\n\u2022 Software Security Program Management: Use OWASP SAMM to define, measure, and drive Ouster\u2019s software security maturity.\n\nQualifications:\n\u2022 Bachelor's degree in Computer Science, Information Security, or a related field\n\u2022 At a minimum 5 years of experience as an Application Security Engineer\n\u2022 At least 3 years of relevant experience in software engineering or devops\n\u2022 Mastery of Jenkins or other CI/CD system\n\u2022 Mastery of Linux and Docker\n\u2022 Experience with system administration and networking\n\u2022 Strong understanding of application security principles and best practices\n\u2022 Experience with cloud infrastructure security (e.g., AWS, GCP)\n\u2022 Experience with CI/CD Pipelines (e.g. Jenkins)\n\u2022 Experience with SAST tools and vulnerability scanners\n\u2022 Excellent problem-solving and analytical skills\n\u2022 Strong communication and interpersonal skills\n\u2022 AppSec certificates preferred\nWe acknowledge the confidence gap at Ouster. You do not need to meet all of these\nrequirements to be the ideal candidate for this role.\n\nOuster is an Equal Employment Opportunity employer that pursues and hires a diverse workforce. Ouster does not make employment decisions on the basis of race, color, religion, ethnic or national origin, nationality, sex, gender, gender-identity, sexual orientation, disability, age, military status, or any other basis protected by local, state, or federal laws. Ouster also strives for a healthy and safe workplace, and prohibits harassment of any kind. Pursuant to the San Francisco Fair Chance Ordinance, Ouster considers qualified applicants with arrest and conviction records for employment. If you have a disability or special need that requires accommodation, please let us know.",
+            "location": "Ottawa, ON, Canada",
+            "employmentType": "",
+            "datePosted": "",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/senior-application-security-engineer-at-ouster-4034571744?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Ouster - JazzHR",
+                    "url": "https://ouster.applytojob.com/apply/1PfHic3L54/Senior-Application-Security-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Glassdoor",
+                    "url": "https://www.glassdoor.ca/job-listing/senior-application-security-engineer-ouster-JV_IC2286068_KO0,36_KE37,43.htm?jl=1009462716774&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "SimplyHired",
+                    "url": "https://www.simplyhired.ca/job/aUuqULp7Ccenvkk3w6Ig9fWwF-PCc3Ef-PrzFtlYPxvX-jn8gzuXpQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "BeBee Canada Meet Opportunities",
+                    "url": "https://ca.bebee.com/job/65b78a1d24c6f0080b36f87485a67bfe?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Appjobs",
+                    "url": "https://www.appjobs.com/more-jobs/ottawa-on/ouster/24/senior-application-security-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Talent.com",
+                    "url": "https://ca.talent.com/view?id=0736f83932d4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Learn4Good",
+                    "url": "https://www.learn4good.com/jobs/ottawa/canada/info_technology/3611889144/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Docker"
+                },
+                {
+                    "name": "Jenkins"
+                },
+                {
+                    "name": "AWS"
+                }
+            ]
+        },
+        {
+            "jobType": "application_security_engineer",
+            "title": "Application Security Engineer, ETSE",
+            "company": "Amazon",
+            "description": "Description\n\nHelp us protect not only the Amazon Web Services (AWS) cloud computing environment but all of our customers as well! Since 2006, our great team at AWS has been enabling our customers to bring great ideas to life in ways that aren\u2019t possible in traditional IT environments. With AWS you can flexibly harness compute, storage, security, and other services from across the globe as your business demands them. AWS Security is on the cutting edge of many security issues for a wide variety of platforms and technologies including cloud services, Internet of things (IoT), identity and access management, mobile devices, virtualization and custom hardware, all operating at massive scale.\n\nAWS Security is looking for an Application Security Engineer to help validate that our services, applications, and websites are designed and implemented to the highest security standards. You will be responsible for analyzing the security of applications and services, discovering and addressing security issues, building security automation, and quickly reacting to new threat scenarios. You will have the opportunity to learn from, and be mentored by, those who are building and securing our cutting-edge services.\n\nA Security Engineer at Amazon is expected to be strong in multiple domains and provide significant contributions to the AWS IT Security team and to multiple groups throughout Amazon. Security engineers are expected to develop elegant solutions to complex business problems and apply appropriate technologies while following security engineering best practices. You are also expected to mentor more junior engineers and be a security thought leader for the organization.\n\nA Security Engineer must foster constructive dialogue and seek resolution when confronted with discordant views. Engineers in this role are expected to participate fully in the planning of the AWS IT Security team\u2019s work and constantly seek opportunities for process improvement. They should also have a deep understanding of at least one specialty for which they are a sought out resource (both within AWS IT Security and by groups throughout Amazon), while having an understanding of the application of Information Security in a broad range of technical areas.\n\nA successful candidate will need a combination of troubleshooting, technical, and communication skills, as well as the ability to handle a mix of disparate tasks which may include project and software development work.\n\nKey job responsibilities\n\u2022 Application security reviews\n\u2022 Mobile security reviews\n\u2022 Secure architecture design\n\u2022 Threat modeling\n\u2022 Projects and research work as needed\n\u2022 Security training and outreach to internal development teams\n\u2022 Security guidance documentation\n\u2022 Security tool development\n\u2022 Security metrics delivery and improvements\n\u2022 Assistance with recruiting activities and administrative work\n\nA day in the life\n\nAs a security engineer, you will perform various day-to-day activities related to ensuring the security of Amazon's systems. These tasks may include conducting application security reviews to identify vulnerabilities in software applications that could be exploited by attackers, performing penetration testing to assess the effectiveness of existing security controls and identify potential weaknesses, providing training and outreach to internal development teams to improve their understanding of security best practices, developing security guidance documentation to help others understand how to implement secure systems and applications, developing security tools to automate or streamline security processes, delivering security metrics to stakeholders and working on improving the overall security posture of your organization. Additionally, you may also be involved in recruiting activities and administrative work related to these tasks.\n\nAbout The Team\n\nAbout Amazon Security\n\nDiverse Experiences\n\nAmazon Security values diverse experiences. Even if you do not meet all of the qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn\u2019t followed a traditional path, or includes alternative experiences, don\u2019t let it stop you from applying.\n\nWhy Amazon Security?\n\nAt Amazon, security is central to maintaining customer trust and delivering delightful customer experiences. Our organization is responsible for creating and maintaining a high bar for security across all of Amazon\u2019s products and services. We offer talented security professionals the chance to accelerate their careers with opportunities to build experience in a wide variety of areas including cloud, devices, retail, entertainment, healthcare, operations, and physical stores\n\nInclusive Team Culture\n\nIn Amazon Security, it\u2019s in our nature to learn and be curious. Ongoing DEI events and learning experiences inspire us to continue learning and to embrace our uniqueness. Addressing the toughest security challenges requires that we seek out and celebrate a diversity of ideas, perspectives, and voices.\n\nTraining & Career Growth\n\nWe\u2019re continuously raising our performance bar as we strive to become Earth\u2019s Best Employer. That\u2019s why you\u2019ll find endless knowledge-sharing, training, and other career-advancing resources here to help you develop into a better-rounded professional.\n\nWork/Life Balance\n\nWe value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why flexible work hours and arrangements are part of our culture. When we feel supported in the workplace and at home, there\u2019s nothing we can\u2019t achieve.\n\nBasic Qualifications\n\u2022 3+ years of programming in Python, Ruby, Go, Swift, Java, .Net, C++ or similar object oriented language experience\n\u2022 Bachelor's degree in computer science or equivalent\n\u2022 Knowledge of networking protocols such as HTTP, DNS and TCP/IP\n\nPreferred Qualifications\n\u2022 2+ years of any combination of the following: threat modeling experience, secure coding, identity management and authentication, software development, cryptography, system administration and network security experience\n\u2022 Experience with AWS products and services\n\u2022 Experience with programming languages such as Python, Java, C++\n\nAmazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, disability, age, or other legally protected status. If you would like to request an accommodation, please notify your Recruiter.\n\nThe base salary for this position ranges from $137,800/year up to $230,100/year. Salary is based on a number of factors and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. Applicants should apply via our internal or external career site.\n\nCompany - Amazon Development Centre Canada ULC\n\nJob ID: A2773915",
+            "location": "Vancouver, BC, Canada",
+            "employmentType": "",
+            "datePosted": "22 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/application-security-engineer-etse-at-amazon-4025973820?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Taro",
+                    "url": "https://www.jointaro.com/jobs/amazon/application-security-engineer-etse/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Appjobs",
+                    "url": "https://www.appjobs.com/fr/more-jobs/vancouver-bc/amazon/24/application-security-engineer-etse?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Jobs For People With MS: National MS Society",
+                    "url": "https://nationalmssociety.dejobs.org/vancouver-bc/application-security-engineer-etse/F11163CD965148BFB7CC54790693E0CF/job/?utm_source=.JOBS+Sitemap+Feed-DE&utm_medium=.JOBS+Universe&utm_campaign=.JOBS+Sitemap+Feed&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Trabajo.org",
+                    "url": "https://ca.trabajo.org/job-2401-3636324bd699034192d23fca4f943d96?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "ThisJob.ca",
+                    "url": "https://thisjob.ca/job/application-security-engineer-etse/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Python"
+                },
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "C++"
+                },
+                {
+                    "name": "Go"
+                },
+                {
+                    "name": "Ruby"
+                },
+                {
+                    "name": "Swift"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "AWS"
+                },
+                {
+                    "name": "TCP/IP"
+                }
+            ]
+        },
+        {
+            "jobType": "application_security_engineer",
+            "title": "Application Security Engineer",
+            "company": "Agoda",
+            "description": "About Agoda\n\nAgoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with a global network of 4.7M hotels and holiday properties worldwide, plus flights, activities, and more . Based in Asia and part of Booking Holdings, our 7,100+ employees representing 95+ nationalities in 27 markets foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership,\u202fenhancing the ability for our customers to experience the world.\n\nOur Purpose \u2013 Bridging the World Through Travel\n\nWe believe travel allows people to enjoy, learn and experience more of the amazing world we live in. It brings individuals and cultures closer together, fostering empathy, understanding and happiness.\n\nWe are a skillful, driven and diverse team from across the globe, united by a passion to make an impact. Harnessing our innovative technologies and strong partnerships, we aim to make travel easy and rewarding for everyone.\n\nGet to Know our Team:\u202f\n\nThe Security Department oversees security, compliance, GRC, and security operations for all Agoda. We are vigilant in ensuring there is no breach or vulnerability threatening our company or endangering our employees in order to keep Agoda safe and protected. This would be a great challenge for those who want to work with the best technology in a dynamic and advanced environment.\n\nThe Opportunity:\n\nYou will be working in a fast paced DevSecOps environment where code change happens at a rapid speed and where it is paramount to control security testing into a continuous deployment/integration flow.\n\nIn this Role, you\u2019ll get to:\n\u2022 Play a lead role in developing and designing application-level security controls and standards.\n\u2022 Perform application security design reviews against new products and services.\n\u2022 Track and prioritize all security issues.\n\u2022 Build internal security tools that help fix security problems at scale.\n\u2022 Perform code review and drive remediation of discovered issues.\n\u2022 Enable automated security testing at scale to measure vulnerability, and report on risk across all microservice, web and mobile platforms.\n\u2022 Execute security tests on thousands of servers which are spread across on-premise and public cloud data centers.\n\nWhat you\u2019ll Need to Succeed:\n\u2022 Strong foundations in software engineering.\n\u2022 Minimum of 7 years of technical experience with any combination of the following: threat modeling experience, secure coding, identity management and authentication, software development, cryptography, system administration and network security.\n\u2022 Minimum 2 years experience with Software Development Life Cycle in one or more languages (Rust, Python, Go, Nodejs, etc.)\n\u2022 Minimum 1 year experience with public/private cloud environments (Openshift, Rancher, K8s, AWS, GCP, Azure, etc.)\n\u2022 Experience in running assessments using OWASP MASVS and ASVS\n\u2022 Working knowledge on exploiting and fixing application vulnerabilities\n\u2022 Strong background in threat modeling\n\u2022 In-depth knowledge of common web application vulnerabilities (i.e. OWASP Top 10)\n\u2022 Familiarity with automated dynamic scanners, fuzzers, and proxy tools\n\u2022 An analytical mind for problem solving, abstract thought, and offensive security tactics\n\u2022 Highly effective communication skills, in both verbal and written forms, to effectively convey technical and non-technical concepts to a wide variety of audiences\n\u2022 Relocation package is provided in case you prefer to relocate to Bangkok, Thailand. Our benefits are\u2026\n\u2022 Hybrid Working Model\n\u2022 WFH Set Up Allowance\n\u2022 30 Days of Remote Working from anywhere globally every year\n\u2022 Employee discount for accommodation globally\n\u2022 Global team of 90+ nationalities\n\u2022 40+ offices and 25+ countries\n\u2022 Annual CSR / Volunteer Time off\n\u2022 Benevity Subscription for employee donations\n\u2022 Volunteering opportunities globally\n\u2022 Free Headspace subscription\n\u2022 Free Odilo & Udemy subscriptions\n\u2022 Access to Employee Assistance Program (third party for personal and workplace support)\n\u2022 Enhanced Parental Leave\n\u2022 Life, TPD & Accident Insurance\n\n#sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #shanghai #beijing #shenzhen #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #dusseldorf #dortmund #essen #Bremen #leipzig #dresden #hanover #nuremberg #athens #hongkong #budapest #jakarta #bali #dublin #telaviv #jerusalem #milan #rome #venice #florence #naples #turin #palermo #bologna #tokyo #osaka #yokohama #nagoya #okinawa #fukuoka #sapporo #kualalumpur #malta #amsterdam #oslo #manila #warsaw #krakow #bucharest #doha #alrayyan #moscow #saintpetersburg #riyadh #jeddah #mecca #medina #singapore #capetown #johannesburg #seoul #barcelona #madrid #stockholm #zurich #taipei #tainan #taichung #kaohsiung #bangkok #Phuket #istanbul #dubai #abudhabi #sharjah #london #manchester #edinburgh #kiev #hcmc #hanoi #amsterdam #bucharest #lodz #wroclaw #poznan #katowice #rio #salvador #newdelhi #Hyderabad #bangalore #Mumbai #Bengaluru #Chennai #Kolkata #Lucknow #bandung #yokohama #nagoya #okinawa #fukuoka #IT #4\n\nEqual Opportunity Employer\n\nAt Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person\u2019s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.\n\nWe will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .\n\nTo all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes.",
+            "location": "Vancouver, BC, Canada",
+            "employmentType": "",
+            "datePosted": "20 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/application-security-engineer-at-agoda-4061905207?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Talent.com",
+                    "url": "https://ca.talent.com/view?id=81a6640ba530&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Python"
+                },
+                {
+                    "name": "Go"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "Rust"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "AWS"
+                },
+                {
+                    "name": "Azure"
+                }
+            ]
+        },
+        {
+            "jobType": "application_security_engineer",
+            "title": "Application Security Engineer",
+            "company": "Kraken Crypto Exchange",
+            "description": "Building the Future of Crypto\n\nOur Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.\n\nWhat makes us different?\n\nKraken is a mission-focused company rooted in crypto values. As a Krakenite, you'll join us on our mission to accelerate the global adoption of crypto, so that everyone can achieve financial freedom and inclusion. For over a decade, Kraken's focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.\n\nBefore you apply, please read the Kraken Culture page to learn more about our internal culture, values, and mission. We also expect candidates to familiarize themselves with the Kraken app. Learn how to create a Kraken account here.\n\nAs a fully remote company, we have Krakenites in 70+ countries who speak over 50 languages. Krakenites are industry pioneers who develop premium crypto products for experienced traders, institutions, and newcomers to the space. Kraken is committed to industry-leading security, crypto education, and world-class client support through our products like Kraken Pro, Kraken NFT, and Kraken Futures.\n\nBecome a Krakenite and build the future of crypto!\nProof of Work\n\nThe Team\n\nThe goal of the Application Security Engineering department is to protect against vulnerabilities and ensure that every step of the software development lifecycle (SDLC) follows security best practices. This department is responsible for adhering to secure coding principles and aid in testing the applications against security risk/parameters before release. This includes supporting and consulting with product and development teams, assisting them in reproducing, triaging, and addressing application security vulnerabilities and supporting the bug bounty program\n\nThe Opportunity\n\u2022 Design, develop, and implement security solutions, with an emphasis on web3\n\u2022 Conduct vulnerability assessments and penetration testing to identify security risks and vulnerabilities\n\u2022 Develop and maintain secure coding practices for our applications\n\u2022 Work with development teams to integrate security measures into the software development lifecycle\n\u2022 Provide guidance and mentorship to junior members of the security team\n\u2022 Stay up to date with emerging security threats and technologies, and recommend best practices to enhance our security posture\nSkills You Should HODL\n\u2022 At least 5 years of experience in application security\n\u2022 Strong expertise in web3\n\u2022 Experience with web application security, including OWASP Top 10 vulnerabilities\n\u2022 Familiarity with SecDevOps and CI/CD best practices\n\u2022 Knowledge of cloud security, including AWS\n\u2022 Knowledge of container security, including Docker or Kubernetes\n\u2022 Ability to conduct vulnerability assessments and penetration testing\n\u2022 Excellent communication and interpersonal skills\n\u2022 Strong problem-solving skills and attention to detail\n\n#LI-Remote #LI-DA1 #USCANBRUKEU\n\nThis job is accepting ongoing applications and there is no application deadline.\n\nPlease note, applicants are permitted to redact or remove information on their resume that identifies age, date of birth, or dates of attendance at or graduation from an educational institution.\n\nWe consider qualified applicants with criminal histories for employment on our team, assessing candidates in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance.\n\nKraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!\n\nAs an equal opportunity employer, we don't tolerate discrimination or harassment of any kind. Whether that's based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.\n\nStay in the know\n\nFollow us on Twitter\n\nLearn on the Kraken Blog\n\nConnect on LinkedIn",
+            "location": "New Canada, NS, Canada",
+            "employmentType": "",
+            "datePosted": "",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Ladders",
+                    "url": "https://www.theladders.com/job/application-security-engineer-krakencryptoexchange-new-canada-ns_74596473?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Docker"
+                },
+                {
+                    "name": "Kubernetes"
+                },
+                {
+                    "name": "AWS"
+                }
+            ]
+        },
+        {
+            "jobType": "application_security_engineer",
+            "title": "Sr. Lead Application Security Engineer\u202f - Generative AI (Remote)",
+            "company": "S&P Global",
+            "description": "About The Role\n\nGrade Level (for internal use):\n\n13\n\nThe Team\n\nS&P Ratings Security team focuses on protecting our clients and users from all aspects of modern-day security threats. The mission of our team is to safeguard systems and data by developing innovative solutions for the biggest security challenges. We are looking for a Senior security engineer responsible for development and implementation of security architecture and engineering best practices across S&P Ratings technology platforms. This role will provide Security engineering and Security Architecture consultation to build and enhance security in S&P Ratings Applications and Services including GenAI applications.\n\nResponsibilities and Impact\n\nThis is a Director-level individual contributor role that will work across Security, software development, Data science/LLM, QA, and Operations teams to identify component and system level technical risks, identify and evaluate critical failure points, determine technical security controls to mitigate risks, prioritize and schedule controls with application development timelines, and work with cross functional teams to implement remediations.\n\nThis role will drive the Secure SDLC roadmap, GenAI security strategy, and Cloud security architecture, assist with maturing the security engineering program, develop security tooling, mentor others and be hands-on partner to our development teams to deliver innovative and secure applications.\n\nA successful candidate for this position will:\u202f\n\u2022 Develop, implement and maintain Application security and GenAI security strategy\n\u2022 Provide architectural guidance on best practices regarding security in software development, shared services, user interface design frameworks, high performance messaging solutions, server-side development, integrations, tools and technologies\n\u2022 Drive and guide the specification and realization of a security architecture, with decisions driven by balancing security risks faced by the business along with customer or market requirements\n\u2022 Perform threat modeling, secure code reviews, and secure design reviews for high-risk applications, evaluate new technology stacks and frameworks\n\u2022 Perform vulnerability research, serve as technical security/risk advisor for new technology/applications developed by S&P Ratings\n\u2022 Determine testing requirements and develop strategies to automate security testing using a variety of scripting and open source tools\n\u2022 Assist developers in remediating vulnerability findings by providing line-by-line guidance\n\u2022 Coach development teams on security disciplines like Threat modeling, Security code reviews, provide training and education to developers on software security best practices\n\u2022 Maintain knowledge of current and emerging technologies / products / trends related to security architectural solutions\n\u2022 Develop repeatable application security patterns to ensure that systems are placed within the relevant security zones based on the data they house and their purpose\n\u2022 Consult and assist with security incident response process\n\u2022 Consult on efforts to work with internal and external teams to effectively scope and drive Application Penetration tests that help identify and mitigate gaps in security controls\n\u2022 Guide development and SRE teams in building secure Cloud Native applications by incorporating Cloud and Microservices Security best practices and industry standards\n\nCompensation/Benefits Information: (This section is only applicable to US candidates)\n\nS&P Global states that the anticipated base salary range for this position is $130,000 to $230,000. Final base salary for this role will be based on the individual\u2019s geographic location, as well as experience level, skill set, training, licenses and certifications.\n\nIn addition to base compensation, this role is eligible for an annual incentive plan.\n\nThis role is eligible to receive additional S&P Global benefits. For more information on the benefits we provide to our employees, please click here.\n\nBasic Qualifications\n\u2022 Bachelor\u2019s degree in Computer Science, related field or relevant work experience\n\u2022 12 or more years of progressive related experience in Security engineering roles\n\u2022 Demonstrated subject matter expertise in Application Security, Web services security, GenAI/LLM security\n\u2022 Programming expertise \u2013 Java, Python, Agile SDLC processes\n\u2022 Experience with threat modeling, design reviews, risk analysis and control design\n\u2022 Experience architecting and leading security for Cloud native applications\n\u2022 In depth knowledge of network security, authentication and authorization\n\u2022 Advanced understanding of vulnerability exploitation chaining, and vulnerability remediation\n\u2022 Demonstrated expertise in product/application security architecture \u2013 Service oriented architecture (SOA), Network security, application security, web services, Angular, JavaScript\n\u2022 Security audit, Vulnerability assessment and packet analysis skills\n\u2022 TCP/IP stack knowledge, Encryption expertise, TLS, DTLS, ECC, PKI/Certificates\n\u2022 Identity & Access Management: AD/LDAP\n\nPreferred Qualifications\n\u2022 Experience with AI technologies and services (e.g., OpenAI, Bedrock, etc.)\n\u2022 Expertise in the security of Gen AI models, including multi-modal models\n\u2022 Experience with the security of automation built around Gen AI inputs and outputs\n\u2022 Knowledge with AWS cloud architecture and virtualization technologies such as Containers, EKS, Kubernetes, and VMware\n\u2022 Experience in defining and documenting security reference architectures and standards\n\u2022 Experience with automation tools associated with DevOps and CI/CD pipelines, and with security integration into CI/CD\n\u2022 Familiarity with SAST/DAST/SCA tools like Fortify, Whitesource\n\u2022 Database, datalake knowledge \u2013 Postgres, Oracle, Databricks, Snowflake\n\u2022 Familiarity with Secure SDLC frameworks such as NIST SSDF, OpenSAMM, BSIMM\n\u2022 Security Forensic analysis skills\n\nInclude for roles that are bonus plan eligible, including sales commission plans.\n\nAbout S&P Global Ratings\n\nAt S&P Global Ratings, our analyst-driven credit ratings, research, and sustainable finance opinions provide critical insights that are essential to translating complexity into clarity so market participants can uncover opportunities and make decisions with conviction. By bringing transparency to the market through high-quality independent opinions on creditworthiness, we enable growth across a wide variety of organizations, including businesses, governments, and institutions.\n\nS&P Global Ratings is a division of S&P Global (NYSE: SPGI). S&P Global is the world\u2019s foremost provider of credit ratings, benchmarks, analytics and workflow solutions in the global capital, commodity and automotive markets. With every one of our offerings, we help many of the world\u2019s leading organizations navigate the economic landscape so they can plan for tomorrow, today.\n\nFor more information, visit www.spglobal.com/ratings\n\nWhat\u2019s In It For You?\n\nOur Purpose\n\nProgress is not a self-starter. It requires a catalyst to be set in motion. Information, imagination, people, technology\u2013the right combination can unlock possibility and change the world.\n\nOur world is in transition and getting more complex by the day. We push past expected observations and seek out new levels of understanding so that we can help companies, governments and individuals make an impact on tomorrow. At S&P Global we transform data into Essential Intelligence\u00ae, pinpointing risks and opening possibilities. We Accelerate Progress.\n\nOur People\n\nWe're more than 35,000 strong worldwide\u2014so we're able to understand nuances while having a broad perspective. Our team is driven by curiosity and a shared belief that Essential Intelligence can help build a more prosperous future for us all.\n\nFrom finding new ways to measure sustainability to analyzing energy transition across the supply chain to building workflow solutions that make it easy to tap into insight and apply it. We are changing the way people see things and empowering them to make an impact on the world we live in. We\u2019re committed to a more equitable future and to helping our customers find new, sustainable ways of doing business. We\u2019re constantly seeking new solutions that have progress in mind. Join us and help create the critical insights that truly make a difference.\n\nOur Values\n\nIntegrity, Discovery, Partnership\n\nAt S&P Global, we focus on Powering Global Markets. Throughout our history, the world's leading organizations have relied on us for the Essential Intelligence they need to make confident decisions about the road ahead. We start with a foundation of integrity in all we do, bring a spirit of discovery to our work, and collaborate in close partnership with each other and our customers to achieve shared goals.\n\nBenefits\n\nWe take care of you, so you can take care of business. We care about our people. That\u2019s why we provide everything you\u2014and your career\u2014need to thrive at S&P Global.\n\nOur Benefits Include\n\u2022 Health & Wellness: Health care coverage designed for the mind and body.\n\u2022 Flexible Downtime: Generous time off helps keep you energized for your time on.\n\u2022 Continuous Learning: Access a wealth of resources to grow your career and learn valuable new skills.\n\u2022 Invest in Your Future: Secure your financial future through competitive pay, retirement planning, a continuing education program with a company-matched student loan contribution, and financial wellness programs.\n\u2022 Family Friendly Perks: It\u2019s not just about you. S&P Global has perks for your partners and little ones, too, with some best-in class benefits for families.\n\u2022 Beyond the Basics: From retail discounts to referral incentive awards\u2014small perks can make a big difference.\n\nFor more information on benefits by country visit: https://spgbenefits.com/benefit-summaries\n\nDiversity, Equity, And Inclusion At S&P Global\n\nAt S&P Global, we believe diversity fuels creative insights, equity unlocks opportunity, and inclusion drives growth and innovation \u2013 Powering Global Markets. Our commitment centers on our global workforce, ensuring that our people are empowered to bring their whole selves to work. It doesn\u2019t stop there, we strive to better reflect and serve the communities in which we live and work, and advocate for greater opportunity for all.\n\nS&P Global has a Securities Disclosure and Trading Policy (\u201cthe Policy\u201d) that seeks to mitigate conflicts of interest by monitoring and placing restrictions on personal securities holding and trading. The Policy is designed to promote compliance with global regulations. In some Divisions, pursuant to the Policy\u2019s requirements, candidates at S&P Global may be asked to disclose securities holdings. Some roles may include a trading prohibition and remediation of positions when there is an effective or potential conflict of interest. Employment at S&P Global is contingent upon compliance with the Policy.\n\nEqual Opportunity Employer\n\nS&P Global is an equal opportunity employer and all qualified candidates will receive consideration for employment without regard to race/ethnicity, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, marital status, military veteran status, unemployment status, or any other status protected by law. Only electronic job submissions will be considered for employment.\n\nIf you need an accommodation during the application process due to a disability, please send an email to:\u202fEEO.Compliance@spglobal.com\u202fand your request will be forwarded to the appropriate person.\u202f\n\nUS Candidates Only: The EEO is the Law Poster http://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf\u202fdescribes discrimination protections under federal law. Pay Transparency Nondiscrimination Provision - https://www.dol.gov/sites/dolgov/files/ofccp/pdf/pay-transp_%20English_formattedESQA508c.pdf\n\n20 - Professional (EEO-2 Job Categories-United States of America), IFTECH202.2 - Middle Professional Tier II (EEO Job Group), SWP Priority \u2013 Ratings - (Strategic Workforce Planning)\n\nJob ID: 304645\n\nPosted On: 2024-10-10\n\nLocation: Virtual, New York, United States",
+            "location": "Victoria, BC, Canada",
+            "employmentType": "",
+            "datePosted": "7 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/sr-lead-application-security-engineer%E2%80%AF-generative-ai-remote-at-s-p-global-4002598681?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Sercanto",
+                    "url": "https://fr.ca.sercanto.com/detail/a/r-094-sr-lead-application-security-engineer-generative-ai-remote_victoria_54829957?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Python"
+                },
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "JavaScript"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Angular"
+                },
+                {
+                    "name": "Kubernetes"
+                },
+                {
+                    "name": "AWS"
+                },
+                {
+                    "name": "TLS"
+                },
+                {
+                    "name": "TCP/IP"
+                },
+                {
+                    "name": "Network security"
+                }
+            ]
+        },
+        {
+            "jobType": "application_security_engineer",
+            "title": "Senior Application Security Engineer",
+            "company": "Score Media and Gaming Inc.",
+            "description": "theScore, a wholly-owned subsidiary of PENN Entertainment , empowers millions of sports fans through its digital media and sports betting products. Its media app 'theScore' is one of the most popular in North America, delivering fans highly personalized live scores, news, stats, and betting information from their favorite teams, leagues, and players. theScore's sports betting app 'theScore Bet Sportsbook & Casino' delivers an immersive and holistic mobile sports betting and iCasino experience. theScore Bet is currently live in the Company's home province of Ontario. theScore also creates and distributes innovative digital content through its web, social and esports platforms.\n\nAbout the Role & Team\n\nAs part of the theScore team, you will be working with a team of smart, friendly, and dedicated Engineers, Product Managers and Designers determined to deliver some of the best apps the market has to offer. We want you to be challenged and to get the full experience of what it is like to work at theScore! We are looking for a Senior Application Security Engineer to join our Application Security team. Our team takes a hands-on approach to solving complex security problems in conjunction with writing policies and procedures. You will work cross-functionally across the entire engineering organization. You will share your unique expertise with the team and be able to grow and expand that expertise. We have a wide variety of security challenges, and we are looking for someone who is excited to tackle them. Come join us and help us build the best sports apps in the world!\n\nAbout the Work\n\u2022 Collaborate with release and change management, SRE, Engineering, and compliance teams\n\u2022 Work with security/internal/external/state auditors to demonstrate compliance\n\u2022 Maintain a working knowledge of OWASP top 10 and MITRE top 25 CWE\n\u2022 Develop standards for security tooling focused on the application layer (SAST, DAST, SCA, MAST, RASP)\n\u2022 Build/implement secure artifact workflows in the SDLC to ensure governance and compliance standards are being met\n\u2022 Create technical approaches to implementing Application Security control technologies\n\u2022 Contribute to theScore's Application Security program to support our continued growth\n\u2022 Define and report on security metrics, their delivery, and improvements\n\u2022 Work with service teams to conduct threat models of theScore's internal and customer facing applications\n\u2022 Assist service teams in understanding and remediating security findings (code bashing)\n\u2022 Other duties as required.\n\nAbout You\n\u2022 5+ years of Application Security or DevOps experience\n\u2022 5+ years of GCP or AWS experience\n\u2022 Experience with software supply chain security (SBOMs, Artifact Signing, Attestations)\n\u2022 Programming experience in Python or Go\n\u2022 Experience with implementing security tooling in CI/CD\n\u2022 Experience creating complex CI/CD workflows (building for multiple architectures, local caching, making automated source code changes based on workflow output)\n\u2022 Experience supporting RESTful APIs and securing containerized workloads (GKE, EKS)\n\u2022 Experience working in regulated environments (PCI-DSS, SOC 2, etc.)\n\u2022 Experience leading technical projects and seeing them through to completion\n\u2022 Excellent communication skills and a history of working well with other teams\n\u2022 Optional: Experience maintaining Kubernetes clusters, or managing Kubernetes deployments\n\nWhat We Offer\n\u2022 Competitive compensation package.\n\u2022 Fun, relaxed work environment.\n\u2022 Education and conference reimbursements.\n\u2022 Parental leave top\n\u2022 Opportunities for career progression and mentoring others.\n\n#LI-REMOTE\n\nCandidates residing in Ontario requiring special accommodation can email accessibilityoffice@thescore.com\n\ntheScore is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability or age.",
+            "location": "Canada",
+            "employmentType": "",
+            "datePosted": "26 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Glassdoor",
+                    "url": "https://www.glassdoor.ca/job-listing/senior-application-security-engineer-score-media-and-gaming-inc-JV_KO0,36_KE37,63.htm?jl=1009457424903&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "JobLeads",
+                    "url": "https://www.jobleads.com/ca/job/senior-application-security-engineer--old-toronto--ea6c38efee905628ff0ef8bf11f88ae58?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Jobs Trabajo.org",
+                    "url": "https://ca.trabajo.org/job-3026-633233405a9217ee44a3c0ff4430c253?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Sercanto",
+                    "url": "https://ca.sercanto.com/detail/a/senior-application-security-engineer_british-columbia_58500806?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Python"
+                },
+                {
+                    "name": "Go"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Kubernetes"
+                },
+                {
+                    "name": "AWS"
+                }
+            ]
+        },
+        {
+            "jobType": "application_security_engineer",
+            "title": "Sr. Application Security Specialist-Java (GCS)",
+            "company": "Royal Bank of Canada",
+            "description": "Job Summary\n\nJob Description\n\nWhat is the opportunity?\n\nReporting to the Senior Manager of Application Security Transformation - you would provide technical execution in the area of Application Security for the global RBC business and application development teams across all enterprise information technology groups. You will be participating in the development of application security best practices, tools, and processes. You will also help execute various application security projects across all RBC lines of business. This role will also require you to have a solid understanding of DevSecOps, CI/CD pipelines and various application security testing techniques such as SCA, SAST, DAST and IAST.\n\nWhat will you do?\n\u2022 Develop integration capabilities by partnering with the Enterprise DevOps team\n\u2022 Develop automation for tools onboarding and security controls enforcement\n\u2022 Support end users of a DAST tool managing tickets through a ticketing platform\n\u2022 Review Dynamic application security testing reports and validate findings and false positives and assist developers in remediation\n\u2022 Educate key organizational stakeholders (e.g. developers, security consultants, executives) on application security matters across the organization\n\u2022 Assist in the development, evaluation, and implementation of application security controls and processes\n\u2022 Work in a diverse environment leveraging other team members' experience and knowledge\n\u2022 Participate in and lead a range of application security assessment activities\n\u2022 Ensure applications are thoroughly tested for security vulnerabilities using industry best practices before production release\n\u2022 Research and keep up to date on application security emerging threats, techniques, tools and trends\n\u2022 Develop metrics to measure the Security and Risk posture of RBC applications\n\nWhat do you need to succeed?\n\nMust have:\n\u2022 A relevant degree or certificate in Computer Science a comparable field of study, or equivalent practical experience\n\u2022 Knowledge of OWASP, SANS or other security-related frameworks\n\u2022 Exposure to application security best practices such as secure coding, security testing techniques and Secure Software Development Lifecycle\n\u2022 Experience developing and testing apps in any of the programming languages: Python, Java (preferred)\n\u2022 Understanding of CI/CD, DevOps and DevSecOps approaches and experience working with DevOps tools\n\u2022 Knowledge of SCA (Software Composition Analysis), SAST (Static Application Security Testing) & DAST (Dynamic Application Security Testing) tools\n\u2022 Strong written and verbal communication skills\n\u2022 Strong ability to manage client and stakeholder relations\n\u2022 Ability to help and mentor junior members of the team\n\u2022 Solid understanding of OWASP Top 10 Web & API\n\nNice-to-have:\n\u2022 Experience working with SCA, SAST/DAST tools\n\u2022 Understanding of GitHub Actions-based pipeline & GitHub Advanced Security tools\n\u2022 Prior experience in leading Security Controls & Enforcement\n\u2022 Experience working in a tool support role\n\nWhat's in it for you?\n\nWe thrive on the challenge to be our best, progressive thinking to keep growing and working together to deliver trusted advice to help our clients thrive and communities prosper. We care about each other, reaching our potential, making a difference in our communities, and achieving mutual success\n\u2022 A comprehensive Total Rewards Program including bonuses and flexible benefits, competitive compensation, commissions, and stock where applicable\n\u2022 Leaders who support your development through coaching and managing opportunities\n\u2022 Ability to make a difference and lasting impact\n\u2022 Work in a dynamic, collaborative, progressive, and high-performing team\n\u2022 Flexible work/life balance options\n\u2022 Opportunities to do challenging work and take on progressively greater accountabilities\n\n#LI-Hybrid\n\n#LI-POST\n\n#TECHPJ\n\nJob Skills\nApplication Programming Interface (API), Application Security, Applications Programming, Critical Thinking, DevOps, Group Problem Solving, Information Security, Java, Open Web Application Security Project (OWASP), OWASP Top 10, Prioritization, Python (Programming Language), Secure Coding Practices, Software Development\n\nAdditional Job Details\n\nAddress:\n\nVANCOUVER MAIN BRANCH, 1025 GEORGIA ST W:VANCOUVER\n\nCity:\n\nVANCOUVER\n\nCountry:\n\nCanada\n\nWork hours/week:\n\n37.5\n\nEmployment Type:\n\nFull time\n\nPlatform:\n\nTECHNOLOGY AND OPERATIONS\n\nJob Type:\n\nRegular\n\nPay Type:\n\nSalaried\n\nPosted Date:\n\n2024-11-15\n\nApplication Deadline:\n\n2024-12-02\n\nNote: Applications will be accepted until 11:59 PM on the day prior to the application deadline date above\n\nInclusion and Equal Opportunity Employment\n\nAt RBC, we embrace diversity and inclusion for innovation and growth. We are committed to building inclusive teams and an equitable workplace for our employees to bring their true selves to work. We are taking actions to tackle issues of inequity and systemic bias to support our diverse talent, clients and communities.\n\nWe also strive to provide an accessible candidate experience for our prospective employees with different abilities. Please let us know if you need any accommodations during the recruitment process.\n\nJoin our Talent Community\n\nStay in-the-know about great career opportunities at RBC. Sign up and get customized info on our latest jobs, career tips and Recruitment events that matter to you.\n\nExpand your limits and create a new future together at RBC. Find out how we use our passion and drive to enhance the well-being of our clients and communities at jobs.rbc.com.\n\nEmployment Type: FULL_TIME",
+            "location": "Vancouver, BC, Canada",
+            "employmentType": "",
+            "datePosted": "3 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "ZipRecruiter",
+                    "url": "https://www.ziprecruiter.com/c/Royal-Bank-of-Canada/Job/Sr.-Application-Security-Specialist-Java-(GCS)/-in-Vancouver,BC?jid=b43127b4559773c6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Indeed",
+                    "url": "https://ca.indeed.com/viewjob?jk=6bb1742eb03ddfe5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Glassdoor",
+                    "url": "https://fr.glassdoor.ca/job-listing/sr-application-security-specialist-java-gcs-rbc-JV_IC2278756_KO0,43_KE44,47.htm?jl=1009530086791&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/sr-application-security-specialist-java-gcs-at-rbc-4077911342?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Itjobs.ca",
+                    "url": "https://www.itjobs.ca/en/offer/bc/vancouver/sr-application-security-specialist-java-gcs/1962af33-2578-47fc-aaeb-26d08975f62b_en/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Glassdoor",
+                    "url": "https://www.glassdoor.com/job-listing/sr-application-security-specialist-java-gcs-rbc-JV_IC2278756_KO0,43_KE44,47.htm?jl=1009530086791&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Jobs.ca",
+                    "url": "https://www.jobs.ca/offer/sr-application-security-specialist-java-gcs/1962af33-2578-47fc-aaeb-26d08975f62b_en/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "SimplyHired",
+                    "url": "https://fr.simplyhired.ca/job/ELkTJ9JquY3r6t7_cGXxmjk47rkCgdjB6AnLywQChGpZywJJJiH0Vw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Python"
+                },
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Git"
+                },
+                {
+                    "name": "GitHub"
+                },
+                {
+                    "name": "GitHub Actions"
+                },
+                {
+                    "name": "Prioritization"
+                }
+            ]
+        },
+        {
+            "jobType": "application_security_engineer",
+            "title": "Principal Security Engineer - Application Security",
+            "company": "Gusto",
+            "description": "About Gusto\n\nGusto is a modern, online people platform that helps small businesses take care of their teams. On top of full-service payroll, Gusto offers health insurance, 401(k)s, expert HR, and team management tools. Today, Gusto offices in Denver, San Francisco, and New York serve more than 300,000 businesses nationwide.\n\nOur mission is to create a world where work empowers a better life, and it starts right here at Gusto. That\u2019s why we\u2019re committed to building a collaborative and inclusive workplace, both physically and virtually. Learn more about our Total Rewards philosophy.\n\nAbout The Role\n\nThe Security Engineering role works with product and engineering leads to design products and features with the safety and privacy of our customers in mind. Candidates for this role will be joining a team focused on building long-term relationships between the Security team and internal stakeholders across the company, providing guidance on security risks and mitigation, and secure development architecture. More about Security Partners on the Gusto blog.\n\nThe Product Security group helps Gusto move faster, securely. We\u2019re a team of engineers who work to enable other teams to build products as quickly as possible while continuing to protect our customers. We support developers in shipping secure code by building security tools and services, providing security training and expertise, and advocating for best practices in authentication, authorization, and safe data handling across the company.\n\nHere\u2019s What You\u2019ll Do Day-to-day\n\u2022 Work alongside product, engineering, infrastructure, legal, and privacy teams to design safe features to protect our customers.\n\u2022 Review and threat model new systems, products, and features.\n\u2022 Provide detailed security advice and risk assessments, including architectural direction.\n\u2022 Develop guidelines and recommendations for secure coding practices.\n\u2022 Lead and manage secure code training instruction.\n\u2022 Implement and deploy application security tools.\n\u2022 Develop long-term relationships with product development and engineering teams.\n\nHere\u2019s What We're Looking For\n\u2022 12+ years of experience in information security, especially application security, product security, and/or security partnership.\n\u2022 5+ years of hands on software development experience\n\u2022 Ability to work with engineers to balance security risks, customer privacy, and business requirements.\n\u2022 Experience building software. We primarily use Ruby, JavaScript, Python, and Kotlin.\n\nOur cash compensation amount for this role is targeted at $225,000/yr to $245,000/yr in Denver & most remote locations, and $265,000/yr to $285,000/yr in New York & San Francisco Bay Area. Stock equity is additional. Final offer amounts are determined by multiple factors including candidate experience and expertise and may vary from the amounts listed above.\n\nGusto has physical office spaces in Denver, San Francisco, and New York City. Employees who are based in those locations will be expected to work from the office on designated days approximately 2-3 days per week (or more depending on role). The same office expectations apply to all Symmetry roles, Gusto's subsidiary, whose physical office is in Scottsdale.\n\nNote: The San Francisco office expectations encompass both the San Francisco and San Jose metro areas.\n\nWhen approved to work from a location other than a Gusto office, a secure, reliable, and consistent internet connection is required.\n\nOur customers come from all walks of life and so do we. We hire great people from a wide variety of backgrounds, not just because it's the right thing to do, but because it makes our company stronger. If you share our values and our enthusiasm for small businesses, you will find a home at Gusto.\n\nGusto is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristic. Gusto considers qualified applicants with criminal histories, consistent with applicable federal, state and local law. Gusto is also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you require assistance in filling out a Gusto job application, please reach out to candidate-accommodations@gusto.com.\n\nGusto takes security and protection of your personal information very seriously. Please review our Fraudulent Activity Disclaimer.",
+            "location": "Toronto, ON, Canada",
+            "employmentType": "",
+            "datePosted": "20 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/principal-security-engineer-application-security-at-gusto-4061757016?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "EMs Recruitment Fair",
+                    "url": "https://msen.vfairs.com/vfair/en/jb/detail?job_id=600266&is_partial=false&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Sercanto",
+                    "url": "https://fr.ca.sercanto.com/detail/a/principal-security-engineer-application-security_toronto_56593135?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "GrabJobs",
+                    "url": "https://grabjobs.co/canada/job/full-time/others/security-engineer-security-architecture-126422101?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Blind",
+                    "url": "https://www.teamblind.com/jobs/123981884?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Python"
+                },
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "Ruby"
+                },
+                {
+                    "name": "JavaScript"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Kotlin"
+                }
+            ]
+        },
+        {
+            "jobType": "application_security_engineer",
+            "title": "Senior Application Security Engineer, ETSE",
+            "company": "Amazon",
+            "description": "Senior Application Security Engineer at Amazon Web Services (AWS) to protect cloud computing environment and customers through application security, threat modeling, and security automation.",
+            "location": "Vancouver, BC, Canada",
+            "employmentType": "",
+            "datePosted": "",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Taro",
+                    "url": "https://www.jointaro.com/jobs/amazon/senior-application-security-engineer-etse-357fa46c/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "AWS"
+                }
+            ]
+        },
+        {
+            "jobType": "application_security_engineer",
+            "title": "Field Application Engineer",
+            "company": "McAfee",
+            "description": "Role Overview:\nAre you passionate about cybersecurity and protecting consumers when they are online? Do you thrive on collaborating with large partners' engineers and program managers to understand their needs, identify critical patterns, and launch new projects? Do you enjoy solving complex problems across a variety of platforms and environments?\n\nThe Partner Product Engineer is part of McAfee's Partner and Platform Group working closely with large OEM partners, with a mission to provide cyber security protection to consumers. We are seeking an experienced professional to drive the execution of this growth strategy, be part of the transformation, and ensure our OEM Channel Partners can collaborate closely with us to expand the market.\n\nThis is based in Canada as a remote position. We will only consider candidates currently in Canada and are not offering relocation assistance at this time.\nJob Description:\n\nAbout the Role:\n\nThis position requires a proactive attitude and a partner-focused growth mindset, being passionate about technology with a strong interest in consumer cybersecurity, privacy & data protection, and innovation driven by OEM partners.\n\u2022 Partner Collaboration: Build and maintain strong relationships with Tier 1 OEM partners, addressing both technical and business aspects.\n\u2022 Environment Adaptation: Quickly understand partner-specific environments and make recommendations to reduce technical complications.\n\u2022 Cross-Functional Teamwork: Collaborate with multiple cross-functional teams and agile projects across various sites and geographical locations.\n\u2022 Project Management: Plan requirements with both external and internal partners, manage project schedules, and deploy products.\n\u2022 Technical Troubleshooting: Understand the delivered products at a technical level and work directly with McAfee Engineering to troubleshoot and remediate any issues.\n\u2022 Quality Assurance: Define comprehensive and well-structured test plans and test cases for partner projects and execute those plans to ensure our products meet McAfee\u2019s quality standards.\n\u2022 Direct Partner Collaboration: Own and drive meetings, presentations, troubleshooting, and product validation remote or regular onsite at partner locations\n\u2022 Process Improvement: Review and provide recommendations to streamline or make existing execution process more efficient.\n\nAbout You:\n\u2022 5+ years of partner-facing experience with the ability to form relationships at various levels.\n\u2022 Excellent verbal and written communication skills, capable of influencing both executive and individual contributor levels.\n\u2022 Thrive in a dynamic and fast-paced environment.\n\u2022 Experience in software development and quality assurance, primarily for Windows platforms.\n\u2022 Understanding of software development principles and methodologies such as Agile or Waterfall.\n\u2022 Proficiency in software troubleshooting tools such as windbg, ADK, and Fiddler on Windows platforms.\n\u2022 Eagerness to learn new products and technologies in a dynamic environment.\n\u2022 Creative and logical problem-solving skills.\n\u2022 Proficiency in MS Word, Excel, Visio, PowerPoint, and MS Project.\n\u2022 Ability to operate autonomously with minimal supervision.\n\u2022 Experience in multi-lingual and cross-cultural work environments.\n\u2022 Preferred to have familiarity with McAfee products and services.\n\u2022 Strong analytical skills.\n\u2022 Experience working with global strategic partners.\n\n#LI-Remote\n\nAccommodations:\n\nMcAfee recognizes and supports its obligation to reasonably accommodate applicants and employees with disabilities. We are here to help. Please let us know if you need a reasonable accommodation for any part of the application, interviewing, hiring, or at any other time during the employment process. Please do not include personal medical information in the email.\n\nDiversity is foundational for our business success. We want to be a workplace of choice for all people and we value the unique perspectives offered by a diverse workforce. McAfee does not unlawfully discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity or expression, national origin, citizenship, disability, protected veteran status, age, ancestry, medical condition, genetic information, marital status, pregnancy, or any other legally protected status. This principle applies to all areas of employment: recruitment and hiring, training, performance evaluations, promotions and transfers, compensation and benefits, and social and recreational programs.\n\nMcAfee desires to be an employer of choice with an inclusive environment for all individuals. As part of this goal and in compliance with various laws and regulations, McAfee provides reasonable accommodation to applicants and employees. Requests for reasonable accommodation for applicants and employees are evaluated on a case-by-case basis.\n\nPosting Statement:\n\nMcAfee prohibits discrimination based on race, color, religion, gender, national origin, age, disability, veteran status, marital status, pregnancy, gender expression or identity, sexual orientation or any other legally protected status.",
+            "location": "Waterloo, ON, Canada",
+            "employmentType": "",
+            "datePosted": "3 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "McAfee Careers",
+                    "url": "https://careers.mcafee.com/global/en/job/JR0031287/Field-Application-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Nexxt",
+                    "url": "https://www.nexxt.com/jobs/partner-product-engineer-waterloo-on-ca-2774383360-job.html?aff=2ED44C72-8FD2-4B5D-BC54-2F623E88BE26&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Jobrapido.com",
+                    "url": "https://ca.jobrapido.com/jobpreview/1729458715918073856?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                }
+            ]
+        }
+    ]
+}

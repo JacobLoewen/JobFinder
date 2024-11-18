@@ -1,0 +1,599 @@
+{
+    "jobs": [
+        {
+            "jobType": "java_developer",
+            "title": "Junior Java Developer",
+            "company": "Delbridge Solutions",
+            "description": "Delbridge is growing.\n\nDelbridge Solutions is one of North America\u2019s fastest-growing technology companies. With offices in Canada, the USA, Romania, and Costa Rica, we implement world-class software solutions and the majority of our clients are Fortune 1000 companies who trust Delbridge Solutions as a partner to support their business processes.\n\nWho You Are:\n\u2022 Independent, willing to learn, strong technical and business aptitude\n\u2022 Client-focused, strong communicator\n\u2022 Eager to learn and grow, with a strong interest in technology and business concepts\n\u2022 Client-focused and a good communicator\n\u2022 Open to taking on new challenges\n\nSkills Required:\n\u2022 Familiarity with web technologies like REST and JSON (experience is a plus)\n\u2022 Basic knowledge of SQL (PL SQL or Transact SQL is helpful)\n\u2022 Interest or exposure to front-end technologies like HTML, CSS, and JavaScript is a bonus\n\u2022 Willingness to learn Java and frameworks like Spring Boot\n\u2022 Curiosity about GenAI or LLMs is a nice addition but not required\n\u2022 An interest in learning about modern development practices like Test Driven Development or Domain Driven Development\n\nWhy Delbridge Solutions:\n\nAs Delbridge Solutions grows, our leadership team is focused on:\n\nFostering a collaborative environment because we believe that everyone here has a valuable contribution to make, that together we can develop a deeper understanding of our position in the market and the needs of our clients.\n\nRecognizing our people through quarterly rewards, performance bonuses and accelerated career paths. Whether you want to move up in Professional Services, across to Project Management, or Solution Architect, Delbridge Solutions wants to give you the chance to prove yourself - and we will recognize and rewards your efforts.\n\nIf you want to join a fast-growing company that pivots based on market demand, Delbridge Solutions would love to start a conversation and learn more about you.\n\nDelbridge Solutions welcomes and encourages applications from people with disabilities. Accommodations are available on request for candidates taking part in all aspects of the selection process.\n\nOur Recruitment Process\n\nAs part of our comprehensive Talent Acquisition process, candidates may be required to participate in interviews or assessments and present work samples, or portfolios. The specific procedures will be determined by the nature of the job role as successful applicants progress through the recruitment stages.\n\nOur Commitment\n\nWe welcome and encourage applications from individuals of all backgrounds, experiences, and perspectives, as we believe that diversity drives innovation and strengthens our team. Delbridge Solutions complies with the Accessibility for Ontarians with Disabilities Act, providing equal opportunities for all. Accommodations throughout the recruitment process are available upon request and will be provided up to the point of undue hardship. Please direct accommodation requests to hr@delbridge.solutions.\n\nPowered by JazzHR\n\nL4qXHmxpNR",
+            "location": "Ontario, Canada",
+            "employmentType": "",
+            "datePosted": "2 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/junior-java-developer-at-delbridge-solutions-4077495063?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Jobgether",
+                    "url": "https://jobgether.com/offer/6738b5d2d0e293d411044403-junior-java-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Recruit.net",
+                    "url": "https://www.recruit.net/job/junior-java-developer-jobs/030019B6E7403838?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "WhatJobs",
+                    "url": "https://en-ca.whatjobs.com/job/Junior-Java-Developer/Canada/80419335?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "JavaScript"
+                },
+                {
+                    "name": "HTML"
+                },
+                {
+                    "name": "CSS"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "SQL"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Spring Boot"
+                }
+            ]
+        },
+        {
+            "jobType": "java_developer",
+            "title": "Java Developer",
+            "company": "Scotiabank",
+            "description": "Requisition ID: 201852\n\nJoin a purpose driven winning team, committed to results, in an inclusive and high-performing culture.\n\nThe role:\n\nContributes to the overall success of the Retail Customer Platform Technology applications ensuring specific individual goals, plans, initiatives are executed and delivered in support of the team\u2019s business strategies and objectives. Ensures all activities conducted are in compliance with governing regulations, internal policies and procedures.\n\nIs this role right for you? In this role you will:\n\u2022 Champion a customer focused culture to deepen client relationships and leverage broader Bank relationships, systems and knowledge.\n\u2022 You will provide system analysis, object-oriented design / programming, technical documentation, and support for existing and new applications and systems.\n\u2022 You will provide recommendations on best practices and enhancements that are in line with the bank\u2019s technology road map.\n\u2022 You will work with project team to refine technical requirements and provide technical design and guidance based on industry best practices.\n\u2022 You will perform coding, unit testing, debugging, documenting, and implementing of applications and scripts.\n\u2022 You will participate in estimation and planning of development efforts required for various projects and enhancements.\n\u2022 You will maintain, support, and enhance existing applications.\n\u2022 You will participate in regular code reviews for release activities.\n\u2022 You will lead the implementation efforts for implementations of code to non-production and production environments.\n\u2022 You will participate in production issue analysis and perform root cause analysis for production issues and implementation issues.\n\u2022 You will assist the product owners and business analysts in discovering the current system behavior and provide recommendations on improving the current system.\n\u2022 Understand how the Bank\u2019s risk appetite and risk culture should be considered in day-to-day activities and decisions.\n\u2022 Actively pursues effective and efficient operations of his/her respective areas in accordance with Scotiabank\u2019s Values, its Code of Conduct and the Global Sales Principles, while ensuring the adequacy, adherence to and effectiveness of day-to-day business controls to meet obligations with respect to operational, compliance, AML/ATF/sanctions and conduct risk.\n\u2022 Champion a high-performance environment and contributes to an inclusive work environment.\n\nDo you have the skills that will enable you to succeed in this role? We'd love to work with you if you have:\n\u2022 Bachelor\u2019s degree in Computer Science, Engineering, or related discipline is preferred.\n\u2022 You have at least 3-5 years of technical working experience in systems analysis, design, development, unit testing, and debugging.\n\u2022 Must have technical working experience with Core Java (Version 8 or higher)/Java\n\u2022 Proficient in SQL & relational databases.\n\u2022 Knowledge or experience in the use of GIT, Gradle, Jira, Confluence or a similar tool(s) for building Continuous Integration/Continuous Delivery (CI/CD) pipelines.\n\u2022 Technical working experience in an agile environment.\n\u2022 Working experience with Spring Boot, Spring Security and Spring Data Repositories, Spring Batch. At least one. Spring framework works.\n\u2022 Technical working knowledge of Web Services, SOAP/REST, STS Spring Tools, or Eclipse Integrated Development Environment (IDE).\n\u2022 Knowledge of SSL and setup of secure handshake between applications. It could be implicit. Technical knowledge of Microsoft Azure Cloud/Google Cloud and Splunk\n\nNice to Have:\n\u2022 Oracle Certified Java Developer certification.\n\u2022 Technical Knowledge of event driven architecture (Kafka, Kafka connectors, Kafka brokers).\n\u2022 2-3 years of working experience in the banking/financial services industry.\n\u2022 Working knowledge of SoapUI.\n\nWhat's in it for you?\n\u2022 Diversity, Equity, Inclusion & Allyship - We strive to create an inclusive culture where every employee is empowered to reach their fullest potential, respected for who they are, and are embraced through bias-free practices and inclusive values across Scotiabank. We embrace diversity and provide opportunities for all employee to learn, grow & participate through our various Employee Resource Groups (ERGs) that span across diverse gender identities, ethnicity, race, age, ability & veterans.\n\u2022 Accessibility and Workplace Accommodations - We value the unique skills and experiences each individual brings to the Bank, and are committed to creating and maintaining an inclusive and accessible environment for everyone. Scotiabank continues to locate, remove and prevent barriers so that we can build a diverse and inclusive environment while meeting accessibility requirements.\n\u2022 Upskilling through online courses, cross-functional development opportunities, and tuition assistance.\n\u2022 Competitive Rewards program including bonus, flexible vacation, personal, sick days and benefits will start on day one.\n\u2022 Community Engagement - no matter where you choose to work from; we offer opportunities for community engagement & belonging with our various programs such as hackathons, contests, cooking with friends, Humans of Digital and much more!\n\nWork arrangements: Hybrid\n\n#LI-Hybrid\n\nLocation(s): Canada : Ontario : Toronto\n\nScotiabank is a leading bank in the Americas. Guided by our purpose: \"for every future\", we help our customers, their families and their communities achieve success through a broad range of advice, products and services, including personal and commercial banking, wealth management and private banking, corporate and investment banking, and capital markets.\n\nAt Scotiabank, we value the unique skills and experiences each individual brings to the Bank, and are committed to creating and maintaining an inclusive and accessible environment for everyone. If you require accommodation (including, but not limited to, an accessible interview site, alternate format documents, ASL Interpreter, or Assistive Technology) during the recruitment and selection process, please let our Recruitment team know. If you require technical assistance, please click here. Candidates must apply directly online to be considered for this role. We thank all applicants for their interest in a career at Scotiabank; however, only those candidates who are selected for an interview will be contacted.",
+            "location": "Toronto, ON, Canada",
+            "employmentType": "",
+            "datePosted": "5 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Scotiabank Jobs",
+                    "url": "https://jobs.scotiabank.com/job/Toronto-Java-Developer-ON/582161117/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Tundra Talent Community - Tundra Technical Solutions",
+                    "url": "https://community.tundratechnical.ca/jobs/java-developer-3/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "ZipRecruiter",
+                    "url": "https://www.ziprecruiter.com/c/J&M-Group,-Inc/Job/Java-Developer/-in-Toronto,ON?jid=c8c1bffd95467dc7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Careers | CGI.com - Njoyn",
+                    "url": "https://cgi.njoyn.com/corp/xweb/xweb.asp?CLID=21001&page=jobdetails&JobID=J1024-1521&lang=1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Eluta.ca",
+                    "url": "https://m.eluta.ca/spl/java-developer-b3e8d6be9773cea6186243c0c7f17b67?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Smart Recruiters Jobs",
+                    "url": "https://jobs.smartrecruiters.com/ReveilleTechnologies3/743999658563112-java-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Iitjobs",
+                    "url": "https://www.iitjobs.com/job/java-developer-toronto-on-canada-e-it-professionals-8952?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/java-developer-at-apex-systems-4068524419?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "Go"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "SQL"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Confluence"
+                },
+                {
+                    "name": "Spring Boot"
+                },
+                {
+                    "name": "Azure"
+                },
+                {
+                    "name": "Google Cloud"
+                },
+                {
+                    "name": "Splunk"
+                },
+                {
+                    "name": "SSL"
+                },
+                {
+                    "name": "Eclipse"
+                },
+                {
+                    "name": "Jira"
+                },
+                {
+                    "name": "Kafka"
+                }
+            ]
+        },
+        {
+            "jobType": "java_developer",
+            "title": "Senior Java Developer",
+            "company": "GFL Environmental Inc.",
+            "description": "Our GFL team is expanding, and we\u2019re looking for a Senior Java Developer to join us in Vaughan! In this role, you\u2019ll play a vital part in designing and implementing high-quality software solutions and ensuring the successful delivery of projects.\n\nWhy Join GFL?\n\nGFL Environmental is the only major diversified environmental services company in North America. Our employees, collectively known as 'Team Green,' enjoy numerous benefits: career advancement opportunities, competitive benefits, job stability within an essential services company, and the chance to make a positive impact every day for our customers and communities, Green for Life!\n\nWhat\u2019s in it for You:\n\u2022 Comprehensive Benefits Plan including prioritized orthodontics and vision care\n\u2022 RRSP matching and profit sharing\n\u2022 Employee Assistance Program, life insurance, and more!\n\u2022 Paid time off\n\u2022 Competitive wages\n\u2022 Growth opportunities\n\nCareer Path Potential:\n\nJoin #TeamGreen and unlock diverse career growth opportunities through professional development, mentorship, and clear paths for internal advancement.\n\nA \u201cDay in the Life\" of a Senior Java Developer:\n\u2022 Work with a team of developers in designing and implementing software solutions using Java, Spring Boot, and Kotlin, ensuring alignment with best practices and coding standards.\n\u2022 Partner with cross-functional teams to translate project requirements into technical specifications and architecture designs that meet business needs.\n\u2022 Drive the adoption of new technologies and methodologies, identify areas for improvement, implement solutions and enhance product quality.\n\u2022 Oversee code reviews, troubleshoot complex issues, and implement performance optimizations to ensure robust, maintainable solutions.\n\u2022 Foster a collaborative and innovative environment within the team, promoting knowledge sharing and professional growth.\n\nKnowledge, Skills and Abilities:\n\u2022 Bachelor\u2019s degree in computer science or a related field, with minimum 7 years of experience as a Java developer, specializing in Spring Boot within agile environments.\n\u2022 Strong proficiency in Kotlin programming language and a solid understanding of software engineering principles, design patterns, and best practices.\n\u2022 Excellent problem-solving, critical thinking, and analytical skills, combined with the ability to communicate effectively and work well with diverse teams.\n\u2022 Familiarity with AWS cloud platform and containerization technologies (e.g., Docker, Kubernetes) will be nice to have.\n\nJoin us and become part of \"Team Green\" at GFL Environmental, where your skills and dedication will be valued and rewarded. Apply now for this exciting opportunity!\n\n#GFLTalent\n\nWe thank you for your interest. Only those selected for an interview will be contacted.\n\nGFL is committed to equal opportunity for all, without regard to race, religion, color, national origin, citizenship, sex, sexual orientation, gender identity, age, veteran status, disability, genetic information, or any other protected characteristic. If you are interested in applying for employment and need special assistance or an accommodation to apply for a posted position, please contact myworkdayrecruitment@gflenv.com",
+            "location": "Vaughan, ON, Canada",
+            "employmentType": "",
+            "datePosted": "2 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/senior-java-developer-at-gfl-environmental-inc-4077900638?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Glassdoor",
+                    "url": "https://www.glassdoor.ca/job-listing/senior-java-developer-gfl-environmental-JV_IC4035196_KO0,21_KE22,39.htm?jl=1009529998675&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Indeed",
+                    "url": "https://emplois.ca.indeed.com/viewjob?jk=708d41f1e137c1db&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "SimplyHired",
+                    "url": "https://fr.simplyhired.ca/job/8SSXnx2er_P240mJzwF_9w3FDtBQsCEuRa5s91UJYx-jm7JeO1KRNg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "BeBee Canada Meet Opportunities",
+                    "url": "https://ca.bebee.com/job/12a71b06cf93c383d1c98f3c45979d8b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Jobs Trabajo.org",
+                    "url": "https://ca.trabajo.org/job-3051-a1aae507219385bc8c48cac1825712a4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "WhatJobs",
+                    "url": "https://en-ca.whatjobs.com/job/Senior-Java-Developer/vaughan-ontario/81231362?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Kotlin"
+                },
+                {
+                    "name": "Spring Boot"
+                },
+                {
+                    "name": "Docker"
+                },
+                {
+                    "name": "Kubernetes"
+                },
+                {
+                    "name": "AWS"
+                }
+            ]
+        },
+        {
+            "jobType": "java_developer",
+            "title": "Java Developer (GCP/AWS) - Contract - Toronto",
+            "company": "CorGTA Inc.",
+            "description": "Role: Java Developer (Fortune 1000 Client)\n\nStructure: Contract (6 months initially then extension options)\n\nLocation: Toronto, ON (Hybrid 2-3 days in office per week)\n\nThe Role\n\nWe currently have an opportunity for a contract for a hybrid remote Java Developer working for one of our Toronto based Fortune 1000 clients.\n\nThe Required Skills For This Role Will Be\n\u2022 8+ years experience as a Java Developer\n\u2022 Experience working with Spring Boot and APIs\n\u2022 GCP Google Cloud Experience or AWS is highly valued\n\u2022 Experience working with relational databases (Oracle, SQL Server, MySQL, PostgreSQL).\n\u2022 Experience working Kubernetes\n\u2022 API Management tools are highly valued like Apigee\n\n--\n\nCorGTA is an equal opportunity employer, please apply with an updated resume and ensure the required skills you are able to speak to for this position are included.\n\nFor more roles like this please go to www.corgta.com/find-a-job/",
+            "location": "Toronto, ON, Canada",
+            "employmentType": "",
+            "datePosted": "2 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/java-developer-gcp-aws-contract-toronto-at-corgta-inc-4077770297?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "ZipRecruiter",
+                    "url": "https://www.ziprecruiter.com/c/CorGTA/Job/Java-Developer-(GCP-AWS)-Contract-Toronto/-in-Toronto,ON?jid=0d5e886387f7316f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Indeed",
+                    "url": "https://emplois.ca.indeed.com/viewjob?jk=69d7f01bbff62432&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Glassdoor",
+                    "url": "https://www.glassdoor.ca/job-listing/java-developer-gcp-aws-contract-toronto-corgta-JV_IC2281069_KO0,39_KE40,46.htm?jl=1009530004765&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Dice",
+                    "url": "https://www.dice.com/job-detail/b965ace7-9e50-47e1-9de3-234e83940669?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "Go"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "SQL"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Spring Boot"
+                },
+                {
+                    "name": "MySQL"
+                },
+                {
+                    "name": "PostgreSQL"
+                },
+                {
+                    "name": "Kubernetes"
+                },
+                {
+                    "name": "AWS"
+                },
+                {
+                    "name": "Google Cloud"
+                }
+            ]
+        },
+        {
+            "jobType": "java_developer",
+            "title": "Core Java Developer",
+            "company": "Iris Software Inc.",
+            "description": "IRIS direct end client which is one of the one of the most trusted investment banks globally is urgently looking to hire Core Java Developer - Toronto (Hybrid) . This is a Contract opportunity.\n\nCore Java Developer\n\nToronto (Hybrid/ 3 days office & 2 days work from home)\n\nNature of Contract \u2013 Contract opportunity\n\nJob Description:\n\nWe are looking for a skilled Core Java Developer to join the client\u2019s engineering team within Capital Market/wealth management or financial domain.\n\u2022 7-10 yrs experience in java technologies.\n\u2022 Hands-on individual responsible for producing excellent quality of code, adhering to expected coding standards and industry best practices.\n\u2022 Must have strong experience in Core Java, Multithreading, Spring and SQL.\n\u2022 Good knowledge of Spring, Hibernate, JMS, Caching Frameworks, Memory Management\n\u2022 Problem- solving/ Trouble shooting skills\n\u2022 High levels of ownership and commitment on deliverables\n\u2022 Strong Communication Skills - Should be interact with client stakeholders to probe a technical problem or clarify requirement specifications\n\nLooking forward to hear from you...!!!\n\nBest Regards,\n\nBharat Sharma\n\nSr. Talent Acquisition \u2013 Executive\n\nIris Software\n\n200 Metroplex Drive, Suite #300\n\nEdison, NJ 08817",
+            "location": "Toronto, ON, Canada",
+            "employmentType": "",
+            "datePosted": "4 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/core-java-developer-at-iris-software-inc-4072487472?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Talent.com",
+                    "url": "https://ca.talent.com/view?id=dc3055fc510a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Learn4Good",
+                    "url": "https://www.learn4good.com/jobs/toronto/canada/info_technology/3734296782/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "Go"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "SQL"
+                },
+                {
+                    "name": "R"
+                }
+            ]
+        },
+        {
+            "jobType": "java_developer",
+            "title": "Senior Java Developer",
+            "company": "Citi",
+            "description": "Excited to grow your career?\n\nWe value our talented employees, and whenever possible strive to help one of our associates grow professionally before recruiting new talent to our open positions. If you think the open position you see is right for you, we encourage you to apply!\n\nOur people make all the difference in our success.\n------------------------------------------------------\nOur team:\n\nOur team (XiP) is responsible for supplying both backend and frontend services to Citi trading desks and enterprise users in the largest global financial markets and exchanges in New York, London and other major financial hubs.\n\nThe Senior Java Developer will be responsible for establishing and implementing new or revised application systems and programs in coordination with the Technology team. The overall objective of this role is to lead applications systems analysis and programming activities.\n\nResponsibilities:\n\u2022 Collaborate with the XiP team and working with senior end users in the business and technology on developing microservices and reusable libraries, validating solutions, and diagnosing and resolving issues.\n\u2022 Develop software using REST and providing fault-tolerant client-server solutions.\n\u2022 Partner with multiple management teams to ensure appropriate integration of functions to meet goals as well as identify and define necessary system enhancements to deploy new products and process improvements.\n\u2022 Resolve a variety of high impact problems/projects through in-depth evaluation of complex business processes, system processes, and industry standards.\n\u2022 Provide expertise and advanced knowledge in the area of applications programming and ensure application design adheres to the overall architecture blueprint.\n\u2022 Use advanced knowledge of system flow and develop standards for coding, testing, debugging, and implementation.\n\u2022 Develop comprehensive knowledge of how areas of business, such as architecture and infrastructure, integrate to accomplish business goals.\n\u2022 Provide in-depth analysis with interpretive thinking to define issues and develop innovative solutions.\n\u2022 Serve as advisor or coach to mid-level developers and analysts, allocating work as necessary.\n\u2022 Appropriately assess risk when business decisions are made, demonstrating particular consideration for the firm's reputation and safeguarding Citigroup, its clients and assets, by driving compliance with applicable laws, rules and regulations, adhering to Policy, applying sound ethical judgment regarding personal behavior, conduct and business practices, and escalating, managing and reporting control issues with transparency.\n\nQualifications:\n\u2022 8+ years proven experience in Apps Development.\n\u2022 Expert Java programming skills.\n\u2022 Familiarity with Spring Boot.\n\u2022 Familiarity with Google cloud, AWS cloud.\n\u2022 Familiarity with Kotlin would be a bonus.\n\u2022 Demonstrable ability to apply best coding practices: clean and readable code, automated testing, code reviews, continuous integration and delivery.\n\u2022 Demonstrable experience in writing reusable, testable and efficient code with proper error and exception handling.\n\u2022 Demonstrable experience in writing high quality unit and integration tests, strong debugging skills.\n\u2022 Experience of test-driven development and of continuous integration platforms.\n\u2022 Understanding of agile software development approach and experience in using source control (preferably git).\n\u2022 Extensive experience system analysis and in programming of software applications.\n\u2022 Experience in managing and implementing successful projects.\n\u2022 Subject Matter Expert (SME) in at least one area of Applications Development.\n\u2022 Ability to adjust priorities quickly as circumstances dictate.\n\u2022 Demonstrated leadership and project management skills.\n\u2022 Consistently demonstrates clear and concise written and verbal communication.\n\u2022 Experience working in financial risk industry is a plus.\n\u2022 Experience with AWS, GCP, Kubernetes, microservices, REST, Kafka and data streaming is desirable.\n\nEducation:\n\nUniversity degree or equivalent experience.\n\n------------------------------------------------------\n\nJob Family Group:\nTechnology\n\n------------------------------------------------------\n\nJob Family:\nApplications Development\n\n------------------------------------------------------\n\nTime Type:\nFull time\n\n------------------------------------------------------\n\nCiti is an equal opportunity and affirmative action employer.\n\nQualified applicants will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.\n\nCitigroup Inc. and its subsidiaries (\"Citi\u201d) invite all qualified interested applicants to apply for career opportunities. If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi.\n\nView the \"EEO is the Law\" poster. View the EEO is the Law Supplement.\n\nView the EEO Policy Statement.\n\nView the Pay Transparency Posting",
+            "location": "Toronto, ON, Canada",
+            "employmentType": "",
+            "datePosted": "",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Citi Careers",
+                    "url": "https://jobs.citi.com/job/toronto/senior-java-developer/287/70391232592?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Luxoft",
+                    "url": "https://career.luxoft.com/jobs/senior-java-developer-7116?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Indeed",
+                    "url": "https://emplois.ca.indeed.com/viewjob?jk=5386cc2e1b389591&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Greenhouse",
+                    "url": "https://boards.greenhouse.io/behavox/jobs/6367410?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Lever",
+                    "url": "https://jobs.lever.co/intelliware/8608d2b4-1332-40bb-89d9-8508bf21b64f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Nexus Systems Group",
+                    "url": "https://www.nexusgroup.ca/fr/jobs/senior-java-developer-3/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "TD Bank Jobs",
+                    "url": "https://tdbank.jobs/toronto-on/senior-java-developer/93379D3FBC6445E0BDB7695A2779C67C/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Kovasys IT Recruitment Agency",
+                    "url": "https://kovasys.com/job/senior-java-developer-toronto-ontario/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "Go"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Kotlin"
+                },
+                {
+                    "name": "Spring Boot"
+                },
+                {
+                    "name": "Kubernetes"
+                },
+                {
+                    "name": "AWS"
+                },
+                {
+                    "name": "Kafka"
+                }
+            ]
+        },
+        {
+            "jobType": "java_developer",
+            "title": "Java Web Developer",
+            "company": "STACK IT Recruitment",
+            "description": "Our client in Mississauga is looking for a Java Developer to join their growing team.\n\nWho you are:\n\nAs a Java Developer, you will be responsible for designing, developing, and maintaining applications that support reporting, document generation, and inventory management. Your expertise in Java and SQL will help ensure the functionality and security of various systems, as you manage database permissions, troubleshoot issues, and support ongoing JDE operations. You\u2019ll provide essential technical documentation, conduct system validations, and prepare reports to support data-driven decisions. Your proactive approach will also contribute to continuous improvement, optimizing resources and enhancing clients\u2019 technological capabilities to meet evolving business needs.\n\nWork Type:\n\u2022 Location: Mississauga, Ontario\n\u2022 Hybrid \u2013 2-3 days a week in the office\n\u2022 Must have a reliable means of transportation to travel between office locations\n\nHow you will impact:\n\u2022 Analyze business needs to design, develop, and maintain web applications to enhance operational efficiency and reporting tools.\n\u2022 Implement updates and enhancements to applications, including tools for reporting, document generation, and inventory management.\n\u2022 Manage database permissions, design tables, views, and write SQL queries to support various applications and ensure secure data access.\n\u2022 Develop, test, and troubleshoot Java and SQL-based applications, ensuring seamless integration and functionality.\n\u2022 Identify and resolve technical issues in applications, provide ongoing support for JDE trouble tickets, and maintain existing programs.\n\u2022 Prepare and document user manuals, maintenance instructions, and other operational guidelines for software applications.\n\u2022 Set up and maintain workstations, install essential software, configure network settings, and troubleshoot technical issues.\n\u2022 Research and evaluate new software products, recommend programming platforms, and suggest process improvements to optimize resources.\n\u2022 Conduct system validations and user acceptance tests, ensuring reliability and alignment with business needs.\n\u2022 Prepare detailed project status updates and reports to management, supporting data-driven decision-making.\n\nWhat you will bring:\n\u2022 Bachelor\u2019s degree in Computer Science, Engineering, or an IT-related field.\n\u2022 3+ years\u2019 experience in software development, analysis, integration, and supporting research, development, testing, and evaluation of software systems.\n\u2022 Proficiency in Java 8, with strong expertise in relational databases and SQL.\n\u2022 Ability to perform complex data processing and manipulation across multiple formats, including SQL, CSV, TXT, and Excel.\n\u2022 Experience managing database permissions, user access, and creating SQL tables, views, and queries.\n\u2022 Hands-on experience with EDI technologies and familiarity with manufacturing processes, is a bonus.\n\u2022 Experience in CRM platforms such as Salesforce, project management tools like Microsoft Project, JDE 9.2, and IBM Notes is a bonus.\n\u2022 Capable of managing multiple projects simultaneously with strong organizational skills, meeting deadlines, and conducting quality control checks.\n\u2022 Strong verbal and written communication skills, including the ability to document modifications, generate reports, and provide operational instructions.\n\u2022 High level of initiative, self-motivation, and independence with sound decision-making abilities and excellent attention to detail.\n\nCompensation:\n\u2022 Salary: $80,000 to $90,000\n\u2022 Full Medical Benefits (Health/Dental/Vision)\n\u2022 Paid time off\n\u2022 Bonus\n\u2022 EAP Program\n\nIf you meet 70% or more of the qualifications listed for this position, we strongly encourage you to apply! Are you not yet ready to apply, but interested in learning more about this opportunity? Please reach out to us at info@stackitrecruitment.com for more information. We look forward to hearing from you!",
+            "location": "Mississauga, ON, Canada",
+            "employmentType": "",
+            "datePosted": "3 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/java-web-developer-at-stack-it-recruitment-4074913298?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "SQL"
+                },
+                {
+                    "name": "R"
+                }
+            ]
+        },
+        {
+            "jobType": "java_developer",
+            "title": "Java Developer",
+            "company": "isgSearch",
+            "description": "****Fully on-site, 5 days a week********\n\nOur roadmap includes:\n\u2022 Developing show visualization and simulation authoring tools via C++ Unreal Engine Plugins to support the water feature design process used with our clients\n\u2022 Designing and implementing centralized data and workflow management using Java/Kotlin/REST to manage the \"central nervous system\" of our information flow between departments.\n\u2022 Collaborating with department heads to assess requirements and implement hooks between diverse systems (ERP, SolidWorks, AutoCAD, others) and the central nervous system\n\u2022 Applying Expert Systems and LLMs within AutoCAD plugins written in C# to accelerate and validate product water feature design and specification\n\u2022 Integrating and testing third party DMX controllers with distributed control and monitoring environment\n\u2022 Providing technical support to away teams completing fountain commissioning projects around the world\n\nResponsibilities\nSoftware Development\n\u2022 Assume responsibility for maintenance and support existing in-house application portfolio.\n\u2022 Conduct requirements analysis, design and implementation for updates to integrated applications architecture.\n\u2022 Escalate issues to the CTO as necessary.\n\u2022 Provide initial point-of-contact to employees seeking assistance with in-house applications.\n\u2022 Work closely with the development team and stakeholders to ensure efficient and timely delivery of projects.\n\u2022 Ensure that documentation is created and updated in the standard course of development activities.\n\nOther responsibilities\n\u2022 Provide occasional backup support for troubleshooting / configuring ERP system as required\n\u2022 Additional tasking as may be required by CTO\n\u2022 Support the CTO with business analyst / IT analyst responsibilities as needed.\n\u2022 Undertake such further and other duties as may be necessary and/or desirable to effectively carry out these duties and responsibilities.\n\nSkills, Experience, and Educational Background\n\nTo be successful in this role, you should have these competencies:\n\u2022 University degree in software engineering, computer science, or equivalent\n\u2022 Deep understanding of developing desktop and web applications and REST services\n\u2022 Extensive experience with at least one of Java, C#, or C++, with moderate experience in at least two of Java, C#, C++, or TypeScript.\n\u2022 The ability to quickly familiarize themselves with novel languages, development tooling, and APIs/libraries\n\u2022 Comfortable working in a mixed Linux / Windows environment\n\u2022 Experience integrating custom code with off-the-shelf business or engineering applications.\n\u2022 Demonstrated aptitude for navigating, understanding, and improving legacy code.\n\nPrior competency in these areas would be helpful, or must be developed on the job:\n\u2022 Understanding of DMX/RDM network protocols\n\u2022 Experience working with AWS offerings such as S3, EC2, Lambdas, and RDS\n\u2022 Experience testing and troubleshooting real-time industrial hardware/software systems",
+            "location": "Vaughan, ON, Canada",
+            "employmentType": "",
+            "datePosted": "6 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/java-developer-at-isgsearch-4071743649?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "C++"
+                },
+                {
+                    "name": "C#"
+                },
+                {
+                    "name": "TypeScript"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Kotlin"
+                },
+                {
+                    "name": "Unreal Engine"
+                },
+                {
+                    "name": "AWS"
+                }
+            ]
+        },
+        {
+            "jobType": "java_developer",
+            "title": "Java Developer",
+            "company": "Scotiabank",
+            "description": "Requisition ID: 208853\n\nJoin a purpose driven winning team, committed to results, in an inclusive and high-performing culture.\n\nThe Team\n\nContributes to the overall success of the Canadian Banking Engineering Regulatory applications ensuring specific individual goals, plans, initiatives are executed and delivered in support of the team\u2019s business strategies and objectives. Ensures all activities conducted are in compliance with governing regulations, internal policies and procedures.\n\nIs this role right for you?\n\u2022 Champions a customer focused culture to deepen client relationships and leverage broader Bank relationships, systems and knowledge.\n\u2022 You will provide system analysis, object-oriented design / programming, technical documentation, and support for existing and new applications and systems.\n\u2022 You will provide recommendations on best practices and enhancements that are in line with the bank\u2019s technology road map.\n\u2022 You will work with project team to refine technical requirements and provide technical design and guidance based on industry best practices.\n\u2022 You will perform coding, unit testing, debugging, documenting, and implementing of applications and scripts.\n\u2022 You will participate in estimation and planning of development efforts required for various projects and enhancements.\n\u2022 You will maintain, support, and enhance existing applications.\n\u2022 You will participate in regular code reviews for release activities.\n\u2022 You will lead the implementation efforts for implementations of code to non-production and production environments.\n\u2022 You will participate in production issue analysis and perform root cause analysis for production issues and implementation issues.\n\u2022 You will assist business partners and other stakeholders in discovering the current system behavior and provide recommendations on improving the current system.\n\u2022 Understand how the Bank\u2019s risk appetite and risk culture should be considered in day-to-day activities and decisions.\n\u2022 Actively pursues effective and efficient operations of his/her respective areas in accordance with Scotiabank\u2019s Values, its Code of Conduct and the Global Sales Principles, while ensuring the adequacy, adherence to and effectiveness of day-to-day business controls to meet obligations with respect to operational, compliance, AML/ATF/sanctions and conduct risk.\n\u2022 Champions a high-performance environment and contributes to an inclusive work environment.\n\nDo you have the skills that will enable you to succeed in this role?\n\u2022 Bachelor\u2019s degree in Computer Science or related discipline.\n\u2022 Minimum 3 years of technical working experience in systems analysis, design, development, unit testing, and debugging.\n\u2022 Minimum 5 years of technical working experience with Core Java (Version 8 or higher)\n\u2022 Minimum 5 years working experience in SQL, Mongo DB & relational databases.\n\u2022 3-5 years working experience of GIT, Gradle, Jira, Confluence or a similar tool(s) for building Continuous Integration/Continuous Delivery (CI/CD) pipelines.\n\u2022 Technical working experience in an agile environment.\n\u2022 5 years working experience with Spring Boot, Spring Security and Spring Data Repositories, Spring Batch.\n\u2022 Technical working knowledge of Web Services, REST or Eclipse Integrated Development Environment (IDE).\n\u2022 Willing to be available for 24/7 on call support\n\u2022 Knowledge of SSL/TLS and setup of secure handshake between applications.\n\u2022 Working experience with Microsoft Azure Cloud or Google Cloud is an asset.\n\u2022 Technical Knowledge of event driven architecture (Kafka, Kafka connectors, Kafka brokers).\n\u2022 2-3 years of working experience in the banking/financial services industry.\n\nWhat's in it for you?\n\u2022 Diversity, Equity, Inclusion & Allyship - We strive to create an inclusive culture where every employee is empowered to reach their fullest potential, respected for who they are, and are embraced through bias-free practices and inclusive values across Scotiabank. We embrace diversity and provide opportunities for all employee to learn, grow & participate through our various Employee Resource Groups (ERGs) that span across diverse gender identities, ethnicity, race, age, ability & veterans.\n\u2022 Accessibility and Workplace Accommodations - We value the unique skills and experiences each individual brings to the Bank, and are committed to creating and maintaining an inclusive and accessible environment for everyone. Scotiabank continues to locate, remove and prevent barriers so that we can build a diverse and inclusive environment while meeting accessibility requirements.\n\u2022 Upskilling through online courses, cross-functional development opportunities, and tuition assistance.\u202f\n\u2022 Competitive Rewards program including bonus, flexible vacation, personal, sick days and benefits will start on day one.\n\u2022 Community Engagement - no matter where you choose to work from; we offer opportunities for community engagement & belonging with our various programs such as hackathons, contests, cooking with friends, Humans of Digital and much more!\n\nWork conditions: Hybrid\n\n#LI-Hybrid\n\nLocation(s): Canada : Ontario : Toronto\n\nScotiabank is a leading bank in the Americas. Guided by our purpose: \"for every future\", we help our customers, their families and their communities achieve success through a broad range of advice, products and services, including personal and commercial banking, wealth management and private banking, corporate and investment banking, and capital markets.\n\nAt Scotiabank, we value the unique skills and experiences each individual brings to the Bank, and are committed to creating and maintaining an inclusive and accessible environment for everyone. If you require accommodation (including, but not limited to, an accessible interview site, alternate format documents, ASL Interpreter, or Assistive Technology) during the recruitment and selection process, please let our Recruitment team know. If you require technical assistance, please click here. Candidates must apply directly online to be considered for this role. We thank all applicants for their interest in a career at Scotiabank; however, only those candidates who are selected for an interview will be contacted.",
+            "location": "Toronto, ON, Canada",
+            "employmentType": "",
+            "datePosted": "9 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Scotiabank Jobs",
+                    "url": "https://jobs.scotiabank.com/job/Toronto-Java-Developer-ON-M5A3X5/585490117/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Accenture",
+                    "url": "https://www.accenture.com/ca-en/careers/jobdetails?id=R00218679_en&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Indeed",
+                    "url": "https://emplois.ca.indeed.com/viewjob?jk=f148e1f81123037c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Tundra Talent Community - Tundra Technical Solutions",
+                    "url": "https://community.tundratechnical.ca/jobs/java-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Nexus Systems Group",
+                    "url": "https://www.nexusgroup.ca/jobs/java-developer-4/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Glassdoor",
+                    "url": "https://www.glassdoor.ca/job-listing/java-developer-desato-JV_IC2281069_KO0,14_KE15,21.htm?jl=1009245249740&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/java-developer-at-priceline-3720765500?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Jobs.ca",
+                    "url": "https://www.jobs.ca/offer/java-developer/16d9d001-cf45-480b-bd42-ab633bc64cd4_en/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "Go"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "SQL"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Confluence"
+                },
+                {
+                    "name": "Spring Boot"
+                },
+                {
+                    "name": "Azure"
+                },
+                {
+                    "name": "Google Cloud"
+                },
+                {
+                    "name": "TLS"
+                },
+                {
+                    "name": "SSL"
+                },
+                {
+                    "name": "Eclipse"
+                },
+                {
+                    "name": "Jira"
+                },
+                {
+                    "name": "Kafka"
+                }
+            ]
+        },
+        {
+            "jobType": "java_developer",
+            "title": "GTS - Sr. Java Developers ONLY Living outside of Canada- Work Visa Provided - CANADA",
+            "company": "Venuiti",
+            "description": "Are you interested in immigrating to Canada?\n\nWe\u2019re looking to sponsor multiple JAVA Developers to move to Canada. Currently, there is a shortage of experienced technical candidates, and many job opportunities. We\u2019re looking for someone who has significant technical experience, and outstanding English skills. About Us: DevStaff Canada is a member of Venuiti Group of Companies. We originated as a technology company founded in 2001, where we discovered how hard it is to hire high-quality developers. In fact, that's why we went into business as a technical staffing agency. We\u2019re looking for the best candidates, because we understand what a difference quality makes in the development process.\n\nRequirements:\n\nExcellent English Skills\n\n8+ years of JAVA development experience (technical interview and test to follow) Experience in either Finance or Healthcare industries\n\nThe Process: The application process to come to Canada is not short \u2013 it will take multiple months, and many rounds of interviews and applications. Throughout this time, Venuiti\u2019s team will be here for you whenever you need help, assistance, guidance, or anything else throughout the process. We\u2019ve done this process multiple times, so know what to expect.\n\nThe process will look approximately as follows, and you will only advance through each step upon successful completion of the previous step: S\n\ntep 1: After receiving your application, we will conduct Interviews, language assessments, and technical assessments. If successfully, you will receive a job offer from Venuiti.\n\nStep 2: As soon as you sign your contract, Venuiti will apply for a Labour Market Impact Assessment (LMIA). This is a government document, which every employer needs to fill out before hiring a foreign worker.\n\nStep 3: Collect your documents to submit to your local Canadian Embassy. From here, you will receive your Visa to come to Canada.\n\nStep 4: Arrival in Canada!\n\nDevStaff believes in universal acceptance for everyone everywhere. We promote diversity of thought, culture and background, which connects the entire DevStaff family. As such, DevStaff is proud to be an Equal Opportunity Employer. We do not discriminate on the basis of race, color, ancestry, national origin, religion or religious creed, mental or physical disability, medical condition, genetic information, (including pregnancy, childbirth, and related medical conditions), sexual orientation, gender identity, gender expression, sex, age, marital status, military or veteran status, citizenship, or other characteristics protected by provincial or federal law. We especially invite women, minorities, veterans, and individuals with disabilities to apply\n\nJob Type: Full-time\n\nPay: $4,000.00 per month\n\nApplication question(s):\n\u2022 Would you require work visa sponsorship to work in Canada?\n\u2022 Are you willing to relocate to Canada?\n\u2022 Do you have at least 8 years with Java development?\n\nLanguage:\n\u2022 English (required)\n\nWork Location: In person",
+            "location": "Waterloo, ON, Canada",
+            "employmentType": "",
+            "datePosted": "3 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Indeed",
+                    "url": "https://ca.indeed.com/viewjob?jk=45adec7cab0588a6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Glassdoor",
+                    "url": "https://www.glassdoor.ca/job-listing/gts-sr-java-developers-only-living-outside-of-canada-work-visa-provided-canada-venuiti-JV_IC2280158_KO0,78_KE79,86.htm?jl=1009527703321&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Glassdoor",
+                    "url": "https://www.glassdoor.com/job-listing/gts-sr-java-developers-only-living-outside-of-canada-work-visa-provided-canada-venuiti-JV_IC2280158_KO0,78_KE79,86.htm?jl=1009527703321&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "SimplyHired",
+                    "url": "https://fr.simplyhired.ca/job/j_6bT0AhuWVXxST2zGzdnG7tsLsnW7bYty04tjWrXr5Qq8OAwVRUbw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "BeBee Canada Meet Opportunities",
+                    "url": "https://ca.bebee.com/job/eb9594ad799b018ee81f051875ee9276?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                }
+            ]
+        }
+    ]
+}

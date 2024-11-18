@@ -1,0 +1,686 @@
+{
+    "jobs": [
+        {
+            "jobType": "full_stack_developer",
+            "title": "Full-Stack\u202f.NET\u202fDeveloper\u202f(Web & Desktop)",
+            "company": "Whitecap Canada",
+            "description": "Are you a passionate Full-Stack NET Developer looking for an exciting opportunity to showcase your skills? Whitecap Canada Inc. is seeking a talented individual to join our hybrid team as a Full-Stack .NET Developer. If you have a strong background in designing and developing systems using a wide range of technologies, including HTML5, CSS, JavaScript, C#, ASP.NET, MVC, EF, NET6+, and more, then this role is perfect for you!\n\nResponsibilities:\n\u2022 Designing and developing cutting-edge systems using HTML5, CSS, JavaScript/TypeScript, XML, web services, jQuery, C#, ASP.NET, MVC, EF, .NET Framework, NET6+, WinForms, Visual Studio / Visual Studio Code, and TFS.\n\u2022 Utilizing presentation layer frameworks such as React, Angular, and Bootstrap to create compelling user interfaces.\n\u2022 Working with MS SQL Server, MySQL/MariaDB to develop robust database solutions.\n\u2022 Collaborating with cross-functional teams to deliver high-quality, user-focused software solutions in a timely manner.\n\u2022 Applying UX best practices to create intuitive and visually appealing application interfaces.\n\u2022 Be in the office twice a week. (Tuesday\u2019s & Thursday\u2019s)\n\nRequirements:\n\u2022 10+ years of professional experience in a software development role\n\u2022 Very strong programming skills in one or more of our core languages (C#, .NET Framework, Net6+, JavaScript/TypeScript, ASP.NET, MVC, EF)\n\u2022 3+ years of professional experience in mobile development and/or responsive web design (iOS, Android and/or Maui/Xamarin)\n\u2022 Deep understanding of each of the parts that make up a modern web application (APIs, templating, routing, data storage, design patterns, optimization, caching, security)\n\u2022 Fundamental knowledge of core web principals (HTTP, DOM, SSL, web servers, client-side debugging)\n\u2022 Must have front-end framework experience using Angular or React.\n\u2022 Git, Azure DevOps, and Azure Portal are highly desirable but not required.\n\u2022 Nice to have GCP and Docker experience\n\u2022 Fluency with relational databases, SQL or alternative, NoSQL databases\n\u2022 Extensive experience with SQL, Stored Procedures, Views, Tables, Functions and Databases\n\u2022 Great interpersonal skills: we work very closely together as a team and require a lot of communication.\n\u2022 A love and passion for improving software development workflows and processes.\n\nWhy choose Whitecap?\n\nWe have been developing leading custom software solutions for over 25 years and have helped an impressive array of clients digitize and modernize their operations. That kind of success does not happen by accident. One of the reasons clients choose us is because of our people. We have built a team of skilled, passionate, and diverse people. We are incredibly proud of our team and the culture we have built together.\n\nAt Whitecap Canada Inc., we value innovation, teamwork, and a commitment to excellence. As a Full-Stack .NET Developer, you will have the opportunity to work on exciting projects, collaborate with a talented team, and contribute to the development of cutting-edge systems.\n\nHere is what you can expect as a member of the Whitecap family:\n\u2022 A diverse client portfolio with exciting projects.\n\u2022 An easy-going, fun, hybrid working environment.\n\u2022 Supportive, family-oriented, no-burnout culture.\n\u2022 Open, honest, and two-way communication with management.\n\u2022 A comprehensive benefits package, including mental health support services.\n\u2022 A competitive salary, bonuses, and profit sharing.\n\u2022 Social activities like company lunches, games, contests, etc.\n\u2022 All the coffee you need to power you through the day while in the office.\n\nAs part of our hybrid working structure, we expect our team members to work from the office two days a week. Our Toronto office is located at 200 Yorkland Blvd., with easy access from the 401, DVP, and 404. The building includes a free shuttle bus service to Fairview Mall and Don Mills Subway Station several times a day. And there are many great lunch spots within walking distance, including Aroma, Burrito Boyz, Burgers Park and more.\n\nWe offer a competitive salary, a comprehensive benefits package, profit sharing, and a supportive work environment that fosters growth and career development. Join us and be part of a dynamic organization at the forefront of technological advancements.\n\nTo apply, please submit your resume, and any relevant certifications to hr@whitecapcanada.com We look forward to reviewing your application and potentially welcoming you to our team!\n\nNote: Only selected candidates will be contacted for an interview.",
+            "location": "Toronto, ON, Canada",
+            "employmentType": "",
+            "datePosted": "2 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/full-stack%E2%80%AF-net%E2%80%AFdeveloper%E2%80%AF-web-desktop-at-whitecap-canada-4075844194?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "C#"
+                },
+                {
+                    "name": "JavaScript"
+                },
+                {
+                    "name": "TypeScript"
+                },
+                {
+                    "name": "HTML"
+                },
+                {
+                    "name": "CSS"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "SQL"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Git"
+                },
+                {
+                    "name": "React"
+                },
+                {
+                    "name": "Angular"
+                },
+                {
+                    "name": "Bootstrap"
+                },
+                {
+                    "name": "MySQL"
+                },
+                {
+                    "name": "MariaDB"
+                },
+                {
+                    "name": "Docker"
+                },
+                {
+                    "name": "Azure"
+                },
+                {
+                    "name": "SSL"
+                },
+                {
+                    "name": "Visual Studio Code"
+                }
+            ]
+        },
+        {
+            "jobType": "full_stack_developer",
+            "title": "Java Full Stack Developer (Angular/React) - Hybrid",
+            "company": "Cognizant",
+            "description": "At Cognizant, our global community sets us apart\u2014an upbeat, collaborative and inclusive workplace where everyone can thrive. And with projects at the forefront of innovation, you can build a varied, rewarding career and draw encouragement from dedicated colleagues and leaders. Cognizant is right where you belong.\nRole overview\n\nWe are seeking a skilled Java Full Stack Developer with expertise in Angular or React to join our dynamic team. In this role, you will be responsible for developing and enhancing web applications that provide seamless user experiences across various platforms. The ideal candidate will have a strong foundation in both front-end and back-end development, allowing them to work on all aspects of our software applications. You will collaborate closely with product managers, UX/UI designers, and other developers to translate business requirements into technical specifications, ensuring that our applications are not only functional but also aesthetically pleasing. The position involves participating in the entire software development lifecycle, from concept to deployment and maintenance.\nWhat you\u2019ll do\n\nIn this role, you will:\n\u2022 Participate in all aspects of agile software development, including design, implementation, dev testing and deployment.\n\u2022 Architect and provide guidance on building end-to-end systems optimized for speed and scale.\n\u2022 Work primarily in Java, Spring Boot and Angular/React\n\u2022 Engage with UX designer and collaborate with leading back-end engineers to create reliable APIs.\n\u2022 Work with agile development methodologies, adhering to standard processes and pursuing continued learning opportunities.\nWhat you bring to the role\n\nTo excel in this role, you should bring:\n\u2022 Minimum 8+ years of experience in building, designing and deploying web applications and RESTful APIs\n\u2022 Minimum 8+ years of experience in Java, Spring, Spring Boot, Javascript\n\u2022 Minimum 5+ years of experience in React or Angular framework (preferably React)\n\u2022 Experience in developing/designing micro-service architecture.\n\u2022 Extensive experience in one of the cloud providers AWS/Azure and migrating large scale complex projects from on-prem to Cloud including in-between hybrid options\nWorking arrangements\n\nWe believe hybrid work is the way forward as we strive to provide flexibility wherever possible. Based on this role\u2019s business requirements, this is a hybrid position requiring 2 days a week in a client or Cognizant office in Toronto, ON. Regardless of your working arrangement, we are here to support a healthy work-life balance though our various wellbeing programs.\n\nNote: The working arrangements for this role are accurate as of the date of posting. They may be subject to change based on the specific project and business requirements. However, we will always communicate any changes and be transparent about role expectations.",
+            "location": "Ontario, Canada",
+            "employmentType": "",
+            "datePosted": "5 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Cognizant Careers",
+                    "url": "https://careers.cognizant.com/global-en/jobs/00061590731/java-full-stack-developer-angularreact-hybrid/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Talentify",
+                    "url": "https://www.talentify.io/job/java-full-stack-developer-angularreact-hybrid-toronto-on-5140-yonge-st-ontario-ca-cognizant-technologies-00061590731?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "React"
+                },
+                {
+                    "name": "Angular"
+                },
+                {
+                    "name": "Spring Boot"
+                },
+                {
+                    "name": "AWS"
+                },
+                {
+                    "name": "Azure"
+                }
+            ]
+        },
+        {
+            "jobType": "full_stack_developer",
+            "title": "Senior Full Stack Developer",
+            "company": "Royal Bank of Canada",
+            "description": "Job Summary\n\nProvides information on the detailed technical design and development of applications using existing and emerging technology platforms. Applies experience and seasoned knowledge, skills, and practices to perform a variety of assignments.\n\nJob Description\n\nWhat is the opportunity?\n\nYou will be part of a team of enthusiastic engineers building front-end applications and APIs/micro-services in this role. You will work with all stakeholders to design best-in-class technology solutions.\n\nWhat will you do?\n\u2022 Develop and maintain front end apps using the Angular framework (Angular 7 or above)\n\u2022 Develop APIs using Node.Js (preferred) and/or Java Springboot.\n\u2022 Build reusable and fully tested (unit tests) code using tools like Jest, Jasmine, Karma, and Protractor.\n\u2022 Optimize applications for maximum usability and function.\n\u2022 Design highly scalable and extensible services\n\u2022 Create estimates for given tasks/features.\n\u2022 Design front end with the industry best practices.\n\nWhat do you need to succeed?\n\nMust-have\n\u2022 Strong proficiency in MEAN stack (Angular, Express, Node.JS, and MongoDB).\n\u2022 Good working knowledge in on-prem and/or public cloud and deployment.\n\u2022 Experience with REST and/or GraphQL\n\u2022 Experience with modern dev-ops techniques experience is a must. We use GitHub, UrbanCode, and Jenkins.\n\nNice to Have\n\u2022 Some experience with ReactJS\n\u2022 Expertise with one or more databases and related technologies (MongoDB, Elastic-Search, SQL server, Oracle, Kafka)\n\nWhat\u2019s in it for you?\n\u2022 A comprehensive Total Rewards Program including bonuses and flexible benefits, competitive compensation and stock where applicable.\n\u2022 Leaders who support your development through coaching and managing opportunities\n\u2022 A startup like environment with all the job security of the number one financial institution.\n\u2022 Ability to make a difference and lasting impact\n\u2022 Work in a friendly, dynamic, collaborative, progressive, and high-performing team.\n\u2022 A world-class training program\n\u2022 Fun and supportive environment that values personal aspirations as much as the results to be delivered.\n\n#Ll-Hybrid\n#Ll-POST\n#TECHPJ\n\nJob Skills\nAngular, AngularJS, Application Development, Application Integrations, Application Maintenance, Applications Architecture, Detail-Oriented, Enterprise Application Delivery, Group Problem Solving, Programming Languages, Software Development Life Cycle (SDLC), System Applications\n\nAdditional Job Details\n\nAddress:\n\n335 8 AVE SW:CALGARY\n\nCity:\n\nCALGARY\n\nCountry:\n\nCanada\n\nWork hours/week:\n\n37.5\n\nEmployment Type:\n\nFull time\n\nPlatform:\n\nTECHNOLOGY AND OPERATIONS\n\nJob Type:\n\nRegular\n\nPay Type:\n\nSalaried\n\nPosted Date:\n\n2024-10-16\n\nApplication Deadline:\n\n2024-11-29\n\nNote: Applications will be accepted until 11:59 PM on the day prior to the application deadline date above\n\nInclusion and Equal Opportunity Employment\n\nAt RBC, we embrace diversity and inclusion for innovation and growth. We are committed to building inclusive teams and an equitable workplace for our employees to bring their true selves to work. We are taking actions to tackle issues of inequity and systemic bias to support our diverse talent, clients and communities.\n\u200b\u200b\u200b\u200b\u200b\u200b\u200b\nWe also strive to provide an accessible candidate experience for our prospective employees with different abilities. Please let us know if you need any accommodations during the recruitment process.\n\nJoin our Talent Community\n\nStay in-the-know about great career opportunities at RBC. Sign up and get customized info on our latest jobs, career tips and Recruitment events that matter to you.\n\nExpand your limits and create a new future together at RBC. Find out how we use our passion and drive to enhance the well-being of our clients and communities at jobs.rbc.com.",
+            "location": "Calgary, AB, Canada",
+            "employmentType": "",
+            "datePosted": "14 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "RBC Careers",
+                    "url": "https://jobs.rbc.com/ca/en/job/R-0000102357/Senior-Full-Stack-Developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/senior-full-stack-developer-at-ndax-3891655271?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Jobs By Workable",
+                    "url": "https://apply.workable.com/ndax/j/07A273ED78/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "ZipRecruiter",
+                    "url": "https://www.ziprecruiter.com/c/NDAX-Canada-Inc./Job/Senior-Full-Stack-Developer/-in-Calgary,AB?jid=c31b063409c32905&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Glassdoor",
+                    "url": "https://www.glassdoor.ca/job-listing/senior-full-stack-developer-alberta-motor-association-JV_IC2275123_KO0,27_KE28,53.htm?jl=1009501942301&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Indeed",
+                    "url": "https://ca.indeed.com/viewjob?jk=b0e6c60ea0d697f7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Jobillico",
+                    "url": "https://www.jobillico.com/en/job-offer/rbc-uiymvf/senior-full-stack-developer/14680448?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Jooble",
+                    "url": "https://ca.jooble.org/jdp/-7323470237147773416?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "Go"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "SQL"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Git"
+                },
+                {
+                    "name": "GitHub"
+                },
+                {
+                    "name": "React"
+                },
+                {
+                    "name": "Angular"
+                },
+                {
+                    "name": "Express"
+                },
+                {
+                    "name": "MongoDB"
+                },
+                {
+                    "name": "Jenkins"
+                },
+                {
+                    "name": "Kafka"
+                }
+            ]
+        },
+        {
+            "jobType": "full_stack_developer",
+            "title": "Full-Stack Developer",
+            "company": "DLL",
+            "description": "You Can\n\u2022 Design, develop, and maintain web applications using React and React Bootstrap.\n\u2022 Build and manage APIs using Node.js/Express.\n\u2022 Work with MongoDB for data storage and management.\n\u2022 Implement ORM (Sequelize) for database operations, primarily with Oracle and SQL Server.\n\u2022 Integrate the system with multiple back-end systems and external APIs (e.g., Pega workflow system, DocuSign, Equifax, SmartComm).\n\u2022 Collaborate with cross-functional teams to define, design, and ship new features.\n\u2022 Ensure the performance, quality, and responsiveness of applications.\n\u2022 Identify and correct bottlenecks and fix bugs.\n\u2022 Maintain code quality, organization, and automation.\n\u2022 This is NOT a remote position\n\nFind out more here about how you can unleash your full potential at DLL!\n\nDay to Day\n\u2022 Develop and enhance user-facing features using React and React Bootstrap.\n\u2022 Write clean, maintainable, and efficient code using Node.js/Express.\n\u2022 Manage and query data in MongoDB, Oracle, and SQL Server.\n\u2022 Utilize ORM (Sequelize) for effective database interactions.\n\u2022 Integrate with third-party services and APIs for functionality such as electronic signatures, credit checks, and document management.\n\u2022 Troubleshoot and debug applications to optimize performance.\n\u2022 Participate in code reviews and team meetings.\n\u2022 Stay updated with the latest industry trends and technologies to ensure the best practices are followed.\n\nAll members enjoy\n\u2022 Two working days per year volunteering for a local charity.\n\u2022 Health and Wellness program including healthy food, free health checks, fun health & vitality activities.\n\u2022 Flexible hours with possibility to work from home\n\u2022 Career development opportunities: online learning, member development programs.\n\u2022 Click this link for an overview of all the benefits in your region.\n\nEssentials\n\u2022 Bachelor\u2019s degree in Computer Science, Engineering, or related field (or equivalent work experience).\n\u2022 Proven experience as a Full-Stack Developer or similar role.\n\u2022 Strong proficiency in JavaScript and frameworks/libraries such as React and React Bootstrap.\n\u2022 Extensive experience with Node.js and Express.\n\u2022 Proficiency in MongoDB, Oracle, and SQL Server.\n\u2022 Experience with ORM (Sequelize) and direct database access.\n\u2022 Familiarity with API integration and handling external systems (e.g., Pega, DocuSign, Equifax, SmartComm).\n\u2022 Understanding of RESTful APIs and asynchronous request handling.\n\u2022 Strong problem-solving skills and attention to detail.\n\u2022 Excellent communication and teamwork skills.\n\nPreferred Skills\n\u2022 Experience with credit origination and account management systems.\n\u2022 Knowledge of financial services and related technologies.\n\u2022 Familiarity with DevOps practices and tools.\n\u2022 Experience with agile methodologies.\n\nChoose Wellbeing\n\nDLL\u2019s wellbeing ambition is to educate, equip and empower members to build connections, manage their mental, emotional, physical and financial wellness and maintain balance between work and the other priorities that make up their lives.\n\nOur Four Wellbeing Categories Are As Follows\n\u2022 Connection \u2013 Build meaningful connections with other DLL members\n\u2022 Health \u2013 Manage mental, emotional and physical health\n\u2022 Finance \u2013 Provide learning opportunities to help members achieve personal financial health\n\u2022 Lifestyle \u2013 Maintain balance between work and life priorities\n\nThere are things that matter to our members and the wellbeing of our members matters to DLL!\n\nSettling In\n\nAt DLL, we are many things. We are team members, family members, community member. We are members of society, members of different cultures and nationalities. Members of change. We each have different beliefs, different passions, different viewpoints, talents and interests. We become from different backgrounds, cultures, nationalities and histories.\n\nBut for all of our differences, we share one thing in common: each of us are members of DLL.\n\nOur company was founded in the Netherlands. But today we are truly a multinational business. Our unique culture is rooted in higher collaboration, less hierarchy and a honest directness that enable us to integrate, ideate and innovate across country lines.\n\nMany companies say they are European, American, Asian or Australian, at DLL we are all these places and more.\n\nWe are a cross-culture collaborative \u2013 an interconnected network \u2013 that comes together every single day with one goal in mind: Partnering for a better world.\n\nGood to Know\n\nDesired Primary Work Location: Burlington, CA\n\nApplicable Pay Range\n\n$86,000 - $129,000\n\nDLL is considering candidates in numerous locations. The pay estimate displayed represents the typical pay range for candidates hired for this position in the desired primary work location. Pay may be adjusted outside the projected range based on geographical differentiation as well as for any other lawful reason. Additional factors that may be used to determine your actual pay include your specific skills, years of relevant experience you possess, and other work-related qualifications. Many candidates may start in the bottom half of the applicable pay range, especially those with less experience or qualification.\n\nThis position is subject to the terms of DLL\u2019s compensation plans and policies. Further, the position includes all other benefits provided to DLL employees, including healthcare benefits, pension plan, vacation, sick leave, parental leave, possible discretionary bonuses, and all other benefits that are subject to eligibility.\n\u2022 Deadline for application: November 29, 2024 (Due to high volume of applications this requisition may close prior to posted close date)\n\u2022 The selection process may involve an assessment.\n\u2022 Applications via email will not be reviewed. Please apply online via our career website: workingatdllgroup.com\n\u2022 DLL\u2019s referral program applies\n\u2022 For more information, please contact our Talent acquisition partner Puneet Nagi via Puneet.Nagi@dllgroup.com\n\nDLL appreciates the time you spend applying to our openings. We advise only those who qualify for an interview will be contacted. Hiring subject to successful completion of a background check.\n\nDLL is an equal opportunity employer. We are committed to inclusive, barrier-free recruitment and selection processes and work environments. If contacted for an employment opportunity, please advise Human Resources if you require accommodation in accordance with our values and all applicable legislation.",
+            "location": "Burlington, ON, Canada",
+            "employmentType": "",
+            "datePosted": "3 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/full-stack-developer-at-dll-4076934102?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Levels.fyi",
+                    "url": "https://www.levels.fyi/jobs?jobId=75806552514011846&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Jobrapido.com",
+                    "url": "https://ca.jobrapido.com/jobpreview/1342244874195304448?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "SnapJobSearch.com CA",
+                    "url": "https://ca.snapjobsearch.com/jobs/view/1534439?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "Go"
+                },
+                {
+                    "name": "JavaScript"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "SQL"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "React"
+                },
+                {
+                    "name": "Bootstrap"
+                },
+                {
+                    "name": "Node.js"
+                },
+                {
+                    "name": "Express"
+                },
+                {
+                    "name": "MongoDB"
+                }
+            ]
+        },
+        {
+            "jobType": "full_stack_developer",
+            "title": "Fullstack Developer",
+            "company": "Citi",
+            "description": "The Java Developer is responsible for working alongside Citi\u2019s Financial Resource Management (FRM) team across technology to design and code cutting-edge solutions to exciting business problems. We are currently focusing on the technical buildout of Iris, an exciting new product suite of modern applications that will enhance Citi\u2019s loan hedging capabilities.\n\nResponsibilities:\n\u2022 Conduct tasks related to feasibility studies, time and cost estimates, IT planning, risk technology, applications development, model development, and establish and implement new or revised applications systems and programs to meet specific business needs or user areas\n\u2022 Monitor and control all phases of development process and analysis, design, construction, testing, and implementation as well as provide user and operational support on applications to business users\n\u2022 Utilize in-depth specialty knowledge of applications development to analyze complex problems/issues, provide evaluation of business process, system process, and industry standards, and make evaluative judgement\n\u2022 Recommend and develop security measures in post implementation analysis of business usage to ensure successful system design and functionality\n\u2022 Consult with users/clients and other technology groups on issues, recommend advanced programming solutions, and install and assist customer exposure systems\n\u2022 Ensure essential procedures are followed and help define operating standards and processes\n\nQualifications:\n\u2022 5-8 years of relevant experience in systems analysis and programming of modern full stack software applications\n\u2022 Experience designing, implementing, and maintaining applications with Java Spring Boot\n\u2022 Must have experience programming in Angular (14+)\n\u2022 Experience with relational databases like SQL Server and Oracle, and NoSQL databases like MongoDB\n\u2022 Hands-on experience with Docker/K8s/OpenShift/AWS would be a plus.\n\u2022 Results-oriented, and a quick learner of new tools & technologies\n\nEducation:\n\u2022 Bachelor\u2019s degree/University degree ( computer science, computer engineering, mathematics or related degree)\n\nWhat would you get in return:\n\u2022 Competitive salary connected with annual salary review and discretionary annual performance bonus\n\u2022 Social benefits (private healthcare, award winning pension scheme, multisport, life insurance, holiday allowance, anniversary program, competitive maternity and paternity scheme)\n\u2022 Hybrid model of work \u2013 from modern offices and from home, flexible working hours\n\u2022 Working in a friendly, dynamic, supportive, and diverse environment \u2013 including multiple affinity and social networks & voluntary activities to engage with\n\u2022 Structured onboarding process and extensive training offering (e.g., including Udemy, Degreed)\n\u2022 Opportunity to have an influence on the way you perform your tasks - our teams are constantly looking for new and better ways and we encourage all improvement ideas\n\u2022 Unlimited development opportunities within Citi global network.\n\u2022 Exposure to a wide range of internal stakeholders as well as to senior management\n\n------------------------------------------------------\n\nJob Family Group:\nTechnology\n\n------------------------------------------------------\n\nJob Family:\nApplications Development\n\n------------------------------------------------------\n\nTime Type:\nFull time\n\n------------------------------------------------------\n\nCiti is an equal opportunity and affirmative action employer.\n\nQualified applicants will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.\n\nCitigroup Inc. and its subsidiaries (\"Citi\u201d) invite all qualified interested applicants to apply for career opportunities. If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi.\n\nView the \"EEO is the Law\" poster. View the EEO is the Law Supplement.\n\nView the EEO Policy Statement.\n\nView the Pay Transparency Posting",
+            "location": "Mississauga, ON, Canada",
+            "employmentType": "",
+            "datePosted": "",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Citi Careers",
+                    "url": "https://jobs.citi.com/job/mississauga/fullstack-developer/287/69642105200?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Indeed",
+                    "url": "https://ca.indeed.com/viewjob?jk=8a384d4a4ade7968&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Glassdoor",
+                    "url": "https://www.glassdoor.ca/job-listing/fullstack-developer-citi-JV_IC2280741_KO0,19_KE20,24.htm?jl=1009437857133&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Jooble",
+                    "url": "https://ca.jooble.org/jdp/-1919541286665827590?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "SimplyHired",
+                    "url": "https://www.simplyhired.ca/job/Y5Q0YKsAkLzJKmogyEQ06kS5QJu9dQgHsdcnngGXQGrwPgevd6Q53Q?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Expertini | Canada Jobs Expertini",
+                    "url": "https://ca.expertini.com/jobs/job/fullstack-developer-mississauga-citigroup-citi-69642105200/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Nexxt",
+                    "url": "https://www.nexxt.com/jobs/fullstack-developer-mississauga-on-ca-2743550573-job.html?aff=2ED44C72-8FD2-4B5D-BC54-2F623E88BE26&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Jobrapido.com",
+                    "url": "https://ca.jobrapido.com/jobpreview/1404963594424025088?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "SQL"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Angular"
+                },
+                {
+                    "name": "Spring Boot"
+                },
+                {
+                    "name": "MongoDB"
+                },
+                {
+                    "name": "Docker"
+                },
+                {
+                    "name": "AWS"
+                }
+            ]
+        },
+        {
+            "jobType": "full_stack_developer",
+            "title": "Full Stack Developer",
+            "company": "Accenture",
+            "description": "We are:\n\nThe Advanced Technology Centers (ATCs) is the engine for reinvention in our clients\u2019 transformation journey. Powered by more than 255,000* people across 24 countries, ATCs will provide our clients seamless access to industry insights and innovative technology solutions. Stronger together! The Advanced Technology Centers (ATCs) make tremendous impact in solving our clients\u2019 business problems leveraging Innovation, Intelligence, Industry insights, new IT and new technology skills. Now, with the global environment changing at a faster pace, our clients are facing unprecedented challenges, and they need us more than ever before. As a Network, ATCs are positioned to unlock greater opportunities and exponential value for our clients.\n\nThe value for our clients and our people\n\nFor our clients, the Network provides the strength of our geographic diversity, greater resilience, and seamless access to the deepest industry knowledge, the latest in Gen AI solutions, and tech expertise from around the world. For our people, it brings an opportunity to shape truly boundaryless career paths in a highly collaborative team of experts where they can learn from each other and solve the world\u2019s most complex client challenges.\n\nYou are:\n\nReady to apply your cloud native mastery and coding chops to help make the Cloud work better for our client\u2019s. You\u2019re equal parts big-picture strategic thinker and eagle-eyed analyst, which makes you a major asset when it comes to finding solutions to tough client problems. You welcome a challenge and thrive in problem-solving, team-oriented environments. And you\u2019re a clear and effective communicator both in-person and on the page.\n\nThe work:\n\nThe work in our Cloud Innovation Center is highly dynamic. Starting with our Lean XP (eXtreme Programming) delivery methodologies, you will be working in a team to deliver value to our customers. Our engineers work in a 1:1 pairing model to be both a mentor and student of their software craft. Using a TDD (Test Driven Development) methodology, you will ensure that you are building high quality software at pace.\n\u2022 Work with the Cloud Native Architecture Team to deliver client solutions beyond 12 factor applications born for the cloud\n\u2022 Design and deliver complex custom applications designed to enable change for our clients businesses\n\u2022 Work on every phase of creating Cloud Native applications across cloud providers like AWS, Azure, GCP, and others\n\u2022 Conduct assessments, build blueprints and roadmaps, build proofs of concept, and write technical points of view\n\u2022 This role will require 3 days per week at the local corporate office.",
+            "location": "Montreal, Quebec, Canada",
+            "employmentType": "",
+            "datePosted": "",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Accenture",
+                    "url": "https://www.accenture.com/ca-en/careers/jobdetails?id=R00239464_en&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Maya HTT",
+                    "url": "https://jobs.mayahtt.com/careers/78191-En/jobs/16552461-Full-Stack-Developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Smart Recruiters Jobs",
+                    "url": "https://jobs.smartrecruiters.com/AlterSolutions/744000022573470-developer-full-stack?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "ZipRecruiter",
+                    "url": "https://www.ziprecruiter.com/c/dcbel-Inc/Job/Full-Stack-Developer/-in-Montreal,QC?jid=76491c59052c6c5b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Indeed",
+                    "url": "https://ca.indeed.com/viewjob?jk=491c82391b79ee4c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Crossover",
+                    "url": "https://www.crossover.com/job-roles/software-engineering/canada/city/montreal/c-a0q2j000007SQvJAAW/gt.school-full-stack-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Dice",
+                    "url": "https://www.dice.com/job-detail/5fa6cf06-ad12-4287-b3f2-b94eacff6127?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Eluta.ca",
+                    "url": "https://www.eluta.ca/spl/full-stack-developer-d64e530306be25d8550c98d1917cbee1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "TDD"
+                },
+                {
+                    "name": "AWS"
+                },
+                {
+                    "name": "Azure"
+                }
+            ]
+        },
+        {
+            "jobType": "full_stack_developer",
+            "title": "full stack developer",
+            "company": "SPRH CONSULTING INC.",
+            "description": "Education: Bachelor's degree. Experience: 2 years to less than 3 years. Health benefits: Health care plan. Other benefits: Other benefits.",
+            "location": "Oshawa, ON, Canada",
+            "employmentType": "",
+            "datePosted": "3 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Job Bank",
+                    "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/42548989;jsessionid=8C7BF485B23DB5324E473200AC9DF5C0.jobsearch77?source=searchresults&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "BeBee Canada Meet Opportunities",
+                    "url": "https://ca.bebee.com/job/9f426dc463bccaf88fe08444ed89a459?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "SimplyHired",
+                    "url": "https://fr.simplyhired.ca/job/6ucoQeGs-lU7KtOljaAGC0Rq9XdAxPaEVnP5M2tN0d9ISt-54fUH4g?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Talentify",
+                    "url": "https://www.talentify.io/job/full-stack-developer-oshawa-ontario-government-of-canada-central-41482906?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "JobOffer.com",
+                    "url": "https://joboffer.com/jobs/Full-Stack-Developer-c74860e5b4718a1d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Jobs Trabajo.org",
+                    "url": "https://ca.trabajo.org/job-3026-ac73530d07bc57a453275c8ec0bb4f18?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": []
+        },
+        {
+            "jobType": "full_stack_developer",
+            "title": "Junior Full-Stack Developer",
+            "company": "Q Wealth Partners",
+            "description": "Jr. Full Stack Developer. This is a 3 month contract role that has the opportunity to become full-time.\n\nDevelopment and Technology Operations duties, including but not limited to\n\u2022 Help maintain the help desk queue and provide initial support for the QSuite of applications and integrations\n\u2022 Write and refactor existing code with the goal of building scalable, robust and expandable solutions\n\u2022 Create unit tests for developed solutions where appropriate or required\n\u2022 Working closely with Sr Developers; Develop software with an emphasis on concretely enhancing user experience (when UI-based) and reusable structures and components (when BE-based)\n\u2022 Participate in code reviews\n\u2022 Other responsibilities as dictated by the needs of Platform Development\n\nTechnologies\n\u2022 Understanding of most elements of full stack development with competencies in all major facets (front-end development, back-end development, database development/interface)\n\u2022 Development capabilities in one or more of the following technologies:\n\u2022 MySQL (SQL in general)\n\u2022 Python (primarily for, but not limited to, API development)\n\u2022 Javascript/Typescript\n\u2022 React JS/Node Js\n\u2022 CSS and general layout\n\nOther needs as dictated by the business.",
+            "location": "Toronto, ON, Canada",
+            "employmentType": "",
+            "datePosted": "3 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/junior-full-stack-developer-at-q-wealth-partners-4077916185?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Fullstack Jobs - OnSite And Remote Full Stack Jobs",
+                    "url": "https://fullstackjob.com/job/2LUIkP6rOCI5p99fFxH9CAjnKFY/Junior%20Full-stack%20Developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Python"
+                },
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "CSS"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "SQL"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "React"
+                },
+                {
+                    "name": "MySQL"
+                }
+            ]
+        },
+        {
+            "jobType": "full_stack_developer",
+            "title": "Intermediate Full Stack Developer",
+            "company": "Hitachi Careers",
+            "description": "About Us\n\nA career at Hitachi Rail will help create a legacy. With operations in every corner of the world, our work goes to the cutting-edge of digital transformation and technology. From the multi-cultural strength of our global organisation to the sustainable and innovative ways we work to bring people together, there's something for everyone to get stuck into. And that's where you come in.\n\nToronto, Ontario, Canada (Hybrid)\n\nAs an Intermediate Full Stack Developer within the Hitachi Rail GTS-URS Data Competency Centre (DCC), you will strive to deliver Digital Products and Services hosted both On-Premises and on Cloud Platforms that delight customers and users. Ready to be flexible and proactive, whilst being comfortable with learning a new domain, concepts and techniques. You will be working with AGILE methodologies, where knowledge of Cloud technologies, Data Analytics, Site Reliability and DevSecOps principles will be a valuable asset to the team.\n\nFocused primarily on our Digital Products and Data Analytics, you will be working collaboratively in an international context to ensure development and support of the solution. From UX design, clean and secure coding, QA, deployment on core or on cloud platform and service delivery and proper documentation write-up, you will be directly contributing to all aspects of define and delivery of core new products for the business. The Data Competency Center's Platform leverages the abundance of data generated during day-to-day passenger operation for urban railways in every continent and has a direct impact on commuter experience and project execution with improvements such as better passenger travel times, faster system reliability growth, and less passenger service disruptions.\n\nKey Accountabilities:\n\u2022 Development of both front-end and back-end software solutions, testing and debugging, validation, demonstration and operation of software solutions/services, including provisioning, packaging, deployment, administration, software requirements and software design documentation\n\u2022 Develop, test and manage APIs for seamless integration with other services\n\u2022 Delivery of high-quality best-practice clean and secure code via CI/CD Pipelines\n\u2022 Contribute to solving complex technical integration problems and to work collaboratively with the rest of the team to build a shared approach consensus\n\u2022 Review code, test procedures and test results.\n\u2022 Identify the root cause and implement corrections for software defects.\n\u2022 Propose solutions appropriate for the phase of the project and the duration of the planned activity.\n\u2022 Utilization of Cross-Platform Optimization on both On-Premise and Cloud platform to meet the project requirements with cybersecurity implications identification\n\u2022 Work in an Agile, cross-functional multinational team, actively engaging to support the success of the team. Collaborate with other developers, designers and the product team to create scalable software solutions\n\nKey Requirements\n\u2022 Minimum 3 years relevant working experience\n\u2022 University degree in Computer Science, Engineering or a closely related field\n\u2022 Intermediate Level Skills in Back-End Development with: Java (Spring Boot, Hibernate, Maven, Junit, Mockito), Python\n\u2022 Intermediate Level Experience in Front-End Languages: HTML, CSS, JavaScript/TypeScript, and frameworks like React or Angular\n\u2022 Intermediate Level in Database Management: Experience with SQL and/or NoSQL databases like PostgreSQL, MongoDB, etc.\n\u2022 Object storage (Azure Data Lake/AWS S3 or similar)\n\u2022 DevOps skills and technologies: version control with Git (GitLab/Bitbucket or similar), Docker, Artifactory, CI/CD (Jenkins, GitLab CI/CD or similar)\n\u2022 Knowledge of cloud and containerization, particularly AZURE, clustered deployment orchestration (Kubernetes), containers (Docker)\n\u2022 Experience managing competing priorities simultaneously and driving projects to completion\n\u2022 Problem-Solving Abilities: Strong Analytical skills to understand and solve complex issues\n\u2022 Communication Skills: Ability to effectively communicate with team members and stakeholders\n\nPreferred Qualifications\n\u2022 Python development skills and experience with various data science libraries such as Pandas, Numpy, etc.\n\u2022 Experience with big data, data analytics pipelines platforms and visualizations tools e.g. Kibana, Elasticsearch/ELK, Grafana, Superset, Apache Spark, Azure Data Lake, Data Bricks\n\u2022 Possess understanding and previous use of common integration patterns for cloud, web services and public API Gateway deployments, (ingress web-server, web-proxy, load-balancer, firewall, databases, etc.)\n\u2022 Experience in railway signaling, air traffic, avionics or similar critical system domains\n\u2022 Interest in Artificial Intelligence (AI) and Machine Learning (ML)\n\nThank you for your interest in Hitachi Rail. If your application is of interest, we will be in contact. Please do not hesitate to discover more about us and our latest jobs at https://www.hitachirail.com/careers .\n\nAt Hitachi Rail, there is a place for everyone. We welcome and value differences in background, age, gender, sexuality, family status, disability, race, nationality, ethnicity, religion, and world view. It is our commitment to create an inclusive environment - we are proud to be an equal opportunity employer.\n\nWe would be delighted if you would be one of our followers at https://www.linkedin.com/company/hitachirail .\n\n#LI-DD1",
+            "location": "Toronto, ON, Canada",
+            "employmentType": "",
+            "datePosted": "19 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Hitachi Careers",
+                    "url": "https://careers.hitachi.com/jobs/15133662-intermediate-full-stack-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Indeed",
+                    "url": "https://ca.indeed.com/viewjob?jk=efa9843d39f948a0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "ZipRecruiter",
+                    "url": "https://www.ziprecruiter.com/c/Weishaupt-Design-Group/Job/Intermediate-Full-Stack-Developer/-in-Toronto,ON?jid=a3825625851dadbf&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/intermediate-full-stack-developer-at-lightspeed-commerce-4048768689?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Built In Toronto",
+                    "url": "https://builtintoronto.com/job/intermediate-full-stack-developer/3355558?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Glassdoor",
+                    "url": "https://www.glassdoor.ca/job-listing/intermediate-full-stack-developer-thales-JV_IC2281069_KO0,33_KE34,40.htm?jl=1009505585498&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Welcome To The Jungle | Login",
+                    "url": "https://app.welcometothejungle.com/jobs/5Rq71YD0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Startup Jobs",
+                    "url": "https://startup.jobs/intermediate-full-stack-developer-lightspeed-commerce-5921311?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Python"
+                },
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "JavaScript"
+                },
+                {
+                    "name": "TypeScript"
+                },
+                {
+                    "name": "HTML"
+                },
+                {
+                    "name": "CSS"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "SQL"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Git"
+                },
+                {
+                    "name": "GitLab"
+                },
+                {
+                    "name": "Bitbucket"
+                },
+                {
+                    "name": "React"
+                },
+                {
+                    "name": "Angular"
+                },
+                {
+                    "name": "Spring Boot"
+                },
+                {
+                    "name": "Pandas"
+                },
+                {
+                    "name": "PostgreSQL"
+                },
+                {
+                    "name": "MongoDB"
+                },
+                {
+                    "name": "Elasticsearch"
+                },
+                {
+                    "name": "Docker"
+                },
+                {
+                    "name": "Kubernetes"
+                },
+                {
+                    "name": "Jenkins"
+                },
+                {
+                    "name": "AWS"
+                },
+                {
+                    "name": "Azure"
+                },
+                {
+                    "name": "Grafana"
+                },
+                {
+                    "name": "Artificial Intelligence"
+                },
+                {
+                    "name": "Machine Learning"
+                },
+                {
+                    "name": "Apache Spark"
+                }
+            ]
+        },
+        {
+            "jobType": "full_stack_developer",
+            "title": "Senior Full Stack Developer (Bilingual - French/English)",
+            "company": "Graphem Solutions",
+            "description": "Salary: Salary to be discussed based on experience and qualifications\n\nGraphem Solutions Inc. is expanding fast and looking for a dedicated\nSenior Full Stack Developer (Bilingual - French/English)\n\nVancouver Area, Canada\n\nAbout Graphem Solutions Inc.\n\nOur specialization is customized, tailor-made web design and coding that connects our clients with their customer base in innovative and efficient ways. Our care and expertise in website/web application development provide that valuable connection between a client and their customers. It is because of this that our clients return to us regularly. We have been instrumental in achieving business growth for our clients, with expansion from 5 figure revenue to over 7 figures.\n\nOur clientele over the past 13+ years consistently tells us they love working with us because of our great attitude and culture, our high level of technical expertise, unparalleled response times and customer service, and overall reliability. We\u2019d love to get to know you and give you the opportunity to experience this as part of our team.\n\nGraphem\u2019s Core Values\n\nCreativity:\n\nWe believe in the power of creativity to drive innovation and solve complex problems.\n\nCustomer Focus:\n\nWe are committed to delivering exceptional results and exceeding our customers\u2019expectations.\n\nTransparency:\n\nWe believe in open and honest communication, both with our team members and our customers.\n\nAccountability:\n\nWe take responsibility for our actions and hold ourselves accountable for delivering on our promises.\n\nQuality:\n\nWe are committed to delivering high-quality work and striving for excellence in everything we do.\n\nIntegrity:\n\nWe believe in doing what is right, even when it\u2019s not the easiest or most popular choice.\n\nThe Ideal Candidate Graph\u2019em is Looking For:\n\nBilingual Senior Full Stack Developer\n\nWe're seeking an experienced Full Stack Developer with project management skills to join our team. The ideal candidate will have a strong background in both front-end and back-end development, with expertise in various technologies and frameworks, as well as the ability to lead projects, in collaboration with our CTO.\n\nRequired Qualifications:\n\u2022 Bachelor's degree in Computer Science, Software Engineering, or related field\n\u2022 Fluency in French and English\n\u2022 7+ years of experience as a Full Stack Developer\n\u2022 Strong proficiency in PHP with 5+ years of backend development experience\n\u2022 Extensive experience with WordPress, including custom plugin and theme development\n\u2022 3+ years of experience with Laravel framework\n\u2022 5+ years of JavaScript development\n\u2022 Proficiency in at least one modern JavaScript framework (React, Vue.js, or Angular)\n\u2022 Experience with Linux server administration and VPS management\n\u2022 Familiarity with AWS cloud services\n\u2022 Proven track record in team leadership and project management\n\u2022 Expert-level proficiency with Git and version control best practices\n\u2022 Strong client communication and relationship management skills\n\nPreferred Qualifications:\n\u2022 Master's degree in Computer Science or related field\n\u2022 Experience with containerization technologies (Docker, Kubernetes)\n\u2022 Knowledge of CI/CD pipelines and DevOps practices\n\u2022 Familiarity with Agile methodologies\n\u2022 Experience with database design and optimization (MySQL, PostgreSQL)\n\u2022 Knowledge of RESTful API design and implementation\n\u2022 Experience with automated testing and TDD practices\n\u2022 Understanding of web security best practices\n\u2022 Contributions to open-source projects\n\nResponsibilities:\n\u2022 Design, develop, and maintain full-stack web applicationsCoordinate project planning and strategies with CTO\n\u2022 Lead technical projects and mentor junior developers\n\u2022 Collaborate with cross-functional teams to define and implement new features\n\u2022 Ensure high-quality, scalable, and maintainable code\n\u2022 Participate in code reviews and implement best practices\n\u2022 Optimize application performance and improve user experience\n\u2022 Stay up-to-date with emerging technologies and industry trends\n\u2022 Act as project manager on select projects, overseeing project planning, execution, and delivery\n\u2022 Ensuring that the projects you are managing are following company policies, in terms of budgets and customer relationships\n\u2022 Make sure that the projects you are managing are solvent\n\u2022 Balance technical development work with project management duties as needed\n\nCompensation\n\nSalary to be discussed based on experience and qualifications.\n\nSchedule & Place of work\n\nThe schedule is full-time, Monday to Friday during regular business hours, in compliance with BC labor laws.\n\nOur employees are authorized to work from home, but we also encourage them to take advantage of our beautiful co-working space, located in the heart of New Westminster's vibrant activity, whenever they'd like.\n\nGraphem is Involved in the Community\n\nWe believe that physical health awareness should start early in life. This is why Graphem is involved in its community, among other things, by supporting Drug-Free Dash, which raises funds to support community programs like KidSport and The Boys & Girls Club. They provide the means for organized sports and after-school activities to help promote an active, healthy lifestyle which helps keep youth focused and active. Proceeds also benefit drug education materials for youth groups, law enforcement and educators \u2013 Informed Youth are Drug-Free Youth.\n\nWhy Work With us at Graphem?\n\u2022 You get to join a happy, highly-skilled and dedicated team that is very supportive and easy to communicate with - check out our great reviews on Glassdoor: Graphem review on Glassdoor\n\u2022 You have the ability to work on many different types of projects\n\u2022 We provide high flexibility (to be worked out with your supervisor)\n\u2022 You would be joining a positive environment that promotes respect, wellness, and camaraderie\n\u2022 Our leadership walks the talk, is highly knowledgeable and skilled, kind, and very fun and easy to work with\n\u2022 We provide an abundance of learning about things you truly care about and want/need to know\n\u2022 Our offices are located in a prime work environment, easily accessible by public transportation and surrounded by a variety of amenities, including restaurants, grocery stores, and more, right in the heart of New West.\n\nEvery Graphem team member brings something unique to the team.\n\nWe want to hear your story.\nApply now!",
+            "location": "Burnaby, BC, Canada",
+            "employmentType": "",
+            "datePosted": "20 hours ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "ZipRecruiter",
+                    "url": "https://www.ziprecruiter.com/c/Graphem-Solutions/Job/Senior-Full-Stack-Developer-(Bilingual-French-English)/-in-Burnaby,BC?jid=0782d2fa3dd3177c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "JavaScript"
+                },
+                {
+                    "name": "PHP"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "SQL"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Git"
+                },
+                {
+                    "name": "TDD"
+                },
+                {
+                    "name": "React"
+                },
+                {
+                    "name": "Angular"
+                },
+                {
+                    "name": "Vue.js"
+                },
+                {
+                    "name": "MySQL"
+                },
+                {
+                    "name": "PostgreSQL"
+                },
+                {
+                    "name": "Docker"
+                },
+                {
+                    "name": "Kubernetes"
+                },
+                {
+                    "name": "AWS"
+                }
+            ]
+        }
+    ]
+}

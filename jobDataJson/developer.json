@@ -1,0 +1,599 @@
+{
+    "jobs": [
+        {
+            "jobType": "developer",
+            "title": "AI Software Developer",
+            "company": "Merck KGaA, Darmstadt, Germany",
+            "description": "Description de l\u2019entreprise\n\nZimmer CAS (Computer Assisted Solutions), est situ\u00e9 dans l\u2019un des quartiers les plus dynamiques de Montr\u00e9al, au c\u0153ur de la Cit\u00e9 du Multim\u00e9dia \u00e0 deux pas du Vieux-Montr\u00e9al.\n\nZimmer CAS est une division de Zimmer Biomet, chef de file dans le domaine de la chirurgie orthop\u00e9dique m\u00e9dicale, employant plus de 18 000 personnes \u00e0 travers le monde \u00e0 travailler ensemble pour permettre, \u00e0 des millions de patients chaque ann\u00e9e, de retrouver une mobilit\u00e9 et une vie active normale.\n\nChez Zimmer CAS nous \u0153uvrons \u00e0 d\u00e9velopper et adapter diverses technologies au geste chirurgical orthop\u00e9dique dans l\u2019objectif d\u2019offrir une chirurgie pr\u00e9cise et parfaitement adapt\u00e9 au patient pour lui permettre de retrouver un confort et une mobilit\u00e9 rapide et optimal. Pour y arriver, notre \u00e9quipe de R&D se d\u00e9marque par son atmosph\u00e8re dynamique, cr\u00e9ative et conviviale ainsi que son processus de d\u00e9veloppement Agile. Nos mandats inclus entre autre le d\u00e9veloppement de prototypes, d'algorithmes en imagerie, de mod\u00e9lisation tridimensionnelle et de conception d\u2019interfaces utilisateur adapt\u00e9es au milieu m\u00e9dical.\n\n\u00c0 l\u2019aff\u00fbt des derni\u00e8res technologies, notre \u00e9quipe a entrepris l\u2019int\u00e9gration de solutions en intelligence artificielle dans notre gamme de produits, du domaine de l\u2019imagerie m\u00e9dicale \u00e0 la robotique chirurgicale.\n\nZimmer Biomet encourage les femmes, les personnes issues de minorit\u00e9s visibles ou en situation de handicap \u00e0 soumettre leur candidature.\n\nDescription de poste\n\nRegorgeant de donn\u00e9es qui ne cherchent qu\u2019\u00e0 \u00eatre exploit\u00e9es, nous sommes \u00e0 la recherche d\u2019un candidat passionn\u00e9, cr\u00e9atif et capable d\u2019appliquer les nouveaux concepts en intelligence artificielle aux diff\u00e9rents produits d\u00e9velopp\u00e9s chez Zimmer Biomet.\n\nEn tant que membre de l\u2019\u00e9quipe, vous travaillerez directement au sein du groupe PSI (Patient Specific Instrumentation) sur des produits qui permettent d\u2019am\u00e9liorer les conditions de vie de millions de patients. Les produits sur lesquels vous travaillerez couvre un \u00e9ventail de produits vari\u00e9s touchant les remplacements d\u2019\u00e9paules, de hanche, du genou, de la cheville et bien plus.\n\nResponsabilit\u00e9s principales\n\u2022 D\u00e9velopper et impl\u00e9menter des algorithmes d'IA pour l'automatisation de la planification pr\u00e9op\u00e9ratoire, la segmentation automatique et l'\u00e9valuation automatique des images m\u00e9dicales (CT et IRM).\n\u2022 Int\u00e9grer des solutions d'IA dans nos applications de bureau existantes bas\u00e9es sur C++.\n\u2022 Collaborer avec des \u00e9quipes Agile Scrum multidisciplinaires pour concevoir et mettre en \u0153uvre des fonctionnalit\u00e9s logicielles innovantes.\n\u2022 Assurer la s\u00e9curit\u00e9 et la confidentialit\u00e9 des donn\u00e9es des patients dans tous les aspects du d\u00e9veloppement logiciel.\n\u2022 Effectuer des tests unitaires et participer \u00e0 des revues de code pour garantir la qualit\u00e9 et la fiabilit\u00e9 des livrables logiciels.\n\u2022 Travailler en \u00e9troite collaboration avec les parties prenantes pour comprendre les exigences et les traduire en sp\u00e9cifications techniques.\n\nCeci n\u2019est pas une liste exhaustive des devoirs ou fonctions du poste et peut ne pas inclure la totalit\u00e9 des r\u00f4les du poste.\n\nExigences du poste (connaissances, comp\u00e9tences et capacit\u00e9s)\n\u2022 Dipl\u00f4me en informatique, g\u00e9nie logiciel ou domaine connexe, avec une sp\u00e9cialisation en IA ou apprentissage automatique.\n\u2022 Exp\u00e9rience pratique dans le d\u00e9veloppement d'algorithmes d'IA\n\u2022 Bonne base en traitement d\u2019image, en manipulation de donn\u00e9es m\u00e9dicales 1D/2D/3D et maillages\n\u2022 Bonne connaissance en programmation Python, C++ et C#.\n\u2022 Exp\u00e9rience avec des frameworks d'IA tels que TensorFlow, PyTorch ou scikit-learn.\n\u2022 Excellentes comp\u00e9tences en communication et capacit\u00e9 \u00e0 travailler efficacement dans un environnement Agile.\n\u2022 Connaissance des normes et r\u00e9glementations relatives aux dispositifs m\u00e9dicaux (un atout).\n\u2022 Connaissance des principes de confidentialit\u00e9 et de s\u00e9curit\u00e9 des donn\u00e9es m\u00e9dicales (un atout).\n\nDe plus, le poste exige une bonne maitrise des comp\u00e9tences suivantes :\n\u2022 Adaptabilit\u00e9 : Accepter le changement et r\u00e9pondre efficacement aux \u00e9volutions des exigences et des priorit\u00e9s du projet.\n\u2022 Collaboration : Travailler en \u00e9troite collaboration avec les membres de l'\u00e9quipe issus de diff\u00e9rents milieux et disciplines, favorisant une culture de coop\u00e9ration et de partage des connaissances.\n\u2022 Communication : Articuler clairement des id\u00e9es, des retours et des mises \u00e0 jour lors des r\u00e9unions quotidiennes, de la planification des sprints et des r\u00e9trospectives.\n\u2022 Flexibilit\u00e9 : Volont\u00e9 d'accepter de nouveaux d\u00e9fis et t\u00e2ches en dehors de son r\u00f4le principal pour soutenir les objectifs de l'\u00e9quipe et les objectifs du projet.\n\u2022 Gestion du Temps : Prioriser efficacement les t\u00e2ches et g\u00e9rer la charge de travail de mani\u00e8re \u00e0 respecter les d\u00e9lais des sprints et les jalons du projet.\n\nD\u00e9placements\n\u2022 Maximum de 5%\n\nMode de travail\n\nHybride avec 2 jours de presence au bureau\n\nJob title:\n\nSoftware Developer in Artificial Intelligence\n\nGRADE:\n\nZ12\n\nJob Function:\n\nEEO:\n\nFLSA:\n\nDescription\n\nZimmer CAS (Computer Assisted Solutions), is located in one of the most dynamic neighborhoods in Montreal, in the heart of the Cit\u00e9 du Multim\u00e9dia, just next to the Old Port Montreal.\n\nZimmer CAS is a division of Zimmer Biomet, the leader in the orthopedic surgery field, employing more than 18,000 people around the world and working together to help millions of patients each year regain mobility and normal active life.\n\nAt Zimmer CAS, we work to develop and adapt various technologies to orthopedic surgery with the aim of offering precise surgery that is perfectly adapted to the patient, allowing them to get quick and optimal comfort and mobility. To achieve this, our R&D team stands out for its dynamic, creative, and friendly atmosphere in an Agile development process. Our mandates include, among other things, the development of prototypes, imaging algorithms, three-dimensional modeling, and the design of user interfaces adapted to the operating room environment.\n\nOn the edge of the latest technologies, our team has started to integrate artificial intelligence solutions into the portfolio of products covering a large spectrum from medical imaging to surgical robotics.\n\nZimmer Biomet encourages applications from women, people from visible minorities or people with disabilities.\n\nJob Summary\n\nFull of data just waiting to be trained on, we are looking for a passionate, creative candidate capable of applying new concepts in artificial intelligence to the various products developed at Zimmer Biomet.\n\nAs a member of the team, you will work directly within the PSI (Patient Specific Instrumentation) group on products that improve the living conditions of millions of patients. The products you will work on cover a wide range of products related to shoulder, hip, knee, ankle replacements, and much more.\n\nPrincipal Responsibilities\n\u2022 Develop and implement AI algorithms for automating preoperative planning, automatic segmentation, and automatic assessment of medical images (CT and MRI).\n\u2022 Integrate AI solutions into our existing C++-based desktop applications.\n\u2022 Collaborate with multidisciplinary Agile Scrum teams to design and implement innovative software features.\n\u2022 Ensure patient data security and privacy in all aspects of software development.\n\u2022 Perform unit testing and participate in code reviews to guarantee the quality and reliability of software deliverables.\n\u2022 Work closely with stakeholders to understand requirements and translate them into technical specifications.\n\nThis is not an exhaustive list of duties or functions and might not necessarily comprise all of the essential functions for purposes of the Americans with Disabilities Act.\n\nJob Requirements\n\u2022 Degree in Computer Science, Software Engineering, or related field, with a specialization in AI or machine learning.\n\u2022 Hands-on experience in developing AI algorithms.\n\u2022 Good foundation in image processing, manipulation of 1D/2D/3D medical data and meshes\n\u2022 Strong programming knowledge in Python, C++ and C#\n\u2022 Experience with AI frameworks such as TensorFlow, PyTorch, or scikit-learn.\n\u2022 Excellent communication skills and ability to work effectively in an Agile environment.\n\u2022 Familiarity with medical device standards and regulations (an asset).\n\u2022 Knowledge in patient data privacy and security principles (an asset).\n\nIn addition, this job requires strong skills in the following:\n\u2022 Adaptability: Embrace change and respond effectively to evolving project requirements and priorities.\n\u2022 Collaboration: Work closely with team members from diverse backgrounds and disciplines, fostering a culture of cooperation and knowledge sharing.\n\u2022 Communication: Clearly articulate ideas, feedback, and updates during daily stand-ups, sprint planning, and retrospective meetings.\n\u2022 Flexibility: Willingness to take on new challenges and tasks outside of one's primary role to support team objectives and project goals.\n\u2022 Time Management: Prioritize tasks efficiently and manage workload effectively to meet sprint deadlines and project milestones.\n\nTravel Requirements\n\u2022 Up to 5%\n\nWork modality\n\nHybrid with 2 days in-person at the office\n\nWhat You Can Expect\n\nZimmer CAS (Computer Assisted Solutions), is located in one of the most dynamic neighborhoods in Montreal, in the heart of the Cit\u00e9 du Multim\u00e9dia, just next to the Old Port Montreal. It is a division of Zimmer Biomet, the leader in the orthopedic surgery field, employing more than 18,000 people around the world and working together to help millions of patients each year regain mobility and normal active life.\n\nAt Zimmer CAS, we work to develop and adapt various technologies to orthopedic surgery with the aim of offering precise surgery that is perfectly adapted to the patient, allowing them to get quick and optimal comfort and mobility. To achieve this, our R&D team stands out for its dynamic, creative, and friendly atmosphere in an Agile development process. Our mandates include, among other things, the development of prototypes, imaging algorithms, three-dimensional modeling, and the design of user interfaces adapted to the operating room environment. On the edge of the latest technologies, our team has started to integrate artificial intelligence solutions into the portfolio of products covering a large spectrum from medical imaging to surgical robotics.\n\nFull of data just waiting to be trained on, we are looking for a passionate, creative candidate capable of applying new concepts in artificial intelligence to the various products developed at Zimmer Biomet. As a member of the team, you will work directly within the PSI (Patient Specific Instrumentation) group on products that improve the living conditions of millions of patients. The products you will work on cover a wide range of products related to shoulder, hip, knee, ankle replacements, and much more. Zimmer Biomet encourages applications from women, people from visible minorities or people with disabilities.\n\nHow You'll Create Impact\n\u2022 Develop and implement AI algorithms for automating preoperative planning, automatic segmentation, and automatic assessment of medical images (CT and MRI).\n\u2022 Integrate AI solutions into our existing C++-based desktop applications.\n\u2022 Collaborate with multidisciplinary Agile Scrum teams to design and implement innovative software features.\n\u2022 Ensure patient data security and privacy in all aspects of software development.\n\u2022 Perform unit testing and participate in code reviews to guarantee the quality and reliability of software deliverables.\n\u2022 Work closely with stakeholders to understand requirements and translate them into technical specifications.\n\nThis is not an exhaustive list of duties or functions and might not necessarily comprise all of the essential functions for purposes of the Americans with Disabilities Act.\n\nWhat Makes You Stand Out\n\u2022 Degree in Computer Science, Software Engineering, or related field, with a specialization in AI or machine learning\n\u2022 Hands-on experience in developing AI algorithms\n\u2022 Good foundation in image processing, manipulation of 1D/2D/3D medical data and meshes\n\u2022 Strong programming knowledge in Python, C++ and C#\n\u2022 Experience with AI frameworks such as TensorFlow, PyTorch, or scikit-learn\n\u2022 Excellent communication skills and ability to work effectively in an Agile environment\n\u2022 Familiarity with medical device standards and regulations (an asset)\n\u2022 Knowledge in patient data privacy and security principles (an asset)\n\nYour Background\n\u2022 Adaptability: Embrace change and respond effectively to evolving project requirements and priorities.\n\u2022 Collaboration: Work closely with team members from diverse backgrounds and disciplines, fostering a culture of cooperation and knowledge sharing.\n\u2022 Communication: Clearly articulate ideas, feedback, and updates during daily stand-ups, sprint planning, and retrospective meetings.\n\u2022 Flexibility: Willingness to take on new challenges and tasks outside of one's primary role to support team objectives and project goals.\n\u2022 Time Management: Prioritize tasks efficiently\n\nTravel Expectations\n\u2022 Up to 5%\n\u2022 Hybrid work with 2 days in-person at the office\n\nEOE/M/F/Vet/Disability",
+            "location": "Montreal, Quebec, Canada",
+            "employmentType": "",
+            "datePosted": "4 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Zimmer Biomet",
+                    "url": "https://careers.zimmerbiomet.com/us/en/job/3645/AI-Software-Developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Indeed",
+                    "url": "https://ca.indeed.com/viewjob?jk=f5d0336306fa3720&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/ai-software-developer-at-zimmer-biomet-4074995662?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Ladders",
+                    "url": "https://www.theladders.com/job/ai-software-developer-zimmerbiometholdings-montreal-qc_78918369?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Glassdoor",
+                    "url": "https://www.glassdoor.ca/job-listing/ai-software-developer-orthosoft-inc-JV_IC2296722_KO0,21_KE22,35.htm?jl=1009528231626&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Glassdoor",
+                    "url": "https://www.glassdoor.com/job-listing/ai-software-developer-zimmer-biomet-JV_IC2296722_KO0,21_KE22,35.htm?jl=1009528231626&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Jobs - Towards AI",
+                    "url": "https://jobs.towardsai.net/job/zimmer-biomet-ai-software-developer-bobz?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "SimplyHired",
+                    "url": "https://www.simplyhired.ca/job/-7y7-_XqDB43Qz3Tb_Tgw_As-LwBi1-Ob5FSlrIlOkEXTfdp7mmOyw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Python"
+                },
+                {
+                    "name": "C++"
+                },
+                {
+                    "name": "C#"
+                },
+                {
+                    "name": "Go"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "TensorFlow"
+                },
+                {
+                    "name": "PyTorch"
+                },
+                {
+                    "name": "Scrum"
+                },
+                {
+                    "name": "Artificial Intelligence"
+                }
+            ]
+        },
+        {
+            "jobType": "developer",
+            "title": "Software Developer - Senior",
+            "company": "US Tech Solutions",
+            "description": "Duration: 10+ months contract\n\nJob Description:\n\n\u00b7 The Client Display Solutions Team is seeking a candidate to help design and carry out the targeted-testing coverage for new dGPUs or APUs and manage the project execution. OS kernel programming experience is a plus.\n\nThe Person:\n\n\u00b7 Display Quality Engineering (Linux and/or Windows) test plan development and implementation\n\n\u00b7 DQE-related project management\n\n\u00b7 Experience with currently-shipping client APU platforms is a plus\n\n\u00b7 Fully familiar with concepts from display standards (DP, HDMI, eDP etc.)\n\nResponsibilities:\n\n\u00b7 Enthusiastic about thorough test coverage execution with objective to raise the engineering product quality bar\n\n\u00b7 Interest in the latest display technologies\n\n\u00b7 Enjoys working in an agile team environment\n\nExperience:\n\n\u00b7 5+ years work experience\n\nSkills:\n\n\u00b7 Design and implement detailed test plan for the kernel driver of new client APU or dGPU products\n\n\u00b7 Drive project execution, with focus on Display Quality Engineering\n\n\u00b7 Participate in new ASIC and hardware bring-up\n\n\u00b7 Manage engineering product quality and other related project deliverables\n\n\u00b7 Track and create related reports for the management\n\nEducation:\n\n\u00b7 BS degree in Computer Science, Computer Engineering, Software Engineering, Electrical Engineering or related engineering degree\n\nAbout US Tech Solutions:\n\nUS Tech Solutions is a global staff augmentation firm providing a wide range of talent on-demand and total workforce solutions. To know more about US Tech Solutions, please visit www.ustechsolutions.com.\n\nUS Tech Solutions is an Equal Opportunity Employer.All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.\n\nRecruiter Details:\n\nName: Megha\n\nEmail: meghaa@ustechsolutionsinc.com\n\nInternal Id: 24-26201",
+            "location": "Markham, ON, Canada",
+            "employmentType": "",
+            "datePosted": "2 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/software-developer-senior-at-us-tech-solutions-4075626463?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "ZipRecruiter",
+                    "url": "https://www.ziprecruiter.com/c/TekWissen-LLC/Job/Software-Developer-Senior/-in-Markham,ON?jid=0633f72fe828176f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Adzuna",
+                    "url": "https://www.adzuna.ca/details/4801428650?title=C20061_-_Senior_Software_Developer&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Talent.com",
+                    "url": "https://ca.talent.com/view?id=1e7fdcca7f97&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Monster.ca",
+                    "url": "https://www.monster.ca/job-openings/software-developer-senior-can-markham-on--cb3913b8-9985-4673-807a-fed1c5dad51e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Karkidi",
+                    "url": "https://www.karkidi.com/job-details/43149-senior-researcher-intelligent-software-job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "BeBee Canada Meet Opportunities",
+                    "url": "https://ca.bebee.com/job/dfa8c36140d50cb94700a7082c212ee8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "SimplyHired",
+                    "url": "https://www.simplyhired.ca/job/DBVFPZhhPs3HKqzsDGCHOpn0hC4R5LcUwsY7b5Pg58_w5nPZT22Fkg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                }
+            ]
+        },
+        {
+            "jobType": "developer",
+            "title": "Software Developer 2",
+            "company": "Intuit",
+            "description": "Join the TurboTax technology team as a Software Developer 2 to work with millions of users and create a world-class digital product. As a leader in the industry, we are dedicated to innovation, growth, and personal development.We are hiring across multiple teams as Toronto is a growth site and we are growing across multiple product teams including: Virtual Expert Platform Team, DataX Team, AI-First Tax Experiences Team, and TurboTax Product Development Team which all require technical expertise, leadership, and a focus on quality product development. As part of these teams, you will work with exciting colleagues and utilize your proficiency in React, JavaScript, Java/Kotlin, and Python in Full-Stack/Front-End/Back-End web application development. As well as hands-on engineering experience, and AI knowledge, to create and maintain large features and capabilities to build an unrivaled TurboTax experience.Our culture is centered on continuous growth, student-teacher relationships, and learning from the people, processes, and technology around us to create amazing digital experiences for our diverse customer base. Join our team and contribute to our mission of creating a seamless and efficient tax filing experience for millions of users.\nResponsibilities\n\u2022 Contribute to the design and development of scalable, highly-available production systems and applications\n\u2022 Roughly 80-90% hands-on technical work, delivering high-quality code, resolving bugs/defects, and delivering optimizations\n\u2022 Follow and contribute to the high engineering and operational standards within the team\n\u2022 Guide and help junior engineers with technical problems\n\u2022 Partner effectively within their scrum team to identify pain points, brainstorm, and deliver solutions to customers",
+            "location": "Toronto, ON, Canada",
+            "employmentType": "",
+            "datePosted": "",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Intuit Careers",
+                    "url": "https://jobs.intuit.com/job/toronto/software-developer-2/27595/68685183008?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "ZipRecruiter",
+                    "url": "https://www.ziprecruiter.com/c/Intuit/Job/Software-Developer-2/-in-Toronto,ON?jid=f9738037e2ff9d4d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Indeed",
+                    "url": "https://ca.indeed.com/viewjob?jk=41290650bca053b7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/software-developer-2-at-intuit-4040494325?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Glassdoor",
+                    "url": "https://www.glassdoor.ca/job-listing/software-developer-2-intuit-JV_IC2281069_KO0,20_KE21,27.htm?jl=1009425140891&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "SimplyHired",
+                    "url": "https://www.simplyhired.ca/job/ezkg2bD6xTtVdVN0WSTzHrxVb1ev0Kg3czxDYg-wKAWfac5kOlHuqA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Ladders",
+                    "url": "https://www.theladders.com/job/software-developer-2-intuit-toronto-on_75832857?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Taro",
+                    "url": "https://www.jointaro.com/jobs/intuit/software-developer-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Python"
+                },
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "JavaScript"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Kotlin"
+                },
+                {
+                    "name": "React"
+                }
+            ]
+        },
+        {
+            "jobType": "developer",
+            "title": "Software Developer II",
+            "company": "WARNERMEDIA",
+            "description": "Welcome to Warner Bros. Discovery\u2026 the stuff dreams are made of.\n\nWho We Are\u2026\n\nWhen we say, \u201cthe stuff dreams are made of,\u201d we\u2019re not just referring to the world of wizards, dragons and superheroes, or even to the wonders of Planet Earth. Behind WBD\u2019s vast portfolio of iconic content and beloved brands, are the storytellers bringing our characters to life, the creators bringing them to your living rooms and the dreamers creating what\u2019s next\u2026\n\nFrom brilliant creatives, to technology trailblazers, across the globe, WBD offers career defining opportunities, thoughtfully curated benefits, and the tools to explore and grow into your best selves. Here you are supported, here you are celebrated, here you can thrive.\n\nJob Summary\n\nWarner Brothers Discovery\u2019s digital arm, Global Customer Experience organization is a high-performing global team working at the dynamic intersection of Technology and Entertainment. In supporting our content creators in the digital space, we continuously leverage our technological capabilities to create immersive viewing experiences for iconic brands including Max.\n\nWe are excited to be recruiting a Software Engineer II to join our Apple team.\n\nResponsibilities\n\nAs a Software Engineer II, you will work within a team of engineers to deliver new customer-facing features across our iOS and tvOS App. Ensuring these are delivered on time and meeting the high-quality standards we have within our teams. You will work closely with other engineers and your manager to plan future sprints for new features and bug fixes.\n\nTo be successful in this position, you should have a strong understanding of iOS and tvOS development as well as extensive test driven development experience. You have demonstrated the ability to use common industry tools for software development including but not limited to IDEs, build and continuous integration, source control management, code review tools, and you are able to build software in a professional team environment delivered to production using these tools. You can provide technical documentation describing your contributions and contribute enhancements to your team\u2019s best practices.\n\nRequirements\n\u2022 3+ years programming experience using Swift or other similar language.\n\u2022 Knowledge of or previous experience with VOD is a plus, including experience working with video playback on iOS/tvOS apps.\n\u2022 A bachelor\u2019s degree in Computer Science, Engineering or equivalent work experience.\n\u2022 Experience building dynamic customer-facing apps that use RESTful APIs to operate. Hands-on expertise in disparate technologies, typically ranging from front-end user interfaces through to back-end systems and all points in between.\n\u2022 Knowledge of large-scale application architecture, design, implementation, and performance tuning.\n\u2022 Knowledge of development best practices including coding guidelines.\n\u2022 Experience in modern DevOps/SRE practices such as CI/CD, performance monitoring & incident management.\n\u2022 Computer Science fundamentals in object-oriented design, algorithm design, problem solving, and complexity analysis.\n\u2022 Excellent communication skills, understanding of developers\u2019 needs and priorities.\n\u2022 Rotate follow the sun support with other team members to monitor and debug critical production issues.\n\u2022 You love to build scalable and resilient products.\n\u2022 Contribute to technical documentation.\n\u2022 Recommend technical developments and software to enhance/improve our app.\n\u2022 Desire to be involved in cross-platform projects on a large scale in 10+ countries.\n\u2022 Experience with key design and architectural patterns such as MVVM, MVP and SOLID principles.\n\u2022 Experience with Test Driven Development and associated frameworks.\n\nHow We Get Things Done\u2026\n\nThis last bit is probably the most important! Here at WBD, our guiding principles are the core values by which we operate and are central to how we get things done. You can find them at www.wbd.com/guiding-principles/ along with some insights from the team on what they mean and how they show up in their day to day. We hope they resonate with you and look forward to discussing them during your interview.\n\nChampioning Inclusion at WBD\nWarner Bros. Discovery embraces the opportunity to build a workforce that reflects the diversity of our society and the world around us. Being an equal opportunity employer means that we take seriously our responsibility to consider qualified candidates on the basis of merit, without regard to race, color, religion, national origin, gender, sexual orientation, gender identity or expression, age, mental or physical disability, and genetic information, marital status, citizenship status, military status, protected veteran status or any other category protected by law.\n\nIf you\u2019re a qualified candidate with a disability and you require adjustments or accommodations during the job application and/or recruitment process, please visit our accessibility page for instructions to submit your request.",
+            "location": "Kanata, ON, Canada",
+            "employmentType": "",
+            "datePosted": "1 month ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "WBD Careers - Warner Bros. Discovery",
+                    "url": "https://careers.wbd.com/global/en/job/R000085797/Software-Developer-II?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Swift"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "SOLID principles"
+                }
+            ]
+        },
+        {
+            "jobType": "developer",
+            "title": "Principle Software Developer - Montreal",
+            "company": "Keywords Studios",
+            "description": "Snowed in Studios is a game development studio based in Ottawa, Canada. As part of Keywords Studios\u2019 Create service line, we provide support to some of the most exciting games being made today. You\u2019ll have the chance to make a global impact, working in a studio known for shipping some of the most prestigious household names in gaming. Employee satisfaction is at the top of our priority list. We understand that you work your best when you\u2019re in an environment conducive with collaboration, challenge and fun along with job stability. We value being transparent and providing visibility on expectations and career progression. We\u2019re proud our efforts have been recognized by being one of the Top 5 Places to Work in Ottawa and one of the Best Places to Work in Canada by gamesindustry.biz! We are currently looking to add experienced Principle Software Developer to our already amazing team. As a \u201cSnowmie\u201d programmer, you will use your advanced programming skills to help our client studios bring their games to realization. You will use your passion for games, insatiable curiosity, and versatility to work on a variety of projects and across all aspects of game development. In return, you will be part of a creative and supportive team environment with the ability to have a direct impact on the development of top-tier games. Are you up for the challenge? Some of the cool stuff you\u2019ll be doing: Working closely with client studios to bring their games to realization Designing, implementing, and debugging game features Working on game toolsets and pipelines Analyzing and optimizing runtimes Collaborating on systems and tools to help designers implement their creative vision Building a solid relationship with your programming peers in-house and around the world Supporting your team mates to accomplish goals What you\u2019ll bring to the table: 15+ years professional experience Advanced programming skills in C++ with strong understanding of the fundamentals Solid programming skills in C# with a strong understanding of the fundamentals Emphasizes a deeper understanding of what the code is doing, not just that it works Experience with game engines, primarily Unreal Engine Experience working in large codebases Understands how to analyze and optimize code Strong problem-solving skills Comfortable with vector and matrix math and good with algorithms Understands various design patterns and their benefits/draw backs Experience with console development (PS5, Xbox Series X, Switch, etc.) Shipped game(s) Bonus points! Experience with mobile development Experience working directly with external clients What\u2019s in it for you? The chance to work in triple-A, in a no-crunch modern studio with a relaxed atmosphere and a variety of work Comprehensive benefits package that covers Dental Care, Health Care (including out of country coverage), Vision Care, Long Term Disability, Physio, Massage etc. Generous leave policies include 4 weeks paid vacation (plus 1 week over the Holiday Season), unlimited sick leave and 2 paid personal days. We also provide parental leave top-up and an Employee and Family Assistance Plan that offer 24/7 free and confidential help with your physical and mental health. RRSP Matching A dynamic and supportive team environment with a range of experience and an amazing culture \u2013 we\u202fhave board game nights, movie, nights, arcade tournaments, and more to help blow off steam and hang out together. The opportunity to build or expand your career the way you want to, in a smaller studio connected to a global studio family A way-cool hoodie! Additional Information: Primary Working Language: English Salary Range: $135,000-$160,000This is a remote position; however, candidates must reside in Quebec.Snowed In Studios is an equal opportunity employer and is committed to an inclusive, barrier-free recruitment and selection processes and work environments. Please let us know of any accommodations needed to ensure you have access to a fair and equitable process. Keywords Studios is dedicated to following a well-established Equal Opportunities Policy. We endeavor to create a workplace which provides for equal opportunities for all employees and potential employees. PERSONAL DATA PROTECTION POLICY Keywords Studios is strongly committed to protecting your personal information. By sending your CV/Resume, you are agreeing to our terms and conditions and consent to your data being managed and retained in accordance with our data privacy and retention policy\u202fhttps://www.keywordsstudios.com/en/applicant-privacy-notice/. Role Information: EN Studio: Snowed In Location: Americas, Canada, Ontario Area of Work: Game Development Service: Create Employment Type: Full Time, Permanent Working Pattern: Hybrid",
+            "location": "Quebec, Canada",
+            "employmentType": "",
+            "datePosted": "6 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Keywords Studios",
+                    "url": "https://www.keywordsstudios.com/en/careers/browse-careers/2v4-principle-software-developer-montreal/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "C++"
+                },
+                {
+                    "name": "C#"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Unreal Engine"
+                }
+            ]
+        },
+        {
+            "jobType": "developer",
+            "title": "Software Developer III, AI/ML, Google Cloud AI",
+            "company": "Google",
+            "description": "Note: By applying to this position you will have an opportunity to share your preferred working location from the following: Waterloo, ON, Canada; Toronto, ON, Canada.Minimum qualifications:\n\u2022 Bachelor\u2019s degree or equivalent practical experience.\n\u2022 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree.\n\u2022 2 years of experience with data structures or algorithms.\n\u2022 1 year of experience with one or more of the following: Speech/audio (e.g., technology duplicating and responding to the human voice), reinforcement learning (e.g., sequential decision making), ML infrastructure, or specialization in another ML field.\n\u2022 1 year of experience with ML infrastructure (e.g., model deployment, model evaluation, optimization, data processing, debugging).\n\nPreferred qualifications:\n\u2022 Master's degree or PhD in Computer Science or related technical fields.\n\u2022 Experience developing accessible technologies.\n\nAbout The Job\n\nGoogle's software developers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for software developers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software developer, you will work on a specific project critical to Google\u2019s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our software developers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.\n\nThe Google Cloud AI Research team addresses AI challenges motivated by Google Cloud\u2019s mission of bringing AI to tech, healthcare, finance, retail and many other industries. We work on a range of unique problems focused on research topics that maximize scientific and real-world impact, aiming to push the state-of-the-art in AI and share findings with the broader research community. We also collaborate with product teams to bring innovations to real-world impact that benefits our customers.\n\nResponsibilities\n\u2022 Write product or system development code.\n\u2022 Collaborate with peers and stakeholders through design and code reviews to ensure best practices amongst available technologies (e.g., style guidelines, checking code in, accuracy, testability, and efficiency,)\n\u2022 Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback.\n\u2022 Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality.\n\u2022 Implement solutions in one or more specialized ML areas, utilize ML infrastructure, and contribute to model optimization and data processing.\n\nGoogle is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .",
+            "location": "Toronto, ON, Canada",
+            "employmentType": "",
+            "datePosted": "4 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/software-developer-iii-ai-ml-google-cloud-ai-at-google-4074458117?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Indeed",
+                    "url": "https://ca.indeed.com/viewjob?jk=31ece584e3116d47&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Fairygodboss",
+                    "url": "https://fairygodboss.com/jobs/google/software-developer-iii-ai-ml-google-cloud-ai-ef6fb89cee36102befb9815e20cde102?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Glassdoor",
+                    "url": "https://www.glassdoor.ca/job-listing/software-developer-iii-ai-ml-google-cloud-ai-google-JV_IC2281069_KO0,44_KE45,51.htm?jl=1009526380590&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Glassdoor",
+                    "url": "https://www.glassdoor.com/job-listing/software-developer-iii-ai-ml-google-cloud-ai-google-JV_IC2281069_KO0,44_KE45,51.htm?jl=1009526380590&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "SimplyHired",
+                    "url": "https://www.simplyhired.ca/job/Op5Qmsp4Z_rxMcilFsd4aSrtY9sE_VtKD3SUqv3_Q4wQXMLNTZzVEw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Talent.com",
+                    "url": "https://ca.talent.com/view?id=ea0ab24c941c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Go"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Google Cloud"
+                }
+            ]
+        },
+        {
+            "jobType": "developer",
+            "title": "Software Developer",
+            "company": "L3Harris Technologies",
+            "description": "About your next Challenge as a Software Developer:\n\nWhat will you do:\n\u2022 Understand and develop software that operates in a complex, multi-network environment;\n\u2022 Design and implementation of algorithms;\n\u2022 Interact with systems engineering on technical issues;\n\u2022 Debugging software problems;\n\u2022 Conduct independent research and provide new solutions to problems;\n\u2022 Conduct and prepare presentations and demonstrations;\n\nRequired Skills and Experiences:\n\u2022 Minimum 3-5 years software development experience in object oriented design and programming, preferably using C#, ASP.NET and .Net Core;\n\u2022 Experience with web technologies and web frameworks such as REST APIs, WebAssembly, and Blazor;\n\u2022 Experience with client/server applications and communication protocols such as WebSocket, HTTP, SSL, and SNMP;\n\u2022 Experience in Linux, and virtualization and containerization, such as Docker, Kubernetes, and ESX/i is an asset;\n\u2022 Experience designing and implementing data models in C#.Net using Entity Framework is an asset;\n\u2022 Experience in scripting languages such as Python, Perl, PowerShell, etc. is an asset;\n\u2022 Experience required with relational databases (MySQL or others) is an asset;\n\u2022 Excellent technical communication of ideas and design;\n\nPreferred Additional Skills:\n\u2022 Understanding of networking concepts, network design, network device configuration is an asset;\n\u2022 Experience developing interfaces with networking devices and other hardware is an asset;\n\u2022 Experience with message broker systems such as RabbitMQ or similar is an asset;\n\u2022 Strong organizational, analytical and problem-solving skills combined with a strong technical presence;\n\u2022 Capable of multitasking between 2 or more projects concurrently;\n\u2022 Able to work independently and in a team-based environment;\n\u2022 Strong English written and verbal communication skills\n\nEligibility Criteria (Mandatory):\n\u2022 Must be eligible for registration with the Controlled Goods Program;\n\u2022 Must be eligible to obtain and maintain a government of Canada Reliability status and Secret Level 2/NATO SECRET security clearance.\n\u2022 Must be eligible to meet the requirements for U.S. International Traffic in Arms Regulations (ITAR).\n\nL3Harris is proud to be an equal opportunity employer and is committed to treating all of its employees and job applicants with respect and dignity and to maintaining a workplace free from discrimination. Anyone applying for a position will be considered without regard to the following: race, national or ethnic origin, colour, religion, age, nationality, ancestry, ethnicity, gender, sex, sexual orientation, gender identity or expression, marital status, family status, genetic characteristics, disability, citizenship status, or conviction for an offence for which a pardon has been granted or in respect of which a record suspension has been ordered, or any other characteristic that is protected by applicable human rights legislation.\n\nL3Harris maintains a drug-free workplace and conducts pre-employment drug and alcohol testing and background checks, in accordance with applicable law. Such results are only accessible and viewed by individuals at L3Harris who have direct responsibility in the hiring process. If you fail to report for a drug and alcohol test, refuse to undergo such test or test positive for the presence of drugs or alcohol, the hiring process may be concluded or your offer of employment may be rescinded, in L3Harris\u2019 sole discretion.",
+            "location": "Ottawa, ON, Canada",
+            "employmentType": "",
+            "datePosted": "",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "L3Harris",
+                    "url": "https://careers.l3harris.com/en/job/ottawa/software-developer/4832/71465035248?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Randstad",
+                    "url": "https://www.randstad.ca/jobs/software-developer_ottawa_44409735/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "IFathom",
+                    "url": "https://ifathom.com/jobs/software-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "ZipRecruiter",
+                    "url": "https://www.ziprecruiter.com/c/Lim-Geomatics/Job/Software-Developer/-in-Ottawa,ON?jid=6003183daf395419&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Indeed",
+                    "url": "https://ca.indeed.com/viewjob?jk=77ec2ae965f40927&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "SimplyHired",
+                    "url": "https://www.simplyhired.ca/job/e1oYRuoCx0hEnjhQH4-Wny1C76ZQGzBKNwf5xiFNJGyKQrmimkYoUw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/software-developer-at-trend-micro-4028861644?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Glassdoor",
+                    "url": "https://www.glassdoor.ca/job-listing/software-developer-qtech-hybrid-systems-JV_IC2286068_KO0,18_KE19,39.htm?jl=1006039402015&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Python"
+                },
+                {
+                    "name": "C#"
+                },
+                {
+                    "name": "Go"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "Assembly"
+                },
+                {
+                    "name": "PowerShell"
+                },
+                {
+                    "name": "Perl"
+                },
+                {
+                    "name": "SQL"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "MySQL"
+                },
+                {
+                    "name": "Docker"
+                },
+                {
+                    "name": "Kubernetes"
+                },
+                {
+                    "name": "SSL"
+                }
+            ]
+        },
+        {
+            "jobType": "developer",
+            "title": "Senior Full Stack Developer",
+            "company": "Luxoft",
+            "description": "Project description\n\nApplying to the position, you may join one of the most respected and fastest growing institutional investors in the world. Our client is a professional investment management organization that globally invests the funds to ensure long-term sustainability. The company invests in all major asset classes, including public equity, private equity, real estate, infrastructure and fixed-income instruments.\nClient attracts and selects high-calibre individuals from top-tier institutions around the globe. Join our team and look forward to:\n\u2022 Diverse and inspiring colleagues and approachable leaders\n\u2022 Stimulating work in a fast-paced, intellectually challenging environment\n\u2022 Accelerated exposure and responsibility\n\u2022 Global career development opportunities\n\u2022 Being motivated every day by important social purpose and unshakable principles\n\u2022 A deeply rooted culture of Integrity, Partnership and High Performance\nIf you share a passion for performance, value a collegial and collaborative culture, and approach everything with the highest integrity, here's an opportunity.\n\nResponsibilities\n\u2022 Manage timelines/deliverables within the team towards the successful delivery of projects.\n\u2022 Design software solutions by interacting with portfolio managers, traders, operations staff and peers to understand requirements.\n\u2022 Develop solutions that are in line with client's technology biases, deliver efficiency and scalability, and enable new trading activities.\n\u2022 Provide knowledge transfer to team members and support staff through application demos, walkthroughs, and documentation.\n\nSKILLS\n\nMust have\n\u2022 Python\n\u2022 Angular\n\u2022 BI Tools ( Tableau is nice to have)\n\u2022 Git\n\u2022 Agile/scrum/Jira/confluence\n\nNice to have\n\nCapital market experience",
+            "location": "Toronto, ON, Canada",
+            "employmentType": "",
+            "datePosted": "",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Luxoft",
+                    "url": "https://career.luxoft.com/jobs/senior-full-stack-developer-9520?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "RBC Careers",
+                    "url": "https://jobs.rbc.com/ca/en/job/R-0000102359/Senior-Full-Stack-Developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Motion Recruitment",
+                    "url": "https://motionrecruitment.com/tech-jobs/toronto/direct-hire/senior-full-stack-developer/748225?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Virtusa",
+                    "url": "https://www.virtusa.com/careers/ca/toronto/web-app-engineering/full-stack-developer/creq202543?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Recruiting In Motion",
+                    "url": "https://jobs.recruitinginmotion.ca/jb/Senior-Full-Stack-Developer-Jobs-in-Toronto-ON/11144080?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Lever",
+                    "url": "https://jobs.lever.co/blanc-labs/33927d53-39a6-4cb6-94c7-996cd96644d4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Indeed",
+                    "url": "https://ca.indeed.com/viewjob?jk=b694d5cc48f94b75&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "ZipRecruiter",
+                    "url": "https://www.ziprecruiter.com/c/Royal-Bank-of-Canada/Job/Senior-Full-Stack-Developer/-in-Toronto,ON?jid=14226ca29b661c62&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Python"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Git"
+                },
+                {
+                    "name": "Angular"
+                },
+                {
+                    "name": "Jira"
+                },
+                {
+                    "name": "Tableau"
+                }
+            ]
+        },
+        {
+            "jobType": "developer",
+            "title": "Senior Software Developer, GFT",
+            "company": "Royal Bank of Canada",
+            "description": "Job Summary\n\nAre you a talented, creative and results-driven professional who thrives on delivering high-performing applications? Come join us!\n\nGlobal Functions Technology (GFT) is part of RBC\u2019s Technology and Operations division. GFT\u2019s impact is far-reaching as we collaborate with partners from across the company to deliver innovative and transformative IT solutions. Our clients represent Risk, Finance, HR, CAO, Audit, Legal, Compliance, Financial Crime, Capital Markets, Personal and Commercial Banking and Wealth Management. We also lead the development of digital tools and platforms to enhance collaboration.\n\nThe Financial crimes \u2013 AML IT team is undertaking multiple complex regulatory initiatives as part of RBC\u2019s Financial compliance requirements. In this role you will be responsible for strategically planning and managing successful implementation of the above mentioned. The role will coordinate, develop, lead, communicate and execute activities to ensure objectives are accomplished according on time.\n\nJob Description\n\nWHAT WILL YOU DO?\n\u2022 Manage the implementation of multiple concurrent technology initiatives of varying complexity in a time efficient manner. Monitor and control activities according to plan.\n\u2022 Continuously identify potential issues, conflicts, and risks. Analyze, mitigate and escalate where appropriate\n\u2022 Develop and execute on end-to-end delivery of technology projects and plan and execute all communication related to these.\n\u2022 Collaborate and contribute on cross-functional enterprise initiatives and manage the effective implementation of assigned deliverables.\n\u2022 Establish strong working relationships across business units and platforms to build influence and impact with key business partners. Collaborate with groups to define and achieve deliverables and ensure initiatives are effectively integrated into RBC procedures and processes.\n\u2022 Hands on development of technical modules and guide the junior developers if required.\n\nWHAT DO YOU NEED TO SUCCEED?\n\nMust have:\n\u2022 Undergraduate degree coupled with technology development experience in complex programs with high frequency of requests and multiple priorities.\n\u2022 Demonstrated ability in written and oral communication skills along with strong inter-personal and presentation skills.\n\u2022 Strong organizational, project management and time management capabilities.\n\u2022 A strong understanding of technology and/or financial services industry.\n\u2022 Deadline-driven and results-oriented; able to meet consistently high-quality standards while handling a variety of tasks and deadlines simultaneously.\n\u2022 Experience in Programming languages (Java, Scala, SQL, Unix scripting), frameworks (Spring boot, OpenShift containers), DevOps (Jenkins, UCD etc.) and Cloud (Azure, AWS etc.)\n\nNice-to-have:\n\u2022 Ability to facilitate between and influence key decision makers, strategic thinker.\n\u2022 Experience with AML domain.\n\nWhat\u2019s in it for you?\n\nWe thrive on the challenge to be our best, progressive thinking to keep growing, and working together to deliver trusted advice to help our clients thrive and communities prosper. We care about each other, reaching our potential, making a difference to our communities, and achieving success that is mutual.\n\u2022 A comprehensive Total Rewards Program including bonuses and flexible benefits, competitive compensation, commissions, and stock where applicable\n\u2022 Leaders who support your development through coaching and managing opportunities\n\u2022 Ability to make a difference and lasting impact\n\u2022 Work in a dynamic, collaborative, progressive, and high-performing team\n\u2022 A world-class training program in financial services\n\u2022 Flexible work/life balance options\n\u2022 Opportunities to do challenging work\n\n#LI-Hybrid\n\n#LI-POST\n\nJob Skills\nActive Learning, Agile Methodology, Application Integrations, Detail-Oriented, Emerging Technologies, Enterprise Application Delivery, Group Problem Solving, Programming Languages, Software Development Life Cycle (SDLC)\n\nAdditional Job Details\n\nAddress:\n\nVANCOUVER MAIN BRANCH, 1025 GEORGIA ST W:VANCOUVER\n\nCity:\n\nVANCOUVER\n\nCountry:\n\nCanada\n\nWork hours/week:\n\n37.5\n\nEmployment Type:\n\nFull time\n\nPlatform:\n\nTECHNOLOGY AND OPERATIONS\n\nJob Type:\n\nRegular\n\nPay Type:\n\nSalaried\n\nPosted Date:\n\n2024-09-13\n\nApplication Deadline:\n\n2024-11-29\n\nNote: Applications will be accepted until 11:59 PM on the day prior to the application deadline date above\n\nInclusion and Equal Opportunity Employment\n\nAt RBC, we embrace diversity and inclusion for innovation and growth. We are committed to building inclusive teams and an equitable workplace for our employees to bring their true selves to work. We are taking actions to tackle issues of inequity and systemic bias to support our diverse talent, clients and communities.\n\u200b\u200b\u200b\u200b\u200b\u200b\u200b\nWe also strive to provide an accessible candidate experience for our prospective employees with different abilities. Please let us know if you need any accommodations during the recruitment process.\n\nJoin our Talent Community\n\nStay in-the-know about great career opportunities at RBC. Sign up and get customized info on our latest jobs, career tips and Recruitment events that matter to you.\n\nExpand your limits and create a new future together at RBC. Find out how we use our passion and drive to enhance the well-being of our clients and communities at jobs.rbc.com.",
+            "location": "Vancouver, BC, Canada",
+            "employmentType": "",
+            "datePosted": "4 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "RBC Careers",
+                    "url": "https://jobs.rbc.com/ca/en/job/R-0000098936/Senior-Software-Developer-GFT?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "ZipRecruiter",
+                    "url": "https://www.ziprecruiter.com/c/Royal-Bank-of-Canada/Job/Senior-Software-Developer,-GFT/-in-Vancouver,BC?jid=24cdd8e2a876b14a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Indeed",
+                    "url": "https://ca.indeed.com/viewjob?jk=965edb1161150097&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Talent.com",
+                    "url": "https://ca.talent.com/view?id=69e81bdb9023&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "BeBee Canada Meet Opportunities",
+                    "url": "https://ca.bebee.com/job/c8a4ba3792451c91f02dfcae74b64c46?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Jobillico",
+                    "url": "https://www.jobillico.com/fr/offre-d-emploi/rbc-uiymvf/senior-software-developer-gft/14506110?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Fullstack Jobs",
+                    "url": "https://fullstackjob.com/job/2KfZ6Em7uhGjNjZIaNVhBWwW6JZ/Senior%20Software%20Developer,%20Grow?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Glassdoor",
+                    "url": "https://www.glassdoor.ca/job-listing/senior-software-developer-gft-rbc-JV_IC2278756_KO0,29_KE30,33.htm?jl=1009446547772&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "Scala"
+                },
+                {
+                    "name": "SQL"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Jenkins"
+                },
+                {
+                    "name": "AWS"
+                },
+                {
+                    "name": "Azure"
+                }
+            ]
+        },
+        {
+            "jobType": "developer",
+            "title": "Software Developer \u2013 Mobile",
+            "company": "Evercommerce",
+            "description": "Software Developer \u2013 Mobile, Fieldpoint, (Hybrid, Toronto, ON)\n\nEverCommerce (Nasdaq: EVCM) is a leading service commerce platform, providing vertically-tailored, integrated SaaS solutions that help more than 690,000 global service-based businesses accelerate growth, streamline operations, and increase retention. Its modern digital and mobile applications create predictable, informed, and convenient experiences between customers and their service professionals. With its EverPro, EverHealth, and EverWell brands specializing in Home, Health, and Wellness service industries, EverCommerce provides end-to-end business management software, embedded payment acceptance, marketing technology, and customer experience applications. Learn more at\u202fEverCommerce.com.\n\nWe are building an extraordinary company and looking for talented, energetic, and motivated people to join our team. You can learn more about our Company, Culture and Values here: https://www.evercommerce.com/about-us/careers/\n\nWe are looking for a mid to senior full stack Software Developer to focus on our Fieldpoint brand. Fieldpoint is a developer of field service software. Our specialized integration with CRM, ERP and accounting systems provides our customers with enterprise visibility while streamlining sales and service operations. With over 25 years of experience, hundreds of valued customers in several verticals, and a solid network of reselling partners, Fieldpoint enables service organizations to run leaner, smarter and more profitably.\n\nResponsibilities:\n\u2022 Design, write, maintain, improve, support our mobile/web applications written in C#/.Net MAUI/Angular.\n\u2022 Effectively contribute suggestions and new ideas to enhance performance and usability.\n\u2022 Research and develop new solutions using new technologies to enhance our existing software applications.\n\u2022 Report to a Team Leader and/or Development Manager.\n\u2022 Willingly take on other tasks as required.\n\nRequired Experience and Skills:\n\u2022 5+ years experience delivering scalable software solutions preferably in C#/.NET\n\u2022 3+ years experience developing solutions using Angular\n\u2022 Strong understanding of Asynchronous programming, OOP and RESTful API design and construction\n\u2022 Contribution to the creation and maintenance of project documentation\n\nNice to haves:\n\u2022 Experience in .Net Xamarin/MAUI\n\u2022 Proficiency in HTML, CSS and SQL\n\u2022 Experience working with Docker/AWS environment\n\u2022 Experience working in an Agile development environment\n\u2022 Can translate business goals into actionable work assignments with minimal direction\n\nWhere: Hybrid (Toronto, ON)\nThe EverCommerce team is distributed globally, with teams in the U.S., Canada, Jordan, New Zealand, and Australia. We are looking for someone who is preferably close to one of our GTA offices. Please note that you must be eligible to work without sponsorship to qualify for this position, and this role may require limited travel to our Corporate Headquarters in Denver, Colorado, or to other office locations around North America.\n\nBenefits & Perks:\n\u2022 Flexibility to work \u2013 in-office, remote, or hybrid\n\u2022 Robust wellness benefits, including an annual wellness stipend\n\u2022 Flexible and generous (FTO) time-off\n\u2022 Employee Stock Purchase Program\n\u2022 Registered Retirement Savings Plan (RRSP) with 4% company match\n\u2022 Continued investment in your professional development through Udemy\n\nCompensation: The compensation for this position is $95,000 to $120,000 CAD per year.\u202fFinal offer amounts are determined by multiple factors including location, local market variances, and candidate experience and expertise, and may vary from the amounts listed above.\n\nEverCommerce is an equal opportunity employer and we value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender identity, sexual orientation, age, marital status, veteran status, or disability status. We look forward to reviewing your credentials and getting to know more about your experience!",
+            "location": "Oakville, ON, Canada",
+            "employmentType": "",
+            "datePosted": "2 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Careers At EverCommerce",
+                    "url": "https://careers.evercommerce.com/us/en/job/R-104545/Software-Developer-Mobile?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/software-developer-%E2%80%93-mobile-at-evercommerce-4056358542?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "BeBee Canada Meet Opportunities",
+                    "url": "https://ca.bebee.com/job/fb02cdce1518b66c59840f9314efdb56?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Adzuna",
+                    "url": "https://www.adzuna.ca/details/4911031702?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Jobs Trabajo.org",
+                    "url": "https://ca.trabajo.org/job-3051-78023a4035d69cd03c1efe81739d78c6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "C#"
+                },
+                {
+                    "name": "HTML"
+                },
+                {
+                    "name": "CSS"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "SQL"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Angular"
+                },
+                {
+                    "name": "Docker"
+                },
+                {
+                    "name": "AWS"
+                }
+            ]
+        }
+    ]
+}

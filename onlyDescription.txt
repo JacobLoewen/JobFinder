@@ -1,0 +1,426 @@
+Job title: Business Intelligence Analyst/Developer
+
+Location: Toronto ON
+
+Duration: Full Time - Hybrid
+
+Responsibilities:
+• Expert knowledge of reporting and BI platforms, tools and techniques used within enterprise and within broader industry and ability to effectively leverage it to support broad range of reporting and BI functions
+• Gather, analyze, and interpret complex data from various sources to identify trends and insights
+• Create and maintain interactive dashboards and reports to present findings to stakeholders
+• Design, implement, and maintain databases to ensure data integrity and accessibility
+• Assist in integration of data across multiple platforms
+• Utilize data visualization techniques / tools across the organization to support multiple businesses
+• Coordinate with stakeholders across business functions to understand their needs and effectively deliver reporting and BI solutions
+• Undertakes and completes a variety of complex projects and initiatives requiring specialist knowledge and/or the integration of cross functional processes within own area of expertise
+
+Qualifications:
+• 1+ year of experience for Analyst roles and 3+ years of experience for Senior Analyst roles in business intelligence, insights, analytics or related fields
+• Proficiency in programming languages such as Python, SQL
+• Experience in data warehouse design and working knowledge of BI technologies
+• Adept at the use of data visualization tools such as Tableau, Power BI (Tableau preferred)
+• Proficient PC skills including a strong competency in MS Excel and PowerPoint, and analytical and reporting software packages
+• Understanding data and query optimization, query profiling, and query performance monitoring tools and techniques
+• Expert knowledge of various data sources, tools and technologies used in preparing summaries and reports
+• Strong analytical and program solving skills are required to interpret data and draw conclusions
+• Excellent written and verbal communications skills
+• Bachelor’s degree in relevant field (e.g. Data analytics, Computer Engineering, Mathematics, Statistics, Economics, other engineering/ analytics). Advance degree preferred
+• Experience with call center operations and related data hierarchies preferred (but not mandatory)
+• Prior knowledge of Finance and Banking preferredThis position contributes to The Royal with its technical expertise in moving and transforming data. They contribute to the data team’s environment and processes and enable the creation of reports, etc through the set-up of data models, collaborating with users to understand and document their requirements as well as helping to support the technology infrastructure in the data environment.
+
+This team member will collaborate both with internal team members and external data partners in the shared data environment, they will contribute to collaborative planning and work in a supportive and positive manner.
+
+Duties:
+
+Database/Data Model Design & Development:
+• Documents business requirements in the form of specifications (functional and technical specifications), validates accuracy and obtains necessary input and approval.
+• Following established standards and practices, develops and maintains data models and data dictionaries, data maps and other artifacts, including the conceptual and physical models, as well as a metadata repository.
+• Contributes to and supports activities to ensure the integrity and performance of data environment, including investigation and issue resolution as required.
+Report Design & Development:
+• Contributes to and helps build data & analytic solutions (including database design) as assigned to support requests and business needs
+• Generates reports and other data and analytics services within the Azure data & analytics environment.
+• Ensures reports and other data & analytics solutions are optimized for efficiency and performance in the production environment.
+• Assists with documentation of report library and builds ETL packages.
+Partnerships & Collaboration:
+• Collaborates with data team members and partners such as IT to help ensure internal control & integrity of systems
+• Actively participates and supports activities as part of various Data Working Groups.
+• Contribute and work with partner hospitals towards approved initiatives and prioritie
+Operational Support & Maintenance:
+• As requested and assigned, performs system and platform performance monitoring and tuning, and SQL code review.
+• Supports and follows information governance and data standardization procedures established by the organization and partnerships.
+• Applies appropriate content and design details where appropriate
+• Performs other related duties as assigned or requested.
+• Collaborates closely with and provide coverage as needed for any BI Developer/Analyst
+Other:
+• Work in a manner that is in compliance with staff and patient/client safety practices, policies and procedures of The Royal.
+• Ensure a work environment that is conducive to The Royal’s Anti-Racism, Harassment, & Discrimination Free Workplace Policy
+Qualifications:
+• Bachelor’s Degree in Computer Science, Software Engineering or Information Technology, or equivalent.
+• Minimum 3 years of work experience with SQL server, Business Intelligence, reporting and data modelling
+• Working knowledge of healthcare and/or Meditech HIS environment.
+• Expert working knowledge of relational databases, data model development, data warehousing, and business intelligence.
+• Expert in database design, relational integrity constraints, OLAP, OLTP, cubes, and normalization.
+• Experience with cloud-based BI, data virtualization including Azure platform and Power BI Services.
+• Demonstrated experience in creating medium to large-scale enterprise logical data models using normalization, star and snowflake schema techniques
+• Demonstrated experience with ETL and MS SQL Server performance tuning (Profiler, Tracing, Execution Plan Analysis).
+• Expert experience in generating custom reports using SQL Server and Microsoft reporting tools such as SSRS, SSMS, Azure Data Studio and Power BI Desktop, including advanced functions, scheduling and publishing reports on Report Server or Power BI Service
+• Demonstrated experience within the Azure platform, including, but not limited to: Azure Data Factory; Logic Apps; Azure Functions
+• Demonstrated experience in responding to and troubleshooting issues related to data quality and performance, with the ability to resolve them in a timely manner.
+• Demonstrated experience in building data analytics and reporting.
+• Experience with Object-Oriented Programming language, including but not limited to, C#/VB/Javais a asset.
+• The ability to foster collaborative and effective working relationships with stakeholders that promote cooperative goals and contribute to an atmosphere of trust and mutual respect.
+• Experience with SAS.
+• Experience in working on multiple projects at the same time.
+• Knowledge of HL7 and FHIR (Fast Healthcare Interoperability Resources)
+• Knowledge of the basics of Machine Learning and ability to write/read Python/R code.
+• Strong and effective communication skills to engage with all stakeholders to gather and document business requirements.
+• Excellent communication, interpersonal, organizational, change management and relationship management skills.
+• Proven abilities to take initiative and to be innovative and collaborative.
+• English level A- is mandatory in oral expression, comprehension, reading & writing. Bilingual (French/English) is considered an asset.Job Description
+
+Title: Business Intelligence & Reporting Developer
+
+Id: 19400
+
+Type: FullTime
+
+Location: Bolton
+
+Husky TechnologiesTM a company with a strong foundation built on innovation, close customer relationships, a strong sense of community and a unique culture and values. We are looking for people with the inspiration and talent to develop with us as we pursue our ambitious growth strategy.
+
+Husky TechnologiesTM offers a wealth of opportunity for personal growth and development. Most importantly, Husky Technologies TM offers an opportunity to work with – and be challenged by – a team of great people. Our success is possible because of the creativity, intelligence and passion of our people around the world and their desire to lead change. At the same time, we are not afraid to expect a lot and strive for leadership in all of our key markets. We are a company taking on new challenges and for the right people this means exceptional career development opportunities, the chance to be part of a team that is the best in the world at what we do and the experience that comes from working in an environment that demands constant transformation and innovation.
+
+Husky TechnologiesTM Canadian manufacturing facilities and global headquarters are located in Bolton, Ontario on a large, beautiful campus located just 20 minutes north of Toronto’s Pearson International Airport. Features include a fitness and wellness center, intramural sports activities, on-site cafeteria, and clean, state-of-the-art manufacturing facilities with outstanding safety records. We offer a great work environment and competitive total compensation package, including above market retirement savings plan and market competitive group benefits.
+
+Husky TechnologiesTM is an exciting company with tremendous potential. We have a great team and great expectations. If you are attracted to bold goals, believe in uncompromising honesty, support mutual respect, care about environmental responsibility, have a passion for excellence and a desire to make a positive contribution – then we want you to join the Husky TechnologiesTM team!
+
+Responsible for building the business intelligence system for the company, based on the internal and external data structures. Responsible for leading the design and support of enterprise-wide business intelligence applications and architecture. Works with enterprise-wide business and IT senior management to understand and prioritize data and information requirements. Solves complex technical problems. Optimizes the performance of enterprise business intelligence tools by defining data elements which contribute to data insights which add value to the user. Creates testing methodology and criteria. Designs and coordinates a curriculum for coaching and training customers in the use of business intelligence tools to enhance business decision-making capability. Develops standards, policies, and procedures for the form, structure, and attributes of the business intelligence tools and systems. Develops data/information quality metrics. Researches new technology and develops business cases to support enterprise-wide business intelligence solutions.
+
+Responsibilities
+• Leading BI software development, deployment and maintenance
+• Report curation, template definition and analytical data modeling
+• Work with cross-functional teams to gather and document reporting requirements
+• Translate business requirements into specifications that will be used to implement the required reports and dashboards, created from potentially multiple data sources
+• Identifies and resolves data reporting issues in a timely fashion, while looking for continuous improvement opportunities.
+• Build solutions that create value and resolve business problems
+• Provide technical guidance to designers and other stakeholders
+• Work effectively with members of Digital Solutions Team
+• "Installs, configures, deploys, and tunes analytics tools and servers"
+• Troubleshoots analytics tool problems and tunes for performance
+• Develops semantic layer and analytics query objects for end users
+• Translation of business questions and requirements into reports, views, and analytics query objects
+
+Qualifications
+• University Degree or Community College Diploma: Computer Science, Computer
+• Engineering, Information Technology or equivalent experience
+• 2+ years of Business Intelligence or Report development experience
+• Understanding of ERP and Operational systems databases, knowledge of database programming
+• Highly skilled at writing SQL queries with large scale, complex datasets
+• Experience in data visualization and data storytelling
+• Experience designing, debugging and deploying software in VSTS (Azure Dev/Ops) development environment
+• Experience with Microsoft BI stack - Power BI and SQL Server Analysis Services
+• Strong problem-solving and metadata skills
+• Teamwork and commitment to reaching the goals of the project and Husky
+• Ownership, accountability and speed of execution
+• Knowledge of analytics tool architectures, functions, and features
+
+Husky TechnologiesTM offers a competitive compensation and benefits package and excellent opportunities for growth and advancement. We are committed to equal employment opportunity and respect, value and welcome diversity in our workplace. Husky Technologies TM also values being a great place to work and strives to maintain a safe workplace. Accordingly, Husky TechnologiesTM conditions all offers of employment on satisfactory completion of background checks.
+
+Husky TechnologiesTM is committed to developing inclusive, barrier-free selection processes and work environments. If contacted in relation to a job opportunity or testing, you should advise the member of the Talent Acquisition team in a timely fashion of any disabilities that requires accommodation measures in order to enable you to be assessed in a fair and equitable manner.
+
+Information received relating to accommodation measures will be addressed confidentially.
+
+No agency or telephone inquiries please.About Citco:
+
+Armed with superior services, smart people, and strong technology, we tackle our customers’ complicated challenges by developing sophisticated solutions driven directly by their demands. The result? Innovation that generates tangible value and makes a real difference for our clients and their companies.
+
+About the Team & Business Line:
+
+Proprietary software solutions and innovation are at the core of what differentiates Citco in the alternative investment space. Through our network of global development centres, Citco invests heavily in technology development, security, and infrastructure to ensure our clients continue to receive award-winning products that underpin our commitment to service excellence.
+
+As a core member of our Product Development team you will work with dedicated professionals to ensure we build a self-service BI platform, advance active analysis, support our independent business developers and seamless analysis experience while keeping Citco ahead of industry trends.
+
+The position is based in our global development center in Toronto and may require some international travel to other CITCO locations. Our organization follows a hybrid work structure where employees can work remotely or from the office, based on demands of specific teams and business groups. The position reports to the Application Tech Lead. The Developer will interact with the business stakeholders, BI platform adopters and other technical groups within Citco.
+
+Your Role:
+
+The Citco Reporting team is looking for agile experienced a Business Intelligence Developer to develop advance BI solutions. The primary function in this regard is design and development of Qlik and Power BI solutions, integrating those with different Citco Data sources/ UI/applications and analysis of the underlying business requirements. The BI developer will work closely with a team of developers, under the direction of a product owner and project manager. They should be comfortable communicating with all levels within an organization, carrying out detailed technical work (development and support) and be flexible and hardworking
+• You will analyze, design, develop, support and maintain QlikSense and Power BI reporting solutions
+• Define and implement application development standards and best practices
+• Utilize the QlikSense and Power BI APIs to rapidly create, modify, refresh and update BI Solutions
+• Configure user access through Security Rules and data access through Section Access
+• Conduct technical reviews of BI solutions and architectures to ensure stability, performance, and supportability
+• Work with other development groups to advise, guide and assist in their integrations with Qlik Sense and Power BI
+• Work directly with the Tech Lead, Product Manager and Project Manager to ensure clear and accurate communication of current status, dependencies and estimated delivery timelines
+• Clearly communicate issues, risks and proposed solutions to relevant stakeholders
+
+About You:
+
+You have expertise/experience in one or more of the following:
+• 5 or more years of experience in Business intelligence working on QLIKSENSE and/or Power BI development, data modeling, API development, troubleshooting and administration. Experience with other BI tools will be also considered.
+• Good database designing and SQL skills. Experienced in DBMS, RDMS, Amazon RDS ( MySQL, PostgreSQL).
+• Experience with BI Security Model.
+• Experience in REST API development, extensions, CSS, embedded analytics, QLIK orchestration, NLP development, deployment automation, source control solutions
+• Knowledge of core cloud computing concepts, including Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS).
+• You have a university level education in Information Technology or related technical field and proven experience with the development reports.
+• You have strong analytical and technical skills, including stored procedure creation and report layout.
+• Willingness to learn, cross-train and to innovate in a rapidly changing market
+• Self-organized, flexible and proactive attitude
+• Strong communications skills and ability to comprehend and translate complex, advanced functional, technical and business requirements into executable architectural designs
+• Excellent listening and analytical skillsLeadership qualities to lead the solution implementations, confidently face the stakeholders and focused approach towards objectives.
+
+Additional expertise/experience in any of the following areas is considered an asset:
+• QLIKSense and/or Power BI certification
+• Experience working in cloud based data sources and Qliksense and/or Power BI integrations.
+• Hands-on experience with various BI Tools (Qlik Sense, Power BI, Quicksight)
+• Development experience with scripting and programming languages such as Python, Powershell, R
+• AWS and or Azure certification
+• You have a mutual or hedge fund accounting experience; a financial background would be advantageous.Advocate for a culture of software crafting best practices, including automation, continuous integration and continuous deployment.
+
+Our Benefits
+
+Your well being is of paramount importance to us, and central to our success. We provide a range of benefits, training and education support, and flexible working arrangements to help you achieve success in your career while balancing personal needs. Ask us about specific benefits in your location.
+
+We embrace diversity, prioritizing the hiring of people from diverse backgrounds. Our inclusive culture is a source of pride and strength, fostering innovation and mutual respect.
+
+Citco welcomes and encourages applications from people with disabilities. Accommodations are available upon request for candidates taking part in all aspects of the selection.Company Description
+• * 7 time INC 500/5000, 7 time BBJ "Pacesetter", 5 time SIA-fastest growing**
+
+TalentBurst, Inc.
+
+Boston | San Francisco | Miami | Milwaukee | Toronto | New Delhi | Banglore
+
+Fax: (508) 319-3065
+
+679 Worcester Road | Natick, MA 01760 | www.talentburst.com
+
+Certified Minority Business Enterprise (MBE)
+
+Job Description
+
+As an integral member of our development team, the Business Intelligence (BI) Developer is responsible for the development, implementation and support of Mission critical enterprise Business Intelligence (BI) solution.
+
+Working with cross functional teams, you will participate in evaluation of business requirements for data warehouse and reporting solution. Using your skills and experience as a BI Report Developer, you will then use those requirements to design, develop and testing of DWH models, ETL process, reports and dashboards that utilize the underlying data warehouse(s).
+
+Client has been developing feature rich online billing and payment applications for over 10 years. They provide a suite of cloud based Intelligent Billing and Subscription Commerce SaaS solutions that allow organizations the flexibility to create innovative product and service offerings, campaigns, and pricing strategies. Our ability to react quickly to both market and customer needs has made us a leader in online billing and payment applications. They have one of the most sophisticated products in the industry and increased demand for their products is resulting in growth for their technical team including a contract position for BI Developer. If you are a well-rounded BI Developer with an interest in hands on technical work, we would like to hear from you. Working at client combines the security of working for an established, well respected company with the excitement of working in a high growth, technologically oriented start up environment.
+
+Responsibilities:
+
+• Participate in business analysis activities to gather and evaluate client requirements and translate these requirements to specific data designs and models, reports and dashboards
+
+• Design and develop client reports, dashboards and data feeds using BI tools and UNIX shell scripts
+
+• Utilize ETL tools to build data warehousing solutions
+
+• Develop, optimize, maintain and support ETL processes
+
+• Troubleshoot and performance tune as necessary BI tools, data warehouses, reports, feeds, systems and software;
+
+• Must be able to perform duties with low level of supervision
+
+Requirements:
+
+• Bachelor's Degree in Computer Science or a related discipline.
+
+• 5+ years of experience in Business Intelligence/Data Warehouse development
+
+• Proficiency with one or more BI tools
+
+• Proficiency with one or more ETL tools
+
+• Must have expert knowledge of SQL
+
+• Must be familiar with Oracle and MySQL in a UNIX environment
+
+• Experience with UNIX environment and basic Unix shell scripting
+
+• Performance tuning experience is required
+
+• Excellent oral and written communications and interpersonal skills
+
+• Ability to learn quickly new tools and technologies
+
+Pluses:
+
+• Programming / scripting experience and knowledge of software development life cycle as a plus
+
+• Experience with Yellowfin BI tool
+
+• Experience with Talend Data Integration ETL tool
+
+• Experience with billing systems, subscriber management and payment processing is preferred
+
+Qualifications
+
+Graduate
+
+Additional Information
+
+Please reach me for further query or drop your updated resume at kashif.meraj(at)talentburst(dot)comSummary
+
+We’re a naan traditional company…
+
+The business demand for data insights is ever increasing. As the BI Technical developer will need to find new and creative ways to extract, load and transform data from various source systems. Creativity in the design process is a key competency for this role as projects / business requirements will be constantly changing. In this role, you'll be responsible for developing robust data pipelines that efficiently ingest, process, and store data from a variety of sources. Design data architecture structures to support BI Initiatives. Design and o ptimize dashboards/data warehouse with a focus on usability, performance, flexibility, and standardization.
+
+Reporting to the Team leader, Insight & Analytics the Sr. Business Intelligence Developer will be responsible for the following duties, and complete special initiatives and projects as assigned.
+
+What FGF Offers:
+• FGF believes in Home Grown Talent, accelerated career growth with leadership training. Unleashing Your Potential
+• Competitive Compensation, Health Benefits, & a generous flexible medical / Health spending account
+• RRSP matching program
+• Tuition reimbursement
+• Discount program that covers almost everything under the sun - Restaurants, gyms, shopping etc.
+
+Primary Responsibilities
+• Viewed as a technical expert and is critical resource across multiple disciplines.
+• Gather requirements and transform into business and technical requirements documents
+• Have an active relationship with key business leaders to determine “pain points” and actively develop reporting solutions.
+• Gather and analyze business requirements from stakeholders and translate them into technical specifications for data models, reports, and dashboards.
+• Create visually appealing dashboards based on requirements.
+• The BI Developer will create automated reporting in all business functions, driving competitive advantage for FGF brands and facilitating faster and better management decisions.
+• Must be able to build and maintain back-end solutions of views/models to be consumed by other BI Developers or business users, as well as customer facing front end reporting models/visualizations.
+• Assist in operational and customer support related to the use of the in-house developed products.
+• Make technological adjustments to existing BI systems to improve overall performance.
+
+Required Experience
+• 5+ years exposure to different Business Processes within a manufacturing environment specifically Supply Chain Management and Production operations.
+• Strong analytical thinking for transforming data into meaningful reports and graphics.
+• A bachelor’s degree in data science, computer science, management information systems, finance, statistics, or related field
+• Over 2 years of hands-on experience with cloud platforms such as Databricks, MongoDB and Azure Data Flow (ADF).
+• Proficiency in Python, including a strong grasp of Object Oriented and Functional programming paradigms.
+• A solid understanding of Spark concepts and distributed systems, including data transformations, RDDs, Data frames, and Spark SQL.
+• Excellent SQL skills and expertise in database management and tuning.
+• Ability to devise and implement master data management processes.
+• Experience with data lakehouse and medallion architecture using Delta Lake within Azure Databrick
+• Proficiency in developing RESTful APIs
+• Strong problem-solving and critical-thinking abilities.
+• Strong communication and collaboration skills.
+• Continuous learning and staying updated with the latest advancements in Azure Databricks and data engine ering are essential for success in this role.
+
+What is the recipe for a great career at FGF?
+
+Working at FGF Brands, there is never a dull moment! As a successful company that is continually growing there is always challenging yet rewarding work to be a part of. We have an entrepreneurial spirit which encourages all our team members to use their own creativity and out of the box thinking to come up with solutions and new ideas.
+
+In compliance with Ontario’s Bill 190, we confirm that this posting represents a current, existing vacancy within our organization.
+
+Disclaimer: The above describes the general responsibilities, required knowledge and skills. Please keep in mind that other duties may be added or this description may be amended at any time.
+
+IT
+
+#IND1Work location:
+Home Office 1303 Yonge St
+
+City:
+Toronto
+
+What you will do:
+Business Intelligence Report Developer
+
+Hybrid position working from the Cineplex corporate headquarters in Toronto (Yonge and St. Clair) 3 days per week.
+
+The Business Intelligence Report Developer will join our growing team of analytics experts. They will be joining a team that is the Centre of Excellence for Corporate Data. The individual will be responsible for building, modernizing, and maintaining organizational reports. The ideal candidate has experience with SQL Server databases, data modelling and Power BI report development. The individual will be a problem solver that has expertise and delivery depth across data platforms, applied data analysis, Azure cloud, and business automation solutions.
+
+Key Responsibilities:
+• Be the primary contact for maintaining the existing reporting suite based on Power BI and SSRS dashboards with the support of other experienced BI team members.
+• Strong SQL skills required.
+• Investigative and problem-solving skills will be needed.
+• Collaborate with stakeholders to define the business layer and presentation layer of the BI model that is business-friendly and supports a self-service environment where appropriate.
+• Communication skills to clearly understand the requirements that are being laid out, translate to technical requirements, and execute.
+• Review functional and design specifications to ensure full understanding of individual deliverables.
+• Ongoing monitoring of existing key reports to ensure data quality and integrity.
+• Will support most of the data quality testing in close collaboration with Data Engineering team.
+• Conduct a comprehensive review of all current BI reporting to establish a BAU Reporting Requirements Definition for all business functions.
+
+Education and Certification:
+• Diploma or Degree in Data, Analytics, Computer Science, Mathematics or Engineering.
+
+Experience:
+• 5+ experience as a Business Intelligence Developer
+• 3+ years of professional experience in report development using Power BI
+• 3+ years experience in the entertainment / media industry
+• 3+ years experience building reports from Azure cloud
+• 3+ years experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement.
+• 3+ years experience debugging Multi-Dimensional and Tabular Data Models.
+• 3+ years experience delivering solutions on the Azure platform (Data Lake, Synapse, Data Factory)
+
+Knowledge, Skills and Abilities:
+• SQL knowledge and experience working with relational databases, complicated query authoring (SQL Window Functions, Stored Procedures etc.) as well as working familiarity with a variety of cloud databases (Databricks, Azure SQL, Azure Synapse).
+• Power BI and Power Platform expert user, with the ability to generate complicated, optimized reports bringing data from multiple different sources, ability to create and think in terms of a semantic reporting model.
+• Power Platform experience will include automating business processes (especially around data gathering and manipulation of data from Excel and csv files).
+
+Inclusion & Diversity
+
+Cineplex, its subsidiaries, and affiliates are equal opportunity employers with a commitment to hiring and retaining a diverse workforce. We encourage and welcome applications from all intersectional walks of life. The collective sum of our individual differences, experiences, knowledge, innovation, self-expression, unique capabilities, and talent represents a significant part of our culture. By valuing a diverse workforce, we enforce hiring practices that are fair and equitable.
+
+Accessibility
+
+We are committed to improving access and opportunities for all individuals, including those with disabilities by identifying and removing barriers that may prevent, inhibit, or restrict their access to employment oporunities. If you require accommodation at any stage of our hiring process (application, interviews, assessments, and placement), please contact us at [redacted] or via email at [redacted].
+
+While we appreciate all interest, only those candidates selected for an interview will be contacted.Location: Remote (must be located in Canada) About Alphabyte Based in Toronto, Canada, Alphabyte embodies the entrepreneurial spirit of Canada’s tech scene. For years we have based this on the premise that with a little thoughtfulness and determination, anything can be done a little bit better and a little bit faster. A leader in Data, AI, and Advisory Services, Alphabyte’s portfolio extends across North America. A truly global corporate citizen, we are committed to responsible business practices to bring about positive change. In addition to the cool gadgets which we invent and work with, we are constantly striving to create innovative programs and resources to improve work-life balance and maintain a positive working environment, as well as taking part in our communities through philanthropic efforts. Joining the Alphabyte Team means embracing unconventional thinking while being tethered to a bedrock of shared values. Dive into an environment where curiosity meets innovation and where challenges are seen as thrilling puzzles awaiting solutions. Job Summary We are seeking a highly skilled and versatile Senior Business Intelligence Consultant/Developer to join our team. This hybrid role combines strategic consulting with hands-on technical development in BI, bridging the gap between business needs and data solutions. The ideal candidate will work directly with stakeholders to understand business requirements, design and implement BI solutions, and drive data-driven decision-making. This role requires both expertise in BI tools and development, as well as a strategic mindset to advise clients on best practices and BI strategies. Key Responsibilities Consulting and Strategy Engage with business stakeholders to understand their needs, gather requirements, and translate them into actionable BI solutions. Advise clients and internal teams on BI best practices, tool selection, data governance, and KPIs to align with business goals. Develop and maintain a strategic BI roadmap to guide the organization’s or client’s data and analytics initiatives. Present insights, findings, and strategic recommendations to clients and senior leadership, helping drive data-informed decision-making. Technical Development and Implementation Design, develop, and maintain data models, data warehouses, and ETL (Extract, Transform, Load) processes to support BI initiatives. Build and optimize dashboards, reports, and data visualizations using BI tools (e.g., Power BI, Tableau, SSRS) to provide actionable insights. Integrate data from multiple sources, ensuring high data quality, consistency, and performance in the BI environment. Collaborate with IT and data engineering teams to manage data pipelines, database optimization, and infrastructure for reporting. Required Skills Consulting and Stakeholder Engagement : Proven experience in engaging with business stakeholders to gather requirements, define BI needs, and translate these into actionable data solutions. Strong communication skills to present complex data insights and recommendations to non-technical audiences effectively. BI Tools Expertise : Advanced proficiency in Power BI, Tableau, and similar BI platforms for creating dashboards, reports, and interactive visualizations tailored to business requirements. Ability to leverage advanced features like DAX (Power BI) or calculated fields (Tableau) for data manipulation. Data Modeling and ETL Development : In-depth knowledge of data modeling techniques (star and snowflake schema) to design scalable BI solutions. Skilled in developing ETL (Extract, Transform, Load) pipelines using tools like SSIS and ADF. Database Management and SQL : Expert SQL skills with experience in querying, optimizing, and managing databases such as SQL Server, Snowflake, or Azure SQL. Ability to write complex queries, stored procedures, and perform database performance tuning. Programming and Automation (Preferred) : Knowledge of Python for advanced data processing, automation, and statistical analysis, enabling efficient handling of complex data sets and automation of data workflows. Experience and Education : Minimum 7 years of experience in BI development and consulting, with a strong track record of successful project delivery. Bachelor’s degree in Computer Science, Information Systems, Business Analytics, or a related field (Master’s preferred). Relevant certifications (e.g., Microsoft Certified: Data Analyst Associate, Tableau Desktop Specialist) are a plus for demonstrating technical expertise.As a Senior BI Developer and Lead Looker Developer, you will lead the development of impactful data visualizations that surface key business insights and empower data-driven decision-making. You will be responsible for translating business user requirements into compelling, customized dashboards and reports. With expertise in storytelling through data, you’ll combine technical prowess in Looker with a keen eye for beautiful design to craft visuals that not only inform but engage.
+
+In addition to being the Lead Looker Developer, you will leverage your ability to customize Looker with extensions, such as Highcharts, to build highly interactive and tailored visualizations. You will drive BI solutions that not only meet technical requirements but also resonate with business users at all levels
+
+As a Lead Looker developer, you have the opportunity to influence the strategic direction of our BI practice, with significant opportunities for development and progression within the organization.
+
+Qualifications:
+
+-Deep expertise in Looker development, including LookML, Looker customization, and advanced visualizations.
+
+-Strong proficiency in SQL and experience with cloud-based data platforms (e.g., BigQuery, Snowflake).
+
+-Exceptional storytelling skills with data, capable of creating clear, compelling narratives from complex data sets.
+
+-An eye for design, with the ability to create visually appealing and user-friendly dashboards and reports.
+
+-Experience in customizing Looker or similar using extensions like Highcharts or similar, for enhanced interactivity.
+
+-Proven ability to connect with business stakeholders, understand requirements and deliver impactful insights.
+
+-Strong leadership and collaboration skills, with experience managing or mentoringJob Title:
+
+BI & Data Visualization Developer
+
+Role Overview:
+
+As a critical member of the Data & Analytics team, the BI & Data Visualization Developer will actively design, develop, implement and maintain reporting solutions aligned to the needs of business stakeholders. This person is responsible for collaborating with stakeholders to gather requirements and translate them into effective reporting solutions to make data-driven decisions while ensuring quality, accuracy and scalability.
+
+This is a remote position based in Canada. We will only consider candidates currently in Canada and are not offering relocation assistance at this time.
+
+About the role:
+• Design, develop and maintain data-driven reporting solutions (e.g. interactive dashboards, general reporting templates) collaborating with cross-functional teams (e.g. Finance, Marketing, Operations/Strategy).
+• Partner with Data Stewards and Data Curation Engineers preparing scalable data sets for visualization ensuring data quality at each phase.
+• Develop performant SQL queries to extract data from certified sources to build innovative reporting solutions.
+• Transforming complex datasets into meaningful visual narratives leveraging UI/UX best practices and modern technology.
+• Evangelize reporting solutions to stakeholders ensuring continuous adoption of analytic tools empowering stakeholders to explore and analyze data through self-service.
+
+About you:
+• You have 3+ years of experience in a data analytics function developing scalable reporting dashboards in Power BI, Tableau and/or other visualization tools.
+• You have a history of developing SQL/SparkSQL and experience working in modern cloud-based data warehouses with large event-based data sets and diverse schemas.
+• You have a history of conducting exploratory analysis to determine the root cause.
+• You have a passion for deploying new technology to improve reporting efficiencies and familiarity with natural language query implementation.
+• You have a strong sense of UI/UX best practices with a keen eye for visual design and attention to detail.
+• You have strong interpersonal skills and the ability to communicate with technical and non-technical audiences.
+• You have experience translating business stakeholder needs into technical design documentation.
+• You have experience working in an agile / Scrum environment.
+
+#LI-REMOTE
+
+Company Overview
+
+McAfee is a leader in personal security for consumers. Focused on protecting people, not just devices, McAfee consumer solutions adapt to users’ needs in an always online world, empowering them to live securely through integrated, intuitive solutions that protects their families and communities with the right security at the right moment.
+
+Company Benefits and Perks:
+
+We work hard to embrace diversity and inclusion and encourage everyone at McAfee to bring their authentic selves to work every day. We offer a variety of social programs, flexible work hours and family-friendly benefits to all of our employees.
+• Bonus Program
+• 401k Retirement Plan
+• Medical, Dental, Vision, Basic Life, Short Term Disability and Long-Term Disability Coverage
+• Paid Parental Leave
+• Support for Community Involvement
+• 14 Paid Company Holidays
+• Unlimited Paid Time Off for Exempt Employees
+• 96 Hours of Sick Time and 120 Hours of Vacation for Non-Exempt Employees Accrued Each Year
+
+We're serious about our commitment to diversity which is why McAfee prohibits discrimination based on race, color, religion, gender, national origin, age, disability, veteran status, marital status, pregnancy, gender expression or identity, sexual orientation or any other legally protected status.
+
+The starting pay range for this position is $100,480.00-$165,070.00. McAfee takes into consideration an individual’s skillset, experience and location in making final salary determinations. For further details, please discuss with the Talent Acquisition Partner.

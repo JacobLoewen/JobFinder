@@ -1,0 +1,550 @@
+{
+    "jobs": [
+        {
+            "jobType": "front_end_developer",
+            "title": "Front End Developer",
+            "company": "Stebr Canada Inc.",
+            "description": "We are looking for a ReactJS, Redux developer. Hands-on design and development of highly concurrent, scalable, distributed transactional systems using TDD (Test driven development) and (DDD) Domain driven design models.\n\u2022 Responsible for troubleshooting and fixes of production issues in quick turnaround time\n\u2022 Work with the team for constant improvement of system performance and scale using system profiling tools and stress testing techniques\n\u2022 Not more than 2 years of reactJS experience? Please do not apply\n\nRequirements\n\u2022 BS/MS degree or equivalent with 5+ Years of overall experience in web application design and development.\n\u2022 Must have strong skills in JavaScript, ReactJS and its core principles, React.js workflows (such as Flux or Redux), webpack, Babel, npm.\n\u2022 Must have worked on React hooks and Redux saga\n\u2022 Experience with relational databases (transactional and non-transactional), database architecture and distributed cache & transaction management.\n\u2022 Should have good knowledge of Agile/Scrum, continuous integration and deployment",
+            "location": "Toronto, ON, Canada",
+            "employmentType": "",
+            "datePosted": "6 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/front-end-developer-at-stebr-canada-inc-4074173649?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "ZipRecruiter",
+                    "url": "https://www.ziprecruiter.com/c/Stebr,-Inc/Job/Front-End-Developer/-in-Toronto,ON?jid=475682ced5ddbafa&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Indeed",
+                    "url": "https://emplois.ca.indeed.com/viewjob?jk=65af950f875d6490&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Nexus Systems Group",
+                    "url": "https://www.nexusgroup.ca/jobs/front-end-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Huzzle",
+                    "url": "https://www.huzzle.app/jobs/front-end-developer-425340?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Tundra Talent Community - Tundra Technical Solutions",
+                    "url": "http://community.tundratechnical.ca/jobs/front-end-developer/apply/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Jobboom",
+                    "url": "https://www.jobboom.com/en/job-offer/front-end-developer_astek-canada_p3320307?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Glassdoor",
+                    "url": "https://www.glassdoor.ca/job-listing/front-end-developer-payquad-solutions-JV_IC2281069_KO0,19_KE20,37.htm?jl=1009405394633&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "JavaScript"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "TDD"
+                },
+                {
+                    "name": "React"
+                },
+                {
+                    "name": "Scrum"
+                }
+            ]
+        },
+        {
+            "jobType": "front_end_developer",
+            "title": "Front End Engineer",
+            "company": "Kiwee Intelligence Inc.",
+            "description": "About Us\n\nKiwee Intelligence is a rapidly growing startup dedicated to building user-driven software applications that foster connections and promote a sense of community. By leveraging AI technology, we aim to inspire curiosity, embrace diversity, and help people discover new experiences. At Kiwee, we value human connections, positive communities, and personal growth.\n\nRole Overview\n\nWe are seeking a skilled Front End Engineer to join our team. This is a part-time, remote role. You will have the opportunity to create, test, and implement mobile applications and AI-driven solutions.\n\nIf you are an expert in back-end or full-stack development, we welcome you to apply!\n\nQualifications\n\u2022 Extensive experience with Flutter and Dart for cross-platform mobile app development.\n\u2022 Strong skills in translating design mockups into high-quality, responsive, and user-friendly interfaces. Familiarity with tools like Figma, Sketch, or Adobe XD.\n\u2022 Proficiency in state management approaches (e.g. Provider, Riverpod, Bloc) and architectural patterns (e.g. MVVM, MVC).\n\u2022 Experience with API integration, mobile app performance optimization, UX design and development.\n\nCompensation\n\nAs a startup, Kiwee Intelligence offers compensation in the form of company shares. The number of shares will be determined based on individual experience, expertise, and commitment (this is a part-time role with flexible hours). This approach allows you to become a key stakeholder in the company's future success. Compensation details will be discussed during the interview process.\n\nWhy Join Us?\n\u2022 Very flexible remote work environment - flexibility in work location and time.\n\u2022 Closely collaborate with a supportive team of company stakeholders.\n\u2022 Become a key stakeholder in a rapidly growing startup.\n\u2022 Work on innovative projects that have a lasting positive impact on society.\n\nHow to Apply?\n\nPlease submit your resume (required) and a portfolio of your work (optional) to careers@kiwee.space.\n\nIn your application, specify which role you are applying for: Front End, Full Stack, or Back End.\n\nWe look forward to hearing from you!",
+            "location": "Canada",
+            "employmentType": "",
+            "datePosted": "5 hours ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/front-end-engineer-at-kiwee-intelligence-inc-4078961318?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Built In Vancouver",
+                    "url": "https://builtinvancouver.org/job/front-end-engineer/2529176?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Indeed",
+                    "url": "https://emplois.ca.indeed.com/viewjob?jk=0f3dad4bd4e67d7f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "React Jobs",
+                    "url": "https://reactjsjob.com/job/2AtPXJjEbUyRK6xFul7zthCn944?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Learn4Good",
+                    "url": "https://www.learn4good.com/jobs/online_remote/software_development/3666106398/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Flutter"
+                },
+                {
+                    "name": "Figma"
+                },
+                {
+                    "name": "Adobe XD"
+                },
+                {
+                    "name": "Sketch"
+                }
+            ]
+        },
+        {
+            "jobType": "front_end_developer",
+            "title": "Senior Frontend Developer",
+            "company": "Royal Bank of Canada",
+            "description": "Job Summary\n\nJob Description\n\nWhat is the opportunity?\n\u2022 Build digial applications using frontend frameworks like Angular, Vue & React.\n\u2022 Apply design thinking and an agile mindset in working with other engineers, business stakeholders to continuously experiment, iterate and deliver on new initiatives.\n\u2022 Leverage best practices in continuous integration and delivery.\n\u2022 Help drive transformation by continuously looking for ways to automate existing processes and testing and optimize data quality.\n\u2022 Explore new capabilities and technologies to drive innovation.\n\nWhat will you do?\n\u2022 Create new customer-facing applications and using Angular and the latest technologies which will shape the future of banking for RBC\n\u2022 Work within an Agile product team comprised of technical, product and business team members to deliver exceptional products\n\u2022 Design and develop code structures to promote reusability across many applications\n\u2022 Collaborate with the team to design and implement software logic following current best practices\n\u2022 Mentor and coach others on the team and practice pair-programming\n\u2022 Provide guidance and direction to ensure high code quality with a rapidly changing Enterprise application suite\n\u2022 Actively seek out knowledge about new technologies/development patterns and how they can be used to solve current and foreseeable challenges\n\u2022 Collaborate with the other developers on the team to define and integrate REST APIs with the UI components\n\nWhat do you need to succeed?\n\nMust haves:\n\u2022 8+ years experience with JavaScript and Angular\n\u2022 Experience working within professional software engineering practices for the full software development life cycle, including coding standards, code reviews, source code management, build processes and testing\n\u2022 Advanced knowledge and experience with Angular, some experience with Vue is beneficial.\n\u2022 Experience with querying and consuming from a REST backend.\n\u2022 Experience working within an Agile product team.\n\u2022 Experience with browser testing/debugging tools (Console, Source, Performance).\n\nNice-to-have:\n\u2022 Experience with web accessibility, performance, and end to end testing.\n\u2022 Experience with a design system and/or component library.\n\u2022 Object Oriented coding practices, including strong design patterns knowledge, refactoring, clean code.\n\u2022 Understanding of DevOps deployment processes and technologies; Docker, Jenkins, Helios etc\n\nWhat\u2019s in it for you?\n\nWe thrive on the challenge to be our best, progressive thinking to keep growing, and working together to deliver trusted advice to help our clients thrive and communities prosper. We care about each other, reaching our potential, making a difference to our communities, and achieving success that is mutual.\n\u2022 A comprehensive Total Rewards Program including bonuses and flexible benefits, competitive compensation, commissions, and stock where applicable.\n\u2022 Leaders who support your development through coaching and managing opportunities\n\u2022 Ability to make a difference and lasting impact.\n\u2022 Work in a dynamic, collaborative, progressive, and high-performing team.\n\u2022 Flexible work/life balance options.\n\u2022 Opportunities to do challenging work.\n\u2022 Opportunities to take on progressively greater accountabilities.\n\u2022 Access to a variety of job opportunities across business.\n\nJob Skills\nApplication Development, Application Integrations, Applications Architecture, Database Development, Detail-Oriented, Group Problem Solving, JavaScript, Programming Languages, Software Development Life Cycle (SDLC), System Applications\n\nAdditional Job Details\n\nAddress:\n\nRBC CENTRE, 155 WELLINGTON ST W:TORONTO\n\nCity:\n\nTORONTO\n\nCountry:\n\nCanada\n\nWork hours/week:\n\n37.5\n\nEmployment Type:\n\nFull time\n\nPlatform:\n\nWEALTH MANAGEMENT\n\nJob Type:\n\nRegular\n\nPay Type:\n\nSalaried\n\nPosted Date:\n\n2024-10-24\n\nApplication Deadline:\n\n2024-11-22\n\nInclusion and Equal Opportunity Employment\n\nAt RBC, we embrace diversity and inclusion for innovation and growth. We are committed to building inclusive teams and an equitable workplace for our employees to bring their true selves to work. We are taking actions to tackle issues of inequity and systemic bias to support our diverse talent, clients and communities.\n\u200b\u200b\u200b\u200b\u200b\u200b\u200b\nWe also strive to provide an accessible candidate experience for our prospective employees with different abilities. Please let us know if you need any accommodations during the recruitment process.\n\nJoin our Talent Community\n\nStay in-the-know about great career opportunities at RBC. Sign up and get customized info on our latest jobs, career tips and Recruitment events that matter to you.\n\nExpand your limits and create a new future together at RBC. Find out how we use our passion and drive to enhance the well-being of our clients and communities at jobs.rbc.com.",
+            "location": "Toronto, ON, Canada",
+            "employmentType": "",
+            "datePosted": "20 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "RBC Careers",
+                    "url": "https://jobs.rbc.com/ca/en/job/R-0000102485/Senior-Frontend-Developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Jobs",
+                    "url": "https://jobs.ashbyhq.com/phoenix/71b5c893-46f6-4f51-818f-89cfd50bbef4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Indeed",
+                    "url": "https://ca.indeed.com/viewjob?jk=541ade9a27421448&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "ZipRecruiter",
+                    "url": "https://www.ziprecruiter.com/c/Pala-Interactive/Job/Senior-Frontend-Developer/-in-Toronto,ON?jid=656b5d5183e6c684&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "S&P Global",
+                    "url": "https://careers.spglobal.com/jobs/307113?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Glassdoor",
+                    "url": "https://www.glassdoor.ca/job-listing/senior-frontend-developer-pala-interactive-JV_IC2281069_KO0,25_KE26,42.htm?jl=1007899887666&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Itjobs.ca",
+                    "url": "https://www.itjobs.ca/en/offer/on/toronto/senior-frontend-developer/4cb0b616-1757-4e5f-9e6c-ba551430fc18_en/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Career Beacon",
+                    "url": "https://www.careerbeacon.com/en/job-9/1602951/pala-interactive/senior-frontend-developer/toronto-on?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "JavaScript"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "React"
+                },
+                {
+                    "name": "Angular"
+                },
+                {
+                    "name": "Docker"
+                },
+                {
+                    "name": "Jenkins"
+                }
+            ]
+        },
+        {
+            "jobType": "front_end_developer",
+            "title": "Axiom - Front-End Developer",
+            "company": "Equinox Engineering Ltd.",
+            "description": "Axiom - Front-End Developer\n\nDepartment: Information Technology\n\nEmployment Type: Full Time\n\nLocation: Calgary, AB, Canada\n\nDescription\nEquinox Engineering is looking for a full-time experienced Front-End Developer to join our software team in Calgary.\n\nAs a Front-End Developer, you\u2019ll be collaborating with other talented developers; you get to own code quality and projects from inception through to deployment. Our tech stack is built with a Microservices approach and includes Vue, TypeScript, Node, Docker, Rest, Nest.js, and Vite.\n\nOur team is looking for problem solvers and self-starters, who are energized by challenging work and have a strong understanding of front-end frameworks.\n\nKey Responsibilities:\n\u2022 Developing code with Vue, Typescript, Node, Rest, & more.\n\u2022 Creating web-based interfaces and re-usable interface components with Typescript and Vue.\n\u2022 Participating in code and design reviews; giving and receiving feedback.\n\u2022 Creating pull requests, utilizing these workflows, understanding and implementing feedback.\n\u2022 Actively work on high quality unit testing and testing your own work thoroughly before declaring a job well done.\n\nKey Skills & Abilities:\n\u2022 Fluent in TypeScript and Vue.\n\u2022 Excitement and personal drive to learn what you don\u2019t know.\n\u2022 Understanding of single page web apps built with Vue.\n\u2022 Cypress and jest experience is an asset but not required.\n\u2022 Knowledge of the current tech ecosystem, state of the art trends and announcements.\n\u2022 Someone who can work a minimum of 3 weekdays in-office, located in the west end of downtown Calgary and easily accessible by transit.\n\nEducation & Qualifications:\n\u2022 Highly adaptable, self-motivated, and a positive attitude.\n\u2022 Keen eye for detail without losing sight of the bigger picture.\n\u2022 Team players who love being part of and leading an agile ecosystem.\n\u2022 Possess a drive to finish, impress users, and delight customers.\n\u2022 Capable of diagnosing and fixing bugs, security, and performance issues",
+            "location": "Calgary, AB, Canada",
+            "employmentType": "",
+            "datePosted": "3 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Equinox Engineering Ltd. Careers",
+                    "url": "https://careers.equinox-eng.com/en/jobs/255786?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "ZipRecruiter",
+                    "url": "https://www.ziprecruiter.com/c/Equinox-Engineering-Ltd./Job/Axiom-Front-End-Developer/-in-Calgary,AB?jid=a20624507dce3390&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Indeed",
+                    "url": "https://emplois.ca.indeed.com/viewjob?jk=a3ff2b616b37c8fb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Monster.ca",
+                    "url": "https://www.monster.ca/job-openings/axiom-front-end-developer-calgary-ab--8a5ef07e-95db-4d71-bc13-c5311c30c1b3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Dice",
+                    "url": "https://www.dice.com/job-detail/e8837139-dd0b-479b-9257-9160f3da74be?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Glassdoor",
+                    "url": "https://www.glassdoor.ca/job-listing/axiom-front-end-developer-equinox-engineering-ltd-JV_IC2275123_KO0,25_KE26,49.htm?jl=1009528148292&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Career Beacon",
+                    "url": "https://www.careerbeacon.com/en/job-9/1658073/equinox-engineering-ltd/axiom-front-end-developer/calgary-ab?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "SimplyHired",
+                    "url": "https://www.simplyhired.ca/job/J69nwa_n2ZkVrfzpSLi4T37w1g8aYZia0_5vpyMIvQfwc2UC9PG9gw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "TypeScript"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Cypress"
+                },
+                {
+                    "name": "Docker"
+                }
+            ]
+        },
+        {
+            "jobType": "front_end_developer",
+            "title": "Web Software Developer - Front End (Senior)",
+            "company": "dakis",
+            "description": "Description: At dakis, web development is king! We are looking for a talented software developer who doesn\u2019t fear JavaScript and new web technologies, and who is very enthusiastic at the idea of bringing eCommerce to the next level. You will play an active role in shaping Dakis\u2019 next generation WebApp eCommerce and photo solutions.",
+            "location": "Montreal, Quebec, Canada",
+            "employmentType": "",
+            "datePosted": "3 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Dakis.com",
+                    "url": "https://dakis.com/jobs/web-software-developer-front-end-senior?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Jooble",
+                    "url": "https://ca.jooble.org/jdp/-2229804215412120950?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Njoyn",
+                    "url": "https://groom.njoyn.com/CL/in/share/JobDetails.asp?clid=95811&jobid=J0719-0153&BRID=280134&LANG=2&SBDID=1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Talent.com",
+                    "url": "https://ca.talent.com/view?id=219bdf2668b5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "SimplyHired",
+                    "url": "https://www.simplyhired.ca/job/w3RU8BughTg10CxG2OUYIuhYY9ge5JclwFcadqZ-Y4-lQm1J_1F_sA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Learn4Good",
+                    "url": "https://www.learn4good.com/jobs/montreal/canada/info_technology/3371966031/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "JobOffer.com",
+                    "url": "https://joboffer.com/jobs/Developer-Front-End-075a7a28be1ff9a7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Trabajo.org",
+                    "url": "https://ca.trabajo.org/job-2401-74dfe1d865054aa65f85aee1f1b0f2ed?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "JavaScript"
+                },
+                {
+                    "name": "C"
+                }
+            ]
+        },
+        {
+            "jobType": "front_end_developer",
+            "title": "UI Frontend Developer - EA SPORTS UFC",
+            "company": "Electronic Arts (EA)",
+            "description": "UI Frontend Developer - EA SPORTS\u2122 UFC\n\nVancouver, Canada\n\nEA SPORTS is one of the most iconic brands in entertainment \u2013 connecting hundreds of millions around the world to the sports they love through a portfolio of industry-leading video games.\n\nThe EA SPORTS UFC franchise offers the electrifying spectacle and entertainment of MMA for over 20 million players across the globe. It delivers fluid and responsive mixed martial arts through inventive gameplay technology.\n\nLocated in Vancouver, British Columbia, the EA SPORTS UFC team is on a mission to become the world's greatest fighting game. If you're passionate about building immersive digital entertainment, this is the role of a lifetime.\n\nIf you're passionate about building immersive digital entertainment, and your passionate about your craft, this is the role of a lifetime.\n\nYour Responsibilities\n\u2022 You will collaborate with a team of UI technical designers, artists, UX designers and Software Engineers to develop the user interface.\n\u2022 You will deliver against the expectations of the UI Technical Design Lead.\n\u2022 You will champion best practices for UI architecture with a goal of organization, reusability and with the thought of developing for a live product (easily updatable).\n\u2022 You will advocate for user experience, product consistency, and design excellence.\n\u2022 You will work with the UI Team (Artist, Engineers, Designers) to solve problems, refine workflows, and polish the UI to create an outstanding user experience, from concept to ship.\n\u2022 You will use both proprietary software and third-party tech to implement the visual design of the UI / HUD within the game.\n\nYour Qualifications\n\u2022 2+ years of UI technical design and implementation experience\n\u2022 Expert knowledge of scripting languages such as Java, ActionScript, C#, Swift, and HAXE to build complex user interfaces\n\u2022 Strong understanding of UX methodology, and Design Theory\n\u2022 Experience developing projects from concept to completion\n\u2022 A portfolio of work that showcases relevant work that contains well thought-out process and excellent craft execution\n\u2022 BS or BA degree (or equivalent experience) in Human-Computer Interaction, BS degree in Computer Science, UX/UI/Design diploma or degree, or a related area\n\u2022 You will report to the Lead UI Technical Designer\n\nCOMPENSATION AND BENEFITS The ranges listed below are what EA in good faith expects to pay applicants for this role in these locations at the time of this posting. If you reside in a different location, a recruiter will advise on the applicable range and benefits. Pay offered will be determined based on a number of relevant business and candidate factors (e.g. education, qualifications, certifications, experience, skills, geographic location, or business needs). BASE SALARY RANGES\n\u2022 British Columbia (depending on location e.g. Vancouver vs. Victoria)\n\u2022 $126,000 - $176,300 CAD\n\nIn British Columbia, we offer a package of benefits including vacation (3 weeks per year to start), 10 days per year of sick time, paid top-up to EI/QPIP benefits up to 100% of base salary when you welcome a new child (12 weeks for maternity, and 4 weeks for parental/adoption leave), extended health/dental/vision coverage, life insurance, disability insurance, retirement plan to regular full-time employees. Certain roles may also be eligible for bonus and equity.",
+            "location": "Burnaby, BC, Canada",
+            "employmentType": "",
+            "datePosted": "2 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/ui-frontend-developer-ea-sports-ufc-at-electronic-arts-ea-4075635152?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "C#"
+                },
+                {
+                    "name": "Swift"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                }
+            ]
+        },
+        {
+            "jobType": "front_end_developer",
+            "title": "Front End Developer",
+            "company": "Compass Group Canada",
+            "description": "You might not know our name, but you know where we are. That\u2019s because Compass Group Canada is part of a global foodservice and support services company that\u2019s the 6th largest employer in the world, with 625,000 employees.\n\nYou\u2019ll find us in schools, colleges, hospitals, office buildings, senior living communities, tourist attractions, sports venues, remote camps and military installations and more. We\u2019re in all major cities, at remote work sites and everywhere in between \u2013 doing business in Canada and 50+ other countries where you can learn and grow. Join us now and point your career forward!\n\nWhy work with Compass Digital? We are a member of Compass Group North America the leading foodservice and support services company. We create remarkable customer experiences through the innovative design and development of technology products and services. Compass Digital began as an innovation startup and the team has since rapidly grown and now supports technology and innovation across all of North America. Compass digital is comprised of user experience designers, developers, data scientists, project managers, business analysts, marketers and technology implementation managers, all of whom look at the world from a human perspective to rethink what's possible in the areas of technology innovation and consumer engagement within the foodservice and hospitality industries. Join us.\n\nJob Summary\n\nThe Front-End Developer will collaborate with our team of developers, UX designers, and product managers to deliver requirements that are focused on creating new solutions rooted in the users\u2019 actual needs. Our Compass Digital Core Product Engineering team builds food ordering apps, operator management and kitchen display systems, empowering hospitality guests, front and back of house operations. Our back-end services are shared along the guest\u2019s hospitality journey. Join - Verify - Search - Order - Pay - Pick-up/Delivery - Enjoy.\n\nNow, if you were to come on board as our Front-End Developer, we\u2019d ask you to do the following for us:\n\u2022 Help us implement standards, next-best practices for code quality and test coverage\n\u2022 Consider performance, usability & accessibility first\n\u2022 Care about our users\u2019 experience just as much as our developers\u2019\n\u2022 Implement front-end solutions, while maintaining a level of comfort across the stack\n\u2022 Ensure scalability and reliability in all decisions\n\u2022 Approach work with curiosity, and critically question the status quo\n\u2022 Build your leadership skills within your team\n\u2022 You will have the opportunity to use the latest and greatest cloud and open-source technology in developing technology driven hospitality experiences for our customers and to provide self-service capabilities for non-technical groups\n\u2022 What we like to use: Vue, Typescript, TBD - Trunk Based Development, MONOREPO, AWS CDK plus our own CI/CD tool to effectively use the MONOREPO, Observability \u2013 T.E.M.P.L.E., Serverless \u2013 NPM, Managed AWS Services, Feature flagging\n\u2022 Have an interest in AI? We want to hear all about it\n\nThink you have what it takes to be our Front-End Developer? We\u2019re committed to hiring the best talent for the role. Here\u2019s how we\u2019ll know you\u2019ll be successful in the role:\n\u2022 You have a variety of experience and are driven by getting things done\n\u2022 You\u2019re not done learning yet, or maybe ever\n\u2022 You understand macro-services, microservices and service monoliths.\n\u2022 You add diversity of thought, background, experience, and skill\n\u2022 You bring your whole self to the team, or are learning how to\n\u2022 You thrive in a unique, collaborative, high energy environment, and actively build trust\n\u2022 Accountability, integrity, and respect for people\u2019s ideas and time\n\nCompass Group Canada is committed to nurturing a diverse workforce representative of the communities within which we operate. We encourage and are pleased to consider all qualified candidates, without regard to race, colour, citizenship, religion, sex, marital / family status, sexual orientation, gender identity, aboriginal status, age, disability or persons who may require an accommodation, to apply.\n\nFor accommodation requests during the hiring process, please contact PeopleHub@compass-canada.com for further information.",
+            "location": "Mississauga, ON, Canada",
+            "employmentType": "",
+            "datePosted": "26 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Compass Group Canada Careers",
+                    "url": "https://careers.compass-canada.com/job/21190138/front-end-developer-mississauga-ca/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Compass Group",
+                    "url": "https://jobs.compassgroupcareers.com/Canada/job/Mississauga-Front-End-Developer-ON/1225854600/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Glassdoor",
+                    "url": "https://www.glassdoor.ca/job-listing/front-end-developer-compass-group-JV_IC2280741_KO0,19_KE20,33.htm?jl=1009498395365&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Indeed",
+                    "url": "https://emplois.ca.indeed.com/viewjob?jk=0d01c264cd17088a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/front-end-developer-at-compass-group-4058210108?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Jobs.ca",
+                    "url": "https://www.jobs.ca/offer/front-end-developer/25434929-e9e0-4aac-9a99-f15ac5be487e_en/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "SimplyHired",
+                    "url": "https://www.simplyhired.ca/job/Asjmi3hVQvM5Wuh6veFHuRBNvqgAUI0EkV1qlCMjNZ5_yEw9KCb2Qg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "BeBee Canada Meet Opportunities",
+                    "url": "https://ca.bebee.com/job/871fea67e7690257eb13cd5c002d5eb1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "AWS"
+                }
+            ]
+        },
+        {
+            "jobType": "front_end_developer",
+            "title": "Frontend Developer",
+            "company": "PDF Solutions",
+            "description": "Overview:\n\nPDF Solutions, Inc. (NASDAQ: PDFS) is the leading provider of yield improvement technologies and services for the IC manufacturing process life cycle. PDF Solutions offers solutions that are designed to enable clients to lower costs of IC design and manufacture, enhance time to market, and improve profitability by addressing design and manufacturing interactions from product design to initial process ramps to mature manufacturing operations. PDF Solutions provides industry leading enterprise-wide Big Data platform-Exensio, analyzing and reporting critical data generated across the semiconductor ecosystem. The solution also provides tools and immediate information for foundries to rapidly adjust their equipment for higher yields and reduced variability. By providing actionable information to rapidly identify and resolve manufacturing issues, Exensio provides a competitive edge to semiconductor and fabless companies and foundries. Headquartered in San Jose, Calif., PDF Solutions operates worldwide with additional offices in Canada, China, Europe, Japan, Korea, and Taiwan. For the company's latest news and information, visit http://www.pdf.com/.\n\nPDF is seeking a talented and experienced Front-End Developer to join our dynamic team. As a Front-End Developer, you will be responsible for designing, developing, testing, and debugging responsive web and mobile applications for the company. Using JavaScript, HTML, and CSS, this candidate will be able to translate user and business needs into functional frontend design.\n\nResponsibilities:\n\u2022 Designing, developing, and testing UI for mobile and web applications\n\u2022 Build reusable code and libraries for future use.\n\u2022 Accurately translate user and business needs into functional frontend code.\n\nQualifications:\n\u2022 Bachelor's degree or equivalent in Computer Science\n\u2022 5+ years' experience in frontend development\n\u2022 Familiarity using Scrum/Agile development methodologies.\n\u2022 Experience building object-oriented web applications in ReactJS, .NET, JavaScript, HTML5, and CSS3\n\nPay Range: CAD $100,000.00 - CAD $120,000.00 /Yr.",
+            "location": "Vancouver, BC, Canada",
+            "employmentType": "",
+            "datePosted": "",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Indeed",
+                    "url": "https://ca.indeed.com/viewjob?jk=10a5a431fb146d79&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "PDF Solutions",
+                    "url": "https://careers.pdf.com/vancouver/jobs/1281?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "SimplyHired",
+                    "url": "https://www.simplyhired.ca/job/IbxukDExVkQuKILI-bMlsmOcpqZYvUGr889RQ3-LGCugAKFEhD-4sw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Ladders",
+                    "url": "https://www.theladders.com/job/frontend-developer-pdfsolutionsinc-vancouver-bc_77920747?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Levels.fyi",
+                    "url": "https://www.levels.fyi/jobs?jobId=144089105313997510&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Trabajo.org",
+                    "url": "https://ca.trabajo.org/job-3051-b96c272bb04c1127408e637ad585bee8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Jobs In Canada",
+                    "url": "https://ca.jobeos.com/jobs/view/421119?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "JavaScript"
+                },
+                {
+                    "name": "HTML"
+                },
+                {
+                    "name": "CSS"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "React"
+                },
+                {
+                    "name": "Scrum"
+                }
+            ]
+        },
+        {
+            "jobType": "front_end_developer",
+            "title": "Front-End Developer",
+            "company": "BLAZESOFT",
+            "description": "Join our dynamic and innovative gaming company that's passionate about creating immersive and cutting-edge gaming experiences. We pride ourselves on a culture of creativity, collaboration, and a commitment to pushing the boundaries of gaming. If you're a highly motivated and skilled specialist passionate about the gaming industry, we want you to join our team. This is a full-time IN OFFICE position\n\nWe are currently seeking a talented Front-end developer to join our team and play a key role in designing and implementing user-facing features for our web applications. As a front-end developer, you will be responsible for contributing to the 'client-side' of our web applications. Your mission will be to maintain a user-friendly environment by writing code and moving forward with your team\u2019s innovations in web design and usability.\n\nMain Responsibilities:\n\nDevelop and maintain web applications using JavaScript (ES6+), TypeScript.\n\nWork closely with the team to implement front-end solutions using React (knowledge in other frameworks like Vue or Angular is a plus).\n\nWrite clean, efficient, and maintainable code.\n\nEngage in functional programming practices to improve application performance and scalability.\n\nDesign and implement responsive UI components using CSS and modern tools like SASS or LESS.\n\nCollaborate with backend developers to integrate RESTful APIs.\n\nParticipate in project management activities, ensuring timely delivery of tasks.\n\nConduct unit testing and end-to-end testing to ensure code quality and application stability.\n\nContinuously learn and apply new technologies and best practices.\n\nRequirements\n\nMinimum 4 years of experience with Javascript/Typescript.\n\nStrong CSS and HTML skills.\n\nComfortable developing on Linux or OSX.\n\nMinimum 4 Years Of Experience With React.\n\nExperience in React Server-Side Rendering\n\nExperience with responsive web development\n\nExperience working with REST APIs.\n\nBachelor\u2019s degree or College Diploma in Computer Science, Software Engineering, or a related field, or equivalent practical experience.\n\nOpen mindset for learning and continuous improvement.\n\nStrong Problem-solving Skills And Excellent Communication Abilities.\n\nPreferred, but not required:\n\nExperience with Wordpress\n\nExperience with Mobile Development (React-Native, or Native)\n\nExperience in the gaming industry\n\nPrior experience in unit testing and end-to-end testing is desirable\n\nFamiliarity with functional programming concepts\n\nExperience in C#\n\nExperience with Nodejs\n\nVue or Angular knowledge is beneficial\n\nExperience in modern front-end packing tools like webpack, rollup\n\nBenefits\n\nWhy Join Us?\n\u2022 Exciting projects using cutting-edge technologies\n\u2022 Collaborative and supportive work environment\n\u2022 Competitive salary and bonuses\n\u2022 Opportunities for career development, growth and advancement\n\u2022 Fantastic company events\n\u2022 Benefits including extended healthcare, dental care, vision care, and disability insurance\n\u2022 On-site leisure facilities\n\u2022 On-site parking",
+            "location": "Vaughan, ON, Canada",
+            "employmentType": "",
+            "datePosted": "",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/front-end-developer-at-blazesoft-4033708054?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Glassdoor",
+                    "url": "https://www.glassdoor.ca/job-listing/front-end-developer-blazesoft-JV_IC4035196_KO0,19_KE20,29.htm?jl=1009457283548&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "SimplyHired",
+                    "url": "https://fr.simplyhired.ca/job/S2uwit-3DPfGpCBw92J4ML0CCT4F6UnVGiJkNXMFyZgnJhWjCZNE2Q?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "C#"
+                },
+                {
+                    "name": "JavaScript"
+                },
+                {
+                    "name": "TypeScript"
+                },
+                {
+                    "name": "HTML"
+                },
+                {
+                    "name": "CSS"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "React"
+                },
+                {
+                    "name": "Angular"
+                }
+            ]
+        },
+        {
+            "jobType": "front_end_developer",
+            "title": "Front End and Full Stack Developer (Remote - Ontario, Canada ONLY)",
+            "company": "Ample Insight Inc.",
+            "description": "Company Description\n\nYou will join a world-class team of engineers and data scientists from Facebook, Uber, Amazon and Google. We are a fast growing consulting firm based in Toronto with clients ranging from leading startups building impactful technologies to Fortune 500 companies looking to scale their engineering and data capabilities.\n\nJob Description\n\nWe are looking for an ambitious Jr to Intermediate Fullstack Engineer/Developer. You are passionate about technology but very pragmatic in the application of it to real-world engineering problems. You have experience in launching new products and scaling them. Critical thinking and problem-solving skills are essential for this role.\n\nAt Ample Insight, you will have a unique opportunity to work with best-in-class engineers on large engineering problems, and in an environment with small teams and abundant opportunities for personal impact and growth.\n\nPlease note that although this role is remote, you are required to be located in Canada (preferably in the Greater Toronto Region).\n\nQualifications\n\nResponsibilities\n\u2022 You will be part of a small but highly impactful team, with a large amount of ownership and autonomy for managing things directly.\n\u2022 You will architect important systems and anticipate strategic and scaling-related challenges via thoughtful long-term planning\n\u2022 You will need to design, prototype, and create solutions that support highly reliable, scalable, performant SaaS products\n\u2022 You will own relationships with other engineering teams and collaborate with other functions\n\nRequirements\n\u2022 BS (or MS/PhD) in Computer Science or related engineering field involving coding\n\u2022 2+ years of professional software development experience\n\u2022 1+ years of experience working with React, Node, Typescript\n\u2022 Solid CS fundamentals with experience across a range of disciplines, with one or more area of deep knowledge and experience\n\u2022 Proven track record of technical expertise at a company with a strong engineering culture\n\u2022 Experience setting technical strategy for an important company initiative\n\u2022 Experience with shipping software\n\nAdditional Information\n\nWe have competitive compensation.\n\nWork on cool projects based on your interests and skills. We believe in accountability and NOT micro-management.",
+            "location": "Toronto, ON, Canada",
+            "employmentType": "",
+            "datePosted": "",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Indeed",
+                    "url": "https://ca.indeed.com/viewjob?jk=8bb1b92eb81173f4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "WhatJobs",
+                    "url": "https://en-ca.whatjobs.com/job/Front-End-and/Canada/80345015?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Go"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "React"
+                }
+            ]
+        }
+    ]
+}

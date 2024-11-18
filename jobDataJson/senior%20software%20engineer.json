@@ -1,0 +1,633 @@
+{
+    "jobs": [
+        {
+            "jobType": "senior_software_engineer",
+            "title": "Senior Software Engineer (Full-Stack)",
+            "company": "Mastercard",
+            "description": "Our Purpose\n\nWe work to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments and businesses realize their greatest potential. Our decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. We cultivate a culture of inclusion for all employees that respects their individual strengths, views, and experiences. We believe that our differences enable us to be a better team \u2013 one that makes better decisions, drives innovation and delivers better business results.\n\nTitle and Summary\n\nSenior Software Engineer (Full-Stack)\n\nWho is Mastercard?\nWe work to connect and power an inclusive, digital economy that benefits everyone, everywhere, by making transactions safe, simple, smart, and accessible. Using secure data and networks, partnerships, and passion, our innovations and solutions help individuals, financial institutions, governments, and businesses realize their greatest potential. Our decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. We cultivate a culture of inclusion for all employees that respects their individual strengths, views, and experiences. We believe that our differences enable us to be a better team \u2013 one that makes better decisions, drives innovation, and delivers better business results.\n\nOverview\nInterested in building the next generation platform that empowers end-to-end marketing campaign management inclusive of audience targeting and campaign execution and measurement? The overarching goal of data-driven marketing is to deliver the right content, to the right person, at the right time.\n\nWe are growing rapidly in Vancouver in the beautiful British Columbia, and if you wish to be part of this Priceless\u00ae experience, read below.\n\nThe Marketing Services (MS) Technology team is looking for a Senior Software Development Engineer to provide technical ownership, with an emphasis on engineering efficiency and on-time delivery.\n\nThe ideal candidate has expertise in building microservices using new and emerging technologies. The person will get a chance to develop innovative solutions and transform the way Mastercard automates, optimize and innovate digital marketing life cycle.\n\nRole\n\nIn this role, you will:\n\n\u2022 Design & Develop REST APIs and webservices using Java, Spring Boot and other emerging technologies\n\u2022 Create new features for a Python-based application and fix any issues.\n\u2022 Be responsible for assessing technologies and approaches for integrating backend data services with user interface\n\u2022 Work closely with team members from across Mastercard to identify functional and system requirements\n\nAll About you\n\nThe ideal candidate for this position expected to:\n\n\u2022 Have hands-on knowledge of Java, Spring Boot and Microservices (REST API)\n\u2022 Have an understanding of Domain Driven Design (DDD) and Event Driven design (EDD).\n\u2022 Experienced in working with SQL, designing schemas, writing complex queries, and optimizing database performance to support efficient application development and reporting.\n\u2022 Build automated quality framework based on JUnit and Mockito and have solid understanding of BDD testing framework.\n\u2022 Have an excellent oral and written communication\n\u2022 Be familiar with Agile/Scrum methodologies\n\u2022 Have demonstrated ability to adapt to new technologies and learn quickly\n\u2022 Be a strong, confident, and able to communicate solution and Architecture effectively to a wide variety of stakeholders\n\u2022 Last but not least, have bias for action.\n\u2022 Understand CI/CD using tools like Jenkins.\n\u2022 Familiar with Big Data / Analytics technologies like Hadoop, Spark, Python, Scala.\n\u2022 Knowledge of Python and Streamlit is an advantage.\n\u2022 Experience working with real-time or near real-time data ingestion\n\nPay Range\n98,000.00 - 157,000.00 CAD Annual\n\nMastercard is an inclusive equal opportunity employer that considers applicants without regard to gender, gender identity, sexual orientation, race, ethnicity, disabled or veteran status, or any other characteristic protected by law. In the US or Canada, if you require accommodations or assistance to complete the online application process or during the recruitment process, please contact reasonable_accommodation@mastercard.com and identify the type of accommodation or assistance you are requesting. Do not include any medical or health information in this email. The Reasonable Accommodations team will respond to your email promptly.\n\nCorporate Security Responsibility\n\nAll activities involving access to Mastercard assets, information, and networks comes with an inherent risk to the organization and, therefore, it is expected that every person working for, or on behalf of, Mastercard is responsible for information security and must:\n\u2022 Abide by Mastercard\u2019s security policies and practices;\n\u2022 Ensure the confidentiality and integrity of the information being accessed;\n\u2022 Report any suspected information security violation or breach, and\n\u2022 Complete all periodic mandatory security trainings in accordance with Mastercard\u2019s guidelines.",
+            "location": "Vancouver, BC, Canada",
+            "employmentType": "",
+            "datePosted": "9 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Mastercard Careers",
+                    "url": "https://careers.mastercard.com/us/en/job/R-233691/Senior-Software-Engineer-Full-Stack?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Crossover",
+                    "url": "https://www.crossover.com/job-roles/software-engineering/canada/city/vancouver/c-a0q2j0000037krQAAQ/learnwithai-senior-software-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Workday",
+                    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Senior-Software-Engineer--Azure-C--_R51045-1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Jobs",
+                    "url": "https://jobs.ashbyhq.com/hiive/9f5e19eb-dc33-43ad-a2e5-e176b3f4fe20?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/senior-software-engineer-at-hiive-4046064845?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "ZipRecruiter",
+                    "url": "https://www.ziprecruiter.com/c/Starboard-Recruitment/Job/Senior-Software-Engineer/-in-Vancouver,BC?jid=d8bec9e8d2af04b5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Indeed",
+                    "url": "https://ca.indeed.com/viewjob?jk=105fbc2992e07d1c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Greenhouse",
+                    "url": "https://boards.greenhouse.io/embed/job_app?for=mobsquad&token=4095825002&b=https://mobsquad.io/join-team/job/&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Python"
+                },
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "Scala"
+                },
+                {
+                    "name": "SQL"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "JUnit"
+                },
+                {
+                    "name": "BDD"
+                },
+                {
+                    "name": "Spring Boot"
+                },
+                {
+                    "name": "Jenkins"
+                },
+                {
+                    "name": "Scrum"
+                },
+                {
+                    "name": "Hadoop"
+                }
+            ]
+        },
+        {
+            "jobType": "senior_software_engineer",
+            "title": "Senior Software Engineer",
+            "company": "MEDA Group",
+            "description": "We are recruiting an experienced Senior Software Engineer to join our team to support our client in the automotive industry.\nNOTE:\n\nHybrid\n\nRESPONSIBILITIES:\n\nManages and maintains our rapidly growing vehicle analytics framework\nDeveloping and managing various pieces of software that run on multiple components in vehicles to capture, aggregate, and transmit data to our server infrastructure.\n\nREQUIRED SKILLS & QUALIFICATIONS:\n\nBS in Computer Science/Electrical Engineering or related discipline\nModern (C++11/14/17) - Object-oriented design and development\n2 years of related experience\n\nOTHER PERKS:\n\nPaid Benefits after 90 days (individual and family) \u2013 extended medical, out-of-country coverage, dental etc.\nPension eligibility, with employer match, after 1 full year of work (open enrollment every October)\n\nMEDA offers an excellent referral bonus. Great candidates know great candidates.\nMEDA Limited is an equal opportunity employer and does not discriminate in employment on the basis of any of the protected reasons as described in the Ontario Human Rights Code. We are committed to providing accommodations for persons with disabilities, as described in the Accessibility for Ontarians with Disabilities Act, 2005, reasonable accommodation requests will be reviewed and granted to those that request assistance during our hiring process.",
+            "location": "Waterloo, ON, Canada",
+            "employmentType": "",
+            "datePosted": "3 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "MEDA Group",
+                    "url": "https://www.medagroup.com/position-2691/senior-software-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/software-engineer-senior-at-artech-l-l-c-4076959995?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Taro",
+                    "url": "https://www.jointaro.com/jobs/broadcom/senior-authentication-software-engineer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Talent.com",
+                    "url": "https://ca.talent.com/view?id=8efcefb23227&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Indeed",
+                    "url": "https://ca.indeed.com/viewjob?jk=0f4ac2a6f00fc8de&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Glassdoor",
+                    "url": "https://www.glassdoor.ca/job-listing/software-engineer-senior-altair-engineering-JV_IC2280158_KO0,24_KE25,43.htm?jl=1009528197270&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Monster.ca",
+                    "url": "https://www.monster.ca/job-openings/software-engineer-senior-waterloo-on--30348b1b-b09c-4873-ae8b-1dcd67c0ec45?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "BeBee Canada Meet Opportunities",
+                    "url": "https://ca.bebee.com/job/42f12e526ad6741cac8c416172284172?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "C++"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                }
+            ]
+        },
+        {
+            "jobType": "senior_software_engineer",
+            "title": "Senior Software Engineer, Data Platform",
+            "company": "Coinbase",
+            "description": "Ready to be pushed beyond what you think you\u2019re capable of?\n\nAt Coinbase, our mission is to increase economic freedom in the world. It\u2019s a massive, ambitious opportunity that demands the best of us, every day, as we build the emerging onchain platform \u2014 and with it, the future global financial system.\n\nTo achieve our mission, we\u2019re seeking a very specific candidate. We want someone who is passionate about our mission and who believes in the power of crypto and blockchain technology to update the financial system. We want someone who is eager to leave their mark on the world, who relishes the pressure and privilege of working with high caliber colleagues, and who actively seeks feedback to keep leveling up. We want someone who will run towards, not away from, solving the company\u2019s hardest problems.\n\nOur work culture is intense and isn\u2019t for everyone. But if you want to build the future alongside others who excel in their disciplines and expect the same from you, there\u2019s no better place to be.\n\nThe mission of the Platform Product Group engineers is to build a trusted, scalable and compliant platform to operate with speed, efficiency and quality. Our teams build and maintain the platforms critical to the existence of Coinbase. There are many teams that make up this group which include Product Foundations (i.e. Identity, Payment, Risk, Proofing & Regulatory, Finhub), Machine Learning, Customer Experience, and Infrastructure.\n\nThe Data Platform team builds and operates systems to centralize all of Coinbase's internal and third-party data, making it easy for teams across the company to access, process, and transform that data for analytics, machine learning, and powering end-user experiences. As an engineer on the team you will contribute to the full spectrum of our systems, from managing foundational processing and data storage, to building and maintaining scalable pipelines, to developing frameworks, tools, and internal applications to make that data easily and efficiently available to other teams and systems.\n\nWhat you\u2019ll be doing (ie. job duties):\n\u2022 Design, build, and operate our foundational data-heavy services: storage (cloud data warehouse, data lake), orchestration (Airflow), batch processing (Spark, SQL), streaming services (Kafka), query federation and caching, time-series db, graph db, and real-time event aggregation stores.\n\u2022 Build and maintain data integration & process SDKs for use by internal services and product teams throughout Coinbase.\n\u2022 Design and build self-service applications to empower our users to manage and troubleshoot their own data pipelines running on our platforms.\n\u2022 Design and build services for end-to-end data security and data observability: managing access controls across multiple storage and access layers, tracking data quality, cataloging datasets and their lineage, usage auditing.\n\u2022 Convert functional requests from data analysts, ML, and security & compliance into reusable and scalable patterns; and assemble data microservices into data platforms for critical business verticals and user cohorts.\n\nWhat we look for in you (ie. job requirements):\n\u2022 You have at least 5+ years of experience in software engineering.\n\u2022 You have Strong Python, Go, or Java backend development skills.\n\u2022 You have general experience working with data systems or data pipelines.\n\u2022 You are familiar with design patterns such as scale-out, caching, key/value, and columnar.\n\u2022 You leverage SQL, Python, Airflow, and BI expertise to analyze data for operational insights.\n\nNice to Have:\n\u2022 Crypto-forward experience, including familiarity with onchain activity such as interacting with Ethereum addresses, using ENS, and engaging with dApps or blockchain-based services\n\nJob #: P62464\n\n#LI-Remote\n\nPay Transparency Notice: The target annual salary for this position can range as detailed below. Full time offers from Coinbase also include target bonus + target equity + benefits (including medical, dental, and vision).\n\nPay Range:\n$185,500\u2014$185,500 CAD\n\nCommitment to Equal Opportunity\n\nCoinbase is committed to diversity in its workforce and is proud to be an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, creed, gender, national origin, age, disability, veteran status, sex, gender expression or identity, sexual orientation or any other basis protected by applicable law. Coinbase will also consider for employment qualified applicants with criminal histories in a manner consistent with applicable federal, state and local law. For US applicants, you may view the Know Your Rights notice here. Additionally, Coinbase participates in the E-Verify program in certain locations, as required by law.\n\nCoinbase is also committed to providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process, please contact us at accommodations[at]coinbase.com to let us know the nature of your request and your contact information. For quick access to screen reading technology compatible with this site click here to download a free compatible screen reader (free step by step tutorial can be found here).\n\nGlobal Data Privacy Notice for Job Candidates and Applicants\n\nDepending on your location, the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA) may regulate the way we manage the data of job applicants. Our full notice outlining how data will be processed as part of the application procedure for applicable locations is available here. By submitting your application, you are agreeing to our use and processing of your data as required. For US applicants only, by submitting your application you are agreeing to arbitration of disputes as outlined here.",
+            "location": "Victoria, BC, Canada",
+            "employmentType": "",
+            "datePosted": "9 hours ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Coinbase",
+                    "url": "https://www.coinbase.com/careers/positions/6322904?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Python"
+                },
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "Go"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "SQL"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Ethereum"
+                },
+                {
+                    "name": "Machine Learning"
+                },
+                {
+                    "name": "Kafka"
+                }
+            ]
+        },
+        {
+            "jobType": "senior_software_engineer",
+            "title": "Sr Software Engineer- Remote",
+            "company": "BeyondTrust",
+            "description": "BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cyber security SaaS portfolio.\n\nOur culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself.\n\nThe Role\n\nBeyondTrust is seeking a Sr. Software Engineer (Backend) for the team that develops our Password Safe product. The ideal candidate will have a solid background in enterprise software development, and some experience partnering with product and engineering stakeholders to define use cases and implementation details for new features and enhancements. Password Safe helps our customers to manage privileged passwords, accounts, keys, secrets, and sessions for people and machines; and secure non-privileged employee passwords for business applications.\n\nWhat You\u2019ll Do\n\u2022 Develop service-oriented software using C# / .NET / .NET Core\n\u2022 Be involved primarily in the service and database layers of the software\n\u2022 Analyze, create and review functional requirements for products based on use cases described by Product Management\n\u2022 Ensure the product\u2019s scalability, reliability, consistency, and performance\n\u2022 Collaborate with other cross-functional team members to support the operation and maintenance of products\n\u2022 Analyze complex software systems and collaborate with others to support the operation and maintenance of products and improve the quality of those systems\n\u2022 Collaborate with other team members, teams, and stakeholders in the design, implementation, and maintenance of product functionality, creating efficient, reliable, reusable, and performant code\n\u2022 Propose and evaluate technical solutions as part of research spikes\n\u2022 Review, debug, and provide feedback on code written by other team members\n\nWhat You\u2019ll Bring\n\u2022 Degree or Diploma in Computer Science, Information Technology, Software Engineering or a related field and 10 to 15 years of experience\n\u2022 Ability to understand any part of the software stack\n\u2022 Ability to thrive in an environment where some team members work remotely, independently, and as a team\n\u2022 Experience using C#, IIS, .NET 4.7, .NET Core, ASP.NET Core, Entity Framework Core, and NuGet packages\n\u2022 Experience using or building RESTful APIs\n\u2022 A good understanding of SQL and relational database schemas\n\u2022 Experience writing unit tests, functional tests, integration tests, and/or end-to-end tests\n\u2022 Experience with at least one continuous integration system (Azure DevOps, GitHub Actions, Jenkins, Circle CI, etc.)\n\u2022 Experience using git as a revision control system\n\u2022 Knowledge of industry best practices for secure coding practices, code quality and architecture\n\u2022 Experience with full lifecycle of development in an agile environment.\n\u2022 Good understanding of network security, certificate usage and encryption.\n\u2022 Good understanding of Azure Active Directory and Active Directory\n\u2022 Familiarity with services provided by major cloud providers, ideally those provided by Azure\n\u2022 Strong English written and verbal communication, presentation and people skills.\n\u2022 A proven interest in growing your knowledge and skills\n\nNice To Have\n\u2022 Experience developing in the full software stack, including Angular front ends would be beneficial\n\u2022 Experience writing and reviewing technical specifications and design documents\n\u2022 Basic networking knowledge about IPs, subnets, DNS, Network Security Groups\n\u2022 Agile team experience: Working as a team in scrums, sprints & retrospectives\n\u2022 Security Knowledge: This is what we do. You may not know everything related to security, but you know what security customers want, and how to make sure they get it. You have a strong desire to learn as much as possible about network security.\n\nBetter Together\n\nDiversity. Inclusion. They\u2019re more than just words for us. They are the guiding values of how we build our teams, cultivate leaders, and create a culture where people feel connected.\n\nWe take care of our employees so they can take care of our customers. Customers who come from all walks of life just like us. We hire incredible people from diverse backgrounds because when we are different together, we are stronger together.\n\nAbout Us\n\nBeyondTrust is the worldwide leader in intelligent identity and access security, enabling organizations to protect identities, stop threats, and deliver dynamic access. We are leading the charge in innovating identity-first security and are trusted by 20,000 customers, including 75 of the Fortune 100, plus a global ecosystem of partners.\n\nLearn more at www.beyondtrust.com.",
+            "location": "British Columbia, Canada",
+            "employmentType": "",
+            "datePosted": "3 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/sr-software-engineer-remote-at-beyondtrust-4076945788?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "C#"
+                },
+                {
+                    "name": "Go"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "SQL"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Git"
+                },
+                {
+                    "name": "GitHub"
+                },
+                {
+                    "name": "Angular"
+                },
+                {
+                    "name": "ASP.NET Core"
+                },
+                {
+                    "name": "Jenkins"
+                },
+                {
+                    "name": "GitHub Actions"
+                },
+                {
+                    "name": "Azure"
+                }
+            ]
+        },
+        {
+            "jobType": "senior_software_engineer",
+            "title": "Senior Software Engineer",
+            "company": "Synopsys",
+            "description": "Synopsys is searching for an enthusiastic and creative Software Engineer to contribute to the MetaWare compiler tools.\n\u202f\n\nThe MetaWare software development toolchain for the Synopsys' DesignWare\u00ae ARC\u00ae family of processors is used in a variety of market segments such as internet of things, automotive, industrial, storage, communication, mobile, and digital home; by over 275 customers worldwide who collectively ship more than 2.5 billion chips annually.\n\nThe Role:\n\nAs a Software Engineer you will have responsibility for:\n\u2022 Develop efficient compiler optimizations and code generation for Synopsys ARC architectures.\n\u2022 Implement new programming models for new ARC cores and architecture extensions in the compiler toolchain.\n\u2022 Maintain and optimize the current set of ARC compiler tools.\n\u2022 Interact with the LLVM community and contribute where necessary.\n\u2022 Interact with other software and hardware teams to provide compiler and tools perspective for the processor design as well as application design.\n\u2022 Perform various benchmarking and testing tasks to improve the quality of the compiler products.\n\u2022 Assist product marketing and product support teams in pre and post sales situations.\n\nRequirements\n\u2022 You have a BS/MS degree in Computer Science/Engineering, or related field.\n\u2022 You have 5+ years of related experience.\n\u2022 You have excellent C++ programming skills.\n\u2022 You have solid problem solving and analytical skills.\n\u2022 You have basic knowledge of processor architectures.\n\u2022 You have experience with development in the LLVM project.\n\u2022 You are passionate about compiler front-end, optimization and code generation tools.\n\u2022 You have excellent teamwork and communication skills.\n\nThe following qualifications are a plus:\n\u2022 Experience in these areas: LLVM, GCC, MLIR, Neural Networks, SYCL, OpenCL, Halide, etc.\n\u2022 Experience with the implementation of embedded processor development tools.\n\u2022 Experience with RISC-V, RVV, VLIW, Vector and/or DSP architectures.\n\nSynopsys offers a stimulating work environment with international contacts, high flexibility, and an attractive compensation package. You will work with highly professional and motivated colleagues who value your contribution.\n\u202f\n\nMore information on ARC processors can be found on www.synopsys.com/arc.\nMore information on the ARC MetaWare Development Toolkit can be found on www.synopsys.com/metaware.\n\nAt Synopsys, we\u2019re at the heart of the innovations that change the way we work and play. Self-driving cars. Artificial Intelligence. The cloud. 5G. The Internet of Things. These breakthroughs are ushering in the Era of Smart Everything. And we\u2019re powering it all with the world\u2019s most advanced technologies for chip design and software security. If you share our passion for innovation, we want to meet you.",
+            "location": "Markham, ON, Canada",
+            "employmentType": "",
+            "datePosted": "19 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Synopsys Careers",
+                    "url": "https://careers.synopsys.com/job/markham/senior-software-engineer/44408/72135138960?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Indeed",
+                    "url": "https://emplois.ca.indeed.com/viewjob?jk=256c1a48881c8eb3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Glassdoor",
+                    "url": "https://www.glassdoor.ca/job-listing/senior-software-engineer-synopsys-JV_IC2280736_KO0,24_KE25,33.htm?jl=1009508138416&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "SimplyHired",
+                    "url": "https://www.simplyhired.ca/job/hBR32cvqCg5xQIgCZbRbX1pUBXxqmdZufF4hIB4Y8cRXLQcL4DTCCQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "WorkNation",
+                    "url": "https://worknation.ca/job/senior-software-engineer-automotive/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Jobs Trabajo.org",
+                    "url": "https://ca.trabajo.org/job-3026-1e6098deea5323965c5147a08c3282a3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Jobillico",
+                    "url": "https://www.jobillico.com/en/job-offer/synopsysmPwvLk/senior-software-engineer/14763149?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/senior-software-engineer-at-synopsys-inc-4064487479?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "C++"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Artificial Intelligence"
+                },
+                {
+                    "name": "Internet of Things"
+                }
+            ]
+        },
+        {
+            "jobType": "senior_software_engineer",
+            "title": "Sr Software Developer",
+            "company": "WARNERMEDIA",
+            "description": "Welcome to Warner Bros. Discovery\u2026 the stuff dreams are made of.\n\nWho We Are\u2026\n\nWhen we say, \u201cthe stuff dreams are made of,\u201d we\u2019re not just referring to the world of wizards, dragons and superheroes, or even to the wonders of Planet Earth. Behind WBD\u2019s vast portfolio of iconic content and beloved brands, are the storytellers bringing our characters to life, the creators bringing them to your living rooms and the dreamers creating what\u2019s next\u2026\n\nFrom brilliant creatives, to technology trailblazers, across the globe, WBD offers career defining opportunities, thoughtfully curated benefits, and the tools to explore and grow into your best selves. Here you are supported, here you are celebrated, here you can thrive.\n\nWe are the now and the next. The power behind the people building the future. We are born from the spirit of innovation. We are created from the idea that people around the world want more, need more, deserve more. We are the home of the global digital revolution. We are CNN.\n\nTo see what it\u2019s like to work at CNN, follow @WBDLife on Instagram and X!\n\nYour New Role\u2026\n\nCNN Digital Commerce is looking for a software engineer experienced in modern enterprise-class languages and development platforms, with a strong emphasis on JavaScript/Node. This role will require deep involvement in design, implementation, test, and deployment of web applications such as CNN Underscored.\n\nThe engineer will be responsible for creating customer facing products, testing artifacts, develop tooling to support massive growth of the CNN Commerce vertical. Candidate must have ability to test and learn newer technologies and concepts on the job related to best practices and operational excellence.\n\nYour Role Accountabilities\u2026\n\u2022 Work closely with the engineering and platforms team to build and enhance commerce products such as the CNN Underscored.\n\u2022 Exhibit good system engineering skills (e.g., common industry database design and practices, application architectures, operating systems concepts, networking, etc.) in addition to skills in application development.\n\u2022 Design and implement complex features that enhance the user experience.\n\u2022 Identify requirements for the improvement of the publishing platform to assist editors. Recommend new features that will help CNN Underscored expand and improve the end user experience.\n\u2022 Partner across multiple teams to build and improve engineering projects that cultivate CNN\u2019s audience growth.\n\u2022 Develop and champion improved processes for insight collection and dissemination across core engineering tools and products.\n\u2022 Support short-term content planning processes with editorial and programming teams.\n\u2022 Mentor team members and cultivate cooperation and implement best practices regarding engineering workflows.\n\u2022 Passionate about software engineering with a strong sense of ownership for the code that you and your team write.\n\u2022 Demonstrable excellent design skills and the related strengths in clearly articulating difficult technical concepts and information.\n\u2022 Display engineering ability to critically evaluate code as a method of learning and knows when and how to safely refactor code/artifacts.\n\nQualifications & Experience\u2026\n\u2022 B.S./M.S. or higher in Computer Science, Software or other Engineering or related field required.\n\u2022 5-10 years of software development experience, with a strong focus on application development.\n\u2022 5+ years of Node.JS, Express, Vue.JS, ES 6 experience at least.\n\u2022 Proficient in modern JavaScript, Typescript, and Python using AWS services, Postgres, Elasticsearch, and Redis.\n\u2022 Expert level when working with modern engineering technologies such as Fastly, AWS, Serverless/SAM, Kubernetes, Docker, Terraform, Jenkins, Snowflake and Git.\n\u2022 Deep industry experience with modern development technologies, and hands-on familiarity with both client and server technology. Have a solid understanding of common software data structures and algorithms.\n\u2022 A passion to grow professionally and continue developing along an individual contributor path.\n\u2022 Previous involvement in building medium to large-scale, \"mission critical\", \"high availability\" production systems that directly support essential business and technical, or operational functions.\n\u2022 Excellent verbal and written communication skills. Ability to simplify and describe complex problems to non-engineering peers.\n\u2022 Experience with strategies to monitor code health, infrastructure health and performance of applications.\n\u2022 Experience working in e-commerce, affiliate platforms, and consumer media.\n\u2022 Experience working on Kanban/Scrum teams and the tools used for project management.\n\u2022 Active in the technology community.\n\u2022 Experience with interviewing and talent acquisition.\n\u2022 Experience with Agile methodologies (e.g. Scrum or Kanban). Must demonstrate support for the practices that allow for continuous deployment and incremental delivery of business value.\n\u2022 Experience in non-procedural programming or applying functional-style concepts professionally considered a plus.\n\u2022 Two years of object-oriented JavaScript experience is a plus.\n\nHow We Get Things Done\u2026\n\nThis last bit is probably the most important! Here at WBD, our guiding principles are the core values by which we operate and are central to how we get things done. You can find them at www.wbd.com/guiding-principles/ along with some insights from the team on what they mean and how they show up in their day to day. We hope they resonate with you and look forward to discussing them during your interview.\n\nChampioning Inclusion at WBD\nWarner Bros. Discovery embraces the opportunity to build a workforce that reflects the diversity of our society and the world around us. Being an equal opportunity employer means that we take seriously our responsibility to consider qualified candidates on the basis of merit, without regard to race, color, religion, national origin, gender, sexual orientation, gender identity or expression, age, mental or physical disability, and genetic information, marital status, citizenship status, military status, protected veteran status or any other category protected by law.\n\nIf you\u2019re a qualified candidate with a disability and you require adjustments or accommodations during the job application and/or recruitment process, please visit our accessibility page for instructions to submit your request.",
+            "location": "Kanata, ON, Canada",
+            "employmentType": "",
+            "datePosted": "20 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "WBD Careers - Warner Bros. Discovery",
+                    "url": "https://careers.wbd.com/global/en/job/R000086282/Sr-Software-Developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Indeed",
+                    "url": "https://ca.indeed.com/viewjob?jk=4e6406f2f299af49&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "The Muse",
+                    "url": "https://www.themuse.com/jobs/warnerbrosdiscovery/sr-software-developer-1f65b1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "ShowbizJobs",
+                    "url": "https://www.showbizjobs.com/jobs/cnn-sr-software-developer-in-ottawa/jid-dy67qk?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "AnitaB.org Job Board",
+                    "url": "https://jobs.anitab.org/companies/warner-bros-discovery-2/jobs/41279992-sr-software-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "JobMonkeyJobs.com",
+                    "url": "https://www.jobmonkeyjobs.com/career/26208859/Sr-Software-Developer-Any-Kanata-7384/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Ladders",
+                    "url": "https://www.theladders.com/job/sr-software-developer-warner-bros-group-kanata-on_78274379?ir=1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Levels.fyi",
+                    "url": "https://www.levels.fyi/jobs?jobId=80704347058381510&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Python"
+                },
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "JavaScript"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Git"
+                },
+                {
+                    "name": "Express"
+                },
+                {
+                    "name": "Elasticsearch"
+                },
+                {
+                    "name": "Docker"
+                },
+                {
+                    "name": "Kubernetes"
+                },
+                {
+                    "name": "Jenkins"
+                },
+                {
+                    "name": "AWS"
+                },
+                {
+                    "name": "Terraform"
+                },
+                {
+                    "name": "Scrum"
+                },
+                {
+                    "name": "Kanban"
+                }
+            ]
+        },
+        {
+            "jobType": "senior_software_engineer",
+            "title": "Senior Staff Software Engineer",
+            "company": "Posting Date:07/ 08/2024",
+            "description": "161 Bay Street (93021), Canada, Toronto,Toronto, Ontario,\n\nSenior Staff Software Engineer\n\nSenior Staff Software Engineer\n\nThis is a senior technical position (senior manager equivalent). This role does not have direct reports. We require advanced enterprise solutions architecture design, technical system design, and hands-on software development.\n\nAbout Capital One Canada.\n\nWe've been helping millions of Canadians for over 20 years by providing them with access to credit when others wouldn\u2019t. We're on a journey to put our customers first, and keep them there, by building modern technology solutions to simplify and humanize the world of credit cards. We have the positive energy of a startup, with the advantages of a big company.\n\nOur Capital One Software Studio.\n\nSince 2014, Capital One Canada\u2019s software studio has grown from a team of 10 to a team of over 270. We\u2019re passionate about what we do, and we\u2019re always on the lookout for people who want to make a difference in the world of credit through technology. We\u2019re obsessed with doing the right thing, and we achieve that by finding innovative ways to better serve our customers.\n\nWorking with us.\n\nHow do we do things at Capital One Canada? We listen \u2014 to our people, and to our customers. We change with the times and have adopted a flexible hybrid model. Associates working in the hybrid model are expected to come into the office 3 days a week across Tuesdays and Thursdays, reserving Mondays and Fridays as company-wide virtual days. As was true before the pandemic, expectations of being in the office will be balanced with personal life flexibility.\n\nAt Capital One we\u2019re committed to diversity, inclusion and belonging. We strive to build a culture where diverse perspectives are valued, innovative ideas are encouraged and inclusive behaviors are embedded in everything we do to positively impact associates. Strive to build a culture where diverse perspectives are valued, innovative ideas are encouraged and to help challenge the status quo and create the best outcomes for everyone.\n\nWe\u2019re focused on helping associates live well\u2014physically, financially and emotionally. When you join us, we support you and those who are most important to you, offering full coverage for spouses, domestic partners, and dependents. We\u2019ve designed our benefits program to be flexible, comprehensive and consistent across our organization. From health and fitness center discounts, to training and professional development programs\u2014and much more\u2014you\u2019ll discover that Capital One is committed to helping you live your best life.\n\nA day in the life of a Capital One Staff Engineer\n\nAs a Solution Architect at Capital One Software Studio, you will orchestrate the creation of technology solutions that align with our business goals. Your day begins with a review of ongoing solution designs that are in different phases of their life cycles. You'll spend your time designing scalable and secure solution architectures, evaluating new technologies, and overseeing the development of high-level designs (HLD). You will engage in dynamic collaboration with cross-functional teams to advocate for best practices in architecture and design. For the new projects, you will closely work with your business partners to create sound business architectures. By day's end, you will have contributed to solutions and strategies that will shape our future, ensuring that all solutions are not only innovative but also follow our architectural and security standards.\n\nHere are a few of the ways we\u2019re helping people take control of their credit:\n\u2022 Helping customers view and monitor their credit scores with Credit Keeper\n\u2022 Enabling customers to view and edit their Personal Information directly in the Mobile App\n\u2022 Providing customers 100% certainty which credit cards they\u2019ll be approved for before they apply, by using Quick Check\u2122\n\nWe\u2019re all-in on the cloud and we\u2019re leaders in the adoption of open source, RESTful APIs, microservices, and containers. We build our own products and release them with a speed and agility that allows us to get new customer experiences to market quickly. And, as a founder-led company, we\u2019re inspired to make, break, do, and do good. So, let's do something great together.\n\nWant to learn more? Check out life at Capital One in the Software Studio!\n\nResponsibilities:\n\u2022 Design and implement architectural solutions that align with Capital One Canada's business goals and adhere to our architectural framework.\n\u2022 Develop and maintain a comprehensive catalog of technical and business capabilities, ensuring alignment with strategic objectives.\n\u2022 Lead the creation and review of Architectural Decision Records (ADRs) and High-Level Design (HLD) documents.\n\u2022 Actively participate in governance forums such as the Architectural Review Board ensuring compliance with internal and external standards.\n\u2022 Collaborate with stakeholders across all levels to promote technology strategies that deliver better business value and innovation.\n\u2022 Mentor and lead teams in the adoption of architectural best practices and continuous improvement initiatives.\n\nBasic Requirements:\n\u2022 Bachelor's Degree\n\u2022 At least 8 years of experience in Software Engineering and Systems Architecture or Technology Solution design\n\u2022 Certification in TOGAF, AWS, or other relevant architectural frameworks.\n\u2022 3+ years of experience as a Solutions Architect in large/complex organizations\n\u2022 At least 2 years of experience creating solutions architectures in a public cloud (AWS, Microsoft Azure, Google Cloud)\n\nPreferred Qualifications\n\u2022 Master\u2019s Degree in Computer Science, Engineering or Information Technology\n\u2022 10+ years of experience in software engineering\n\u2022 8+ years of experience architecting, designing, and/or delivering scalable and decoupled systems in a heavily regulated technology environment\n\u2022 3+ years of experience working with internal and external business clients\n\u2022 2+ years of experience with AWS concepts and implementations\n\u2022 Experience to engaging, influencing and driving initiatives by partnering with technology executives\n\u2022 Experience mentoring software engineers or architects\n\u2022 Experience in a regulated environment (HIPAA, PCI, Privacy, etc)\n\u2022 Ability to communicate at all levels in the organizations with required technical depth and breadth\n\u2022 AWS or equivalent certifications (Cloud Practitioner, Solution Architect-Associate)\n\nWe may use your information for automated decision making. We may, for certain purposes, render a decision based exclusively on automated processing of your personal information as a part of the candidate screening process.\n\nCapital One Canada is an equal opportunity employer committed to fostering a diverse and inclusive work environment. We consider all qualified applicants and will meet the needs of those requiring reasonable accommodations.\n\nIf you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.\n\nFor technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com\n\nCapital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.\n\nCapital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).",
+            "location": "Toronto, ON, Canada",
+            "employmentType": "",
+            "datePosted": "",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Capital One",
+                    "url": "https://www.capitalonecareers.ca/job/toronto/senior-staff-software-engineer/1733/65694211808?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Indeed",
+                    "url": "https://emplois.ca.indeed.com/viewjob?jk=dabde828c180d0c3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Built In Toronto",
+                    "url": "https://builtintoronto.com/job/senior-staff-software-engineer/2766891?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/senior-staff-software-engineer-at-capital-one-4021674809?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Talent.com",
+                    "url": "https://ca.talent.com/view?id=9a8890b3cd62&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Ladders",
+                    "url": "https://www.theladders.com/job/senior-staff-software-engineer-capitalonefinancialcorporation-toronto-on_76785077?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Taro",
+                    "url": "https://www.jointaro.com/jobs/affirm/senior-staff-software-engineer-online-infrastructure-8e489bc6/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Blind",
+                    "url": "https://www.teamblind.com/jobs/122976173?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Go"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "AWS"
+                },
+                {
+                    "name": "Azure"
+                },
+                {
+                    "name": "Google Cloud"
+                }
+            ]
+        },
+        {
+            "jobType": "senior_software_engineer",
+            "title": "Remote Senior Software Engineer (Eastern Canada)",
+            "company": "Centric Software",
+            "description": "About Us\n\nAt Centric Software, we're leading the way in enterprise software innovation, empowering clients in today's dynamic markets. As we expand our Canadian development team, we're seeking Senior Software Engineers with a strong proficiency in Java and/or JavaScript. If you're passionate about pioneering solutions and thrive in collaborative environments, this is your chance to shine.\n\nYour Role\n\nAs a Senior Software Engineer with us, you'll take ownership of designing and developing product features, whether it's front-end, back-end, or full-stack, tailored to your experience, interests, and business needs. We're seeking individuals who are passionate about building end-to-end software solutions, with a proven track record in delivering scalable solutions and expertise in systems design. You'll play a key role in driving projects, and collaborating cross-functionally with Product Managers, business stakeholders, and other tech teams throughout the project lifecycle. Your ability to effectively communicate with users, technical teams, and management to gather requirements and articulate technical designs will be critical.\n\nBasic Qualifications\n\u2022 5+ years of non-internship professional software development experience.\n\u2022 5+ years of programming experience with either Java or JavaScript.\n\u2022 Proficiency in Java, JavaScript, or related technologies.\n\u2022 Mastery of Object-Oriented Programming (OOP) principles and design patterns.\n\u2022 Excellent communication skills and a collaborative spirit.\n\u2022 2+ years of experience leading design or architecture of new and existing systems.\n\u2022 Experience with the full software development lifecycle, including coding standards, code reviews, source control management, build processes, testing, and operations.\n\nPreferred Qualifications\n\u2022 Experience as a mentor, tech lead, or leading an engineering team is a plus.\n\u2022 Experience with cloud platforms like AWS, Azure, or Google Cloud is advantageous.\n\u2022 Bachelor's degree in computer science or equivalent.\n\nWhat You'll Do\n\u2022 Lead the design and implementation of crucial system features using Java and/or JavaScript brilliance.\n\u2022 Collaborate closely with Product Management and cross-functional teams to deliver stellar software solutions.\n\u2022 Advocate for architectural enhancements to keep our platform ahead of the curve.\n\u2022 Guide our transition to a Microservices ecosystem with your expertise.\n\u2022 Inspire and mentor junior engineers, fostering a culture of innovation and excellence.\n\nWhat We Offer\n\u2022 Competitive salary and benefits package designed to recognize your contributions.\n\u2022 Flexible remote work options with a supportive, dynamic team.\n\u2022 A culture of innovation, collaboration, and continuous learning.\n\u2022 Engaging in projects that stretch your technical abilities and drive personal growth.\n\nCentric Software is proud to be an equal-opportunity employer, championing diversity and fostering an inclusive environment for all. Centric Software provides equal employment opportunities to all qualified applicants without regard to race, sex, sexual orientation, gender identity, national origin, color, age, religion, protected veteran or disability status or genetic information.\n\nCentric Software provides equal employment opportunities to all qualified applicants without regard to race, sex, sexual orientation, gender identity, national origin, color, age, religion, protected veteran or disability status or genetic information.",
+            "location": "Canada",
+            "employmentType": "",
+            "datePosted": "4 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/remote-senior-software-engineer-eastern-canada-at-centric-software-4056643726?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Indeed",
+                    "url": "https://emplois.ca.indeed.com/viewjob?jk=51e63d501763f3d4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Glassdoor",
+                    "url": "https://www.glassdoor.ca/job-listing/senior-software-engineer-vancouver-remote-motorola-solutions-JV_IC2278756_KO0,41_KE42,60.htm?jl=1009507263543&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Jooble",
+                    "url": "https://ca.jooble.org/jdp/-5755300301011223939?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Monster.ca",
+                    "url": "https://www.monster.ca/job-openings/remote-senior-software-engineer-eastern-canada--4c4b779d-c4a0-4a91-9e63-a299ec0de400?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Glassdoor",
+                    "url": "https://www.glassdoor.com/job-listing/remote-senior-software-engineer-eastern-canada-centric-software-JV_KO0,46_KE47,63.htm?jl=1009498729760&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "JobLeads",
+                    "url": "https://www.jobleads.com/ca/job/remote-senior-software-engineer-eastern-canada--canada--e735df992b93b1d78a97d4cb8696f7b7a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Learn4Good",
+                    "url": "https://www.learn4good.com/jobs/online_remote/software_development/3302187803/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "Go"
+                },
+                {
+                    "name": "JavaScript"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "AWS"
+                },
+                {
+                    "name": "Azure"
+                },
+                {
+                    "name": "Google Cloud"
+                }
+            ]
+        },
+        {
+            "jobType": "senior_software_engineer",
+            "title": "Senior Software Engineer (backend) - Toronto",
+            "company": "Borderless AI",
+            "description": "\ud83c\udfe0 About Borderless AI\nBorderless AI builds AI agents for HR departments. The company leverages the power of generative AI to automate and accelerate routine tasks for HR teams such as employee onboarding, payroll, paying international team members, in addition to offering businesses search and knowledge management solutions by connecting companies' applications and databases. The company is headquartered in Toronto, Canada and is backed by Cohere, Susquehanna and Agla\u00e9 Ventures.\nFor more information, go to: https://www.hireborderless.com/.\n\n\ud83e\udd84 The Opportunity:\nBorderless AI is looking for a Senior Software Engineer to build our AI-powered HR products. This person will join the early engineering team at Borderless and will contribute to regular architecture and product decisions. They will build the core AI and employer-of-record features that form the Borderless product.\nOpportunity to contribute to full stack development if interested.\n\n\ud83d\udd11 Key Responsibilities:\n\u2022 Building an advanced web application.\n\u2022 Creating a robust architecture with effective technologies.\n\u2022 Working directly with product managers, designers and engineers to design, plan, release, and optimize features.\n\u2022 Designing and implementing the APIs, Temporal services, and AI agents, with a focus on performance, future extensibility, reliability and ease of adoption.\n\nGreat candidates will have:\n\u2022 Degree or diploma in computer science, computer programming, or equivalent program.\n\u2022 3+ years experience with AWS or GCP\n\u2022 3+ years relational databases\n\u2022 3+ years experience building performant APIs\n\u2022 Experience with automated CI & CD pipelines\n\u2022 Experience writing engineering requirement documents and architecture design documents\n\u2022 Ability to code solutions to complex algorithms in a timely manner.\n\nAdditional requirements:\n\u2022 Work with the team in the office 4 days a week.\n\nCompensation & benefits:\n\u2022 Salary and stock options\n\u2022 3 weeks PTO\n\u2022 Extended health insurance\n\u2022 Wellness benefit\n\u2022 Daily lunches\nBorderless\u2019 tech stack:\n\u2022 TypeScript\n\u2022 React\n\u2022 Ant Design\n\u2022 AWS\n\u2022 Flutter\n\u2022 Node\n\u2022 Temporal.io\n\u2022 Postgres (Aurora)\n\u2022 Snowflake\n\u2022 OpenAI, Cohere, & other AI\n\ufeff\nWe appreciate your interest and application. Only those applicants under consideration will be contacted.\nBorderless AI is an Equal Employment Opportunity employer. Employment decisions are based on merit and business needs, and not on race, colour, creed, age, sex, gender, sexual orientation, national origin, religion, marital status, medical condition, physical or mental disability, military service, pregnancy, childbirth and related medical conditions or any other classification protected by federal, state or provincial and local laws and ordinances.\nReasonable accommodation is available for qualified individuals with disabilities, upon request.",
+            "location": "Toronto, ON, Canada",
+            "employmentType": "",
+            "datePosted": "3 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Job Board",
+                    "url": "https://borderlessai.applytojobs.ca/engineering/34353?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Taro",
+                    "url": "https://www.jointaro.com/jobs/chainlink-labs/senior-software-engineer-backend-north-america/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "BeBee Canada Meet Opportunities",
+                    "url": "https://ca.bebee.com/job/ffc6e1e1098c3d0afa64b791e513d120?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Jobs Trabajo.org",
+                    "url": "https://ca.trabajo.org/job-3051-1f34bd429798c42210c8f6cedf332e0a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "WhatJobs",
+                    "url": "https://en-ca.whatjobs.com/job/Senior-Software-Engineer/toronto-ontario-/79642712?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "TypeScript"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "React"
+                },
+                {
+                    "name": "Flutter"
+                },
+                {
+                    "name": "AWS"
+                }
+            ]
+        },
+        {
+            "jobType": "senior_software_engineer",
+            "title": "Sr Software Engineer - Canada",
+            "company": "Alstom",
+            "description": "Req ID:451873\n\nAt Alstom, we understand transport networks and what moves people. From high-speed trains, metros, monorails, and trams, to turnkey systems, services, infrastructure, signalling and digital mobility, we offer our diverse customers the broadest portfolio in the industry. Every day, more than 80 000 colleagues lead the way to greener and smarter mobility worldwide, connecting cities as we reduce carbon and replace cars.\n\nJoin us as Senior Software Engineer\n\nDesign software components and implement them.\n\nEnsure QCD management on software development activities.\n\nYour responsibilities will include:\n\nContribute to the elaboration of the sogftware specification & architecture, in collaboration with the software architecture\n\nDevelop software components:\n\u2022 Perform the software components detailed design & coding\n\u2022 Set up the software development tool chain\n\u2022 Specify, design, prepare and perform tests and verifications of a junior software developer's deliverables\n\u2022 Put software work products under configuration management\n\u2022 Support software/software integration, together with other software designers\n\u2022 Support hardware/software integration, together with the hardware designers\n\u2022 Sustain the software\n\u2022 Keep informed of the evolution of technologies through techno watch\n\u2022 Contribute to standardization by uisng existing solutions or by implementing reusable solutions, including COTS (Commercial Off-The-Shelf)\n\u2022 Apply processes and standards\n\u2022 Contribute to continuous improvement (RoE: Returen of Experience, process, ...)\n\nAs our ideal candiate:\n\u2022 You have an Engineering Degree or Master Degree\n\u2022 You are proficient in Software development/Railway software development(Desirable)/Vital or secure software development (Desirable)\n\u2022 You have good oral communication skills\n\u2022 Good written English communication skills\n\u2022 Team management\n\u2022 Ability to work transversally with Engineering teams\n\u2022 Concurrent Engineering\n\nYou don\u2019t need to be a train enthusiast to thrive with us. We guarantee that when you step onto one of our trains with your friends or family, you\u2019ll be proud. If you\u2019re up for the challenge, we\u2019d love to hear from you!\n\nImportant to note\n\nAs a global business, we\u2019re an equal-opportunity employer that celebrates diversity across the 63 countries we operate in. We\u2019re committed to creating an inclusive workplace for everyone.\n\nJob Type:\u200bExperienced\u200b",
+            "location": "Toronto, ON, Canada",
+            "employmentType": "",
+            "datePosted": "13 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Jobs At Alstom",
+                    "url": "https://jobsearch.alstom.com/job/Toronto-Sr-Software-Engineer-Canada-ON/1072271501/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Thomson Reuters Careers",
+                    "url": "https://careers.thomsonreuters.com/us/en/job/JREQ183138/Software-Engineer-Editorial-Tools?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Nexus Systems Group",
+                    "url": "https://www.nexusgroup.ca/jobs/software-engineer-pam/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Greenhouse",
+                    "url": "https://boards.eu.greenhouse.io/convera/jobs/4420920101?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Lever",
+                    "url": "https://jobs.lever.co/centml/8a111a00-6889-4a77-b0a1-15a7bb3432b1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Indeed",
+                    "url": "https://ca.indeed.com/viewjob?jk=fcc071f07e2b1a35&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "ZipRecruiter",
+                    "url": "https://www.ziprecruiter.com/c/Goldman-Sachs/Job/Software-Engineer-Accelerate-TORONTO-Associate/-in-Toronto,ON?jid=15e21e18f91c38da&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Wellfound",
+                    "url": "https://wellfound.com/jobs/56109-software-engineer-toronto?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Go"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                }
+            ]
+        }
+    ]
+}

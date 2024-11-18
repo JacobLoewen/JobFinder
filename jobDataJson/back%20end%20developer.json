@@ -1,0 +1,643 @@
+{
+    "jobs": [
+        {
+            "jobType": "back_end_developer",
+            "title": "Backend Developer (Montreal Canada Only)",
+            "company": "MagicPace",
+            "description": "Job DescriptionJob Description\n\nCompany: RareCircles\nWork Type: Full-time\nSalary Range: TBD\n\nAbout RareCircles\n\nRareCircles is the all-in-one customer experience platform built for retail. Our customers are independent retailers across North-America. Our mission is to deepen the relationship between our merchants and their customers - leading to more profitable local businesses. We re passionate about contributing to the development of local economies.\n\nOur founders and leaders come from the commerce technology space. We are searching for experienced, self-motivated, and passionate software developers looking to be part of something groundbreaking.\n\nYou should be a self-starter who enjoys solving difficult problems. We are looking for developers who can take on and own projects and responsibilities.\n\nResponsibilities\n\u2022 Research, design, and develop systems of upstream services leveraging the latest back-end technologies\n\u2022 Evaluate the application of new tools & technologies as they continually evolve\n\u2022 Maintain and extend existing services to support our downstream applications\n\u2022 Maintain and scale our existing cloud infrastructure\n\u2022 Help to promote best practices within the team\n\nRequirements\n\nRequirements\n\u2022 4+ years of experience building highly optimized back-end solutions in Golang, Protobuf, gRPC, and GraphQL\n\u2022 2+ years of experience in managing resources in Google Cloud Platform using Terraform IAC (or similar). Experience in managing a Kubernetes cluster is a must\n\u2022 Experience building back-end APIS and integrations to CRMs (Zapier, Quickbooks, Hubpost, Salesforce, Pipedrive, etc.)\n\u2022 Strong knowledge of common algorithms and data structures\n\u2022 Strong experience in building reliable, performant, maintainable, and testable code with proper abstraction\n\u2022 Experience building communication and telephony products is a plus (Twilio API, Email/SMTP, SMS, VoIP)\n\u2022 A collaborative spirit and the ability to work effectively within a team\n\u2022 Proficient in English with good writing and communication skills\n\u2022 Work in Eastern Standard North American time zone\nBackground & Characteristics\n\u2022 Willingness to work hard and achieve very ambitious goals\n\u2022 An ability to think through customer requirements to come up with high-impact ways of quickly solving their problems\n\u2022 A passion for performance, user experience, and design\n\u2022 A high bar for the quality of code and quality of user experience",
+            "location": "Montreal, Quebec, Canada",
+            "employmentType": "",
+            "datePosted": "3 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Dice.com",
+                    "url": "https://www.dice.com/job-detail/ecaa26d9-c5a3-4813-87f7-c12cf87208f2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Career Beacon",
+                    "url": "https://www.careerbeacon.com/en/job-1/1656411/magicpace/backend-developer-montreal-canada-only/montreal-qc?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "SimplyHired",
+                    "url": "https://www.simplyhired.ca/job/jwVfiSL2VAZ2xn-cPbV2SRHlYFpgd4VwaVKa9Or4ExIBilrYV5VKsw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Adzuna",
+                    "url": "https://www.adzuna.ca/details/4937531427?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Jooble",
+                    "url": "https://ca.jooble.org/jdp/-5176588327696724952?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Talent.com",
+                    "url": "https://ca.talent.com/view?id=71ad72335da0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Jobted",
+                    "url": "https://ca.jobted.com/job/defcd5b1c74c0914ecbfc4bdef30e4d5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Recruit.net",
+                    "url": "https://www.recruit.net/job/backend-developer-montreal-canada-only-jobs/FDCB8F8BCAF9272E?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Go"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Kubernetes"
+                },
+                {
+                    "name": "Google Cloud"
+                },
+                {
+                    "name": "Terraform"
+                }
+            ]
+        },
+        {
+            "jobType": "back_end_developer",
+            "title": "Software Developer (Back End Web Services)",
+            "company": "Thales",
+            "description": "In fast changing markets, customers worldwide rely on Thales. Thales is a business where brilliant people from all over the world come together to share ideas and inspire each other. In aerospace, transportation, defence, security and space, our architects design innovative solutions that make our tomorrow's possible.\n\nFor decades, Ottawa has been a global technology leader. Today, Canada\u2019s capital holds one of the brightest and most diverse technological ecosystems in North America. Voted as Canada\u2019s best place to live 2017 by Maclean's, Ottawa offers a low cost of living with a high quality of life. The Thales Ottawa office has been a major supplier and long-term trusted partner to DND, enabling the Canadian Armed Forces and the Canadian Coast Guard to achieve mission success.\n\nThis is a hybrid role in Ottawa, Ontario.\n\nPosition Summary\n\nThales Canada Defence and Security is hiring for a Software Developer (Back End Web Services) who will be responsible to support the Performance Manager in the development of Performance system for Thales\u2019 Non-Combatant In-Service Support programs.\n\nThe successful candidate will implement, integrate, test, configure, and document back-end web-based software applications with a particular focus on implementing software whose primary function is the integration of a system of software applications. The successful candidate will help deliver value to the operational team quickly in an agile, incremental way. The successful candidate will make use of modern software development techniques and technologies.\n\nKey Areas of Responsibility\n\nThe successful candidate will:\n\u2022 Design and implement back end web application and integration software solutions, including performing user needs analysis, design, coding, unit testing, and integration;\n\u2022 Produce software developer documentation;\n\u2022 Identify and analyze software defects and implement fixes into product releases; and\n\u2022 Build and maintain currency in software development best practices and methodologies.\n\u2022 To provide products and customer solutions in consistency with all stakeholders\u2019 needs and entity policies, as well as continuously enhance engineering competitiveness.\n\nBasic Qualifications\n\u2022 Bachelor\u2019s degree in software engineering, computer science, or equivalent education with relevant experience\n\u2022 7 years\u2019 experience in software development including (the following items are not exclusive of each other):\n\u2022 5 years\u2019 experience in back-end web app software development with Java web services;\n\u2022 Experience with REST API creation and/or management; and\n\u2022 Unit and integration test development experience using a framework such as Junit.\n\nThe candidate should possess experience with a few of the following skills:\n\u2022 Very strong coding, unit testing, integration, and debugging skills\n\u2022 Experience with JAX-RS framework\n\u2022 Experience with containerization, e.g. Docker, Kubernetes\n\u2022 Experience working in a scrum/agile software development environment\n\u2022 Strong oral and written communication skills\n\u2022 Proven problem solving and analytical skills with a desire to learn\n\u2022 Experience with military or aerospace domains\n\nRegulatory Compliance Requirements:\n\n\u2022 Ability to obtain a NATO Secret security clearance\n\u2022 Ability to meet the eligibility requirements outlined in the Canadian Controlled Goods Registration Program (including ITAR-controlled articles)\n\nSpecial Position Requirements\n\n\u2022 Hybrid position. Full time, standard business hours.\n\u2022 Possibility of occasional travel to customer site for technical support / integration activities.\n\u2022 Possibility of occasional travel within Canada for planning events.\n\nAs part of the Eligibility requirements, Employees (Internal Applicants) must inform their line manager if selected to interview for another position prior to the interview being scheduled. Please discuss with the Talent Acquisition Partner if you have any questions.\n\nThales is an equal opportunity employer which values diversity and inclusivity in the workplace. Thales is committed to providing accommodations in all parts of the interview process. Applicants selected for an interview who require accommodation are asked to advise accordingly upon the invitation for an interview. We will work with you to meet your needs. All accommodation information provided will be treated as confidential and used only for the purpose of providing an accessible candidate experience.",
+            "location": "Ottawa, ON, Canada",
+            "employmentType": "",
+            "datePosted": "3 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Thales Careers",
+                    "url": "https://careers.thalesgroup.com/global/en/job/R0267667/Software-Developer-Back-End-Web-Services?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Indeed",
+                    "url": "https://ca.indeed.com/viewjob?jk=382c24d466773dd9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Glassdoor",
+                    "url": "https://www.glassdoor.ca/job-listing/software-developer-back-end-web-services-thales-JV_IC2286068_KO0,40_KE41,47.htm?jl=1009501871853&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "SimplyHired",
+                    "url": "https://www.simplyhired.ca/job/0jztk49aYQo3kNLN8shWmKICfGnFchlt4apjyYxJCR9n53OPgo-62g?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Talent.com",
+                    "url": "https://ca.talent.com/view?id=3bb706fcd125&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Monster.ca",
+                    "url": "https://www.monster.ca/job-openings/software-developer-back-end-web-services-ottawa-on--f8179b8b-e5e5-4460-9e42-637efdc46c92?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/software-developer-back-end-web-services-at-thales-4058388178?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Talentify",
+                    "url": "https://www.talentify.io/job/software-developer-back-end-web-services-ottawa-ontario-ca-thales-r0267667?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "Go"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Docker"
+                },
+                {
+                    "name": "Kubernetes"
+                }
+            ]
+        },
+        {
+            "jobType": "back_end_developer",
+            "title": "Back End Developer",
+            "company": "Expansion",
+            "description": "Our client is seeking an experienced .NET Core Backend Developer (with Hardware Experience) with a solid background in backend development for land-based slot game cabinets. The ideal candidate will have hands-on experience in hardware integration, supporting peripheral devices, and optimizing system performance.\n\nResponsibilities:\n\u2022 Develop and maintain backend systems for land-based slot game cabinets using C# (.Net)\n\u2022 Take ownership of the integration of game boards and peripheral devices (e.g., printers, bill acceptor), ensuring seamless communication between hardware and game software.\n\u2022 Troubleshoot and resolve hardware integration and backend issues.\n\u2022 Understand system performance, identify bottlenecks, and troubleshoot issues related to GPU performance, memory consumption, and hardware efficiency, while leveraging functional programming practices to improve application performance and scalability.\n\u2022 Collaborate with frontend developers to integrate RESTful APIs\n\u2022 Participate in project management activities, ensuring timely delivery of tasks\n\u2022 Conduct unit testing and end-to-end testing to ensure code quality and application stability\n\u2022 Continuously learn and apply new technologies and best practices\n\nRequired Skills:\n\u2022 3 years hands on experience with C#/.Net Core\n\u2022 Bachelor\u2019s degree or College Diploma in Computer Science, Software Engineering, or a related field\n\u2022 Proven ability to manage the backend integration of slot game cabinets independently or similar hardware-dependent environments.\n\u2022 Strong problem-solving skills with the ability to troubleshoot hardware and software integration challenges.\n\u2022 Familiarity with slot game architecture and performance requirements for land-based gaming cabinets.\n\u2022 MongoDB/NoSQL: 3 years (preferred)\n\u2022 Docker: 2 years (preferred)\n\u2022 Kubernetes: 2 years (preferred)\n\u2022 CI/CD: 2 years (preferred)\n\u2022 Open mindset for learning and continuous improvement",
+            "location": "Vaughan, ON, Canada",
+            "employmentType": "",
+            "datePosted": "24 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/back-end-developer-at-expansion-4058111802?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "BeBee Canada Meet Opportunities",
+                    "url": "https://ca.bebee.com/job/047aeccd6a2117469b508c48796767b0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "C#"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "SQL"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "MongoDB"
+                },
+                {
+                    "name": "Docker"
+                },
+                {
+                    "name": "Kubernetes"
+                }
+            ]
+        },
+        {
+            "jobType": "back_end_developer",
+            "title": "Back End Developer",
+            "company": "Boast",
+            "description": "About Boast\n\nBoast specializes in helping organizations claim and access eligible R&D tax credits, minimizing audit risks and time-consuming processes in Canada and the United States. Boast combines in-house technical and R&D tax expertise with the latest AI technology to help companies effortlessly navigate the complexities of tax credits, enabling them to focus on what they do best: Innovate.\n\nSince Boast\u2019s founding in 2011, we\u2019ve helped thousands of businesses across North America tap into more than $600 million in innovation capital to build stronger products, extend their runway and drive world-changing innovation.\n\nAbout the Role\n\nAs a Senior Backend Developer, you\u2019ll play a key role in designing, implementing, and supporting the backend services that power our client-facing applications, ensuring optimal performance and reliability.\n\nYou will collaborate closely with the front-end team, a dedicated DevOps developer, and architects from a separate team to deliver high-quality, scalable systems. Working alongside these cross-functional teams, you\u2019ll be instrumental in supporting the platform\u2019s core functionalities and implementing new features that directly impact user experience.\n\nKey responsibilities include:\n\u2022 Design, develop, and maintain robust and scalable backend services using Node.js and Express.js to support our client-facing applications.\n\u2022 Architect and optimize SQL, MongoDB, and Redis databases for high performance, availability, and scalability.\n\u2022 Lead the design and deployment of infrastructure using Kubernetes, Helm Charts, Terraform, and Google Cloud Platform (GCP) services.\n\u2022 Implement CI/CD pipelines and manage automated deployments using GitHub Actions or other tools like Jenkins, Azure DevOps, or ArgoCD.\n\u2022 Set up and manage networking configurations within GCP to ensure secure and efficient communication between backend services.\n\u2022 Implement and support OAuth authentication mechanisms for secure user access and integration with third-party services.\n\u2022 Utilize tools such as k9s to monitor and maintain Kubernetes environments, ensuring system availability and performance.\n\u2022 Design, implement, and maintain RESTful web services within a microservices architecture.\n\u2022 Collaborate effectively in a fast-paced Agile (Scrum/Kanban) environment, mentoring junior developers and supporting cross-functional teams.\n\u2022 Drive the adoption of best practices in logging, debugging, and error handling across the backend codebase.\n\u2022 Ensure system availability and responsiveness, managing urgent issues which may require working outside regular hours.\n\nWhat You'll\n\u2022 Need:Solid experience in backend development using Node.js and Express.js.\n\u2022 Proven expertise in designing and implementing scalable architectures, including microservices and RESTful APIs.\n\u2022 Strong experience with Kubernetes, Helm Charts, Terraform, and GCP.\n\u2022 Proficiency in Kubernetes networking (VPC, ACLs, Security Groups, Route Tables, Virtual Gateways).\n\u2022 Extensive experience with SQL, MongoDB, and Redis database design and optimization.\n\u2022 Solid understanding of CI/CD practices and tools such as Jenkins, Azure DevOps, GitLab, and Argo CD.\n\u2022 Experience with containerization technologies like Docker or Podman.\n\u2022 Strong problem-solving, critical thinking, and analytical skills.\n\u2022 Excellent communication and leadership skills.\n\u2022 Ability to work under pressure, handle complex issues independently, and meet tight deadlines.\n\u2022 Willingness to work flexible hours, including weekends and nights, as necessary.\n\nBonus Skills:\n\u2022 Experience with Python.\n\u2022 Experience with React for front-end development.\n\nWhy You'll Love Working Here:\n\u2022 Competitive salary of $115K-$125K + benefits.\n\u2022 Hybrid and flexible work culture.\n\u2022 Open and transparent management structure \u2013 collaboration is how we make decisions happen.\n\u2022 Career growth within this role, including leadership and product innovation opportunities.\n\u2022 Continuous learning opportunities to promote personal and professional growth.\n\u2022 Generous vacation time, encouraging you to take the time you need - we trust you to strike the right work/life balance.\n\u2022 Access to our community events and conferences.",
+            "location": "Vancouver, BC, Canada",
+            "employmentType": "",
+            "datePosted": "2 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/back-end-developer-at-boast-4038569207?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Talent.com",
+                    "url": "https://ca.talent.com/view?id=0aa2b9b02c16&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Edajobs.com",
+                    "url": "https://ca.edajobs.com/job/47743/Back-End-Developer.html?searchId=1720580825.0742&page=1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Python"
+                },
+                {
+                    "name": "Go"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "SQL"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Git"
+                },
+                {
+                    "name": "GitHub"
+                },
+                {
+                    "name": "GitLab"
+                },
+                {
+                    "name": "React"
+                },
+                {
+                    "name": "Node.js"
+                },
+                {
+                    "name": "Express"
+                },
+                {
+                    "name": "MongoDB"
+                },
+                {
+                    "name": "Docker"
+                },
+                {
+                    "name": "Kubernetes"
+                },
+                {
+                    "name": "Jenkins"
+                },
+                {
+                    "name": "GitHub Actions"
+                },
+                {
+                    "name": "Azure"
+                },
+                {
+                    "name": "Google Cloud"
+                },
+                {
+                    "name": "Terraform"
+                },
+                {
+                    "name": "Scrum"
+                },
+                {
+                    "name": "Kanban"
+                }
+            ]
+        },
+        {
+            "jobType": "back_end_developer",
+            "title": "Backend Developer - Canada",
+            "company": "SysAid Technologies",
+            "description": "SysAid is a dynamic SaaS company, taking organizations on a transformative journey toward AI-driven business processes and services. With zero setup required, our conversational AI manages employees\u2019 requests, assists with queries, and accelerates the resolution of issues.\n\nAs a Backend Developer on our Customer Experience R&D team, you'll be at the heart of creating cutting-edge software solutions that directly enhance our customers' experience. You'll collaborate with a dynamic team to develop and deploy high-impact Java applications, shaping the future of AI-driven service management and making a real impact on global business.\n\nWhat you'll do:\n\u2022 Design and build scalable, high-performance systems using the latest best practices.\n\u2022 Develop cloud applications on AWS, utilizing key AWS technologies.\n\u2022 Create tailored cloud solutions and infrastructure.\n\u2022 Explore and implement new technologies to boost efficiency and quality.\n\u2022 Collaborate with product and design teams to deliver innovative features and user interfaces.\n\nRequirements:\n\u2022 3+ years of experience as a Java developer\n\u2022 Strong expertise in end-to-end server-side development\n\u2022 Proficient in SQL and relational databases\n\u2022 Experience with version control systems (e.g., Git)\n\u2022 Excellent problem-solving and debugging skills\n\u2022 Able to work both independently and in a team\n\u2022 Familiarity with NoSQL databases and AWS is a plus\n\u2022 BSc in Computer Science",
+            "location": "Toronto, ON, Canada",
+            "employmentType": "",
+            "datePosted": "",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Indeed",
+                    "url": "https://ca.indeed.com/viewjob?jk=3d25963429db468f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "ZipRecruiter",
+                    "url": "https://www.ziprecruiter.com/c/SysAid-Technologies/Job/Backend-Developer-Canada/-in-Toronto,ON?jid=ba0155fcf8a22092&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Glassdoor",
+                    "url": "https://www.glassdoor.ca/job-listing/backend-developer-canada-sysaid-technologies-JV_IC2281069_KO0,24_KE25,44.htm?jl=1009481099440&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/backend-developer-go-at-its-global-3800982366?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "SimplyHired",
+                    "url": "https://www.simplyhired.ca/job/7_79Ho-pJR_xflDrse-b9cekTzBHRL4txeEmF4Io2mkLXV1r_ljTJQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Jooble",
+                    "url": "https://ca.jooble.org/jdp/8971981959492648118?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Talent.com",
+                    "url": "https://ca.talent.com/view?id=32c269f28f5c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Monster.ca",
+                    "url": "https://www.monster.ca/job-openings/backend-developer-canada-toronto-on--939b6e70-00e9-4a0b-a74a-ee9390b63b36?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "SQL"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Git"
+                },
+                {
+                    "name": "AWS"
+                }
+            ]
+        },
+        {
+            "jobType": "back_end_developer",
+            "title": "Lead Backend Developer",
+            "company": "Royal Bank of Canada",
+            "description": "Job Summary\n\nJob Description\n\nWhat is the opportunity?\n\nAre you interested in working as Lead Backend Developer on the Retail Credit Engineering & Innovation (RCEI) team in Technology & Operations (T&O) at the Royal Bank of Canada?\n\nRBC`s RCEI team is responsible for providing solutions supporting Personal Financing Products, Credit Cards, Creditor Insurance, CB Operations, Regional Banking, Personal Banking & Investments, GRM and Finance.\n\nAs a Lead Backend Developer, you will work as part of a small, autonomous, agile team to delivery critical solutions to our retail credit related products at RBC. We are looking for top notch software engineers who are great team players, constantly think outside the box and passionate about the quality of the code. You will have the opportunity to grow and expand your capabilities and expertise within the RCEI development community via learning and sharing.\n\nWhat will you do?\n\u2022 Design & create new API & services using the latest Java & Spring Boot Framework and other modern Backend technologies which will shape the future of banking for RBC\n\u2022 Work within an Agile team comprised of technical, product and business team members to deliver exceptional solutions\n\u2022 Collaborate with the team to develop code in line with strategic initiatives, as well as develop, troubleshoot, enhance, and document components following current best practices\n\u2022 Translate business requirements into technical specifications and estimate activities/tasks required to perform design, coding, and testing\n\u2022 Participate in walkthrough reviews of technical specifications, programs, code, and test plans\n\u2022 Present technical topics at regular knowledge sharing meetings and manage low-level planning of work packages\n\u2022 Ensure high code quality through automated unit, functional testing and contract testing\n\u2022 Automate processes within the development pipeline; identify opportunities for efficiency gains and reducing time-to-market, and enabling continuous delivery\n\nWhat do you need to succeed?\n\nMust-have:\n\u2022 4+ years professional experience writing high quality code in backend with Java 11+ & Spring Boot 3+\n\u2022 4+ years professional experience working with RESTful APIs and interface specifications (Swagger/OpenAPI)\n\u2022 Experience with automated testing (unit, functional, performance, contract) and the related tooling, including Junit, Wiremock, Mockito, etc.\n\u2022 2+ years of experience developing and deploying on distributed cloud applications (Pivotal Cloud Foundry, OpenShift, Docker, Azure)\n\u2022 Experience or understanding of design patterns, databases (SQL, NoSQL), platforms, frameworks, and tools, code management tooling\n\u2022 Excellent interpersonal and highly developed communication skills (verbal and written)\n\u2022 Creative and analytical thinker who is self-driven and capable of working in a fast-paced environment\n\u2022 Excellent team player who has great collaboration skills with other tech peers, QA, product etc. to move forward\n\u2022 B.S. degree in Computer Science or related technical field (e.g. EE, physics or mathematics), or equivalent practical experience\n\nNice-to-have:\n\u2022 Experience with implementing and consuming GraphQL\n\u2022 Experience with Event Driven Framework (MQ, Kafka) is a plus\n\u2022 Familiarity with Business Process Model Notation (BPMN) and Decision Model Notation (DMN) is a plus, including Camunda, Pega, etc.\n\u2022 Experience and context knowledge in Home Equity Finance (HEF) industry, including mortgage origination, adjudication and fulfillment is a plus\n\nWhat\u2019s in it for you?\n\nWe thrive on the challenge to be our best, progressive thinking to keep growing, and working together to deliver trusted advice to help our clients thrive and communities prosper. We care about each other, reaching our potential, making a difference to our communities, and achieving success that is mutual.\n\u2022 A comprehensive Total Rewards Program including bonuses and flexible benefits, competitive compensation and stock where applicable\n\u2022 Participate in fun events and gamification challenges to help build your career tool kit while enjoying a work-life balance\n\u2022 Leaders who support your development through coaching and learning opportunities\n\u2022 Work in a dynamic, collaborative, progressive and highly performing team\n\u2022 Ability to make a difference and lasting impact\n\u2022 Enjoy a comfortable work environment with the option to dress casually\n\u2022 Opportunities to do challenging work\n\n#Ll-Hybrid\n\n#Ll-POST\n\nJob Skills\nActive Learning, Agile Methodology, Apache Kafka, Application Integrations, Camunda (Platform), Detail-Oriented, Enterprise Application Delivery, GraphQL (Query Language), Group Problem Solving, Java, Programming Languages, RESTful Web Services, Software Development Life Cycle (SDLC), Spring Batch, Spring Boot, Spring Framework, Spring ORM, Spring Web Service\n\nAdditional Job Details\n\nAddress:\n\nRBC WATERPARK PLACE, 88 QUEENS QUAY W:TORONTO\n\nCity:\n\nTORONTO\n\nCountry:\n\nCanada\n\nWork hours/week:\n\n37.5\n\nEmployment Type:\n\nFull time\n\nPlatform:\n\nTECHNOLOGY AND OPERATIONS\n\nJob Type:\n\nRegular\n\nPay Type:\n\nSalaried\n\nPosted Date:\n\n2024-10-29\n\nApplication Deadline:\n\n2024-11-19\n\nNote: Applications will be accepted until 11:59 PM on the day prior to the application deadline date above\n\nInclusion and Equal Opportunity Employment\n\nAt RBC, we embrace diversity and inclusion for innovation and growth. We are committed to building inclusive teams and an equitable workplace for our employees to bring their true selves to work. We are taking actions to tackle issues of inequity and systemic bias to support our diverse talent, clients and communities.\n\u200b\u200b\u200b\u200b\u200b\u200b\u200b\nWe also strive to provide an accessible candidate experience for our prospective employees with different abilities. Please let us know if you need any accommodations during the recruitment process.\n\nJoin our Talent Community\n\nStay in-the-know about great career opportunities at RBC. Sign up and get customized info on our latest jobs, career tips and Recruitment events that matter to you.\n\nExpand your limits and create a new future together at RBC. Find out how we use our passion and drive to enhance the well-being of our clients and communities at jobs.rbc.com.",
+            "location": "Toronto, ON, Canada",
+            "employmentType": "",
+            "datePosted": "12 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "RBC Careers",
+                    "url": "https://jobs.rbc.com/ca/en/job/R-0000104125/Lead-Backend-Developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Indeed",
+                    "url": "https://emplois.ca.indeed.com/viewjob?jk=4a08959312fcbcb5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Jobillico",
+                    "url": "https://www.jobillico.com/en/job-offer/rbc-uiymvf/lead-backend-developer/14756849?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Ladders",
+                    "url": "https://www.theladders.com/job/lead-backend-developer-rbc-toronto-on_78682160?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "BeBee Canada Meet Opportunities",
+                    "url": "https://ca.bebee.com/job/dea3497df5b47f9c680fbd54f8502b45?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Blind",
+                    "url": "https://www.teamblind.com/jobs/122728267?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "LazyApply",
+                    "url": "https://lazyapply.com/jobpreview/lead-backend-developer-rbc-toronto-on_78682160?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Talentify",
+                    "url": "https://www.talentify.io/job/senior-backend-developer-toronto-ontario-ca-rbc-r-0000104125?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "SQL"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Swagger"
+                },
+                {
+                    "name": "OpenAPI"
+                },
+                {
+                    "name": "Spring Boot"
+                },
+                {
+                    "name": "Docker"
+                },
+                {
+                    "name": "Azure"
+                },
+                {
+                    "name": "Kafka"
+                }
+            ]
+        },
+        {
+            "jobType": "back_end_developer",
+            "title": "Back End Developer",
+            "company": "Robert Half",
+            "description": "We are offering an opportunity to join our team as a Back End Developer in Toronto, Ontario. This role is integral to our operations, where you will be tasked with developing and deploying TypeScript applications, designing telemetry libraries, building scalable applications, and establishing best practices. This role offers a long term contract, as well as a permanent opportunity over time. Responsibilities: \u2022 Develop and deploy TypeScript applications into our Kubernetes clusters adhering to modern DevOps practices and security standards. \u2022 Design and implement telemetry libraries to be integrated within our web application templates. \u2022 Build highly available, performant, and scalable multi-tenant applications. \u2022 Analyze and assess application anomalies, build out telemetry to identify root causes, and streamline bug triage. \u2022 Establish engineering best practices and maintain a knowledge base for generating telemetry metrics, traces, and logs. \u2022 Collaborate with infrastructure and application engineering teams to define metadata layers and technical strategy. \u2022 Provide high-level work estimates for new feature development. \u2022 Develop reusable libraries that can be integrated into existing Node API frameworks, such as Express. \u2022 Containerize applications using Docker and deploy full-stack applications on AWS. \u2022 Use source control technology such as GitHub and CI/CD automation such as GitHub Actions.",
+            "location": "Toronto, ON, Canada",
+            "employmentType": "",
+            "datePosted": "12 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Robert Half",
+                    "url": "https://www.roberthalf.com/ca/en/job/toronto-on/back-end-developer/05090-0013105405-caen?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Indeed",
+                    "url": "https://ca.indeed.com/viewjob?jk=3f5426ccc6f84b53&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Kovasys IT Recruitment Agency",
+                    "url": "https://kovasys.com/fr/job/back-end-developer-torontoon/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Glassdoor",
+                    "url": "https://www.glassdoor.ca/job-listing/back-end-developer-8037-2312-foilcon-JV_IC2281069_KO0,28_KE29,36.htm?jl=1009495557557&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/back-end-developer-at-sysaid-4056478893?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Jooble",
+                    "url": "https://ca.jooble.org/jdp/3922721254642059801?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Ladders",
+                    "url": "https://www.theladders.com/job/senior-analyst-back-end-developer-avanade-toronto-on_76068811?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Monster.ca",
+                    "url": "https://www.monster.ca/job-openings/back-end-developer-toronto-on--e8a7668b-c8d2-41f5-b346-991a4f965c12?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "TypeScript"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Git"
+                },
+                {
+                    "name": "GitHub"
+                },
+                {
+                    "name": "Express"
+                },
+                {
+                    "name": "Docker"
+                },
+                {
+                    "name": "Kubernetes"
+                },
+                {
+                    "name": "GitHub Actions"
+                },
+                {
+                    "name": "AWS"
+                }
+            ]
+        },
+        {
+            "jobType": "back_end_developer",
+            "title": "Azure Backend Developer-Canada",
+            "company": "Zortech Solutions",
+            "description": "Role: Azure Backend Developer\n\nLocation: Remote/Canada\n\nDuration: 6 Months\n\nJob Description:\n\nMandatory Skills: C# .Net,Angularjs,Rest Api,Microsoft Azure, Mongo DB\n\nEducation and/or Experience Qualifications - Senior C#.Net, REST API developer having 8+ years' experience preferably working in AZURE cloud environment. Good to have MongoDB experience. - Bachelor's degree or equivalent practical experience. Required Qualifications - Demonstrated ability to mentor and coach others. - Expertise in designing complex application, understanding of design patterns and OOPs fundamentals - Expertise in the appropriate technical language as aligned under required qualifications below. - Demonstrated ability to understand and articulate details and impacts of complex proposed software solutions. - Proven knowledge in all stages of the software development life cycle. - History of working independently with little direction. - Strong planning and organizational skills with critical attention to detail and creative problem-solving skills. - Track record of balancing multiple priorities simultaneously with the ability to adapt to the changing needs of the business while meeting deadlines. - Excellent written and verbal communication skills with the ability to effectively communicate with all stakeholders including senior leadership. - Expertise in C#, REST API, Azure Cloud technologies, SQL Server, MongoDB, Version control tools, Release and deployment tools - Working experience with JavaScript framework such as jQuery or Angular to create rich interactive content Preferred Qualifications - Demonstrated resourcefulness in the software development process and creative problem-solving skills. - Experience with E-Commerce websites - Experience working in an environment using Agile Methodology preferred\n\n#L!-CEIPAL",
+            "location": "Toronto, ON, Canada",
+            "employmentType": "",
+            "datePosted": "2 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Career Beacon",
+                    "url": "https://www.careerbeacon.com/en/job-9/1658829/zortech-solutions/azure-backend-developer-canada/toronto-on?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Recruit.net",
+                    "url": "https://www.recruit.net/job/azure-backend-developer-canada-jobs/5D4BDBF5767A68B6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "C#"
+                },
+                {
+                    "name": "Go"
+                },
+                {
+                    "name": "JavaScript"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "SQL"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Angular"
+                },
+                {
+                    "name": "MongoDB"
+                },
+                {
+                    "name": "Azure"
+                }
+            ]
+        },
+        {
+            "jobType": "back_end_developer",
+            "title": "Java Back End Developer - IT (Information Technology) - Montreal, Canada",
+            "company": "Societe Generale",
+            "description": "Responsibilities\n\nABOUT THE JOB:\n\nGlobal Banking Technology & Operations (GBTO) delivers day-to-day services to Global Banking & Investor Solutions (GBIS) Business Units and their clients. With IT & Operations teams working side by side under the same leadership, the goal of GBTO is to meet the evolving needs of its clients and market requirements, as well as anticipate technological advances to accelerate and support the transformation of GBIS activities. GBTO is at the very heart of this technological and operational challenge.\n\nThis role offers a unique and dynamic opportunity to be part of a team responsible for managing US-based real-time payment applications, including SWIFT, Montran, and ACH Plus, which are directly connected to the Fedwire and CHIPS systems. We seek to build strong business partnerships to tackle complex challenges and take pride in the value we create. For us, SQL and Java are more than just programming languages\u2014they are tools to bring our ideas to life.\n\ntechnical stack\n\nJAVA|Angular|Spring|React|PostgreSQL|SQL|Oracle|Tomcat|RabbitMQ|PowerBI|RestAPI\n\nWhat will be your DAY-TO-DAY?\n\nhis role blends the innovative energy of a FinTech with the stability of a major international bank. We believe that being a proficient developer requires a strong grasp of the entire software development cycle and a deep understanding of the business context in which the software operates. One of your initial challenges will be to contribute to a global project impacting financial institutions and large corporations worldwide\u2014the \u201c20022 Project,\u201d which aims to implement a new format for payment messages.\n\nIn this hybrid position, approximately 40% of your time will be spent programming, while the rest will involve managing vendor relationships and ensuring alignment with stakeholders.\n\nResponsibilities:\n\u2022 Feature Development: Create new features, including making design and architectural decisions, testing, tracking quality metrics, and producing documentation.\n\u2022 Stakeholder Engagement: Present developed features to stakeholders and product owners, gaining a solid understanding of business requirements and gathering feedback.\n\u2022 Software Delivery & Support: Ensure that software solutions meet internal standards and provide operational support as needed.\n\u2022 Process Improvement: Enhance CI/CD practices and automate routine tasks to optimize the development process.\n\u2022 Willingness to occasionally perform Level 3 support during overnight shifts or on-duty.\nProfile required\n\nSkills and Qualifications:\n\nMust Have:\n\u2022 7+ years of experience in information systems environments, ideally within the financial industry.\n\u2022 Proven track record of managing long-term projects and serving as the main point of contact for multiple stakeholders.\n\u2022 Strong relationship management and expectation-setting skills with internal and external clients.\n\u2022 Familiarity with Agile practices and methodologies.\n\nNice to Have:\n\u2022 Experience with Test-Driven Development (TDD).\n\u2022 Knowledge of automated testing tools such as Selenium or Jenkins.\n\u2022 Understanding of software security practices (OAuth2, SSL/TLS, IAM).\n\u2022 University degree in Computer Science, DEC, or equivalent technical certifications.\n\nLanguages: French and English\n\nAbility to communicate in English, both orally and in writing, is a requirement as the person in this position will need to collaborate regularly with colleagues and partners in the United States.\nWhy join us\n\nOUR BENEFITS:\n\nWHAT WE DO DIFFERENTLY AT SOCI\u00c9T\u00c9 G\u00c9N\u00c9RALE\n\nCompetitive compensation & benefits offering, including but not limited to:\n\u2022 Minimum of 20 Vacation days\u202f+ 4\u202fpersonal days\n\u2022 Supportive Maternity, paternity, parental and adoption leave policy\n\u2022 Health spending\u202f($2,000/year) and\u202fpersonal spending\u202f($1,000/year)\u202faccounts\u202fwith 75+ eligible reimbursement categories (health, training, electronics etc.)\n\u2022 Fully sponsored virtual\u202fhealthcare assistance\u202fand\u202fEmployee Assistance Program\u202fto you and your immediate family\n\u2022 Various Employee Resource Groups\u202f(ERG) to engage with\u202fsuch as Pride and Allies, American Women Network, Black Leadership Network, One planet, etc.\n\u2022 A\u202fculture of continuous development\u202fby encouraging our employees various\u202ftraining programs\u202f(online training and coaching platform such as Coursera, GoFluent, Pluralsight, First Finance, and others)\nBusiness insight\n\nOUR CULTURE:\nAt Societe Generale, we live by our 4 core values of commitment, responsibility, team spirit and innovation. We are engaged and demonstrate consideration for others. We act ethically and with courage. We focus our talent and energy on collective success. We experiment and propose new ideas. This way, we maximize our ability to serve client needs and anticipate market changes. Societe Generale is committed to strengthening bonds with colleagues, communities, and the world in which we live, because relationships are at the heart of how we operate.\nFor more information about our Culture and Conduct initiatives, please visit this link (https://americas.societegenerale.com/en/careers/get-know-culture/)\nD&I:\nOur Diversity & Inclusion Mission: Recruit, develop, advance, and retain a diverse workforce that is united in our efforts to enhance our competitive position and deliver innovative solutions to our clients.\n\nOur Diversity & Inclusion Vision:\n\u2022 Engaged workforce that is demographically diverse in a way that reflects the communities in which we operate\n\u2022 Inclusive culture and workplace that recognizes employees' unique needs and utilizes their diverse talents\n\u2022 Engage our community and marketplace, and position the organization to meet the needs of all its clients\n\nFor more information about our D&I initiatives, please visit this link (https://americas.societegenerale.com/en/societe-generale-about/diversity-and-inclusion/)\n\nHYBRID WORK ENVIRONMENT:\nSociete Generale offers a hybrid work arrangement that offers employees the flexibility to work remotely, as well as on-site, in order to promote interaction and collaboration with colleagues while adhering to all SG standard protocols. Hybrid work arrangements vary based on business area. The applicable Business lines will determine and communicate the work arrangements that best meet their business needs.",
+            "location": "Montreal, Quebec, Canada",
+            "employmentType": "",
+            "datePosted": "",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
+                    "url": "https://careers.societegenerale.com/en/job-offers/java-back-end-developer-24000NXX-en?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "Go"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "SQL"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Selenium"
+                },
+                {
+                    "name": "TDD"
+                },
+                {
+                    "name": "React"
+                },
+                {
+                    "name": "Angular"
+                },
+                {
+                    "name": "PostgreSQL"
+                },
+                {
+                    "name": "Jenkins"
+                },
+                {
+                    "name": "TLS"
+                },
+                {
+                    "name": "SSL"
+                }
+            ]
+        },
+        {
+            "jobType": "back_end_developer",
+            "title": "Backend Software Engineer - Cloud Traffic and Networking (Remote - Canada)",
+            "company": "Confluent Career Site",
+            "description": "Description\n\nWith Confluent, organizations can harness the full power of continuously flowing data to innovate and win in the modern digital world. We have a purpose that drives us to do better every day \u2013 we're creating an entirely new category within data infrastructure - data streaming. This technology will allow every organization to create experiences and use the power of data in ways that profoundly impact the way we all live. This impact is our purpose and drives us to do better every day.\n\nOne Confluent. One team. One Data Streaming Platform.\n\nData Connects Us.\n\nAbout the Role:\n\nTo realize Confluent\u2019s enormous potential, we are looking for software engineers, at various levels, to grow our Traffic team which is responsible for building and managing the networking fabric of Confluent Cloud. Cloud networking is a strategic investment area for Confluent with the potential to impact the company\u2019s top and bottom line. The data plane area in the Traffic team focuses on the performance, security, reliability, and cost optimizations for all traffic that ingresses and egresses a customer's Kafka cluster on Confluent Cloud.\n\nWe are looking for someone with an interest in building large-scale distributed systems, with a focus on building and managing network data planes for containerized workloads in the cloud. The ideal candidate would be passionate about network data plane performance, scale, cost optimizations, and building robust software.\n\nWhat You Will Do:\n\u2022 Build the software underpinning the mission-critical Confluent Cloud network data plane platform. You will play a crucial role in designing, developing and operationalizing high performance, scalable, reliable and resilient systems\n\u2022 Independently drive execution of software projects to deliver complex projects in production with a focus on quality\n\u2022 Build upon open source software to deliver business impact\n\u2022 Troubleshoot issues and improve ops for complex technical stack that spans all the 3 clouds and includes microservices, containers, and virtualization\n\nWhat You Will Bring:\n\u2022 BS, MS in computer science or a related field, or equivalent work experience\n\u2022 2+ years of relevant cloud infrastructure/cloud networking experience\n\u2022 Strong fundamentals in distributed systems design and development\n\u2022 Experience building and operating large-scale systems\n\u2022 Solid understanding at a systems level (disk, network, operating systems, etc)\n\u2022 A self-starter with the ability to work effectively in teams\n\u2022 Proficiency in C++, Go, Python, or other statically typed languages\nExperience/knowledge with public clouds (AWS, Azure or GCP)\n\nWhat Gives You an Edge:\n\u2022 A Strong networking background combined with your software engineering experience\n\nCome As You Are\n\nAt Confluent, equality is a core tenet of our culture. We are committed to building an inclusive global team that represents a variety of backgrounds, perspectives, beliefs, and experiences. The more diverse we are, the richer our community and the broader our impact. Employment decisions are made on the basis of job-related criteria without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or any other classification protected by applicable law.\n\nClick HERE to review our Candidate Privacy Notice which describes how and when Confluent, Inc., and its group companies, collects, uses, and shares certain personal information of California job applicants and prospective employees.\n#LI-Remote",
+            "location": "Ontario, Canada",
+            "employmentType": "",
+            "datePosted": "12 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Confluent Careers",
+                    "url": "https://careers.confluent.io/jobs/15060400-backend-software-engineer-cloud-traffic-and-networking-remote-canada?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "SimplyHired",
+                    "url": "https://www.simplyhired.ca/job/WT2YYbsmQsWFaw-BHDL_kwTdPslh9c2XkcebcBKSh0ODXHo_mRPAbA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Levels.fyi",
+                    "url": "https://levels.fyi/jobs?jobId=141097669853356742&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Jobrapido.com",
+                    "url": "https://ca.jobrapido.com/jobpreview/5453602902406856704?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Python"
+                },
+                {
+                    "name": "C++"
+                },
+                {
+                    "name": "Go"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "AWS"
+                },
+                {
+                    "name": "Azure"
+                },
+                {
+                    "name": "Kafka"
+                }
+            ]
+        }
+    ]
+}

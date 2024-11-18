@@ -1,0 +1,613 @@
+{
+    "jobs": [
+        {
+            "jobType": "cloud_engineer",
+            "title": "Cloud Solution Engineer",
+            "company": "Royal Bank of Canada",
+            "description": "Job Summary\n\nJob Description\n\nWhat is the Opportunity?\n\nJoin an innovative team that is building cloud platform at RBC! Looking for a chance to make a difference? Are you someone who embraces change? As a Cloud Solutions Engineer, you will utilize your software and systems engineering background to support the large-scale, fault-tolerant enterprise systems. Your role is to ensure that RBC\u2019s internal Cloud Platform reliability and maximum uptime.\n\nSupporting application team to seamlessly and efficiently utilize processes like CI/CD, infrastructure as code and platform automation, this role is looking to build on the success of automating infrastructure across the business.\n\nThis role is pivotal in our journey towards eliminating all manual provisioning of services as well as working closely with development teams to provide an excellent developer experience to achieve our goal of doing DevOps the right way.\n\nA very exciting aspect of this role is that you would be working on cloud platform that hosts many critical banking apps. While nobody's attained perfection yet, we\u2019re on a journey and with the support of our cloud program this is an exciting opportunity to develop your skills on an enterprise scale platform.\n\nIdeal applicants will be working in a DevOps way, having a strong background in application support and also with an interest in operations. You'll need a good coverage of the following:\n\nWhat will you do?\n\u2022 Build scalable systems, using best practices around automation, pushing changes that improve reliability and velocity\n\u2022 Carry out regular cloud operation task and provide support for application development teams utilizing cloud resources.\n\u2022 Support services before they go live through activities such as system design consulting, developing software platforms and frameworks, planning and reviews\n\u2022 Maintain services once they are live by measuring and monitoring availability, latency and overall system health.\n\u2022 Provide mentorship and training to other team members on technologies and processes; drive education and knowledge transfer of design patterns, technical practices, and relevant technologies and tools\n\u2022 Drive high standards around incident response practices and policies\n\nWhat do you need to succeed?\n\nMust-have\n\u2022 4+ years of experience in an Operational role: Cloud Engineering, DevOps, SRE, or Software Engineering\n\u2022 3+ years of experience doing development in any of Java, NodeJS, .NET Core,\n\u2022 3+ years of experience developing applications with an active user base, and deploying to production and going through any change management process (Ideal candidate is able to engage in a detailed discussion about their change management process as well as its happy/pain points)\n\u2022 3+ years of experience with development or administration on any cloud platforms AWS, Azure Kubernetes\n\u2022 Providing standardized offerings to facilitate and ensure operational health of stacks throughout their lifecycle including metrics collection, aggregation, and visualization, inventory, capacity, and billing/tag management.\n\u2022 Experience with the operational aspects of software systems such as monitoring, centralized logging, and alerting, preferably Splunk and Dynatrace\n\u2022 Experience in writing automation scripts in Python, Bash\n\nNice-to-have\n\u2022 Experience with Elastic Kubernetes Service, Azure Kubernetes Service\n\u2022 Experience with logging tools like Splunk.\n\u2022 Experience with Monitoring tools such as Dynatrace, Prometheus and Grafana etc.\n\u2022 Experience with automating manual processes and tests\n\u2022 Experience in Kubernetes, Elasticsearch and Kafka\n\nRBC is committed to supporting flexible work arrangements when and where available. Details to be discussed with Hiring Manager.\n\nWhat\u2019s in it for you?\n\nWe thrive on the challenge to be our best, progressive thinking to keep growing, and working together to deliver trusted advice to help our clients thrive and communities prosper. We care about each other, reaching our potential, making a difference to our communities, and achieving success that is mutual.\n\u2022 A comprehensive Total Rewards Program including bonuses and flexible benefits, competitive compensation, commissions, and stock where applicable.\n\u2022 Leaders who support your development through coaching and managing opportunities\n\u2022 Ability to make a difference and lasting impact.\n\u2022 Work in a dynamic, collaborative, progressive, and high-performing team.\n\u2022 A world-class training program in financial services\n\u2022 Flexible work/life balance options\n\u2022 Opportunities to do challenging work.\n\n#LI-Hybrid\n\n#LI-POST\n\n#TECHPJ\n\nJob Skills\nAgile Methodology, Amazon Web Services (AWS), Application Development, Automation Technology, Cloud Computing, Cloud Computing Architecture, Cloud Platform, Cloud Solutions, Infrastructure As Code (IaC), Kubernetes, Python (Programming Language), Software Development\n\nAdditional Job Details\n\nAddress:\n\n330 FRONT ST W:TORONTO\n\nCity:\n\nTORONTO\n\nCountry:\n\nCanada\n\nWork hours/week:\n\n37.5\n\nEmployment Type:\n\nFull time\n\nPlatform:\n\nTECHNOLOGY AND OPERATIONS\n\nJob Type:\n\nRegular\n\nPay Type:\n\nSalaried\n\nPosted Date:\n\n2024-11-12\n\nApplication Deadline:\n\n2024-11-29\n\nNote: Applications will be accepted until 11:59 PM on the day prior to the application deadline date above\n\nInclusion and Equal Opportunity Employment\n\nAt RBC, we embrace diversity and inclusion for innovation and growth. We are committed to building inclusive teams and an equitable workplace for our employees to bring their true selves to work. We are taking actions to tackle issues of inequity and systemic bias to support our diverse talent, clients and communities.\n\u200b\u200b\u200b\u200b\u200b\u200b\u200b\nWe also strive to provide an accessible candidate experience for our prospective employees with different abilities. Please let us know if you need any accommodations during the recruitment process.\n\nJoin our Talent Community\n\nStay in-the-know about great career opportunities at RBC. Sign up and get customized info on our latest jobs, career tips and Recruitment events that matter to you.\n\nExpand your limits and create a new future together at RBC. Find out how we use our passion and drive to enhance the well-being of our clients and communities at jobs.rbc.com.",
+            "location": "Toronto, ON, Canada",
+            "employmentType": "",
+            "datePosted": "6 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "RBC Careers",
+                    "url": "https://jobs.rbc.com/ca/en/job/R-0000105765/Cloud-Solution-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Levels.fyi",
+                    "url": "https://levels.fyi/jobs?jobId=74698820318831302&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Jobcanada247.Com",
+                    "url": "https://jobcanada247.com/cloud-solution-engineer-job147109?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Python"
+                },
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "Bash"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Elasticsearch"
+                },
+                {
+                    "name": "Kubernetes"
+                },
+                {
+                    "name": "AWS"
+                },
+                {
+                    "name": "Azure"
+                },
+                {
+                    "name": "Prometheus"
+                },
+                {
+                    "name": "Grafana"
+                },
+                {
+                    "name": "Splunk"
+                },
+                {
+                    "name": "Kafka"
+                }
+            ]
+        },
+        {
+            "jobType": "cloud_engineer",
+            "title": "AWS Cloud Engineer",
+            "company": "Thoughtworks",
+            "description": "We are seeking a highly skilled Cloud Engineer with extensive experience in AWS, DevOps methodologies, cloud architecture, and full-stack software development. The ideal candidate will possess a strong background in both operations and software development, enabling them to bridge the gap between development and operations teams seamlessly. This role will play a crucial part in designing, implementing, and optimizing cloud infrastructure to ensure scalability, reliability, and efficiency.\nIf you're looking for an amazing opportunity to help us build the future while working with an incredibly dynamic and talented team, we want to work with you!\nAt Thoughtworks Canada, we\u2019re on a mission to build better products. We partner with a variety of clients to deliver impactful software-powered experiences to their users. Our team members are smart, kind, reliable, and excited to continuously teach and learn. Thoughtworks Canada is one of Canada\u2019s Top Small and Medium Employers and one of LinkedIn\u2019s Top Startups.",
+            "location": "Toronto, ON, Canada",
+            "employmentType": "",
+            "datePosted": "17 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Thoughtworks",
+                    "url": "https://www.thoughtworks.com/careers/jobs/6296024?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Indeed",
+                    "url": "https://ca.indeed.com/viewjob?jk=4290cc0f09a77d3b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Glassdoor",
+                    "url": "https://www.glassdoor.ca/job-listing/aws-cloud-engineer-atlantis-it-group-JV_IC2281069_KO0,18_KE19,36.htm?jl=1009324072433&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Jooble",
+                    "url": "https://ca.jooble.org/jdp/2148517229638178093?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "GrabJobs",
+                    "url": "https://grabjobs.co/canada/job/full-time/others/sr-aws-cloud-engineer-127253585?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Jobs Trabajo.org",
+                    "url": "https://ca.trabajo.org/job-3051-cf3a38ee21e7e3ea4fbdc8061b0aa479?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "AWS"
+                }
+            ]
+        },
+        {
+            "jobType": "cloud_engineer",
+            "title": "Azure Cloud Engineer",
+            "company": "EY",
+            "description": "At EY, you\u2019ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we\u2019re counting on your unique voice and perspective to help EY become even better, too. Join us and build an exceptional experience for yourself, and a better working world for all.\n\nThe opportunity\n\nWe are seeking an Azure Cloud Engineer to join EY Canada. In this role, you will be required to offer expert advice, planning, and practical assistance to EY's clients who want to move their IT infrastructure to a cloud-based system. This individual will be part of a diverse team of innovative and talented professionals, committed to providing top-tier consulting services to our clients.\n\nYour Key Responsibilities:\n\u2022 Work with a variety of Canadian clients across different industries to understand their specific cloud computing needs and objectives.\n\u2022 Design and implement tailored cloud infrastructure, applications, and platform solutions, considering Canadian data privacy laws and regulations.\n\u2022 Create and execute effective data migration and cloud implementation strategies, specific to each client.\n\u2022 Monitor, maintain, and troubleshoot cloud-based systems, ensuring optimal performance and reliability.\n\u2022 Develop comprehensive backup and recovery strategies that comply with Canadian business continuity standards.\n\u2022 Communicate complex cloud concepts, ensuring that relevant stakeholders understand the risks and benefits.\n\u2022 Follow EY methodologies and use EY tools to deliver seamless and compelling cloud solutions.\n\u2022 Stay current with trends and developments in cloud computing, with a particular focus on their relevance to the Canadian market.\n\u2022 Ensure EY's quality and professional standards are maintained.\n\u2022 Collaborate with other EY teams to create integrated solutions.\n\u2022 Train and support clients during the cloud transition process, maintaining good client relationships.\n\nTo qualify for this role you must have:\n\u2022 Bachelor\u2019s degree in computer science, IT, Systems Engineering, or a related field. Higher degree or equivalent experience is preferred.\n\u2022 3-5 years of experience as a Cloud Engineer or in a similar role, with prior consulting experience.\n\u2022 Proven expertise in Azure Cloud \u2013 experience with AWS, GCP an asset.\n\u2022 Experience in Design and Implementation:\n\u2022 Designing and deploying scalable, highly available, and fault-tolerant systems on cloud platforms (e.g., AWS, Azure, Google Cloud Platform).\n\u2022 Implementing and managing cloud infrastructure and services, including compute, storage, networking, and databases.\n\u2022 Migrating existing on-premises applications and services to the cloud.\n\u2022 Experience in Maintenance and Optimization:\n\u2022 Monitoring cloud environments to ensure optimal performance and cost-efficiency.\n\u2022 Performing regular maintenance tasks, updates, and upgrades.\n\u2022 Troubleshooting and resolving technical issues related to cloud resources.\n\u2022 Experience in Security and Compliance:\n\u2022 Ensuring cloud environments comply with relevant security standards and regulations.\n\u2022 Implementing and managing security measures such as firewalls, identity and access management (IAM), and encryption.\n\u2022 Conducting security audits and risk assessments.\n\u2022 Experience in Automation and Orchestration:\n\u2022 Automating repetitive tasks using scripting languages (e.g., Python, Bash) and infrastructure as code (IaC) tools (e.g., Terraform, CloudFormation).\n\u2022 Implementing orchestration solutions to manage complex workflows and dependencies across multiple cloud services.\n\u2022 Experience in Collaboration and Support:\n\u2022 Collaborating with development teams to support DevOps practices and continuous integration/continuous deployment (CI/CD) pipelines.\n\u2022 Providing technical support and guidance to other teams and stakeholders.\n\u2022 Documenting cloud architectures and procedures.\n\u2022 Strong understanding of cloud-based technologies, covering data storage, networking, and cybersecurity.\n\u2022 Superior written and verbal communication skills in English, French language skills is a plus.\n\u2022 Familiarity with Canadian data protection laws and business practices.\n\u2022 Professional cloud certifications like AWS Solutions Architect, Google Professional Cloud Architect, or Microsoft Certified: Azure Solutions Architect Expert is a plus.\n\u2022 Ability to manage multiple client engagements simultaneously.\n\u2022 Willingness to travel, as needed, to meet client needs and project commitments.\n\u2022 Exhibits EY\u2019s values \u2013 integrity, respect, and teaming, energy, enthusiasm, and the courage to lead.\n\nWhat we offer\n\nWe offer a competitive compensation package where you\u2019ll be rewarded based on your performance and recognized for the value you bring to our business. In addition, our Total Rewards package allows you decide which benefits are right for you and which ones help you create a solid foundation for your future. Our Total Rewards package includes a comprehensive medical, prescription drug and dental coverage, a defined contribution pension plan, a great vacation policy plus firm paid days that allow you to enjoy longer long weekends throughout the year, statutory holidays and paid personal days (based on province of residence), and a range of exciting programs and benefits designed to support your physical, financial and social well-being. Plus, we offer:\n\u2022 Support and coaching from some of the most engaging colleagues in the industry\n\u2022 Learning opportunities to develop new skills and progress your career\n\u2022 The freedom and flexibility to handle your role in a way that\u2019s right for you\n\nThe salary range for this job in British Columbia is $72,000 to $132,000. Individual salaries within this range are determined through a wide variety of factors including but not limited to education, experience, knowledge, skills and work location city.\n\nDiversity and Inclusion at EY\n\nDiversity and inclusiveness are at the heart of who we are and how we work. We\u2019re committed to fostering an environment where differences are valued, policies and practices are equitable, and our people feel a sense of belonging. We embrace diversity and are committed to combating systemic racism, advancing gender equity and women in leadership, advocating for the 2SLGBTQIA+ community, promoting our neuroinclusion and accessibility initiatives, and are dedicated to amplifying the voices of Indigenous peoples (First Nations, Inuit, and M\u00e9tis) nationally as we strive towards reconciliation. Our diverse experiences, abilities, backgrounds, and perspectives make our people unique and help guide us. Because when people feel free to be their authentic selves at work, they bring their best and are empowered to build a better working world.\n\nEY | Building a better working world\n\nEY exists to build a better working world, helping to create long-term value for clients, people and society and build trust in the capital markets.\n\nEnabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate.\n\nWorking across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today.",
+            "location": "Toronto, ON, Canada",
+            "employmentType": "",
+            "datePosted": "24 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "EY Careers",
+                    "url": "https://careers.ey.com/ey/job/Toronto-Azure-Cloud-Engineer-ON-M5H-0B3/1125296201/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Python"
+                },
+                {
+                    "name": "Go"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "Bash"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "AWS"
+                },
+                {
+                    "name": "Azure"
+                },
+                {
+                    "name": "Google Cloud"
+                },
+                {
+                    "name": "Terraform"
+                },
+                {
+                    "name": "CloudFormation"
+                }
+            ]
+        },
+        {
+            "jobType": "cloud_engineer",
+            "title": "OpenShift Cloud Engineer (6 Months Contract)",
+            "company": "BDO Canada",
+            "description": "Putting people first, every day\n\nBDO is a firm built on a foundation of positive relationships with our people and our clients. Each day, our professionals provide exceptional service, helping clients with advice and insight they can trust. In turn, we offer an award-winning environment that fosters a people-first culture with a high priority on your personal and professional growth.\n\nYour Opportunity\n\nBDO Digital is looking for an OpenShift Cloud Engineer to join their growing team, with the ability to work hybrid mode. The individual will own the following responsibilities:\n\u2022 Design, implement, and manage container and orchestration technology stacks, including Docker, Kubernetes, and OpenShift\n\u2022 Deploy Kubernetes applications on OpenShift\n\u2022 Utilizing your in-depth knowledge of OpenShift, deploy Kubernetes applications and configure and automate OpenShift tasks.\n\u2022 Manage a team of Open Shift Operators, working alongside them as a technical lead resource who can help troubleshoot issues within the stack as needed.\n\u2022 Implement GitOps with Jenkins\n\u2022 Configure Enterprise Authentication\n\u2022 Configure Trusted TLS Certificates\n\u2022 Configure Dedicated Node Pools\n\u2022 Configure Persistent Storage\n\u2022 Manage Cluster Monitoring and Metrics\n\u2022 Provision and Inspect Cluster Logging\n\u2022 Recover Failed Worker Nodes\n\u2022 Collaborate with platform owner teams to understand new features and their implications on the organization\n\u2022 Present OpenShift services to application teams to best fit their needs\n\u2022 Act as a liaison between application teams and cloud engineers, sharing feedback on potential new features\n\u2022 Integrate OpenShift services into application architectures, ensuring scalability, reliability, and security\n\u2022 Manage resources using automation and infrastructure-as-code tools like Terraform\n\u2022 Participate in customer needs execution, including sprints, retrospectives, and other ceremonies\n\u2022 Promote and enforce best development practices within the team\n\u2022 Evangelize containerized infrastructures and immutable infrastructures within development communities\n\u2022 Ensure services have full observability and monitoring to maintain expected service levels\n\u2022 Meet availability and disaster recovery needs for cloud services\n\u2022 Participate in Day 2 operational needs such as service maintenance and incident/support response\n\u2022 Design and implement highly available, scalable, and resilient applications for both cloud-native and on-premises technology stacks\n\u2022 Develop detailed plans and accurate estimates for the design, build, implementation, and stabilization phases of projects\n\u2022 Manage all aspects of testing and verification, ensuring all tasks are performed for all interfaces\n\nYour Experience And Education\n\nMust have:\n\u2022 A passion for making developers more efficient through DevOps, CI/CD, and Infrastructure as Code\n\u2022 Red Hat Certified Specialist in OpenShift\n\u2022 3+ years of experience with container platforms, Docker, Kubernetes, and OpenShift\n\u2022 3+ years of experience with building network infrastructure and security\n\u2022 3+ years of experience with Python/PowerShell development and scripting\n\u2022 Experience with Jenkins, GitHub (Git Repo / Actions / Workflow), Ansible, Artifactory\n\u2022 Communication skills necessary to work on a geographically distributed team.\n\nNice-to-Have:\n\u2022 3+ years of experience with Azure/GCP/AWS cloud services deployment and configuration\n\u2022 3+ years of experience with Infrastructure Automation and Infrastructure as Code (Azure/AWS/GCP)\n\u2022 3+ years of experience with developing Terraform modules\n\u2022 HashiCorp Terraform certification\n\u2022 Azure/AWS/GCP certification\n\u2022 Experience developing software\n\u2022 Experience working in a SAFe, Kanban, or Scrum development methodology\n\nHow do we define success for your role?\n\u2022 You demonstrate BDO's core values through all aspects of your work: Integrity, Respect and Collaboration\n\u2022 You understand your client\u2019s industry, challenges, and opportunities; clients describe you as positive, professional, and delivering high-quality work\n\u2022 You identify, recommend, and are focused on effective service delivery to your clients\n\u2022 You share in an inclusive and engaging work environment that develops, retains & attracts talent\n\u2022 You actively participate in the adoption of digital tools and strategies to drive an innovative workplace\n\u2022 You grow your expertise through learning and professional development.\n\nWhy BDO?\n\nOur people-first approach to talent has earned us a spot among Canada\u2019s Top 100 Employers for 2024. This recognition is a milestone we\u2019re thrilled to add to our collection of awards for both experienced and student talent experiences.\n\nOur firm is committed to providing an environment where you can be successful in the following ways:\n\u2022 We enable you to engage with how we change and evolve, being a key contributor to the success and growth of BDO in Canada.\n\u2022 We help you become a better professional within our services, industries, and markets with extensive opportunities for learning and development.\n\u2022 We support your achievement of personal goals outside of the office and making an impact on your community.\n\nGiving back adds up: Where company meets community. BDO is actively involved in our communities by supporting local charity initiatives. We support staff with local and national events where you will be given the opportunity to contribute to your community.\n\nTotal rewards that matter: We pay for performance with competitive total cash compensation that recognizes and rewards your contribution. We provide flexible benefits from day one, and a market leading personal time off policy. We are committed to supporting your overall wellness beyond working hours and provide reimbursement for wellness initiatives that fit your lifestyle.\n\nEveryone counts: We believe every employee should have the opportunity to participate and succeed. Through leadership by our Diversity, Equity and Inclusion Leader, we are committed to a workplace culture of respect, inclusion, and diversity. We recognize and celebrate the valuable differences among each of us, including race, religious beliefs, physical or mental disabilities, age, place of origin, marital status, family status, gender or gender identity and sexual orientation. If you require accommodation to complete the application process, please contact us.\n\nFlexibility: All BDO personnel are expected to spend some of their time working in the office, at the client site, and virtually unless accommodations or alternative work arrangements are in place.\n\nOur model is a blended approach designed to support the flexible needs of our people, the firm and our clients. It\u2019s about creating work experiences that meet everyone\u2019s needs and providing flexibility to adjust when, where and how we work to meet the expectations of our role.\n\nCode of Conduct: Our Code of Conduct sets clear standards for how we conduct business. It reflects our shared values and commitments and includes guiding principles to help us make ethical decisions and maintain trust with each other, our clients, and the public.\n\nReady to make your mark at BDO? Click \u201cApply now\u201d to send your up-to-date resume to one of our Talent Acquisition Specialists.\n\nTo explore other opportunities at BDO, check out our careers page.",
+            "location": "Oakville, ON, Canada",
+            "employmentType": "",
+            "datePosted": "2 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/openshift-cloud-engineer-6-months-contract-at-bdo-canada-4077481866?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Python"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "PowerShell"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Git"
+                },
+                {
+                    "name": "GitHub"
+                },
+                {
+                    "name": "Docker"
+                },
+                {
+                    "name": "Kubernetes"
+                },
+                {
+                    "name": "Jenkins"
+                },
+                {
+                    "name": "AWS"
+                },
+                {
+                    "name": "Azure"
+                },
+                {
+                    "name": "Terraform"
+                },
+                {
+                    "name": "Ansible"
+                },
+                {
+                    "name": "TLS"
+                },
+                {
+                    "name": "Scrum"
+                },
+                {
+                    "name": "Kanban"
+                }
+            ]
+        },
+        {
+            "jobType": "cloud_engineer",
+            "title": "GCP Cloud engineer",
+            "company": "ARROWMINDS INC",
+            "description": "Role: GCP Cloud engineer\n\nLocation: Canada (Remote)\n\nJob Description:\n\n\u00b7 5+ years of experience with Google Cloud Platform (GCP)\n\n\u00b7 5+ years of experience with Cloud Managed Development/Services such as Google Cloud Storage\n\n\u00b7 5+ years of experience in using Infrastructure as Code tooling like Terraform\n\n\u00b7 5+ years of experience with development languages (Go, Python, etc.).\n\n\u00b7 5+ years of experience with container-based technologies (Docker, Kubernetes).\n\n\u00b7 5+ years of experience in the use of CI/CD Tools\n\n\u00b7 In-depth understanding of different database technologies (e.g ., CloudSQL, NoSQL, Relational databases)\n\n\u00b7 Comprehensive understanding of software development lifecycle and release process (container-native workflow for job orchestration, Git/GitOps, CI/CD, environments, code repositories)\n\n\u00b7 5+ years of experience with config management tools and Scripting Languages (Ansible, Bash, Groovy)\n\n\u00b7 Excellent oral and written communication skills\n\n\u00b7 Experience in Managing team and good interpersonal skills for working with cross cutting teams.\n\n\u00b7 Google Cloud Architect certification will be a strong asset.\n\nMust Have:\n\nGCP Cloud Engineer Experience: 8+ years in platform engineering or DevOps roles with a strong focus on Python, Kubernetes, and Docker.\n\nTechnical Skills:\n\nPython (Expert): Advanced skills in scripting, automation, and integration with platform tools.\n\nKubernetes (Expert): Deep knowledge of Kubernetes architecture, deployment, and orchestration in cloud-native environments.\n\nDocker: Proficient in containerization, Dockerfile optimization, and multi-stage builds.\n\nCI/CD Tools: Strong experience with Jenkins and BitBucket for automated builds and deployments.\n\nStorage Solutions: Working knowledge of MinIO and Longhorn for data persistence and redundancy.\n\nSoft Skills: Problem-solving, effective communication, and a collaborative mindset.\n\nJob Type: Contract\n\nPay: $50.00-$55.00 per hour\n\nBenefits:\n\u2022 Dental care\n\nExperience:\n\u2022 Google Cloud Platform: 8 years (required)\n\u2022 Google Cloud Storage: 8 years (required)\n\u2022 Terraform: 8 years (required)\n\u2022 Python development: 5 years (required)\n\u2022 Docker: 8 years (required)\n\u2022 Kubernetes: 8 years (required)\n\u2022 CI/CD Tools: 8 years (required)\n\nWork Location: Remote",
+            "location": "Toronto, ON, Canada",
+            "employmentType": "",
+            "datePosted": "3 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Indeed",
+                    "url": "https://ca.indeed.com/viewjob?jk=93d4039a4374a035&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Glassdoor",
+                    "url": "https://www.glassdoor.ca/job-listing/gcp-cloud-engineer-arrowminds-inc-JV_IC2281069_KO0,18_KE19,33.htm?jl=1009527784036&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Python"
+                },
+                {
+                    "name": "Go"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "Bash"
+                },
+                {
+                    "name": "SQL"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Git"
+                },
+                {
+                    "name": "Docker"
+                },
+                {
+                    "name": "Kubernetes"
+                },
+                {
+                    "name": "Jenkins"
+                },
+                {
+                    "name": "Google Cloud"
+                },
+                {
+                    "name": "Terraform"
+                },
+                {
+                    "name": "Ansible"
+                }
+            ]
+        },
+        {
+            "jobType": "cloud_engineer",
+            "title": "Senior Cloud Developer",
+            "company": "Royal Bank of Canada",
+            "description": "Job Summary\n\nProvides technical support on system infrastructure architecture, design, development and testing of customized cloud computing solutions. Applies experience and seasoned knowledge, skills, and practices to perform a variety of assignments.\n\nJob Description\n\nWhat is the opportunity?\n\nJoin our dynamic and innovative Hybrid Infrastructure Services Team, where cutting-edge technology meets a passion for driving organizational change! We are at the forefront of revolutionizing traditional IT infrastructure, leveraging Cloud paradigms and modern approaches to deliver unparalleled solutions. As a Senior Cloud Developer, you'll play a pivotal role in shaping the future of technology at RBC and gaining experience building and operating fully managed technology services in a hybrid Cloud environment.\n\nWhat will you do?\n\u2022 Engineering:\n\u2022 Collaborate with cross-functional teams to design and implement scalable and resilient hybrid Cloud services that align with organizational goals.\n\u2022 Automation is the key to sustainable success. As part of the Cloud Support team, you will be tasked to develop and implement automated solutions to streamline support delivery and services.\n\u2022 Identify and implement best practices for resource utilization and scalability in diverse infrastructure landscapes.\n\u2022 Security and Compliance:\n\u2022 Ensure compliance with industry standards and regulatory requirements for various deployment models.\n\u2022 Monitoring and Troubleshooting:\n\u2022 Actively engage with application development and support teams to resolve evolving and ongoing issues on both Kafka and Elasticsearch platforms.\n\u2022 Respond to incidents promptly as part of on-call schedule, troubleshoot issues, and implement corrective actions.\n\nWhat do you need to succeed?\n\nMust-have\n\u2022 5+ years of professional experience; 2-3 years of development experience\n\u2022 Scripting and automation skills (eg. Shell, Ansible, Python) for infrastructure as code.\n\u2022 Experience with container technologies (eg. Docker, Kubernetes)\n\u2022 Experience with Kafka either in a development or operations perspective.\n\u2022 Passion for debugging complex systems and have an eye for problems that occur at scale.\n\u2022 Care deeply about resiliency of systems and quality of the features you ship.\n\u2022 Excellent communication and organizational skills.\n\u2022 Strong desire to learn new skills and technologies.\n\nNice-to-have\n\u2022 AI based Chatbot development and implementation experience.\n\u2022 Software development experience in either Java, Go or Python\n\u2022 Familiarity with Elasticsearch either in a development or operations perspective.\n\nWhat\u2019s in it for you?\n\nWe thrive on the challenge to be our best, progressive thinking to keep growing, and working together to deliver trusted advice to help our clients thrive and communities prosper. We care about each other, reaching our potential, making a difference to our communities, and achieving success that is mutual.\n\u2022 A comprehensive Total Rewards Program including bonuses and flexible benefits, competitive compensation, commissions, and stock where applicable\n\u2022 Leaders who support your development through coaching and managing opportunities\n\u2022 Ability to make a difference and lasting impact\n\u2022 Work in a dynamic, collaborative, progressive, and high-performing team\n\u2022 A world-class training program in financial services\n\u2022 Flexible work/life balance options\n\u2022 Opportunities to do challenging work\n\u2022 Opportunities to take on progressively greater accountabilities.\n\n#Ll-Hybrid\n#Ll-POST\n#TECHPJ\n\nJob Skills\nAgile Methodology, Apache Kafka, Elastic Logstash, ElasticSearch, Group Problem Solving, IT Systems Integration, Software Development Life Cycle (SDLC), Software Engineering, Software Product Technical Knowledge, System Applications, System Integration Testing (SIT), Systems Software\n\nAdditional Job Details\n\nAddress:\n\n330 FRONT ST W:TORONTO\n\nCity:\n\nTORONTO\n\nCountry:\n\nCanada\n\nWork hours/week:\n\n37.5\n\nEmployment Type:\n\nFull time\n\nPlatform:\n\nTECHNOLOGY AND OPERATIONS\n\nJob Type:\n\nRegular\n\nPay Type:\n\nSalaried\n\nPosted Date:\n\n2024-11-14\n\nApplication Deadline:\n\n2024-11-29\n\nNote: Applications will be accepted until 11:59 PM on the day prior to the application deadline date above\n\nInclusion and Equal Opportunity Employment\n\nAt RBC, we embrace diversity and inclusion for innovation and growth. We are committed to building inclusive teams and an equitable workplace for our employees to bring their true selves to work. We are taking actions to tackle issues of inequity and systemic bias to support our diverse talent, clients and communities.\n\u200b\u200b\u200b\u200b\u200b\u200b\u200b\nWe also strive to provide an accessible candidate experience for our prospective employees with different abilities. Please let us know if you need any accommodations during the recruitment process.\n\nJoin our Talent Community\n\nStay in-the-know about great career opportunities at RBC. Sign up and get customized info on our latest jobs, career tips and Recruitment events that matter to you.\n\nExpand your limits and create a new future together at RBC. Find out how we use our passion and drive to enhance the well-being of our clients and communities at jobs.rbc.com.",
+            "location": "Toronto, ON, Canada",
+            "employmentType": "",
+            "datePosted": "4 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "RBC Careers",
+                    "url": "https://jobs.rbc.com/ca/en/job/R-0000105424/Senior-Cloud-Developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Indeed",
+                    "url": "https://emplois.ca.indeed.com/viewjob?jk=c4912b9d6b827253&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Glassdoor",
+                    "url": "https://fr.glassdoor.ca/job-listing/senior-cloud-developer-rbc-JV_IC2281069_KO0,22_KE23,26.htm?jl=1009528420101&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "BeBee Canada Meet Opportunities",
+                    "url": "https://ca.bebee.com/job/49960667aca56fe8a9a342fb40c91512?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "HackerX",
+                    "url": "https://hackerx.org/job/interaxon-muse-555-richmond-st-w-suite-900-toronto-on-canada-m5v-3b1-full-time-senior-cloud-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Itjobs.ca",
+                    "url": "https://www.itjobs.ca/en/offer/on/toronto/senior-cloud-developer/7fe3959b-f9ed-4819-83f8-a24b34fba88b_en/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/senior-cloud-developer-at-rbc-4076925308?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Jooble",
+                    "url": "https://ca.jooble.org/jdp/3933470846218050705?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Python"
+                },
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "Go"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Elasticsearch"
+                },
+                {
+                    "name": "Docker"
+                },
+                {
+                    "name": "Kubernetes"
+                },
+                {
+                    "name": "Ansible"
+                },
+                {
+                    "name": "Kafka"
+                }
+            ]
+        },
+        {
+            "jobType": "cloud_engineer",
+            "title": "Network Cloud Engineer",
+            "company": "Cognizant",
+            "description": "At Cognizant, our global community sets us apart\u2014an upbeat, collaborative and inclusive workplace where everyone can thrive. And with projects at the forefront of innovation, you can build a varied, rewarding career and draw encouragement from dedicated colleagues and leaders. Cognizant is right where you belong.\n\nRole overview\n\nWe are seeking a Network Cloud Engineer to join our dynamic team!! The ideal candidate will have extensive expertise in Cisco SDWAN, Azure Networking Services, Cisco ISE, Terraform, Ansible, Wireless Networking, Cisco Switching & Routing, Nexus, Google Cloud - Networking Wireshark and Cisco Catalyst SDWAN (Viptela). This role involves crafting implementing and leading sophisticated network solutions to support our global operations\n\nWhat you\u2019ll do\n\u2022 Design, Implement, Build & manage cloud (Azure and Google) infrastructures.\n\u2022 Develop the design for new infrastructure builds, re architecting the existing infrastructure.\n\u2022 Develop and run Infrastructure as Code (IaC) using Terraform, Ansible.\n\u2022 Build & Manage Server, storage, and network devices and provisioning monitoring in the cloud services.\n\u2022 Use Terraform for Infrastructure as Code (IaC) to automate network provisioning and management.\n\u2022 Implement and handle network automation using Ansible to streamline operations and reduce manual tasks.\n\u2022 Lead the design and deployment of AWS Networking solutions to support scalable and secure cloud environments.\n\u2022 Lead and optimize Wireless Networking solutions using Juniper MIST technologies to ensure reliable and high-performance wireless connectivity.\n\u2022 Configure and maintain Cisco Switching (Nesus) & Routing solutions to support efficient and secure data flow across the network.\n\u2022 Design and implement Google Cloud Networking solutions to support hybrid and multi-cloud environments.\n\nWhat you bring to the role\n\u2022 A solid foundation of networking concepts and understanding of OCI model.\n\u2022 Requires 8-12 years of cloud networking services and components, such as Azure Virtual Network, GCP VPC, load balancers, firewalls, and DNS or equivalent experience.\n\u2022 Required experience in building and handling hybrid and multi-cloud connectivity solutions,including VPNs, Direct Connect, Express Route, and inter-cloud connectivity using IaC tools like Ansible/Terraform.\n\u2022 Experience in monitoring, optimizing, and troubleshooting cloud network performance.\n\u2022 Working experience with Cloud Native Networking technologies.\n\u2022 Working proficiency in cloud and hybrid-cloud implementations including IaaS, PaaS, and SaaS.\n\nWorking arrangements\n\nWe believe hybrid work is the way forward as we strive to provide flexibility wherever possible. Based on this role\u2019s business requirements, this is an Onsite position requiring 5 days a week in a client office in Brampton, ON. Canada. Regardless of your working arrangement, we are here to support a balanced work-life balance though our various wellbeing programs.\n\nNote: The working arrangements for this role are accurate as of the date of posting. This may change based on the project you\u2019re engaged in, as well as business and client requirements. Rest assured; we will always be clear about role expectations.",
+            "location": "Brampton, ON, Canada",
+            "employmentType": "",
+            "datePosted": "28 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Cognizant Careers",
+                    "url": "https://careers.cognizant.com/ca-en/jobs/00060941641/network-cloud-engineer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "ZipRecruiter",
+                    "url": "https://www.ziprecruiter.com/c/J&M-Group,-Inc/Job/Network-Cloud-Engineer/-in-Brampton,ON?jid=3468cebda749d913&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Indeed",
+                    "url": "https://emplois.ca.indeed.com/viewjob?jk=0353bff6c43e3a97&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/network-cloud-engineer-at-themesoft-inc-4077453166?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Jooble",
+                    "url": "https://ca.jooble.org/jdp/-1683533299248146911?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Talent.com",
+                    "url": "https://ca.talent.com/view?id=79843371e45e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "SitePoint",
+                    "url": "https://www.sitepoint.com/jobs-for-developers/themesoft-inc/network-cloud-engineer-740097/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Monster.ca",
+                    "url": "https://www.monster.ca/job-openings/network-cloud-engineer-brampton-on--69701377-ae4b-4aaa-96bf-cf342ce706ef?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Go"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Express"
+                },
+                {
+                    "name": "AWS"
+                },
+                {
+                    "name": "Azure"
+                },
+                {
+                    "name": "Google Cloud"
+                },
+                {
+                    "name": "Terraform"
+                },
+                {
+                    "name": "Ansible"
+                }
+            ]
+        },
+        {
+            "jobType": "cloud_engineer",
+            "title": "Cloud Solution Engineer",
+            "company": "Royal Bank of Canada",
+            "description": "Job Summary\n\nJob Description\n\nWhat is the Opportunity?\n\nJoin an innovative team that is building cloud platform at RBC! Looking for a chance to make a difference? Are you someone who embraces change? As a Cloud Solutions Engineer, you will utilize your software and systems engineering background to support the large-scale, fault-tolerant enterprise systems. Your role is to ensure that RBC's internal Cloud Platform reliability and maximum uptime.\n\nSupporting application team to seamlessly and efficiently utilize processes like CI/CD, infrastructure as code and platform automation, this role is looking to build on the success of automating infrastructure across the business.\n\nThis role is pivotal in our journey towards eliminating all manual provisioning of services as well as working closely with development teams to provide an excellent developer experience to achieve our goal of doing DevOps the right way.\n\nA very exciting aspect of this role is that you would be working on cloud platform that hosts many critical banking apps. While nobody's attained perfection yet, we're on a journey and with the support of our cloud program this is an exciting opportunity to develop your skills on an enterprise scale platform.\n\nIdeal applicants will be working in a DevOps way, having a strong background in application support and also with an interest in operations. You'll need a good coverage of the following:\n\nWhat will you do?\n\u2022 Build scalable systems, using best practices around automation, pushing changes that improve reliability and velocity\n\u2022 Carry out regular cloud operation task and provide support for application development teams utilizing cloud resources.\n\u2022 Support services before they go live through activities such as system design consulting, developing software platforms and frameworks, planning and reviews\n\u2022 Maintain services once they are live by measuring and monitoring availability, latency and overall system health.\n\u2022 Provide mentorship and training to other team members on technologies and processes; drive education and knowledge transfer of design patterns, technical practices, and relevant technologies and tools\n\u2022 Drive high standards around incident response practices and policies\n\nWhat do you need to succeed?\n\nMust-have\n\u2022 4+ years of experience in an Operational role: Cloud Engineering, DevOps, SRE, or Software Engineering\n\u2022 3+ years of experience doing development in any of Java, NodeJS, .NET Core,\n\u2022 3+ years of experience developing applications with an active user base, and deploying to production and going through any change management process (Ideal candidate is able to engage in a detailed discussion about their change management process as well as its happy/pain points)\n\u2022 3+ years of experience with development or administration on any cloud platforms AWS, Azure Kubernetes\n\u2022 Providing standardized offerings to facilitate and ensure operational health of stacks throughout their lifecycle including metrics collection, aggregation, and visualization, inventory, capacity, and billing/tag management.\n\u2022 Experience with the operational aspects of software systems such as monitoring, centralized logging, and alerting, preferably Splunk and Dynatrace\n\u2022 Experience in writing automation scripts in Python, Bash\n\nNice-to-have\n\u2022 Experience with Elastic Kubernetes Service, Azure Kubernetes Service\n\u2022 Experience with logging tools like Splunk.\n\u2022 Experience with Monitoring tools such as Dynatrace, Prometheus and Grafana etc.\n\u2022 Experience with automating manual processes and tests\n\u2022 Experience in Kubernetes, Elasticsearch and Kafka\n\nRBC is committed to supporting flexible work arrangements when and where available. Details to be discussed with Hiring Manager.\n\nWhat's in it for you?\n\nWe thrive on the challenge to be our best, progressive thinking to keep growing, and working together to deliver trusted advice to help our clients thrive and communities prosper. We care about each other, reaching our potential, making a difference to our communities, and achieving success that is mutual.\n\u2022 A comprehensive Total Rewards Program including bonuses and flexible benefits, competitive compensation, commissions, and stock where applicable.\n\u2022 Leaders who support your development through coaching and managing opportunities\n\u2022 Ability to make a difference and lasting impact.\n\u2022 Work in a dynamic, collaborative, progressive, and high-performing team.\n\u2022 A world-class training program in financial services\n\u2022 Flexible work/life balance options\n\u2022 Opportunities to do challenging work.\n\n#LI-Hybrid\n\n#LI-POST\n\n#TECHPJ\n\nJob Skills\nAgile Methodology, Amazon Web Services (AWS), Application Development, Automation Technology, Cloud Computing, Cloud Computing Architecture, Cloud Platform, Cloud Solutions, Infrastructure As Code (IaC), Kubernetes, Python (Programming Language), Software Development\n\nAdditional Job Details\n\nAddress:\n\n330 FRONT ST W:TORONTO\n\nCity:\n\nTORONTO\n\nCountry:\n\nCanada\n\nWork hours/week:\n\n37.5\n\nEmployment Type:\n\nFull time\n\nPlatform:\n\nTECHNOLOGY AND OPERATIONS\n\nJob Type:\n\nRegular\n\nPay Type:\n\nSalaried\n\nPosted Date:\n\n2024-11-12\n\nApplication Deadline:\n\n2024-11-29\nNote: Applications will be accepted until 11:59 PM on the day prior to the application deadline date above\n\nInclusion and Equal Opportunity Employment\n\nAt RBC, we embrace diversity and inclusion for innovation and growth. We are committed to building inclusive teams and an equitable workplace for our employees to bring their true selves to work. We are taking actions to tackle issues of inequity and systemic bias to support our diverse talent, clients and communities.\n\nWe also strive to provide an accessible candidate experience for our prospective employees with different abilities. Please let us know if you need any accommodations during the recruitment process.\n\nJoin our Talent Community\n\nStay in-the-know about great career opportunities at RBC. Sign up and get customized info on our latest jobs, career tips and Recruitment events that matter to you.\n\nExpand your limits and create a new future together at RBC. Find out how we use our passion and drive to enhance the well-being of our clients and communities at jobs.rbc.com.",
+            "location": "Calgary, AB, Canada",
+            "employmentType": "",
+            "datePosted": "2 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Ladders",
+                    "url": "https://www.theladders.com/job/cloud-solution-engineer-rbc-calgary-ab_78897456?ir=1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Python"
+                },
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "Bash"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Elasticsearch"
+                },
+                {
+                    "name": "Kubernetes"
+                },
+                {
+                    "name": "AWS"
+                },
+                {
+                    "name": "Azure"
+                },
+                {
+                    "name": "Prometheus"
+                },
+                {
+                    "name": "Grafana"
+                },
+                {
+                    "name": "Splunk"
+                },
+                {
+                    "name": "Kafka"
+                }
+            ]
+        },
+        {
+            "jobType": "cloud_engineer",
+            "title": "Cloud Engineer I",
+            "company": "Paymentus (Canada) Corporation",
+            "description": "Summary/Objective\n\nThe Cloud Engineer is responsible for supporting, monitoring and tooling of Cloud deployments. The Cloud Engineer works closely with the Development and QA teams to produce reliable and secure production infrastructures and operate multiple environments in the software development process.\n\nEssential Functions/ Responsibilities\n\nRequired Skills:\n\u2022 Collaborate with team members to achieve successful continuous delivery solutions\n\u2022 Build, maintain environments in Cloud using Terraform and Kubernetes\n\u2022 Design and develop scalable tools and applications\n\u2022 Troubleshoot and perform root cause analysis of production system\n\u2022 Triage and debug any issues that arise during testing and production\n\u2022 Automate testing across CI/CD and cloud infrastructure management\n\u2022 Monitor applications to ensure system health\n\u2022 Quality assurance of infrastructure to ensure security, reliability, and scalability\n\u2022 Build and maintain RESTful APIs to support integrations\n\u2022 Work with internal customers (Development, QA, Implementation, and others) to support deployments\n\nEducation & Experience:\n\u2022 Bachelor's degree in Computer Science or related field\n\u2022 Two to three years of Cloud experience\n\u2022 Proficient in AWS and other Cloud Technologies\n\u2022 Proficient in Terraform\n\u2022 Experience working with Kubernetes\n\u2022 Knowledge of Node.JS and Microservices\n\u2022 In-depth knowledge of Continuous Integration and Continuous Delivery\n\u2022 Knowledge on relational and non-relational databases\n\nSupervisory Responsibility\n\nThis role will not have any supervisory requirements.\n\nWork Environment\n\nThis job operates in a professional office environment. This role routinely uses standard office equipment such as laptop computers, photocopiers and smartphones.\n\nPhysical Demands\n\nThis role requires extended periods of sitting or standing at a computer workstation.\n\nPosition Type/Expected Hours of Work\n\nThis is a full-time position. Days and hours of work are Monday through Friday, during normal business hours. This position will also participate in on-call rotation which will be 2 weeks of primary and 2 weeks of secondary. This is offering 24/7 support for the platform during these rotations. Typically, this is 4 out of every 8 weeks.\n\nTravel\n\nTravel requirement is less than 5%, and may vary based on business needs.\n\nOther Duties\n\nPlease note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. Duties, responsibilities and activities may change at any time with or without notice.\n\nEEO Statement\n\nPaymentus is an equal opportunity employer. We enthusiastically accept our responsibility to make employment decisions without regard to race, religious creed, color, age, sex, sexual orientation, national origin, ancestry, citizenship status, religion, marital status, disability, military service or veteran status, genetic information, medical condition including medical characteristics, or any other classification protected by applicable federal, state, and local laws and ordinances. Our management is dedicated to ensuring the fulfillment of this policy with respect to hiring, placement, promotion, transfer, demotion, layoff, termination, recruitment advertising, pay, and other forms of compensation, training, and general treatment during employment.\n\nReasonable Accommodation\n\nPaymentus recognizes and supports its obligation to endeavor to accommodate job applicants and employees with known physical or mental disabilities who are able to perform the essential functions of the position, with or without reasonable accommodation. Paymentus will endeavor to provide reasonable accommodations to otherwise qualified job applicants and employees with known physical or mental disabilities, unless doing so would impose an undue hardship on the Company or pose a direct threat of substantial harm to the employee or others.\n\nAn applicant or employee who believes he or she needs a reasonable accommodation of a disability should discuss the need for possible accommodation with the Human Resources Department, or his or her direct supervisor.",
+            "location": "Richmond Hill, ON, Canada",
+            "employmentType": "",
+            "datePosted": "",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Indeed",
+                    "url": "https://ca.indeed.com/viewjob?jk=e1a3ee57691c7868&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Glassdoor",
+                    "url": "https://www.glassdoor.ca/job-listing/cloud-engineer-i-paymentus-canada-corporation-JV_IC2280422_KO0,16_KE17,45.htm?jl=1009413183921&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Glassdoor",
+                    "url": "https://www.glassdoor.com/job-listing/cloud-engineer-i-paymentus-JV_IC2280422_KO0,16_KE17,26.htm?jl=1009413183921&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Ladders",
+                    "url": "https://www.theladders.com/job/cloud-engineer-i-paymentus-richmond-hill-on_75533564?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "SimplyHired",
+                    "url": "https://fr.simplyhired.ca/job/QmgTAKsYiepgcbPr_iN24uU00VLxP1gV8JiEm4_cSqre5544mm8H0A?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Kubernetes"
+                },
+                {
+                    "name": "AWS"
+                },
+                {
+                    "name": "Terraform"
+                }
+            ]
+        },
+        {
+            "jobType": "cloud_engineer",
+            "title": "Cloud Systems Engineer",
+            "company": "PartnerRe",
+            "description": "Company Description\n\nPartnerRe is a leading, privately owned, multi-line global reinsurer with a reputation of financial stability and strength, and a commitment to rebuilding businesses and communities after risk events around the world.\n\nOur mission is to continue to be a financially stable and predictable business partner, supporting our clients with solutions tailored to their needs, delivering superior returns to our owner, providing rewarding opportunities for our people and making a positive contribution to society. To achieve this, we live by our values of Integrity, Performance, Collaboration, Straightforward Communication and Respect and Care.\n\nCore to The PartnerRe Experience is our global nature. No matter where you sit in the company, you are part of something bigger. Our teams represent our truly international mindset, forging connections across office locations and all levels of the organization and building a network of mutual success. The result is a day-to-day experience that will allow you to:\n\nShape your own career\n\nGrow in a supportive environment\n\nConnect with a community of experts\n\nMake an impact\n\nView Home - PartnerRe Experience e-book to find out more about what it\u2019s like to work at PartnerRe.\n\nWe are always looking for bright, proactive individuals to join our team!\n\nPlease follow our Careers page for all updates on new positions. We look forward to receiving your application.\n\nPartnerRe is an equal opportunities employer.\n\nPlease join our company LinkedIn Page for all updates on new positions that are coming live.\n\nJob Description\n\nAbout the role:\n\nThe Cloud Systems Engineer is responsible for maintaining and evolving the infrastructure that hosts and delivers the core business applications and workflows worldwide. Exposure is broad, covering many different technologies across business units, working in tandem with various teams, establishing relationships, all to provide a stable and efficient platform for the business to operate. This position requires a strong ability to drill down into the lower-level technical details while taking a holistic view, for triaging of major incidents and managing an end-to-end solution. You need to lead and manage a task force of stakeholders across multiple technical teams for permanent resolution of major incidents. Strong communication and organizational qualities are keys to success for the role. This position requires a strong balance between day-to-day server operations (70%) and project engagement (30%), subject to change based on organizational needs. The right candidate for this role must be able to Anticipate, Identify, Analyze and Solve operational incidents, while setting and managing expectations with various stakeholders.\n\nThe highest priority is providing stability within the daily operations of the environment. To achieve this, we must follow a consistent approach, eliminating unnecessary complexities, making solutions easier to manage.\n\nYou will be a member of our global server operations team who is responsible for managing and providing support for our services hosted in multiple regions within the Microsoft Azure environment. As a member, you will serve as an escalation point for other systems engineers on the team and you will be responsible for coaching and mentoring other team members and guiding them accordingly.\n\nAs part of providing support to a global environment, you will be part of an on-call rotation that leverages several engineers in their respective US and European time zones.\n\nQualifications\n\nAbout you:\n\nYou are accountable, creative, and ambitious, taking an outside of the box thinking approach to solutions. You look at and visualize an improvement, propose your concept, and follow through to take your idea from a concept to a solution. You prioritize your work and reach out when you determine assistance is needed. You have strong time management and organizational skills, the ability to think ahead and remain focused on the task at hand when you are being contacted from many different directions. You are passionate about improving supporting processes and learning new methods and technologies to create operational efficiencies.\n\nCompetencies and Requirements:\n\u2022 Strong hands-on experience with Microsoft Azure cloud offerings in a system engineering and operations capacity that has focused mainly on infrastructure and systems technologies. Ability to design and implement Azure native solutions to reduce the need for 3rd party toolsets.\n\u2022 Production server engineering and operational support in a global environment that is predominately Windows (80%) with exposure to various flavors of Linux (20%).\n\u2022 Strong ability to create and maintain scripts, utilizing toolsets/languages such as PowerShell, YAML, KQL, bash, JSON, Ansible, automating manual processes to create efficiencies in the standard operating environment.\n\u2022 Prior experience deploying infrastructure utilizing Infrastructure as a code technology (Terraform).\n\u2022 Ability to demonstrate strong time management and prioritization skills within a dynamic environment.\n\u2022 The ability to pay close Attention to Detail, to understand requirements and follow established controls within the environment.\n\u2022 Strong communication skills (written and verbal) to both a technical/non-technical audience.\n\nNice to have qualifications:\n\u2022 Experience designing and implementing Azure Monitor to provide the appropriate level of proactive alerting to ensure environmental uptime based on infrastructure and application owner requirements.\n\u2022 Experience with Container support and orchestration within a public cloud (Docker, Kubernetes, AKS).\n\u2022 Experience and knowledge supporting and maintaining DevSecOps pipelines while using Agile methodologies in support of cloud native applications.\n\u2022 Ability to liaise with the architecture team to present new ideas, design a solution and see it through to implementation.\n\u2022 Prior experience defining and/or operating disaster recovery plans.\n\u2022 Ability to create and maintain configuration, operational and control documents.\n\u2022 Previous experience working with Security and Compliance teams to provide evidence demonstrating compliance with operational controls.\n\u2022 Ability to identify areas of inefficiency, propose and implement standards and automations to reduce complexity, improving the overall framework.\n\u2022 Understand and control the operational costs associated with operating in a Microsoft Azure environment.\n\nAdditional Information\n\nThis is a hybrid office-based position located out of our Toronto, CA location.\n\nWhat we can offer you\n\nA dynamic and international environment that will provide you with the ability to learn, operate and manage a variety of technologies. Opportunities to work on projects in many different aspects and continuous improvements related to Operations. Collaboration and teamwork. We empower our employees to help you develop and grow as it aligns with your responsibilities and justification for improvements and needs within IT. In our small team, your impact really makes a difference.\n\n#LI-Hybrid\n\nPartnerRe provides a working environment in which diversity is valued, where all employees feel welcome, respected, and empowered to perform at their best. We invite you to learn more about D&I at PartnerRe.\n\nThank you,\n\nPartnerRe Hiring Team",
+            "location": "Toronto, ON, Canada",
+            "employmentType": "",
+            "datePosted": "16 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Smart Recruiters Jobs",
+                    "url": "https://jobs.smartrecruiters.com/PartnerRe/744000024178955-cloud-systems-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "ZipRecruiter",
+                    "url": "https://www.ziprecruiter.com/c/PartnerRe/Job/Cloud-Systems-Engineer/-in-Toronto,ON?jid=d765adf0e55267bc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Indeed",
+                    "url": "https://emplois.ca.indeed.com/viewjob?jk=e672f3f125fa156a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/cloud-systems-engineer-at-partnerre-4063212479?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Talent.com",
+                    "url": "https://ca.talent.com/view?id=b164e3249b23&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "BeBee Canada Meet Opportunities",
+                    "url": "https://ca.bebee.com/job/b5251b3bccf91914e6fa20160e03ae3f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Monster.ca",
+                    "url": "https://www.monster.ca/job-openings/cloud-systems-engineer-toronto-on--15248c85-f4f0-445a-810f-c2f643de7ac1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "SitePoint",
+                    "url": "https://www.sitepoint.com/jobs-for-developers/partnerre/cloud-systems-engineer-761497/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "PowerShell"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Docker"
+                },
+                {
+                    "name": "Kubernetes"
+                },
+                {
+                    "name": "Azure"
+                },
+                {
+                    "name": "Terraform"
+                },
+                {
+                    "name": "Ansible"
+                }
+            ]
+        }
+    ]
+}

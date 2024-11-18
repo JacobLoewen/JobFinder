@@ -1,0 +1,714 @@
+{
+    "jobs": [
+        {
+            "jobType": "devops_engineer",
+            "title": "AWS DevOps Engineer",
+            "company": "Group Nine LLC",
+            "description": "Hybrid from Toronto, Canada\n\nJob Details\n\nAs an experienced Software Engineer working for our leading client, you serve as member of an agile team to design and deliver trusted market-leading technology products in a secure, stable, and scalable way. Depending on the team that you join, you could be developing mobile features that give our customers and clients more control over how they bank with the client, strategizing on how big data can make client's trading systems quicker, creating the next innovation in payments for merchants, or supporting the integration of client's private and public cloud platforms.\n\nResponsibility\n\u2022 Design and develop scalable and resilient systems using Java or Python to contribute to continual, iterative improvements for product teams.\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\n\u2022 Executes software solutions, design, development, and technical troubleshooting. \u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\n\u2022 Identifies hidden problems and patterns in data and uses these insights to drive improvements to coding hygiene and system architecture.\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\n\u2022 Gathers, analyzes, synthesizes, and develops visualizations and reporting from large, diverse data sets in service of continuous improvement of software applications and systems.\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\n\u2022 Expert in AWS Devops\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\u2002\n\u2022 Cloud/Source Control/CI CD\n\u2022 Azure Devops (Expert)\n\u2022 Github Code Management Pull Requests/Access Control/Merges/Comment Github Workflows (Expert)\n\u2022 Github Actions (Expert)\n\u2022 Knowledge in Github Tokens\n\u2022 AWS CodeDeploy Experience (Mid)\n\u2022 CI/CD Automation Experience to create Pull Requests, branches and execute github workflows Expert.\n\u2022 Experience AWS Services like IAM/Security Groups/NACLs/ECS/ECR/Lambda/Api Gateway/App Mesh/SQS/SNS/Cloud Watch/Kinesis/KMS (Beginner to Mid)\n\nMandatory Skills\n\nJava\n\nALM/JIRA\n\nGIT HUB\n\nSelenium\n\nPython\n\nAWS-Devops\n\nAWS Services like IAM/Security Groups/NACLs/ECS/ECR/Lambda/API\n\nGood To Have Skills.\n\nSQL\n\nOracle",
+            "location": "Toronto, ON, Canada",
+            "employmentType": "",
+            "datePosted": "3 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/aws-devops-engineer-at-group-nine-llc-4077335597?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "ZipRecruiter",
+                    "url": "https://www.ziprecruiter.com/c/Epsilon-Solutions-LTD/Job/AWS-DevOps-Engineer/-in-Toronto,ON?jid=341ecde55b823e3d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Indeed",
+                    "url": "https://ca.indeed.com/viewjob?jk=111f8ed0c693f140&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Monster.ca",
+                    "url": "https://www.monster.ca/job-openings/aws-devops-engineer-toronto-on--1d6731b3-6d7b-4707-9ed2-29b5e2bd385e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "BeBee Canada Meet Opportunities",
+                    "url": "https://ca.bebee.com/job/e790f102e73b4d59def0288799b71b14?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "GrabJobs",
+                    "url": "https://grabjobs.co/canada/job/full-time/others/aws-devops-engineer-119517634?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Jobs Trabajo.org",
+                    "url": "https://ca.trabajo.org/job-3051-4f30c5cfd7fb3cb0dca8560527173053?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Canadajob24h.com",
+                    "url": "https://canadajob24h.com/ko/aws-devops-engineer-job82457?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Python"
+                },
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "Go"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "SQL"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Git"
+                },
+                {
+                    "name": "Selenium"
+                },
+                {
+                    "name": "AWS"
+                },
+                {
+                    "name": "Azure"
+                }
+            ]
+        },
+        {
+            "jobType": "devops_engineer",
+            "title": "Senior DevOps Engineer - Canada",
+            "company": "SysAid Technologies",
+            "description": "Job Description:We are seeking an experienced and highly skilled Senior DevOps Engineer to lead the development, implementation, and management of our infrastructure and deployment pipelines. The ideal candidate will be an expert in Kubernetes, Terraform, CI/CD processes, and Ansible, with substantial experience in cloud computing, preferably AWS. Proficiency in coding, particularly in Python, is highly desired.Key Responsibilities:\u2022 Design, implement, and manage scalable, reliable, and secure infrastructure using Kubernetes, Terraform, and AWS.\u2022 Develop and maintain CI/CD pipelines to ensure smooth and efficient deployment processes.\u2022 Automate configuration management and deployment processes using Ansible.\u2022 Collaborate with software engineering teams to understand their requirements and provide the necessary infrastructure and tooling support.\u2022 Monitor and optimize the performance, availability, and reliability of our infrastructure.\u2022 Troubleshoot and resolve infrastructure-related issues in a timely manner.\u2022 Stay updated with the latest industry trends, tools, and technologies to continuously improve our infrastructure and processes.\u2022 Mentor and guide junior DevOps engineers, fostering a culture of continuous learning and improvement.",
+            "location": "Toronto, ON, Canada",
+            "employmentType": "",
+            "datePosted": "4 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "SysAid",
+                    "url": "https://www.sysaid.com/company/careers/positions/co/canada/49.A4A/senior-devops-engineer-canada/all?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Indeed",
+                    "url": "https://ca.indeed.com/viewjob?jk=a2d96d078d5647ea&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Glassdoor",
+                    "url": "https://www.glassdoor.ca/job-listing/senior-devops-engineer-canada-sysaid-technologies-JV_IC2281069_KO0,29_KE30,49.htm?jl=1009459520835&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Adzuna",
+                    "url": "https://www.adzuna.ca/details/4834640940?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Career Beacon",
+                    "url": "https://www.careerbeacon.com/en/job-9/1613923/cybeats/senior-devops-engineer-cybeats/toronto-on?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "SimplyHired",
+                    "url": "https://www.simplyhired.ca/job/PaTGWWlYMICcJYbu-kGywVgWKITKXO209frKtnUcUOsSkOshrwKCVA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Jooble",
+                    "url": "https://ca.jooble.org/jdp/-6174666091307347889?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "JobOffer.com",
+                    "url": "https://joboffer.com/jobs/Senior-DevOps-Engineer-Biotech-Company-ebf1f5ae8765f5d5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Python"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Kubernetes"
+                },
+                {
+                    "name": "AWS"
+                },
+                {
+                    "name": "Terraform"
+                },
+                {
+                    "name": "Ansible"
+                }
+            ]
+        },
+        {
+            "jobType": "devops_engineer",
+            "title": "DevOps Engineer",
+            "company": "Zurich Insurance Company Ltd.",
+            "description": "The Opportunity\n\nAre you looking for a caring, collaborative, values-driven workplace with inspiring teammates and leaders? Do you have the ambition and desire to be the best and thrive at the most impactful global insurance provider in the world? Look no further than Zurich Canada.\n\nIf you have experience as a DevOps Engineer and are looking for a new challenge, we would love to hear from you.\n\nZurich Canada is currently looking for a DevOps Engineer who will be responsible for designing, developing, testing, deploying, and maintaining our applications and infrastructure on cloud platform. You will also collaborate with other engineers, product managers, and stakeholders to ensure the reliability, security, and performance of our systems.\n\nReporting to the VP IT Operations, you will work as a DevOps expert with a deep understanding of cloud-native technologies and automation. You have a proven track record of implementing CI/CD pipelines and DevOps practices in large-scale environments, and you are passionate about driving efficiency, innovation, and continuous improvement. You excel at collaborating with cross-functional teams to deliver secure, high-quality software at scale..\u202f\n\nThis is a unique opportunity to build your knowledge and experience for the future in a supportive environment where your voice matters.\n\nThis is a hybrid role.\n\nWhat you will do:\n\u2022 Design, implement, and manage CI/CD pipelines using Bamboo, Terraform, Bitbucket, Nexus OSS, SonarQube, Veracode, HashiCorp Vault, Azure DevOps and Prisma Container Security.\n\u2022 Develops automation of software builds and deployments.\n\u2022 Manages application documentation libraries and source code repositories.\n\u2022 Maintains application & source code versions and promotes approved applications to test and production environments.\n\u2022 Develops processes to support the deployment and maintenance of new applications.\n\u2022 Provision, configure, and monitor AWS infrastructure using Terraform and AWS services such as ECS, S3, Lambda, RDS, VPC, Redis, etc.\n\u2022 Troubleshoot and resolve issues related to application development, deployment, and operations.\n\u2022 Ensure compliance with security standards and best practices using tools such as SonarQube, Veracode and Prisma Container Security.\n\u2022 Document and maintain technical specifications, processes, and procedures.\n\u2022 Support and advice on the code development of DevSecOps platforms for Onprem/cloud hosted applications\n\u2022 Build/manage DevSecOps standards, and branching strategies.\n\u2022 Project pipeline development, identifying security concerns, and setting the cloud CI/CD for active projects utilizing DevSecOps.\n\u2022 Responsible for integrating specialized tools for DevOps Security\n\u2022 Must be familiar with Azure, AWS, Docker, and Kubernetes, as well as the proper use of development/antifactory tools such as GitHub, JIRA, Jfrog and Azure Devops.\n\u2022 Creating the standard templates for various cloud services and manager/maintain with the security guardrails.\n\u2022 Github Enterprise Team configurations, repository access runners\n\u2022 Jfrog repository configurations, access controls\n\u2022 Automation of Docker image generation process and enforcement of keeping base images with update security patches.\n\n.\n\nJob Qualifications\n\nWhat you bring to the table:\n\n\u2022 Bachelor's Degree and 6 or more years of experience in the Computer Science, Database, Engineering, or Programming area.\n\nOR\n\n\u2022 High School Diploma or Equivalent and 8 or more years of experience in the Database and Programming area.\n\nOR\n\n\u2022 Zurich Certified Insurance Apprentice including an Associate Degree and 6 or more years of experience in the Programming area.\n\nAND\n\n\u2022 Experience working at multiple phases of database management.\n\nPreferred:\n\n\u2022 Extensive experience in DevOps, with a focus on cloud environments, particularly Azure or AWS.\n\n\u2022 Insurance Industry Experience \u2022 Strong conflict resolution skills. \u2022 Organizational and analytical skills.\n\n\u2022 Proficiency in CI/CD tools such as Jenkins, GitLab, Terraform, Ansible, and Docker.\n\n\u2022 Strong understanding of containerization technologies, including Kubernetes, Docker, and ECS.\n\n\u2022 Experience in automating infrastructure and application deployments using IaC tools.\n\n\u2022 DevOps (Expert Level Operational Knowledge) - AWS Code Build, AWS CloudFormation\n\nOur Culture\n\nAt Zurich, we are proud of our culture. We are passionate about Diversity, Inclusion, Equity and Belonging (DEIB). We want you to bring your whole self to work, and we want our employees to be reflective of the communities in which we live and work. Our DIEB initiatives are creating an environment where everyone feels welcome.\n\nWe have a collaborative culture where diversity of thought is valued. We value your input and strive to give our employees the tools they need to make an impact.\n\nWe care about our employees\u2019 well-being and offer a comprehensive health/benefits plan with varying levels of coverage to suit your specific needs and a competitive total compensation package.\n\nWe understand how important it is to rest, recharge and do the things you love. At Zurich, all employees receive a minimum of four weeks of vacation per year to do just that.\n\nWe also understand that employees require time off for personal reasons. Maybe you have an appointment during a workday, a cultural or religious holiday you would like to observe, or you need time off to focus on your mental health. Zurich employees receive four personal days per year to be used at their discretion.\n\nWe are committed to continuous improvement, and offer access to a comprehensive range of training and development opportunities.\n\nWe care about our communities. Our communities are where our customers, people, and shareholders live and work. While we can be proud of the contribution to society Zurich makes through our core business of insurance, we must also give back to our communities through our talent, time and resources.\n\nWe have won numerous awards for our workplace culture. We are proud to be one of Greater Toronto\u2019s Top Employers and to have received Insurance Business Canada\u2019s 5-Star Diversity, Equity and Inclusion Award.\n\nMake a difference. Be challenged. Be inspired. Be supported. Love what you do. Work for us.\u202f\n\nAbout Us\n\nZurich Canada is part of the Zurich Insurance Group, a multi-line insurer with approximately 55,000 employees worldwide serving customers in global and local markets. Zurich Canada has been a leading insurance provider serving mid-sized and large companies, including multinational corporations, in the Canadian commercial market for 100 years. With over 500 employees in offices across the country, Zurich offers the global strength of a top insurance provider combined with in-depth knowledge of industries and local markets. Zurich Canada aspires to be risk management professionals\u2019 first choice as their premier partner to help meet the risk challenges of today and tomorrow. Read more at www.zurichcanada.com.\n\nA future with Zurich\n\nNow is the time to move forward and make a difference. At Zurich, we want you to share your unique perspectives, experiences and ideas so we can grow and drive sustainable change together. As part of a leading global organization, Zurich North America has over 148 years of experience managing risk and supporting resilience. We are a leading provider of commercial property-casualty insurance solutions and a wide range of risk management products and services for businesses and individuals. Today, we serve more than 25 industries, from agriculture to technology and insure 90% of the Fortune 500\u00ae. Our growth strategy is not limited to our business. As an employer, Zurich strives to provide ongoing career development opportunities and foster an environment where voices are diverse, behaviors are inclusive, actions drive equity, and our people feel a sense of belonging. Be a part of the next evolution of the insurance industry. Join us in building a brighter future for our people, our customers and the communities we serve.\n\nAs a global company, Zurich recognizes the diversity of our workforce as an asset. We recruit talented people from a variety of backgrounds with unique perspectives that are truly welcome here. Taken together, diversity and inclusion bring us closer to our common goal: exceeding our customers\u2019 expectations. Zurich is committed to providing a diverse, inclusive and barrier-free environment resulting in an accessible organization for employees, customers, and other parties who interact with, or on behalf of, Zurich. We strive to achieve a workplace free of discrimination of all forms, including discrimination on the basis of physical or mental disability, or medical condition. If you are interested in a job opportunity, please advise if you require an accommodation, so we can work with you to provide a more accessible process.\n\nZurich does not accept unsolicited resumes from search firms or employment agencies. Any unsolicited resume will become the property of Zurich Canadian Holdings Limited. If you are a preferred vendor, please use our Recruiting Agency Portal for resume submission.\n\nOnly applicable for Canada: For Zurich Canada's commitment to diversity and accessibility please click here. If you would prefer to not receive future electronic messages from Zurich Insurance Company Ltd's recruitment management system, please email your request to have your job profile deleted from the system by clicking here. Zurich Insurance Company Ltd 100 King St., W., Suite 5500, Toronto, ON, M5X 1C9. www.zurichcanada.com",
+            "location": "Toronto, ON, Canada",
+            "employmentType": "",
+            "datePosted": "19 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Careers At Zurich - Zurich Insurance",
+                    "url": "https://www.careers.zurich.com/job/Toronto-DevOps-Engineer-ON/804327102/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Greenhouse",
+                    "url": "https://boards.greenhouse.io/arteriaai/jobs/4000259008?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Arteria AI",
+                    "url": "https://www.arteria.ai/careers?gh_jid=4000259008&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Jobs.bmo.com",
+                    "url": "https://jobs.bmo.com/ca/fr/job/R240027362/DevOps-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/devops-engineer-at-uniuni-4072271014?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Built In",
+                    "url": "https://builtin.com/job/devops-engineer/3396906?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Indeed",
+                    "url": "https://ca.indeed.com/viewjob?jk=01ebbe26bf832bac&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Nexus Systems Group",
+                    "url": "https://www.nexusgroup.ca/jobs/devops-engineer-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Git"
+                },
+                {
+                    "name": "GitHub"
+                },
+                {
+                    "name": "GitLab"
+                },
+                {
+                    "name": "Bitbucket"
+                },
+                {
+                    "name": "Docker"
+                },
+                {
+                    "name": "Kubernetes"
+                },
+                {
+                    "name": "Jenkins"
+                },
+                {
+                    "name": "AWS"
+                },
+                {
+                    "name": "Azure"
+                },
+                {
+                    "name": "Terraform"
+                },
+                {
+                    "name": "Ansible"
+                },
+                {
+                    "name": "CloudFormation"
+                }
+            ]
+        },
+        {
+            "jobType": "devops_engineer",
+            "title": "Azure DevOps Engineer - Tech Lead",
+            "company": "Lumenalta",
+            "description": "Experience Remote done Right. With over 20 years of remote experience, all 500+ staff are 100% remote. We grow vibrant relationships and provide exceptional opportunities for career growth while working with stellar clients on ambitious projects.\n\nAbout Us:\n\nWe are a fully remote company with over 20 years of experience working remotely. Our team of 500+ staff works with stellar clients on ambitious projects, providing exceptional opportunities for career growth and vibrant relationships. We specialize in helping enterprise companies launch innovative digital products that interact with millions of customers, transactions, and data points. Our culture fosters experimentation and personal growth, challenging norms to solve real-world problems with creativity, grit, and determination.\n\nWhat We're Working On:\n\nWe work with clients in complex, multifactor industries, including Logistics, FinTech, Transportation, Insurance, Media, and others. Our projects require a deep understanding of supply chain logistics and data management, and we are looking for a DevOps Data Engineer with experience in these areas. As part of our team, you will work on innovative solutions that involve moving and processing large amounts of data on Azure, deploying Kubernetes in a production environment, and using Terraform for infrastructure as code.\n\nRequirements:\n\u2022 Senior-level experience of at least 10 years with Azure DevOps\n\u2022 Experience working with big data and migrating to Azure\n\u2022 Experience with Power BI, PowerApps, and Azure\n\u2022 Experience with ETL pipelines, Data Governance, Cosmos DB, and PostgreSQL\n\u2022 Near Real-Time Data Ingestion experience will be advantageous\n\u2022 Experience deploying Kubernetes in a production environment\n\u2022 Experience with CI/CD in Jenkins or CircleCI\n\u2022 Experience with Azure Kubernetes Service, azure functions, or Event Hub\n\u2022 Expert knowledge of infrastructure-as-code using Terraform\n\u2022 Experience with DevOps methodologies, tools, and practices, including CI/CD, Terraform, Kubernetes, and horizontal scaling\n\u2022 Experience with requirement gathering and presentation to executives\n\u2022 Advanced English fluency, verbal and written\n\u2022 Professional, empathetic, team player\n\u2022 Problem solver, proactive, go-getter\n\nStraight from the Devs\n\nWatch short snippets of actual developers (Real, not scripted) and share why they joined YouTube Playlist\n\nWhy Lumenalta is an amazing place to work at\n\nAt Lumenalta, you can expect that you will:\n\u2022 Be 100% dedicated to one project at a time so that you can innovate and grow.\n\u2022 Be a part of a team of talented and friendly senior-level developers.\n\u2022 Work on projects that allow you to use leading tech.\n\nThe result? We produce meaningful outcomes for our clients that break barriers in their industries.\n\nThe Job is 100% remote; please ensure you have a comfortable office setup at your desired work location.",
+            "location": "Canada",
+            "employmentType": "",
+            "datePosted": "2 hours ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/azure-devops-engineer-tech-lead-at-lumenalta-4078993935?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Go"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "SQL"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "PostgreSQL"
+                },
+                {
+                    "name": "Kubernetes"
+                },
+                {
+                    "name": "Jenkins"
+                },
+                {
+                    "name": "CircleCI"
+                },
+                {
+                    "name": "Azure"
+                },
+                {
+                    "name": "Terraform"
+                },
+                {
+                    "name": "Power BI"
+                }
+            ]
+        },
+        {
+            "jobType": "devops_engineer",
+            "title": "DevOps and Platforms Engineer",
+            "company": "Royal Bank of Canada",
+            "description": "Job Summary\n\nJob Description\n\nWhat is the opportunity?\n\nLooking for a chance to make a difference? Are you someone who embraces change? Passionate about furthering business through innovative software solutions?\n\nWe believe in collaboration, collective ownership and continuous improvement. Our team is supporting multiple initiatives across business and development teams.\n\nAs a DevOps and Platforms engineer you will be responsible to Provides technical support on system infrastructure architecture, design, development and testing of customized cloud computing solutions. Applies experience and seasoned knowledge, skills, and practices to perform a variety of assignments.\n\nFor example, build out and maintain various platforms, e.g. Apache Airflow, Dash applications, Dask computing, and others. This role will take on challenges of scaling out systems for performance and multi-tenancy across all dimensions using cutting-edge technology. Transform and accelerate our software delivery pipelines. Act as the keeper of DevOps tooling and the central orchestrator of DevOps activities with a mandate to drive down delivery/change lead times, batch sizes, mean time to recovery, and change failure rates.\n\nWhat will you do?\n\u2022 Directly engage in hands-on development, research and mentoring in support of driving modern engineering practices including CI (Continuous Integration), CD (Continuous Delivery), Continuous Health Monitoring, Distributed Tracing, Audit Logging, Live Metrics, Circuit Breakers and Containerization\n\u2022 Provides technical support on system infrastructure architecture, design, development and testing of customized solutions.\n\u2022 Plan the platform requirements to deploy and scale the platforms applications on OpenShift, design and build resilient and highly available multi-tenant solutions.\n\u2022 Delivering expert technical and business support for system integration into existing platforms.\n\u2022 Work closely with development, operations, and quality assurance teams to foster a DevOps culture. Apply SRE concepts to provide a highly available service leveraging automation to ensure the team and platform can scale to meet incoming demand\n\u2022 Oversee the use of configuration management tools and ensure best practices are followed.\n\u2022 Promote communication and collaboration across technical teams to enhance productivity and streamline workflows.\n\u2022 Incorporate security practices into the development lifecycle, including regular vulnerability assessments and adherence to security policies. Spearhead security initiatives and integrate security considerations into all stages of SDLC.\n\u2022 Ensure compliance with regulatory requirements and industry security standards.\n\u2022 Contribute to successful project completion by identifying risks and developing/recommending mitigation strategies\n\u2022 Continually assess and implement emerging technologies and methodologies to enhance operational efficiencies.\n\u2022 Lead the evaluation of new tools and technologies, making strategic recommendations that align with business goals.\n\nWhat do you need to succeed?\n\nMust have:\n\u2022 Hands-on experience with RedHat OpenShift Container Platform or any enterprise Kubernetes platform\n\u2022 Software Engineer where you developed apps for production; 8+ years of experience doing Python development.\n\u2022 Experience with container-based platforms\n\u2022 Experience with distributed systems, designing and building for resiliency and performance.\n\u2022 8+ years of experience in an operational role e.g., DevOps Engineer, SRE, etc\n\u2022 Demonstrated knowledge of cloud-native engineering and experience with developing / using CI/CD pipelines through referenceable projects\n\u2022 Experience with CLI tools for declarative management of Kubernetes objects.\n\u2022 Open mind, a desire to learn and to be challenged\n\nNice to have:\n\u2022 Kubernetes Application Developer/Administrator Certification is an asset\n\u2022 NodeJS/.NET/Java programming language is an asset\n\u2022 Experience with Apache Airflow, Dash, Dask, Spark, Kafka, Grafana\n\u2022 Solid understanding of general networking principles and common protocols\n\u2022 Experience in operational / incident management tools such as ServiceNow, PagerDuty,\n\u2022 Monitoring Stack : Kibana, Dynatrace, Grafana, Prometheus\n\u2022 Logging Stack: ELK, Splunk\n\nWhat\u2019s in it for you?\n\nWe thrive on the challenge to be our best, progressive thinking to keep growing, and working together to deliver trusted advice to help our clients thrive and communities prosper. We care about each other, reaching our potential, making a difference to our communities, and achieving success that is mutual.\n\u2022 A comprehensive Total Rewards Program including bonuses and flexible benefits, competitive compensation, commissions, and stock where applicable\n\u2022 Leaders who support your development through coaching and managing opportunities\n\u2022 Ability to make a difference and lasting impact\n\u2022 Work in a dynamic, collaborative, progressive, and high performing team\n\u2022 A world-class training program in financial services\n\u2022 4 weeks\u2019 vacation\n\u2022 Opportunities to do challenging work\n\u2022 Opportunities to take on progressively greater accountabilities\n\nJob Skills\nASP.NET C#, Cloud Computing, Cloud Computing Architecture, Cloud Migrations, Cloud Platform, Communication, Continuous Delivery, Continuous Integrations, Design, DevOps, Infrastructure Architecture, Infrastructure As Code (IaC), Kubernetes, Node.js, Organizational Change Management, Performance Measurement, Process Management, Python (Programming Language), Requirements Analysis, Security Standards, Stakeholder Management, Systems Software, Windows Migration\n\nAdditional Job Details\n\nAddress:\n\nRBC CENTRE, 155 WELLINGTON ST W:TORONTO\n\nCity:\n\nTORONTO\n\nCountry:\n\nCanada\n\nWork hours/week:\n\n37.5\n\nEmployment Type:\n\nFull time\n\nPlatform:\n\nWEALTH MANAGEMENT\n\nJob Type:\n\nRegular\n\nPay Type:\n\nSalaried\n\nPosted Date:\n\n2024-10-25\n\nApplication Deadline:\n\n2024-11-22\n\nInclusion and Equal Opportunity Employment\n\nAt RBC, we embrace diversity and inclusion for innovation and growth. We are committed to building inclusive teams and an equitable workplace for our employees to bring their true selves to work. We are taking actions to tackle issues of inequity and systemic bias to support our diverse talent, clients and communities.\n\u200b\u200b\u200b\u200b\u200b\u200b\u200b\nWe also strive to provide an accessible candidate experience for our prospective employees with different abilities. Please let us know if you need any accommodations during the recruitment process.\n\nJoin our Talent Community\n\nStay in-the-know about great career opportunities at RBC. Sign up and get customized info on our latest jobs, career tips and Recruitment events that matter to you.\n\nExpand your limits and create a new future together at RBC. Find out how we use our passion and drive to enhance the well-being of our clients and communities at jobs.rbc.com.",
+            "location": "Toronto, ON, Canada",
+            "employmentType": "",
+            "datePosted": "21 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "RBC Careers",
+                    "url": "https://jobs.rbc.com/ca/en/job/R-0000103772/DevOps-and-Platforms-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Indeed",
+                    "url": "https://ca.indeed.com/viewjob?jk=d76d4fcc3abad328&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "ZipRecruiter",
+                    "url": "https://www.ziprecruiter.com/c/Royal-Bank-of-Canada/Job/DevOps-and-Platforms-Engineer/-in-Toronto,ON?jid=bb01d8d8c503e097&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Itjobs.ca",
+                    "url": "https://www.itjobs.ca/en/offer/on/toronto/devops-and-platforms-engineer/8df6f2a5-3efd-43d7-919e-792bb7d67f13_en/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Glassdoor",
+                    "url": "https://www.glassdoor.ca/job-listing/devops-and-platforms-engineer-royal-bank-of-canada-JV_IC2281069_KO0,29_KE30,50.htm?jl=1009502119238&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "SimplyHired",
+                    "url": "https://www.simplyhired.ca/job/mQafXQ9BPJ8ONK7BVoK74izEREqiF-9LUie6Itzbsw7wH8IYOhacHg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Jooble",
+                    "url": "https://ca.jooble.org/jdp/425646988565840047?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Talent.com",
+                    "url": "https://ca.talent.com/view?id=3a8a754c8272&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Python"
+                },
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "C#"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Node.js"
+                },
+                {
+                    "name": "Kubernetes"
+                },
+                {
+                    "name": "Prometheus"
+                },
+                {
+                    "name": "Grafana"
+                },
+                {
+                    "name": "Splunk"
+                },
+                {
+                    "name": "Kafka"
+                }
+            ]
+        },
+        {
+            "jobType": "devops_engineer",
+            "title": "DevOps Developer",
+            "company": "Newfound Recruiting",
+            "description": "Looking for your next opportunity? Our Client is currently looking for a DevOps Developer to join their team in Ottawa!If you are looking for a new challenge, professional growth and fulfill the following qualifications, this is a role for you!\n\nQualifications\n\u2022 10 years in Software Engineering with knowledge of the SDLC\n\u2022 Strong knowledge and demonstrated experience in software security\n\u2022 Demonstrated and strong experience in agile projects on Azure DevOps\n\u2022 Strong knowledge in Test Automation Tools, such as Python and Robot Framework, Postman\n\u2022 Strong knowledge of Azure DevOps pipelines (YAML) or similar?\n\u2022 Strong knowledge of bash or Powershell or other scripting tools to automate actions\n\u2022 Strong understanding of automation in general and its benefits\n\u2022 ?Knowledge of version control software good practices and Git?\n\u2022 Knowledge of Terraform and Infrastructure as Code?\n\u2022 Knowledge of security SCA and SAST scanning tools like Mend, Snyk, etc.\n\u2022 Effective communication skills with ability to understand the squad\u2019s priorities and propose technical decisions tied to priorities\n\nNewFound Recruiting is a Canadian professional services company headquartered in Ottawa, Ontario, and is one of Canada\u2019s leaders in professional staffing and recruiting. Currently, NewFound Recruiting is servicing clients across Canada, having established relationships in Ontario (Toronto and Ottawa), Alberta, British Columbia, Quebec, and Newfoundland. By applying innovative techniques, we match the right candidate with the right position. Our 20 years of industry experience give you the assurance that we will provide the right answers to your difficult questions.\n\nAt NewFound, we believe that diversity and inclusion among our teammates are critical to our success. We seek to recruit, develop, and retain the most talented people from a diverse candidate pool. We are committed to providing an environment of mutual respect where equal employment opportunities are available to all applicants and teammates without regard to age, race, colour, national origin, sex, gender, sexual orientation, religion, physical or mental disability, or any other category protected by law. All employment at NewFound is based on personal merit, qualifications, experience, ability, and job performance. NewFound welcomes and encourages applications from people with disabilities, and we will provide reasonable accommodations, accessible formats, and communication support upon request during the recruitment and selection process. If you require accommodation, please contact Human Resources at info@newfoundrecruiting.com.",
+            "location": "Ottawa, ON, Canada",
+            "employmentType": "",
+            "datePosted": "2 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/devops-developer-at-newfound-recruiting-4077728011?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "NewFound Recruiting - CATS",
+                    "url": "https://newfound.catsone.com/careers/9479-General/jobs/16564324-DevOps-Developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Python"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Git"
+                },
+                {
+                    "name": "Azure"
+                },
+                {
+                    "name": "Terraform"
+                },
+                {
+                    "name": "Postman"
+                }
+            ]
+        },
+        {
+            "jobType": "devops_engineer",
+            "title": "Senior DevOps Engineer (Senior Engineer)",
+            "company": "NielsenIQ",
+            "description": "Company Description\n\nNIQ Activate is the leading provider of AI-powered customer analytics, personalization, and brand collaboration platform. Serving dozens of retailers and brands across the world using cutting edge big-data, real-time analytics, and data-science automation. Disrupting existing data & media monetization model by enabling retailers to remain in control of their revenue.\n\nNIQ Activate\u2019s solution leverages automation and AI to accelerate revenue generating opportunities and delivers dedicated applications for customer & product performance intelligence, audiences & segmentation building, offer management, and insights sharing that enable users to promptly identify risks and opportunities, and act on those insights, in just a few clicks.\n\nWe believe that building a great product and teams starts with amazing, diverse minded and bright people who make an impact, generate creative & innovative ideas and take on new perspectives.\n\nJob Description\n\nAs the Sr DevOps Engineer at NIQ Activate, you will be responsible for leading a team of talented DevOps engineers. Your role will encompass a wide range of responsibilities including Cloud, infrastructure, CI/CD pipelines, developer experience utilities, delivery automation, open-source solution research, durability - backup & restore, Security operations, disaster recovery, and general problem solving.\n\nYou will be expected to dive deep and identify failure patterns to resolve problems at their root, provide high-performance cloud deployment solutions, maintain rapid deployment pipelines, server monitoring, and troubleshooting. You will also be responsible for building and maintaining the infrastructure for developer\u2019s environments to increase efficiency and productivity and centralizing our logging and monitoring solutions.\n\nQualifications\n\nRequirements - A Must\n\nB.Sc. in Computer Science or equivalent\n\nAt least 6 years of experience as a DevOps engineer, with a minimum of 3 years in a Senior role\n\nProven experience with at least one cloud provider (Azure, AWS, GCP)\n\nSolid understanding of networking concepts, including TCP/IP, DNS, load balancing, and firewall configuration\n\nExcellent problem-solving skills and the ability to troubleshoot complex issues in distributed systems\n\nExperience in deploying, configuring, and optimizing database systems, including but not limited to PostgreSQL and SingleStore\n\nExperience in developing and maintaining CI/CD pipelines for seamless and efficient software delivery\n\nExperience with infrastructure as code (IaC) using tools like Terraform\n\nProficient in Kubernetes architecture, deployment and administration\n\nHands-on experience in writing automation scripts using Python/ Alternatives to streamline deployment and operational tasks\n\nAbility to work hybrid mode in our office in Yokneam / Toronto\n\nPreferred Qualifications\n\nExperience with monitoring stack like Grafana, Loki and Prometheus Knowledge of Jenkins, Maven, GitHub Action, ArgoCD, NX\n\nExperience in implementing cloud security solutions\n\nRelevant certifications such as Certified Kubernetes Administrator (CKA), or similar\n\nAdditional Information\n\nOur Benefits\n\u2022 Flexible working environment\n\u2022 Volunteer time off\n\u2022 LinkedIn Learning\n\u2022 Employee-Assistance-Program (EAP)\n\nOur Benefits\n\u2022 Flexible working environment\n\u2022 Volunteer time off\n\u2022 LinkedIn Learning\n\u2022 Employee-Assistance-Program (EAP)\n\nAbout NIQ\n\nNIQ is the world\u2019s leading consumer intelligence company, delivering the most complete understanding of consumer buying behavior and revealing new pathways to growth. In 2023, NIQ combined with GfK, bringing together the two industry leaders with unparalleled global reach. With a holistic retail read and the most comprehensive consumer insights\u2014delivered with advanced analytics through state-of-the-art platforms\u2014NIQ delivers the Full View\u2122. NIQ is an Advent International portfolio company with operations in 100+ markets, covering more than 90% of the world\u2019s population.\n\nFor more information, visit NIQ.com\n\nWant to keep up with our latest updates?\n\nFollow us on: LinkedIn | Instagram | Twitter | Facebook\n\nOur commitment to Diversity, Equity, and Inclusion\n\nNIQ is committed to reflecting the diversity of the clients, communities, and markets we measure within our own workforce. We exist to count everyone and are on a mission to systematically embed inclusion and diversity into all aspects of our workforce, measurement, and products. We enthusiastically invite candidates who share that mission to join us. We are proud to be an Equal Opportunity/Affirmative Action-Employer, making decisions without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability status, age, marital status, protected veteran status or any other protected class. Our global non-discrimination policy covers these protected classes in every market in which we do business worldwide. Learn more about how we are driving diversity and inclusion in everything we do by visiting the NIQ News Center: https://nielseniq.com/global/en/news-center/diversity-inclusion",
+            "location": "Toronto, ON, Canada",
+            "employmentType": "",
+            "datePosted": "10 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Smart Recruiters Jobs",
+                    "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000025448421-senior-devops-engineer-senior-engineer-?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "ZipRecruiter",
+                    "url": "https://www.ziprecruiter.com/c/NielsenIQ/Job/Senior-DevOps-Engineer-(Senior-Engineer)/-in-Toronto,ON?jid=4302842ad594a1c1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "SimplyHired",
+                    "url": "https://www.simplyhired.ca/job/TYJls6Dig-Vd2Si_KQpvUVKjzwof8SFd4rSa8PwvN2fXVzMdaEynrQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Startup Jobs",
+                    "url": "https://startup.jobs/senior-devops-engineer-senior-engineer-nielseniq-5993378?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Talent.com",
+                    "url": "https://ca.talent.com/view?id=7e1b17a68c63&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Adzuna",
+                    "url": "https://www.adzuna.ca/details/4899734982?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Monster.ca",
+                    "url": "https://www.monster.ca/job-openings/senior-devops-engineer-senior-engineer-toronto-on--bc7798f5-dd88-4979-8900-1dac6c4cad75?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/senior-devops-engineer-senior-engineer-at-nielseniq-4068375307?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Python"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "SQL"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Git"
+                },
+                {
+                    "name": "GitHub"
+                },
+                {
+                    "name": "PostgreSQL"
+                },
+                {
+                    "name": "Kubernetes"
+                },
+                {
+                    "name": "Jenkins"
+                },
+                {
+                    "name": "AWS"
+                },
+                {
+                    "name": "Azure"
+                },
+                {
+                    "name": "Terraform"
+                },
+                {
+                    "name": "Prometheus"
+                },
+                {
+                    "name": "Grafana"
+                },
+                {
+                    "name": "TCP/IP"
+                }
+            ]
+        },
+        {
+            "jobType": "devops_engineer",
+            "title": "Senior DevOps Engineer",
+            "company": "Coconut Software",
+            "description": "Senior DevOps Engineers at Coconut Software act as the technical leads for projects by creating solutions that keep us at the top of our infrastructure game. In joining our growing team, the Senior DevOps Engineer will be an integral part of site reliability at Coconut. They will be responsible for evolving our infrastructure, improving Stability and Performance, optimizing resource allocation, and bringing innovation to the CI/CD pipeline. Security is at the heart of our culture and the Senior DevOps Engineer will document and practice the highest security standards. This role is perfect for a self-starter who is keen to operate with minimal supervision to deliver key initiatives.\n\nWe don\u2019t expect people to fit into neat little boxes. We are looking for curious and empathetic people who are driven by a need for continuous learning and growth. We are excited to continue to scale on our path to success by building a diverse and inclusive team. We\u2019re pretty passionate about what we do, and we\u2019re looking for people as passionate about their work as we are!\n\nYOU\u2019RE FIRED UP TO:\n\u2022 Work within a team of like-minded professionals to plan, deploy, and maintain critical business applications\n\u2022 Lead through mentorship while elevating junior and intermediate team members\n\u2022 Develop and maintain our Kubernetes cluster\n\u2022 Lead reliability projects and provide guidance for the team\u2019s initiatives\n\u2022 Support implementation of continuous deployment through cloud solutions\n\u2022 Understand how IT operations are managed, identify recurring issues, and work with IT & Business partners to remediate using the problem management process\n\u2022 Utilize various open source technologies\n\u2022 Use various tools to orchestrate innovative solutions\n\u2022 Build independent web based tools, microservices and solutions\n\u2022 Write scripts and automation using Perl/Python/Groovy/Java/Bash\n\u2022 Configure and manage data sources like MySQL\n\u2022 Manage source control including SVN and GIT\n\nWHAT YOU BRING TO THE TEAM:\n\u2022 Bachelor\u2019s Degree or equivalent working experience\n\u2022 Expert understanding of DevOps engineering best practices\n\u2022 5+ years of hands-on experience as an SRE or DevOps Engineer\n\u2022 3+ years cloud networking experience and working in a DevOps environment\n\u2022 Experience in building Cloud Native web applications in AWS\n\u2022 Strong proficiency in Terraform\n\u2022 Extensive experience with:\n\u2022 Implementing and managing Kubernetes\n\u2022 Cloud infrastructure\n\u2022 CI/CD\n\u2022 Fluency in the use of monitoring tools\n\u2022 Strong background in Linux / Unix Administration\n\u2022 Ability to use a wide variety of open source technologies and cloud services to improve the continuous deployment process\n\u2022 A solid understanding of code and script (PHP, Python, Perl and/or Ruby)\n\u2022 Have working experience with server architecture, DNS, ipv4/ipv6, acl\n\u2022 MariaDB and Redis management\n\u2022 Strong critical thinker with problem solving aptitude\n\u2022 Excellent communication skills, both in verbal and written correspondence\n\u2022 Bonus if you have Financial Industry experience or knowledge",
+            "location": "Saskatoon, SK, Canada",
+            "employmentType": "",
+            "datePosted": "",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Greenhouse",
+                    "url": "https://boards.greenhouse.io/coconutsoftware/jobs/5336916004?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Python"
+                },
+                {
+                    "name": "Java"
+                },
+                {
+                    "name": "Ruby"
+                },
+                {
+                    "name": "PHP"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "Bash"
+                },
+                {
+                    "name": "Perl"
+                },
+                {
+                    "name": "SQL"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "SVN"
+                },
+                {
+                    "name": "MySQL"
+                },
+                {
+                    "name": "MariaDB"
+                },
+                {
+                    "name": "Kubernetes"
+                },
+                {
+                    "name": "AWS"
+                },
+                {
+                    "name": "Terraform"
+                }
+            ]
+        },
+        {
+            "jobType": "devops_engineer",
+            "title": "DevOps Engineer",
+            "company": "Randstad Canada",
+            "description": "DevOps Engineer\nLocation: Victoria, BC (On-site Position/No remote)\n\nWe are working with a leading game development company in Victoria that is looking for a talented DevOps Engineer to join their team. If you're passionate about automation, system performance, and ensuring high availability in production environments, this is an exciting opportunity to contribute to the development of next-generation gaming technologies.\nThis company is focused on evolving and delivering an innovative metagame, with interactive gameplay features across multiple platforms. As a DevOps Engineer, you will play a key role in automating system and code deployments, maintaining infrastructure, and troubleshooting issues to ensure optimal performance. Your expertise will help deliver high-quality games that players will love.\n\nKey Responsibilities:\nDevelop, maintain, and expand code testing, release, and deployment platforms.\nBuild and implement systems to monitor production environments and enforce best practices.\nOversee the health, efficiency, and scalability of the production infrastructure.\n\nThe ideal candidate will have:\n1-3 years of relevant systems experience.\nFamiliarity with distributed systems, performance management, and delivering measurable results.\nStrong understanding of DevOps methodologies and automation tools (e.g., Jenkins, Git).\nExperience with Cloud platforms (AWS, Azure, or similar).\nExperience working in a 24/7 environment, supporting live production systems.\nPreferred qualifications include:\nA Bachelor\u2019s Degree or equivalent in a relevant field.\nExperience working with relational databases and distributed computing technologies.\nHands-on experience with HA ElasticSearch, Redis, and MongoDB.\nA strong commitment to operational excellence and continuous improvement.\nProficiency in programming and scripting languages.\nFamiliarity with Agile (Scrum/Kanban) methodologies.\n\nSalary Range: $65,000 \u2013 $85,000 CAD annually\n\nIf you\u2019re looking to join a forward-thinking company and play a key role in building exceptional gaming experiences, this is the opportunity for you. Apply now to be considered for this exciting position!\n\nAdvantages\nWe are working with a leading game development company in Victoria that is looking for a talented DevOps Engineer to join their team. If you're passionate about automation, system performance, and ensuring high availability in production environments, this is an exciting opportunity to contribute to the development of next-generation gaming technologies.\nThis company is focused on evolving and delivering an innovative metagame, with interactive gameplay features across multiple platforms. As a DevOps Engineer, you will play a key role in automating system and code deployments, maintaining infrastructure, and troubleshooting issues to ensure optimal performance. Your expertise will help deliver high-quality games that players will love.\n\nResponsibilities\nDevelop, maintain, and expand code testing, release, and deployment platforms.\nBuild and implement systems to monitor production environments and enforce best practices.\nOversee the health, efficiency, and scalability of the production infrastructure.\n\nQualifications\nA Bachelor\u2019s Degree or equivalent in a relevant field.\nExperience working with relational databases and distributed computing technologies.\nHands-on experience with HA ElasticSearch, Redis, and MongoDB.\nA strong commitment to operational excellence and continuous improvement.\nProficiency in programming and scripting languages.\nFamiliarity with Agile (Scrum/Kanban) methodologies.\n\nSummary\nSalary Range: $65,000 \u2013 $85,000 CAD annually\nIf you\u2019re looking to join a forward-thinking company and play a key role in building exceptional gaming experiences, this is the opportunity for you. Apply now to be considered for this exciting position!\n\nRandstad Canada is committed to fostering a workforce reflective of all peoples of Canada. As a result, we are committed to developing and implementing strategies to increase the equity, diversity and inclusion within the workplace by examining our internal policies, practices, and systems throughout the entire lifecycle of our workforce, including its recruitment, retention and advancement for all employees. In addition to our deep commitment to respecting human rights, we are dedicated to positive actions to affect change to ensure everyone has full participation in the workforce free from any barriers, systemic or otherwise, especially equity-seeking groups who are usually underrepresented in Canada's workforce, including those who identify as women or non-binary/gender non-conforming; Indigenous or Aboriginal Peoples; persons with disabilities (visible or invisible) and; members of visible minorities, racialized groups and the LGBTQ2+ community.\n\nRandstad Canada is committed to creating and maintaining an inclusive and accessible workplace for all its candidates and employees by supporting their accessibility and accommodation needs throughout the employment lifecycle. We ask that all job applications please identify any accommodation requirements by sending an email to accessibility@randstad.ca to ensure their ability to fully participate in the interview process.",
+            "location": "Victoria, BC, Canada",
+            "employmentType": "",
+            "datePosted": "5 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Randstad",
+                    "url": "https://www.randstad.ca/jobs/devops-engineer_victoria_44408149/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Workday",
+                    "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/DevOps-Engineer_R240027362?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Hays",
+                    "url": "https://www.hays.ca/job-detail/devops-engineer--remote-%28est-hrs%29_1115670?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Indeed",
+                    "url": "https://ca.indeed.com/viewjob?jk=1631e031ba16b38e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "ZipRecruiter",
+                    "url": "https://www.ziprecruiter.com/c/Targeted-Talent/Job/DevOps-Engineer/-in-Kitchener,ON?jid=163a6df7279a554e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "LinkedIn",
+                    "url": "https://ca.linkedin.com/jobs/view/devops-engineer-at-accelerant-4063164160?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Wellfound",
+                    "url": "https://wellfound.com/jobs/3143322-devops-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "CATS Applicant Tracking System",
+                    "url": "https://hirevouch.catsone.com/careers/95532-General/jobs/16324638-Devops-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Git"
+                },
+                {
+                    "name": "MongoDB"
+                },
+                {
+                    "name": "Jenkins"
+                },
+                {
+                    "name": "AWS"
+                },
+                {
+                    "name": "Azure"
+                },
+                {
+                    "name": "Scrum"
+                },
+                {
+                    "name": "Kanban"
+                }
+            ]
+        },
+        {
+            "jobType": "devops_engineer",
+            "title": "DevOps Engineer",
+            "company": "Quarterhill",
+            "description": "Overview\n\nThe DevOps Engineer will enhance our development and delivery infrastructure with a focus on supporting both traditional software development and machine learning workflows. This includes building, deploying, and maintaining CI/CD pipelines, with a particular emphasis on integrating and supporting machine learning operations (MLOps) for scalable and secure ML pipelines. The role will also focus on ensuring model development adheres to best practices like versioning, auditability, and data security.\n\nResponsibilities\n\u2022 Design, implement, and manage robust CI/CD pipelines to facilitate seamless code integration and deployment, and machine learning (ML) model releases.\n\u2022 Develop and maintain automated solutions for infrastructure provisioning and management, and machine learning pipelines, ensuring consistency and scalability, and model versioning.\n\u2022 Monitor system performance, identify and resolve issues promptly, and ensure the availability and reliability of development and production environments for both Software and ML model environments.\n\u2022 Implement and manage security practices within the CI/CD pipelines and infrastructure to protect against vulnerabilities and ensure compliance with industry standards.\n\u2022 Continuously improve the performance of the infrastructure and CI/CD processes, and ML pipelines by identifying bottlenecks and implementing solutions for optimization.\n\u2022 Integrate various DevOps tools and ML frameworks (e.g., TensorFlow, PyTorch) to create a cohesive, efficient development, and machine learning environment.\n\u2022 Support model development, focusing on auditability, versioning, and scalability for machine learning models.\n\u2022 Partner closely with development, AI/ML and QA teams to ensure the smooth and timely integration and delivery of software products.\n\u2022 Apply software engineering rigor and best practices to machine learning systems, ensuring effective automation and orchestration.\n\u2022 Create and maintain comprehensive documentation for DevOps processes, tools, ML pipelines, and configurations to ensure transparency and knowledge sharing.\n\nThis list of responsibilities might not cover everything you'll end up doing.\n\nQualifications\n\u2022 Bachelor\u2019s degree in Computer Science, Computer Engineering, or a related field.\n\u2022 1-3 years of experience in a DevOps role or similar position.\n\u2022 Proficiency with CI/CD tools (e.g., Jenkins, Bitbucket, CircleCI) and infrastructure as code (e.g., Terraform, Ansible).\n\u2022 Experience with MLOps and developing ML pipelines, including model training, validation, and deployment.\n\u2022 Experience developing and maintaining machine learning systems built with open-source tools (e.g., TensorFlow, PyTorch, MLflow).\n\u2022 Basic scripting skills in Python, Bash, or similar languages.\n\nBenefits\n\nWe offer a Total Rewards plan designed with you and your family\u2019s health and wellness in mind that includes:\n\u2022 Paid days off (i.e. vacation, sick days, bereavement leave)\n\u2022 Health and Dental plans\n\u2022 Retirement plans\n\u2022 Employee and Family Assistance Program (EFAP)\n\u2022 Employee referral program\n\nWe welcome applicants from all backgrounds, regardless of race, color, religion, sex, veteran status, sexual orientation, gender identity, national origin, age, or disability or any other protected characteristics in accordance with applicable federal, state/provincial, and local laws. We're committed to creating a workplace where everyone feels valued and respected.\n\nWe appreciate all responses and will acknowledge only those being considered for an interview.\n\nWe respectfully request no calls or unsolicited resumes from Agencies.",
+            "location": "Saskatoon, SK, Canada",
+            "employmentType": "",
+            "datePosted": "20 days ago",
+            "salaryRange": "",
+            "jobProviders": [
+                {
+                    "name": "Career - Quarterhill",
+                    "url": "https://careers.quarterhill.com/culture/jobs/1232?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Indeed",
+                    "url": "https://ca.indeed.com/viewjob?jk=3c1a3439fbab9b5a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Ca.bebee.com",
+                    "url": "https://ca.bebee.com/job/ac839d393574698c119fa08e2cc06dfa?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Dice",
+                    "url": "https://www.dice.com/job-detail/df131e3f-22ed-4bce-9261-c53d97be3e79?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "LazyApply",
+                    "url": "https://lazyapply.com/jobpreview/10407807-0db1-49da-b143-38694067b382?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Talent.com",
+                    "url": "https://ca.talent.com/view?id=4fbfc7100859&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "ClickaJobs",
+                    "url": "https://ca.clickajobs.com/job/DevOps-Engineer/saskatoon/26051205?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "name": "Jobilize",
+                    "url": "https://www.jobilize.com/job/ca-saskatoon-devops-engineer-international-road-dynamics-hiring-now?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Python"
+                },
+                {
+                    "name": "C"
+                },
+                {
+                    "name": "Bash"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Bitbucket"
+                },
+                {
+                    "name": "TensorFlow"
+                },
+                {
+                    "name": "PyTorch"
+                },
+                {
+                    "name": "Jenkins"
+                },
+                {
+                    "name": "CircleCI"
+                },
+                {
+                    "name": "Terraform"
+                },
+                {
+                    "name": "Ansible"
+                }
+            ]
+        }
+    ]
+}
