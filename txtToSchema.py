@@ -32,9 +32,7 @@ variable_names = [
     "Qiskit", "IBM Q Experience"
 ]
 
-output_file = 'jobsSchema2.sh'
 
-output = open(output_file, "w")
 
 count = 1
 
@@ -46,7 +44,9 @@ for i in range(25):
 
     # File paths
     input_file = 'jobDataTxt/' + fileName + '.txt'  # Replace with the actual input file
-    # output_file = 'jobDataJson/' + fileName + '.json'
+    output_file = 'jobSkillsSchema/' + fileName + '.sh'
+
+    output = open(output_file, "w")
 
     # fileName = '.net%20developer.txt' 
 
@@ -87,31 +87,32 @@ for i in range(25):
 
             # Create a simplified dictionary for each job
             
-            jobType = fileName.replace("%20", "_"),
-            title = job.get("title", ""),
-            company = job.get("company", ""),
-            description = job.get("description", ""),
-            location = job.get("location", ""),
-            datePosted = job.get("datePosted", ""),
+            # jobType = fileName.replace("%20", "_"),
+            # title = job.get("title", ""),
+            # company = job.get("company", ""),
+            # description = job.get("description", ""),
+            # location = job.get("location", ""),
+            # datePosted = job.get("datePosted", ""),
             # "jobProviders": [
             #     {"name": provider.get("jobProvider", ""), "url": provider.get("url", "")}
             #     for provider in job.get("jobProviders", [])
             # ],
-            # "skills": [
-            #     {"name": var}
-            #     for var in matches
-            # ]
+
+            for var in matches:
+                output.write("INSERT INTO jobSkills VALUES(" + str(count) + "," + str((variable_names.index(var) + 1)) + ");\n")
+                # print("INSERT INTO jobSkills VALUES(" + str(count) + "," + str((variable_names.index(var) + 1)) + ");\n")
+                print(f"Saved file to {output_file}")
             
             
-            print("INSERT INTO branch VALUES(" + str(count) + "," + str(jobType)[1:-2] + "," + str(title)[1:-2] + "," + str(company)[1:-2] + "," + str(location)[1:-2] + "," + str(datePosted)[1:-2] + ");\n")
-            output.write("INSERT INTO branch VALUES(" + str(count) + "," + str(jobType)[1:-2] + "," + str(title)[1:-2] + "," + str(company)[1:-2] + "," + str(location)[1:-2] + "," + str(datePosted)[1:-2] + ");\n")
+            # print("INSERT INTO branch VALUES(" + str(count) + "," + str(jobType)[1:-2] + "," + str(title)[1:-2] + "," + str(company)[1:-2] + "," + str(location)[1:-2] + "," + str(datePosted)[1:-2] + ");\n")
+            # output.write("INSERT INTO branch VALUES(" + str(count) + "," + str(jobType)[1:-2] + "," + str(title)[1:-2] + "," + str(company)[1:-2] + "," + str(location)[1:-2] + "," + str(datePosted)[1:-2] + ");\n")
             count += 1
 
-        # Save the processed data to a new JSON file
-        with open(output_file, 'w', encoding='utf-8') as f:
-            json.dump({"jobs": processed_jobs}, f, indent=4)
+        # # Save the processed data to a new JSON file
+        # with open(output_file, 'w', encoding='utf-8') as f:
+        #     json.dump({"jobs": processed_jobs}, f, indent=4)
 
-        print(f"Processed {len(processed_jobs)} jobs and saved to {output_file}")
+        # print(f"Processed {len(processed_jobs)} jobs and saved to {output_file}")
 
     except Exception as e:
         print(f"Error: {e}")
