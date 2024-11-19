@@ -32,7 +32,9 @@ variable_names = [
     "Qiskit", "IBM Q Experience"
 ]
 
+output_file = "providersSchema.sh"
 
+output = open(output_file, "w")
 
 count = 1
 
@@ -44,9 +46,9 @@ for i in range(25):
 
     # File paths
     input_file = 'jobDataTxt/' + fileName + '.txt'  # Replace with the actual input file
-    output_file = 'jobSkillsSchema/' + fileName + '.sh'
+    # output_file = 'jobSkillsSchema/' + fileName + '.sh'
 
-    output = open(output_file, "w")
+    # output = open(output_file, "w")
 
     # fileName = '.net%20developer.txt' 
 
@@ -93,15 +95,19 @@ for i in range(25):
             # description = job.get("description", ""),
             # location = job.get("location", ""),
             # datePosted = job.get("datePosted", ""),
+            # jobProvider = provider.get("jobProvider", "")
+            # url = provider.get("url", "")
             # "jobProviders": [
             #     {"name": provider.get("jobProvider", ""), "url": provider.get("url", "")}
             #     for provider in job.get("jobProviders", [])
             # ],
 
-            for var in matches:
-                output.write("INSERT INTO jobSkills VALUES(" + str(count) + "," + str((variable_names.index(var) + 1)) + ");\n")
+            for provider in job.get("jobProviders", []):
+                jobProvider = provider.get("jobProvider", "")
+                url = provider.get("url", "")
+                output.write("INSERT INTO jobSkills VALUES(" + str(count) + ",'" + str(jobProvider) + "','" + str(url) + "');\n")
                 # print("INSERT INTO jobSkills VALUES(" + str(count) + "," + str((variable_names.index(var) + 1)) + ");\n")
-                print(f"Saved file to {output_file}")
+                # print(f"Saved file to {output_file}")
             
             
             # print("INSERT INTO branch VALUES(" + str(count) + "," + str(jobType)[1:-2] + "," + str(title)[1:-2] + "," + str(company)[1:-2] + "," + str(location)[1:-2] + "," + str(datePosted)[1:-2] + ");\n")
