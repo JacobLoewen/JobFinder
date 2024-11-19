@@ -30,4 +30,4 @@ variable_names = [
 output_file = open("jobsSchema.sh", "w")
 
 for i in range(len(variable_names)):
-    output_file.write("INSERT INTO skills VALUES(" + str(i) + ",'" + variable_names[i] + "');\n")
+    output_file.write("INSERT INTO skills VALUES('" + variable_names[i] + "'," + str(i) + ");\n")

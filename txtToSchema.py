@@ -32,7 +32,7 @@ variable_names = [
     "Qiskit", "IBM Q Experience"
 ]
 
-output_file = "providersSchema.sh"
+output_file = "providersSchema2.sh"
 
 output = open(output_file, "w")
 
@@ -89,12 +89,12 @@ for i in range(25):
 
             # Create a simplified dictionary for each job
             
-            # jobType = fileName.replace("%20", "_"),
-            # title = job.get("title", ""),
-            # company = job.get("company", ""),
+            jobType = fileName.replace("%20", "_"),
+            title = job.get("title", ""),
+            company = job.get("company", ""),
             # description = job.get("description", ""),
-            # location = job.get("location", ""),
-            # datePosted = job.get("datePosted", ""),
+            location = job.get("location", ""),
+            datePosted = job.get("datePosted", ""),
             # jobProvider = provider.get("jobProvider", "")
             # url = provider.get("url", "")
             # "jobProviders": [
@@ -102,16 +102,16 @@ for i in range(25):
             #     for provider in job.get("jobProviders", [])
             # ],
 
-            for provider in job.get("jobProviders", []):
-                jobProvider = provider.get("jobProvider", "")
-                url = provider.get("url", "")
-                output.write("INSERT INTO jobSkills VALUES(" + str(count) + ",'" + str(jobProvider) + "','" + str(url) + "');\n")
-                # print("INSERT INTO jobSkills VALUES(" + str(count) + "," + str((variable_names.index(var) + 1)) + ");\n")
-                # print(f"Saved file to {output_file}")
+            # for provider in job.get("jobProviders", []):
+            #     jobProvider = provider.get("jobProvider", "")
+            #     url = provider.get("url", "")
+            #     output.write("INSERT INTO jobProviders VALUES('" + str(url) + "','" + str(jobProvider) + "'," + str(count) + ");\n")
+            #     # print("INSERT INTO jobSkills VALUES(" + str(count) + "," + str((variable_names.index(var) + 1)) + ");\n")
+            #     # print(f"Saved file to {output_file}")
             
             
-            # print("INSERT INTO branch VALUES(" + str(count) + "," + str(jobType)[1:-2] + "," + str(title)[1:-2] + "," + str(company)[1:-2] + "," + str(location)[1:-2] + "," + str(datePosted)[1:-2] + ");\n")
-            # output.write("INSERT INTO branch VALUES(" + str(count) + "," + str(jobType)[1:-2] + "," + str(title)[1:-2] + "," + str(company)[1:-2] + "," + str(location)[1:-2] + "," + str(datePosted)[1:-2] + ");\n")
+            print("INSERT INTO jobs VALUES(" + str(title)[1:-2] + "," + str(jobType)[1:-2] + "," + str(count) + "," + str(company)[1:-2] + "," + str(location)[1:-2] + "," + str(datePosted)[1:-2] + ");\n")
+            output.write("INSERT INTO jobs VALUES(" + str(title)[1:-2] + "," + str(jobType)[1:-2] + "," + str(count) + "," + str(company)[1:-2] + "," + str(location)[1:-2] + "," + str(datePosted)[1:-2] + ");\n")
             count += 1
 
         # # Save the processed data to a new JSON file
