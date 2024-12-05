@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Requirement Database</title>
+    <style>
+        body {
+            font-family: 'Times New Roman', Times, serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        header {
+            background-color: #000000;
+            color: white;
+            padding: 1rem 2rem;
+            text-align: center;
+        }
+        .container {
+            display: flex;
+            margin: 2rem auto;
+            max-width: 1200px;
+        }
+        .sidebar {
+            width: 25%;
+            background-color: #fff;
+            padding: 1rem;
+            border-right: 1px solid #ddd;
+        }
+        .sidebar h3 {
+            color: #000000;
+        }
+        .content {
+            width: 75%;
+            padding: 1rem;
+        }
+        .search-bar {
+            margin-bottom: 1rem;
+        }
+        .search-bar input {
+            width: 70%;
+            padding: 0.5rem;
+            font-size: 1rem;
+            margin-right: 1rem;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+            .search-bar button {
+                padding: 0.5rem 1rem;
+                font-size: 1rem;
+                background-color: #000000;
+                color: white;
+                border: none;
+                border-radius: 4px;
+                cursor: pointer;
+            }
+                .search-bar button:hover {
+                    background-color: #000000;
+                }
+        .job-list {
+            margin-top: 1rem;
+        }
+        .job-item {
+            background: white;
+            margin: 0.5rem 0;
+            padding: 1rem;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+            .job-item h4 {
+                margin: 0;
+                color: #000000;
+            }
+        .filter-group {
+            margin-bottom: 1rem;
+        }
+        .filter-group label {
+            display: block;
+            margin: 0.5rem 0;
+        }
+        footer {
+            text-align: center;
+            padding: 1rem;
+            background-color: #000000;
+            color: white;
+            margin-top: 2rem;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Job Requirement Database</h1>
+</header>
+
+<div class="container">
+    <!-- Sidebar for Filters -->
+    <div class="sidebar">
+        <h3>Filter by:</h3>
+        <div class="filter-group">
+            <h4>Skills</h4>
+            <label><input type="checkbox" value="JavaScript" class="filter-skill"> JavaScript</label>
+            <label><input type="checkbox" value="Python" class="filter-skill"> Python</label>
+            <label><input type="checkbox" value="SQL" class="filter-skill"> SQL</label>
+            <label><input type="checkbox" value="HTML" class="filter-skill"> HTML</label>
+            <label><input type="checkbox" value="C#" class="filter-skill"> C#</label>
+        </div>
+        <div class="filter-group">
+            <h4>Job Type</h4>
+            <label><input type="radio" name="job-type" value="full_stack_developer" class="filter-job-type"> Full Stack Developer</label>
+            <label><input type="radio" name="job-type" value="software_engineer" class="filter-job-type"> Software Engineer</label>
+            <label><input type="radio" name="job-type" value="front_end_developer" class="filter-job-type"> Front End Developer</label>
+        </div>
+        <div class="filter-group">
+            <h4>Location</h4>
+            <label><input type="radio" name="location" value="British Columbia" class="filter-location"> British Columbia</label>
+            <label><input type="radio" name="location" value="Alberta" class="filter-location"> Alberta</label>
+            <label><input type="radio" name="location" value="Ontario" class="filter-location"> Ontario</label>
+        </div>
+        <button id="apply-filters">Apply Filters</button>
+    </div>
+
+    <!-- Content -->
+    <div class="content">
+        <div class="search-bar">
+            <input type="text" id="search-bar" placeholder="Search for job...">
+            <button id="search-button">Search</button>
+        </div>
+        <div class="job-list" id="job-list">
+            <!-- Jobs DATA here -->
+        </div>
+    </div>
+</div>
+
+<script>
+    // Prototype job data 
+    const jobs = [
+        { jobTitle: "Full Stack Developer", company: "Whitecap Canada", location: "Ontario", skills: ["JavaScript", "HTML"] },
+        { jobTitle: "Java Full Stack Developer", company: "Cognizant", location: "Ontario", skills: ["SQL", "JavaScript"] },
+        { jobTitle: "Senior Full Stack Developer", company: "Royal Bank of Canada", location: "Alberta", skills: ["JavaScript"] },
+        { jobTitle: "Full Stack Developer", company: "DLL", location: "Ontario", skills: ["Python"] },
+        { jobTitle: "Front End Developer", company: "Graphem Solutions", location: "Alberta", skills: ["JavaScript"] },
+        { jobTitle: "Software Engineer", company: "PDF Solutions", location: "British Columbia", skills: ["C#", "CouchDB"] },
+    ];
+
+    // Function to render jobs
+    function renderJobs(filteredJobs) {
+        const jobList = document.getElementById('job-list');
+        jobList.innerHTML = '';
+        filteredJobs.forEach(job => {
+            const jobItem = document.createElement('div');
+            jobItem.classList.add('job-item');
+            jobItem.innerHTML = `
+                <h4>${job.jobTitle}</h4>
+                <p><strong>Company:</strong> ${job.company}</p>
+                <p><strong>Location:</strong> ${job.location}</p>
+                <p><strong>Skills:</strong> ${job.skills.join(', ')}</p>
+            `;
+            jobList.appendChild(jobItem);
+        });
+    }
+
+    // Initial render
+    renderJobs(jobs);
+
+    // Search functionality
+    document.getElementById('search-button').addEventListener('click', () => {
+        const searchTerm = document.getElementById('search-bar').value.toLowerCase();
+        const filteredJobs = jobs.filter(job => job.jobTitle.toLowerCase().includes(searchTerm));
+        renderJobs(filteredJobs);
+    });
+
+    // Filter functionality
+    document.getElementById('apply-filters').addEventListener('click', () => {
+        const selectedSkills = Array.from(document.querySelectorAll('.filter-skill:checked')).map(el => el.value);
+        const selectedJobType = document.querySelector('.filter-job-type:checked')?.value;
+        const selectedLocation = document.querySelector('.filter-location:checked')?.value;
+
+        const filteredJobs = jobs.filter(job => {
+            const matchesSkills = selectedSkills.length === 0 || selectedSkills.every(skill => job.skills.includes(skill));
+            const matchesJobType = !selectedJobType || job.jobTitle.toLowerCase().includes(selectedJobType.replace(/_/g, ' '));
+            const matchesLocation = !selectedLocation || job.location === selectedLocation;
+            return matchesSkills && matchesJobType && matchesLocation;
+        });
+
+        renderJobs(filteredJobs);
+    });
+</script>
+
+</body>
+</html>
