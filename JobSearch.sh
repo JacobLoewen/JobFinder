@@ -12,7 +12,7 @@ CREATE TABLE jobs
  date_posted varchar(100)
 );
 
-INSERT INTO jobs VALUES(1,'Full-Stack\u202f.NET\u202fDeveloper\u202f(Web & Desktop)','full_stack_developer','Whitecap Canada','Toronto, ON, Canada','2 days ago');
+INSERT INTO jobs VALUES(1,'Full-Stack.NETDeveloper(Web & Desktop)','full_stack_developer','Whitecap Canada','Toronto, ON, Canada','2 days ago');
 INSERT INTO jobs VALUES(2,'Java Full Stack Developer (Angular/React) - Hybrid','full_stack_developer','Cognizant','Ontario, Canada','5 days ago');
 INSERT INTO jobs VALUES(3,'Senior Full Stack Developer','full_stack_developer','Royal Bank of Canada','Calgary, AB, Canada','14 days ago');
 INSERT INTO jobs VALUES(4,'Full-Stack Developer','full_stack_developer','DLL','Burlington, ON, Canada','3 days ago');
@@ -53,7 +53,7 @@ INSERT INTO jobs VALUES(38,'Frontend Developer','front_end_developer','PDF Solut
 INSERT INTO jobs VALUES(39,'Front-End Developer','front_end_developer','BLAZESOFT','Vaughan, ON, Canada','');
 INSERT INTO jobs VALUES(40,'Front End and Full Stack Developer (Remote - Ontario, Canada ONLY)','front_end_developer','Ample Insight Inc.','Toronto, ON, Canada','');
 INSERT INTO jobs VALUES(41,'Web developer','web_developer','Compuran as well as ITD Canada','Vancouver, BC, Canada','3 days ago');
-INSERT INTO jobs VALUES(42,'Web Developer � Co-op/Intern','web_developer','Nokia','Ontario, Canada','2 days ago');
+INSERT INTO jobs VALUES(42,'Web Developer Co-op/Intern','web_developer','Nokia','Ontario, Canada','2 days ago');
 INSERT INTO jobs VALUES(43,'Web Developer','web_developer','Design Shopp','Canada','');
 INSERT INTO jobs VALUES(44,'Web developer','web_developer','webever technologies','Winnipeg, MB, Canada','3 days ago');
 INSERT INTO jobs VALUES(45,'Web Software Developer - Front End (Senior)','web_developer','dakis','Montreal, Quebec, Canada','3 days ago');
@@ -71,7 +71,7 @@ INSERT INTO jobs VALUES(56,'Software Developer III, AI/ML, Google Cloud AI','dev
 INSERT INTO jobs VALUES(57,'Software Developer','developer','L3Harris Technologies','Ottawa, ON, Canada','');
 INSERT INTO jobs VALUES(58,'Senior Full Stack Developer','developer','Luxoft','Toronto, ON, Canada','');
 INSERT INTO jobs VALUES(59,'Senior Software Developer, GFT','developer','Royal Bank of Canada','Vancouver, BC, Canada','4 days ago');
-INSERT INTO jobs VALUES(60,'Software Developer � Mobile','developer','Evercommerce','Oakville, ON, Canada','2 days ago');
+INSERT INTO jobs VALUES(60,'Software Developer Mobile','developer','Evercommerce','Oakville, ON, Canada','2 days ago');
 INSERT INTO jobs VALUES(61,'Sr. Dot Net Developer','.net_developer','Stellar Software Solutions','Halifax, NS, Canada','2 days ago');
 INSERT INTO jobs VALUES(62,'Dotnet Developer','.net_developer','Diamondpick','Mississauga, ON, Canada','2 days ago');
 INSERT INTO jobs VALUES(63,'.NET Developers','.net_developer','Canada IT Club','Ontario, Canada','3 days ago');
@@ -92,7 +92,7 @@ INSERT INTO jobs VALUES(77,'Java Web Developer','java_developer','STACK IT Recru
 INSERT INTO jobs VALUES(78,'Java Developer','java_developer','isgSearch','Vaughan, ON, Canada','6 days ago');
 INSERT INTO jobs VALUES(79,'Java Developer','java_developer','Scotiabank','Toronto, ON, Canada','9 days ago');
 INSERT INTO jobs VALUES(80,'GTS - Sr. Java Developers ONLY Living outside of Canada- Work Visa Provided - CANADA','java_developer','Venuiti','Waterloo, ON, Canada','3 days ago');
-INSERT INTO jobs VALUES(81,'AI Application Developer � HYBRID (1684)','application_developer','Direct IT Recruiting Inc., WBE Canada Certified','Toronto, ON, Canada','2 days ago');
+INSERT INTO jobs VALUES(81,'AI Application Developer HYBRID (1684)','application_developer','Direct IT Recruiting Inc., WBE Canada Certified','Toronto, ON, Canada','2 days ago');
 INSERT INTO jobs VALUES(82,'Application Developer Microsoft Power Platform','application_developer','Artech L.L.C.','Toronto, ON, Canada','6 days ago');
 INSERT INTO jobs VALUES(83,'Application Software Developer Lead - (Java / JSON/ AWS / IBM Websphere/ Payments)','application_developer','Bank of Montreal','Toronto, ON, Canada','4 days ago');
 INSERT INTO jobs VALUES(84,'Software Developer 2','application_developer','Intuit','Toronto, ON, Canada','');
@@ -128,7 +128,7 @@ INSERT INTO jobs VALUES(113,'Principal Software Engineer','principal_software_en
 INSERT INTO jobs VALUES(114,'Principal Software Engineering Manager - AI performance','principal_software_engineer','Microsoft','Vancouver, BC, Canada','4 days ago');
 INSERT INTO jobs VALUES(115,'Principal Software Engineer 1 - Game of Thrones: Legends','principal_software_engineer','Zynga','Toronto, ON, Canada','3 days ago');
 INSERT INTO jobs VALUES(116,'Principal Software Engineer 2 - Game Services, ZGMT','principal_software_engineer','Zynga','Toronto, ON, Canada','3 days ago');
-INSERT INTO jobs VALUES(117,'Principal Software Engineer 1 � Game of Thrones: Legends','principal_software_engineer','Zynga','Canada','3 days ago');
+INSERT INTO jobs VALUES(117,'Principal Software Engineer 1 Game of Thrones: Legends','principal_software_engineer','Zynga','Canada','3 days ago');
 INSERT INTO jobs VALUES(118,'Principal Software Engineer Team Lead','principal_software_engineer','Bellwood','Canada','4 days ago');
 INSERT INTO jobs VALUES(119,'Principal Software Engineer - Data Platform','principal_software_engineer','Toast','Canada','');
 INSERT INTO jobs VALUES(120,'Principal Software Engineer, AI/ML Platform','principal_software_engineer','Autodesk','Toronto, ON, Canada','17 days ago');
@@ -206,7 +206,7 @@ INSERT INTO jobs VALUES(191,'Senior Application Security Engineer','application_
 INSERT INTO jobs VALUES(192,'Application Security Engineer, ETSE','application_security_engineer','Amazon','Vancouver, BC, Canada','22 days ago');
 INSERT INTO jobs VALUES(193,'Application Security Engineer','application_security_engineer','Agoda','Vancouver, BC, Canada','20 days ago');
 INSERT INTO jobs VALUES(194,'Application Security Engineer','application_security_engineer','Kraken Crypto Exchange','New Canada, NS, Canada','');
-INSERT INTO jobs VALUES(195,'Sr. Lead Application Security Engineer\u202f - Generative AI (Remote)','application_security_engineer','S&P Global','Victoria, BC, Canada','7 days ago');
+INSERT INTO jobs VALUES(195,'Sr. Lead Application Security Engineer - Generative AI (Remote)','application_security_engineer','S&P Global','Victoria, BC, Canada','7 days ago');
 INSERT INTO jobs VALUES(196,'Senior Application Security Engineer','application_security_engineer','Score Media and Gaming Inc.','Canada','26 days ago');
 INSERT INTO jobs VALUES(197,'Sr. Application Security Specialist-Java (GCS)','application_security_engineer','Royal Bank of Canada','Vancouver, BC, Canada','3 days ago');
 INSERT INTO jobs VALUES(198,'Principal Security Engineer - Application Security','application_security_engineer','Gusto','Toronto, ON, Canada','20 days ago');
@@ -227,8 +227,8 @@ INSERT INTO jobs VALUES(212,'PHP Web Developer','php_developer','WHC Online Solu
 INSERT INTO jobs VALUES(213,'PHP Developers Canada','php_developer','Kovasys','Canada','');
 INSERT INTO jobs VALUES(214,'Full-stack PHP developer','php_developer','Graphically Speaking','Vancouver, BC, Canada','');
 INSERT INTO jobs VALUES(215,'Senior PHP Developer','php_developer','Software International','Toronto, ON, Canada','');
-INSERT INTO jobs VALUES(216,'Senior PHP Application Developer � CONTRACT','php_developer','Ward Technology Talent','Toronto, ON, Canada','');
-INSERT INTO jobs VALUES(217,'PHP Web Developer � Toronto,ON','php_developer','Kovasys','Toronto, ON, Canada','');
+INSERT INTO jobs VALUES(216,'Senior PHP Application Developer CONTRACT','php_developer','Ward Technology Talent','Toronto, ON, Canada','');
+INSERT INTO jobs VALUES(217,'PHP Web Developer Toronto,ON','php_developer','Kovasys','Toronto, ON, Canada','');
 INSERT INTO jobs VALUES(218,'PHP Developer','php_developer','CB Canada','Markham, ON, Canada','');
 INSERT INTO jobs VALUES(219,'PHP Developer','php_developer','Priyasoft Inc.','Brampton, ON, Canada','29 days ago');
 INSERT INTO jobs VALUES(220,'Canada: Intermediate PHP Developer (CANAD004002)','php_developer','ScanSource Canada Inc.','Alberta, Canada','');
@@ -3133,7 +3133,7 @@ INSERT INTO jobProviders VALUES(688,'https://www.theladders.com/job/senior-analy
 INSERT INTO jobProviders VALUES(689,'https://www.monster.ca/job-openings/back-end-developer-toronto-on--e8a7668b-c8d2-41f5-b346-991a4f965c12?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic','Monster.ca',127);
 INSERT INTO jobProviders VALUES(690,'https://www.careerbeacon.com/en/job-9/1658829/zortech-solutions/azure-backend-developer-canada/toronto-on?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic','Career Beacon',128);
 INSERT INTO jobProviders VALUES(691,'https://www.recruit.net/job/azure-backend-developer-canada-jobs/5D4BDBF5767A68B6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic','Recruit.net',128);
-INSERT INTO jobProviders VALUES(692,'https://careers.societegenerale.com/en/job-offers/java-back-end-developer-24000NXX-en?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic','Soci�t� G�n�rale',129);
+INSERT INTO jobProviders VALUES(692,'https://careers.societegenerale.com/en/job-offers/java-back-end-developer-24000NXX-en?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic','Society Generale',129);
 INSERT INTO jobProviders VALUES(693,'https://careers.confluent.io/jobs/15060400-backend-software-engineer-cloud-traffic-and-networking-remote-canada?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic','Confluent Careers',130);
 INSERT INTO jobProviders VALUES(694,'https://www.simplyhired.ca/job/WT2YYbsmQsWFaw-BHDL_kwTdPslh9c2XkcebcBKSh0ODXHo_mRPAbA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic','SimplyHired',130);
 INSERT INTO jobProviders VALUES(695,'https://levels.fyi/jobs?jobId=141097669853356742&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic','Levels.fyi',130);
@@ -3584,7 +3584,7 @@ INSERT INTO jobProviders VALUES(1139,'https://ca.indeed.com/viewjob?jk=abebeb4a1
 INSERT INTO jobProviders VALUES(1140,'https://www.glassdoor.ca/job-listing/canada-intermediate-php-developer-canad004002-scansource-canada-inc-JV_KO0,45_KE46,67.htm?jl=1009323517239&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic','Glassdoor',220);
 INSERT INTO jobProviders VALUES(1141,'https://frenoaltiempo.com/career/job/php-developer-4704-at-alteo-canada-RWRMd3FXb3ViU2tNRzBLS1VDT1g2UEtkbVE9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic','Frenoaltiempo.com',220);
 INSERT INTO jobProviders VALUES(1142,'https://sabrefoods.com/work/job/php-developer-4704-at-alteo-canada-YUkrZStaZGFweFZrd092aW1BZ04xbjB2aEE9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic','Sabre Foods',220);
-INSERT INTO jobProviders VALUES(1143,'https://salvalopublico.es/wp-job/job/php-developer-4704-at-alteo-canada-Q1pST01vcnBWMldxVysvTHhZbml0ZlhSSFE9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic','Salva Lo P�blico',220);
+INSERT INTO jobProviders VALUES(1143,'https://salvalopublico.es/wp-job/job/php-developer-4704-at-alteo-canada-Q1pST01vcnBWMldxVysvTHhZbml0ZlhSSFE9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic','Salva Lo Pablico',220);
 INSERT INTO jobProviders VALUES(1144,'https://medinahaier.com/job-library/job/php-developer-4704-at-alteo-canada-YWFjREFUeGpSd2dtb0Y1M2I2dFloai9VNXc9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic','Medinahaier',220);
 INSERT INTO jobProviders VALUES(1145,'https://empretus.com/joblib/job/php-developer-4704-at-alteo-canada-NVQ2NUdXL1hDVU9pTGdMeTduSkt5SkNSUHc9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic','Empretus.com',220);
 INSERT INTO jobProviders VALUES(1146,'https://ca.linkedin.com/jobs/view/aws-security-engineer-at-prohire-solutions-4074976238?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic','LinkedIn',221);

@@ -135,6 +135,19 @@
 </div>
 
 <script>
+
+    //Activated when sendData() function is run
+    async function sendData() {
+        const name = document.getElementById('name').value;
+        const response = await fetch('/process/', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+            body: new URLSearchParams({ name }),
+        });
+        const data = await response.json();
+        document.getElementById('output').innerText = data.message;
+    }
+
     // Prototype job data 
     const jobs = [
         { jobTitle: "Full Stack Developer", company: "Whitecap Canada", location: "Ontario", skills: ["JavaScript", "HTML"] },

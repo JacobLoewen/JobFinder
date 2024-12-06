@@ -1,0 +1,10 @@
+from django.shortcuts import render
+from django.http import JsonResponse
+
+def index(request):
+    return render(request, 'index.html')
+
+def process(request):
+    if request.method == 'POST':
+        name = request.POST.get('name')
+        return JsonResponse({'message': f'Hello, {name}!'})
