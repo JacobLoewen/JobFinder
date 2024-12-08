@@ -119,7 +119,8 @@
             <label><input type="radio" name="location" value="Alberta" class="filter-location"> Alberta</label>
             <label><input type="radio" name="location" value="Ontario" class="filter-location"> Ontario</label>
         </div>
-        <button id="apply-filters">Apply Filters</button>
+        <button id="apply-filters" onclick="sendData()">Apply Filters</button>
+        <p id="name"></p>
     </div>
 
     <!-- Content -->
@@ -137,16 +138,39 @@
 <script>
 
     //Activated when sendData() function is run
-    async function sendData() {
-        const name = document.getElementById('name').value;
-        const response = await fetch('/process/', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-            body: new URLSearchParams({ name }),
-        });
-        const data = await response.json();
-        document.getElementById('output').innerText = data.message;
-    }
+    document.addEventListener('DOMContentLoaded', () => {
+        async function sendData() {
+            const name = document.getElementById('name').value;
+            try {
+                const response = await fetch('/process/', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+                    body: new URLSearchParams({ name }),
+                });
+
+                if (!response.ok) {
+                    throw new Error(`HTTP error! Status: ${response.status}`);
+                }
+
+                const data = await response.json();
+                const outputElement = document.getElementById('output');
+                if (outputElement) {
+                    outputElement.innerText = data.message || data.error;
+                } else {
+                    console.error("Output element not found in the DOM.");
+                }
+            } catch (error) {
+                console.error("Error:", error);
+                const outputElement = document.getElementById('output');
+                if (outputElement) {
+                    outputElement.innerText = "An error occurred. Please try again.";
+                }
+            }
+        }
+
+        document.getElementById('apply-filters').onclick = sendData;
+    });
+
 
     // Prototype job data 
     const jobs = [
