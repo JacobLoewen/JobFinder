@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    return render_template('index.html')  # This will render the index.html file
+    return render_template('indextest.html')  # This will render the index.html file
 
 @app.route('/success/<name>')
 def success(name):

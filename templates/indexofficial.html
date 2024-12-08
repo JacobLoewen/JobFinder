@@ -87,14 +87,67 @@
             color: white;
             margin-top: 2rem;
         }
+
+        /*Log input Page*/
+
+        #login-page {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            background-color: #f0f0f0;
+        }
+        #login-box {
+           background: white;
+           padding: 2rem;
+           border-radius: 8px;
+           box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+           width:300px;
+           text-align: center;
+        }
+
+        #login-box h2 {
+            margin-bottom: 1rem;
+        }
+
+        #login-box-input {
+            width: 100%;
+            padding: 0.5rem;
+            margin: 0.5rem 0;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+
+        #login-box button {
+            width: 100%;
+            padding: 0.5rem;
+            font-size: 1rem;
+            background-color: #000000;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        #login-box button:hover {
+            background-color: #444;
+        }
+
     </style>
 </head>
 <body>
 
-<header>
-    <h1>Job Requirement Database</h1>
-</header>
+       <div id="login-page">
+           <div id="login-box">
+               <h2>Login</h2>
+               <input type="text" id="student-id" placeholder="Enter Student ID" required>
+               <input type="password" id="password" placeholder="Enter Password" required>
+               <button id="login-button">Login</button>
+           </div>
+       </div>
 
+<<<<<<< HEAD:templates/indexofficial.html
 <div class="container">
     <!-- Sidebar for Filters -->
     <div class="sidebar">
@@ -122,21 +175,55 @@
         <button id="apply-filters" onclick="sendData()">Apply Filters</button>
         <p id="name"></p>
     </div>
+=======
+        
+       <div id="main-website" style="display: none;">
+           <header>
+               <h1>Job Requirement Database</h1>
+           </header>
+>>>>>>> a30c9df7d3c84a364d86fb934ff4aab38f9140fb:index.html
 
-    <!-- Content -->
-    <div class="content">
-        <div class="search-bar">
-            <input type="text" id="search-bar" placeholder="Search for job...">
-            <button id="search-button">Search</button>
-        </div>
-        <div class="job-list" id="job-list">
-            <!-- Jobs DATA here -->
-        </div>
-    </div>
-</div>
+           <div class="container">
+               <!-- Sidebar for Filters -->
+               <div class="sidebar">
+                   <h3>Filter by:</h3>
+                   <div class="filter-group">
+                       <h4>Skills</h4>
+                       <label><input type="checkbox" value="JavaScript" class="filter-skill"> JavaScript</label>
+                       <label><input type="checkbox" value="Python" class="filter-skill"> Python</label>
+                       <label><input type="checkbox" value="SQL" class="filter-skill"> SQL</label>
+                       <label><input type="checkbox" value="HTML" class="filter-skill"> HTML</label>
+                       <label><input type="checkbox" value="C#" class="filter-skill"> C#</label>
+                   </div>
+                   <div class="filter-group">
+                       <h4>Job Type</h4>
+                       <label><input type="radio" name="job-type" value="full_stack_developer" class="filter-job-type"> Full Stack Developer</label>
+                       <label><input type="radio" name="job-type" value="software_engineer" class="filter-job-type"> Software Engineer</label>
+                       <label><input type="radio" name="job-type" value="front_end_developer" class="filter-job-type"> Front End Developer</label>
+                   </div>
+                   <div class="filter-group">
+                       <h4>Location</h4>
+                       <label><input type="radio" name="location" value="British Columbia" class="filter-location"> British Columbia</label>
+                       <label><input type="radio" name="location" value="Alberta" class="filter-location"> Alberta</label>
+                       <label><input type="radio" name="location" value="Ontario" class="filter-location"> Ontario</label>
+                   </div>
+                   <button id="apply-filters">Apply Filters</button>
+               </div>
 
-<script>
+               <!-- Content -->
+               <div class="content">
+                   <div class="search-bar">
+                       <input type="text" id="search-bar" placeholder="Search for job...">
+                       <button id="search-button">Search</button>
+                   </div>
+                   <div class="job-list" id="job-list">
+                       <!-- Jobs DATA here -->
+                   </div>
+               </div>
+           </div>
+       </div>
 
+<<<<<<< HEAD:templates/indexofficial.html
     //Activated when sendData() function is run
     document.addEventListener('DOMContentLoaded', () => {
         async function sendData() {
@@ -171,60 +258,78 @@
         document.getElementById('apply-filters').onclick = sendData;
     });
 
+=======
+               <script>
+                   //Login 
+                   document.getElementById('login-button').addEventListener('click', function () {
+>>>>>>> a30c9df7d3c84a364d86fb934ff4aab38f9140fb:index.html
 
-    // Prototype job data 
-    const jobs = [
-        { jobTitle: "Full Stack Developer", company: "Whitecap Canada", location: "Ontario", skills: ["JavaScript", "HTML"] },
-        { jobTitle: "Java Full Stack Developer", company: "Cognizant", location: "Ontario", skills: ["SQL", "JavaScript"] },
-        { jobTitle: "Senior Full Stack Developer", company: "Royal Bank of Canada", location: "Alberta", skills: ["JavaScript"] },
-        { jobTitle: "Full Stack Developer", company: "DLL", location: "Ontario", skills: ["Python"] },
-        { jobTitle: "Front End Developer", company: "Graphem Solutions", location: "Alberta", skills: ["JavaScript"] },
-        { jobTitle: "Software Engineer", company: "PDF Solutions", location: "British Columbia", skills: ["C#", "CouchDB"] },
-    ];
 
-    // Function to render jobs
-    function renderJobs(filteredJobs) {
-        const jobList = document.getElementById('job-list');
-        jobList.innerHTML = '';
-        filteredJobs.forEach(job => {
-            const jobItem = document.createElement('div');
-            jobItem.classList.add('job-item');
-            jobItem.innerHTML = `
-                <h4>${job.jobTitle}</h4>
-                <p><strong>Company:</strong> ${job.company}</p>
-                <p><strong>Location:</strong> ${job.location}</p>
-                <p><strong>Skills:</strong> ${job.skills.join(', ')}</p>
-            `;
-            jobList.appendChild(jobItem);
-        });
-    }
+                       const studentID = document.getElementById('student-id').value;
+                       const password = document.getElementById('password').value;
 
-    // Initial render
-    renderJobs(jobs);
 
-    // Search functionality
-    document.getElementById('search-button').addEventListener('click', () => {
-        const searchTerm = document.getElementById('search-bar').value.toLowerCase();
-        const filteredJobs = jobs.filter(job => job.jobTitle.toLowerCase().includes(searchTerm));
-        renderJobs(filteredJobs);
-    });
+                       if (studentID && password) {
+                           document.getElementById('login-page').style.display = 'none';
+                           document.getElementById('main-website').style.display = 'block';
+                       } else {
+                           alert('Please enter a valid StudentID and Password');
+                       }
+                   });
 
-    // Filter functionality
-    document.getElementById('apply-filters').addEventListener('click', () => {
-        const selectedSkills = Array.from(document.querySelectorAll('.filter-skill:checked')).map(el => el.value);
-        const selectedJobType = document.querySelector('.filter-job-type:checked')?.value;
-        const selectedLocation = document.querySelector('.filter-location:checked')?.value;
+                   // Prototype job data
+                   const jobs = [
+                       { jobTitle: "Full Stack Developer", company: "Whitecap Canada", location: "Ontario", skills: ["JavaScript", "HTML"] },
+                       { jobTitle: "Java Full Stack Developer", company: "Cognizant", location: "Ontario", skills: ["SQL", "JavaScript"] },
+                       { jobTitle: "Senior Full Stack Developer", company: "Royal Bank of Canada", location: "Alberta", skills: ["JavaScript"] },
+                       { jobTitle: "Full Stack Developer", company: "DLL", location: "Ontario", skills: ["Python"] },
+                       { jobTitle: "Front End Developer", company: "Graphem Solutions", location: "Alberta", skills: ["JavaScript"] },
+                       { jobTitle: "Software Engineer", company: "PDF Solutions", location: "British Columbia", skills: ["C#", "CouchDB"] },
+                   ];
 
-        const filteredJobs = jobs.filter(job => {
-            const matchesSkills = selectedSkills.length === 0 || selectedSkills.every(skill => job.skills.includes(skill));
-            const matchesJobType = !selectedJobType || job.jobTitle.toLowerCase().includes(selectedJobType.replace(/_/g, ' '));
-            const matchesLocation = !selectedLocation || job.location === selectedLocation;
-            return matchesSkills && matchesJobType && matchesLocation;
-        });
+                   // Function to render jobs
+                   function renderJobs(filteredJobs) {
+                       const jobList = document.getElementById('job-list');
+                       jobList.innerHTML = '';
+                       filteredJobs.forEach(job => {
+                           const jobItem = document.createElement('div');
+                           jobItem.classList.add('job-item');
+                           jobItem.innerHTML = `
+                               <h4>${job.jobTitle}</h4>
+                               <p><strong>Company:</strong> ${job.company}</p>
+                               <p><strong>Location:</strong> ${job.location}</p>
+                               <p><strong>Skills:</strong> ${job.skills.join(', ')}</p>
+                           `;
+                           jobList.appendChild(jobItem);
+                       });
+                   }
 
-        renderJobs(filteredJobs);
-    });
-</script>
+                   // Initial render
+                   renderJobs(jobs);
+
+                   // Search functionality
+                   document.getElementById('search-button').addEventListener('click', () => {
+                       const searchTerm = document.getElementById('search-bar').value.toLowerCase();
+                       const filteredJobs = jobs.filter(job => job.jobTitle.toLowerCase().includes(searchTerm));
+                       renderJobs(filteredJobs);
+                   });
+
+                   // Filter functionality
+                   document.getElementById('apply-filters').addEventListener('click', () => {
+                       const selectedSkills = Array.from(document.querySelectorAll('.filter-skill:checked')).map(el => el.value);
+                       const selectedJobType = document.querySelector('.filter-job-type:checked')?.value;
+                       const selectedLocation = document.querySelector('.filter-location:checked')?.value;
+
+                       const filteredJobs = jobs.filter(job => {
+                           const matchesSkills = selectedSkills.length === 0 || selectedSkills.every(skill => job.skills.includes(skill));
+                           const matchesJobType = !selectedJobType || job.jobTitle.toLowerCase().includes(selectedJobType.replace(/_/g, ' '));
+                           const matchesLocation = !selectedLocation || job.location === selectedLocation;
+                           return matchesSkills && matchesJobType && matchesLocation;
+                       });
+
+                       renderJobs(filteredJobs);
+                   });
+               </script>
 
 </body>
 </html>
