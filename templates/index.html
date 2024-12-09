@@ -1,9 +1,158 @@
-<html>
-   <body>
-      <form action = "http://localhost:5000/login" method = "post">
-         <p>Enter Name:</p>
-         <p><input type = "text" name = "nm" /></p>
-         <p><input type = "submit" value = "submit" /></p>
-      </form>
-   </body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Requirement Database</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css')}}">
+</head>
+<body>
+
+
+
+
+<div class="container">
+       <div id="main-website" style="width: 100%">
+           <header>
+               <h1>Job Requirement Database</h1>
+           </header>
+
+           <div class="container">
+               <!-- Sidebar for Filters -->
+               <div class="sidebar">
+                   <h3>Filter by:</h3>
+                   <div class="filter-group">
+                       <h4>Skills</h4>
+                       <div id="skills-input-container">
+                            <input type="text" id="skills-search-box" placeholder="Type a skill and press Enter">
+                            <div id="selected-skills">
+                                <!-- Dynamically added skill tags will appear here -->
+                            </div>
+                       </div>
+                   </div>
+                   <div class="filter-group">
+                       <h4>Job Type</h4>
+                       <label><input type="radio" name="job-type" value="full_stack_developer" class="filter-job-type"> Full Stack Developer</label>
+                       <label><input type="radio" name="job-type" value="software_engineer" class="filter-job-type"> Software Engineer</label>
+                       <label><input type="radio" name="job-type" value="front_end_developer" class="filter-job-type"> Front End Developer</label>
+                   </div>
+                   <div class="filter-group">
+                       <h4>Location</h4>
+                       <label><input type="radio" name="location" value="BC" class="filter-location"> British Columbia</label>
+                       <label><input type="radio" name="location" value="AB" class="filter-location"> Alberta</label>
+                       <label><input type="radio" name="location" value="ON" class="filter-location"> Ontario</label>
+                   </div>
+                   <button id="apply-filters">Apply Filters</button>
+               </div>
+
+               <!-- Content -->
+               <div class="content">
+                   <div class="search-bar">
+                       <input type="text" id="search-bar" placeholder="Search for job...">
+                       <button id="search-button">Search</button>
+                   </div>
+                   <div class="job-list" id="job-list">
+                   </div>
+               </div>
+           </div>
+       </div>
+
+               <script>
+
+                    document.addEventListener('DOMContentLoaded', () => {
+                    const skillsSearchBox = document.getElementById('skills-search-box');
+                    const selectedSkillsContainer = document.getElementById('selected-skills');
+                    const selectedSkillsArray = []; // Array to store selected skills
+
+                    // Function to add a skill tag to the UI
+                    function addSkillTag(skill) {
+                        const skillTag = document.createElement('div');
+                        skillTag.classList.add('skill-tag');
+                        skillTag.innerText = skill;
+
+                        const removeButton = document.createElement('span');
+                        removeButton.innerText = ' x';
+                        removeButton.classList.add('remove-skill');
+                        removeButton.addEventListener('click', () => {
+                            skillTag.remove(); // Remove the tag from the DOM
+                            const index = selectedSkillsArray.indexOf(skill);
+                            if (index > -1) selectedSkillsArray.splice(index, 1); // Remove from the array
+                        });
+
+                        skillTag.appendChild(removeButton);
+                        selectedSkillsContainer.appendChild(skillTag);
+                    }
+
+                    // Add skill when user presses Enter
+                    skillsSearchBox.addEventListener('keydown', (event) => {
+                        if (event.key === 'Enter' && skillsSearchBox.value.trim() !== '') {
+                            const skill = skillsSearchBox.value.trim();
+                            if (!selectedSkillsArray.includes(skill)) {
+                                selectedSkillsArray.push(skill); // Add to the array
+                                addSkillTag(skill); // Add to the UI
+                            }
+                            skillsSearchBox.value = ''; // Clear the input
+                            event.preventDefault(); // Prevent form submission
+                        }
+                    });
+
+                    // Fetch jobs data
+                    async function getJobs() {
+                        window.jobs = await fetch('/getJobs', {
+                            method: 'POST'
+                        }).then((response) => response.json());
+                        renderJobs(jobs); // Render the fetched jobs
+                    }
+
+                    // Function to render jobs
+                    function renderJobs(filteredJobs) {
+                        const jobList = document.getElementById('job-list');
+                        jobList.innerHTML = ''; // Clear previous jobs
+                        filteredJobs.forEach((job) => {
+                            const jobItem = document.createElement('div');
+                            jobItem.classList.add('job-item');
+                            jobItem.innerHTML = `
+                                <h4><a href="${job.joburl}" target="_blank" rel="noopener noreferrer">${job.job_name}</a></h4>
+                                <p><strong>Company:</strong> ${job.company_name}</p>
+                                <p style="text-transform: capitalize"><strong>Job Type:</strong> ${job.job_type.replaceAll('_', ' ')}</p>
+                                <p><strong>Location:</strong> ${job.location}</p>
+                                <p><strong>Skills:</strong> ${[... new Set(job.skill_name)].join(', ')}</p>
+                            `;
+                            jobList.appendChild(jobItem);
+                        });
+                    }
+
+                    // Initial render of jobs
+                    getJobs();
+
+                    // Search functionality
+                    document.getElementById('search-button').addEventListener('click', () => {
+                        const searchTerm = document.getElementById('search-bar').value.toLowerCase();
+                        const filteredJobs = jobs.filter((job) =>
+                            job.job_name.toLowerCase().includes(searchTerm)
+                        );
+                        renderJobs(filteredJobs);
+                    });
+
+                    // Filter functionality
+                    document.getElementById('apply-filters').addEventListener('click', () => {
+                        const selectedJobType = document.querySelector('.filter-job-type:checked')?.value;
+                        const selectedLocation = document.querySelector('.filter-location:checked')?.value;
+
+                        const filteredJobs = jobs.filter((job) => {
+                            const matchesSkills =
+                                selectedSkillsArray.length === 0 ||
+                                selectedSkillsArray.every((skill) => job.skill_name.includes(skill));
+                            const matchesJobType = !selectedJobType || job.job_type.toLowerCase().includes(selectedJobType);
+                            const matchesLocation = !selectedLocation || job.location.toLowerCase().includes(selectedLocation.toLowerCase());
+                            return matchesSkills && matchesJobType && matchesLocation;
+                        });
+
+                        renderJobs(filteredJobs);
+                    });
+                });
+
+               </script>
+
+</body>
 </html>

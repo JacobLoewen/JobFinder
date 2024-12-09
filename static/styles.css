@@ -81,3 +81,24 @@ footer {
     margin-top: 2rem;
 }
 
+#skills-input-container {
+    margin-top: 10px;
+}
+
+.skill-tag {
+    display: inline-block;
+    background-color: #e0e0e0;
+    border-radius: 12px;
+    padding: 5px 10px;
+    margin: 5px 5px 0 0;
+    font-size: 14px;
+    color: #333;
+    position: relative;
+}
+
+.skill-tag .remove-skill {
+    margin-left: 8px;
+    cursor: pointer;
+    color: red;
+    font-weight: bold;
+}

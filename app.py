@@ -15,7 +15,7 @@ def login():
 @app.route('/jobs')
 def jobs():
 
-    return render_template('indexofficial.html')
+    return render_template('index.html')
 
     # db = pymysql.connect(
     #     host = 'localhost',
@@ -42,7 +42,7 @@ def jobs():
 
     #     print(jobInfo)
 
-    #     return render_template("indexofficial.html", job_list=jobInfo)
+    #     return render_template("index.html", job_list=jobInfo)
 
 
 
@@ -98,9 +98,10 @@ def getJobs():
     with db.cursor() as cursor:
         # cursor.execute('SELECT * FROM jobs WHERE job_type = \'business_intelligence_developer\';') #This is the SQL statement
         cursor.execute(
-            '''SELECT j.job_id, j.job_name, j.job_type, j.company_name, j.location, JSON_ARRAYAGG(k.skill_name) AS skill_name
+            '''SELECT j.job_id, j.job_name, j.job_type, j.company_name, j.location, JSON_ARRAYAGG(k.skill_name) AS skill_name, JSON_ARRAYAGG(p.provider_url) AS joburl
             FROM jobs j JOIN jobskills s ON j.job_id = s.job_id 
             JOIN skills k ON s.skill_id = k.skill_id
+            JOIN jobproviders p ON p.job_id = j.job_id
             GROUP BY job_id;'''
         )
 
@@ -108,6 +109,7 @@ def getJobs():
 
         for job in jobInfo:
             job['skill_name'] = json.loads(job['skill_name'])
+            job['joburl'] = json.loads(job['joburl'])
             # job['skill_name'][1:-2].split(", ")
 
         print(jobInfo)

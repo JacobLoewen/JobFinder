@@ -48,7 +48,7 @@ for i in range(25):
 
     # File paths
     input_file = 'jobDataTxt/' + fileName + '.txt'  # Replace with the actual input file
-    # output_file = 'jobSkillsSchema/' + fileName + '.sh'
+    output_file = 'jobSkillsSchema/' + fileName + '.sh'
 
     # output = open(output_file, "w")
 
