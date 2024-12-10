@@ -31,17 +31,52 @@
                        </div>
                    </div>
                    <div class="filter-group">
-                       <h4>Job Type</h4>
-                       <label><input type="radio" name="job-type" value="full_stack_developer" class="filter-job-type"> Full Stack Developer</label>
-                       <label><input type="radio" name="job-type" value="software_engineer" class="filter-job-type"> Software Engineer</label>
-                       <label><input type="radio" name="job-type" value="front_end_developer" class="filter-job-type"> Front End Developer</label>
-                   </div>
-                   <div class="filter-group">
-                       <h4>Location</h4>
-                       <label><input type="radio" name="location" value="BC" class="filter-location"> British Columbia</label>
-                       <label><input type="radio" name="location" value="AB" class="filter-location"> Alberta</label>
-                       <label><input type="radio" name="location" value="ON" class="filter-location"> Ontario</label>
-                   </div>
+                    <h4>Job Type</h4>
+                    <select name="job-type" class="filter-job-type">
+                        <option value="">-- Select Job Type --</option>
+                        <option value="full_stack_developer">Full Stack Developer</option>
+                        <option value="software_engineer">Software Engineer</option>
+                        <option value="senior_software_engineer">Senior Software Engineer</option>
+                        <option value="front_end_developer">Front End Developer</option>
+                        <option value="web_developer">Web Developer</option>
+                        <option value="developer">Developer</option>
+                        <option value=".net_developer">.Net Developer</option>
+                        <option value="java_developer">Java Developer</option>
+                        <option value="application_developer">Application Developer</option>
+                        <option value="web_designer">Web Designer</option>
+                        <option value="senior_developer">Senior Developer</option>
+                        <option value="principal_software_engineer">Principal Software Engineer</option>
+                        <option value="back_end_developer">Back-End Developer</option>
+                        <option value="senior_.net_developer">Senior .Net Developer</option>
+                        <option value="senior_engineer">Senior Engineer</option>
+                        <option value="senior_java_developer">Senior Java Developer</option>
+                        <option value="senior_application_developer">Senior Application Developer</option>
+                        <option value="staff_software_engineer">Senior Software Developer</option>
+                        <option value="cloud_engineer">Cloud Engineer</option>
+                        <option value="application_security_engineer">Application Security Engineer</option>
+                        <option value="senior_web_developer">Senior Web Developer</option>
+                        <option value="php_developer">PHP Developer</option>
+                        <option value="security_engineer">Security Engineer</option>
+                        <option value="devops_engineer">Devops Engineer</option>
+                        <option value="business_intelligence_developer">Business Intelligence Developer</option>
+                    </select>
+                </div>
+                
+                <div class="filter-group">
+                    <h4>Location</h4>
+                    <select name="location" class="filter-location">
+                        <option value="">-- Select Location --</option>
+                        <option value="BC">British Columbia</option>
+                        <option value="AB">Alberta</option>
+                        <option value="SK">Saskatchewan</option>
+                        <option value="MB">Manitoba</option>
+                        <option value="ON">Ontario</option>
+                        <option value="QC">Quebec</option>
+                        <option value="NB">New Brunswick</option>
+                        <option value="NL">Newfoundland</option>
+                        <option value="NT">Northwest Territories</option>
+                    </select>
+                </div>
                    <button id="apply-filters">Apply Filters</button>
                </div>
 
@@ -135,20 +170,32 @@
                     });
 
                     // Filter functionality
+                    // Filter functionality
                     document.getElementById('apply-filters').addEventListener('click', () => {
-                        const selectedJobType = document.querySelector('.filter-job-type:checked')?.value;
-                        const selectedLocation = document.querySelector('.filter-location:checked')?.value;
+                        const selectedJobType = document.querySelector('.filter-job-type').value; // Get the selected job type
+                        const selectedLocation = document.querySelector('.filter-location').value; // Get the selected location
+                        const locations = {
+                            BC:['British Columbia', 'BC'],
+                            AB:['Alberta', 'AB'],
+                            SK:['Saskatchewan', 'SK'],
+                            MB:['Manitoba', 'MB'],
+                            ON:['Ontario', 'ON'],
+                            QC:['Quebec', 'QC'],
+                            NB:['New Brunswick', 'NB'],
+                            NL:['Newfoundland', 'NL'],
+                            NT:['Northwest Territories', 'NT'],
+                        }
 
                         const filteredJobs = jobs.filter((job) => {
                             const matchesSkills =
                                 selectedSkillsArray.length === 0 ||
                                 selectedSkillsArray.every((skill) => job.skill_name.includes(skill));
-                            const matchesJobType = !selectedJobType || job.job_type.toLowerCase().includes(selectedJobType);
-                            const matchesLocation = !selectedLocation || job.location.toLowerCase().includes(selectedLocation.toLowerCase());
+                            const matchesJobType = !selectedJobType || job.job_type.toLowerCase() === selectedJobType.toLowerCase();
+                            const matchesLocation = !selectedLocation || locations[selectedLocation].some(location => job.location.toLowerCase().includes(location.toLowerCase()));
                             return matchesSkills && matchesJobType && matchesLocation;
                         });
 
-                        renderJobs(filteredJobs);
+                        renderJobs(filteredJobs); // Render the filtered jobs
                     });
                 });
 

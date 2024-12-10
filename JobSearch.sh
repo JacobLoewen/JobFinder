@@ -3758,3 +3758,12 @@ INSERT INTO jobProviders VALUES(1313,'https://fr.glassdoor.ca/job-listing/bi-and
 INSERT INTO jobProviders VALUES(1314,'https://www.recruit.net/job/bi-data-visualization-developer-jobs/FB354A277D2CE898?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic','Recruit.net',250);
 INSERT INTO jobProviders VALUES(1315,'https://itjobvacancies.ca/job/bi-data-visualization-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic','IT Jobs ICT Academic Computer Software Information Technology',250);
 INSERT INTO jobProviders VALUES(1316,'https://www.jobilize.com/job/ca-bi-data-visualization-developer-canada-mcafee-hiring-now-job-immediately?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic','Jobilize',250);
+
+CREATE TABLE users
+(user_id INT PRIMARY KEY,
+ user_name varchar(200),
+ email varchar(200)
+);
+
+INSERT INTO users VALUES(123456, "John Doe", "john.doe@mytwu.ca");
+INSERT INTO users VALUES(222222, "Mary Ann", "mary.ann@mytwu.ca");
